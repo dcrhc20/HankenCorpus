@@ -1,0 +1,52 @@
+The Relationship between reverse logistical capabilities and firm performance in e-commerce
+1. Introduction
+E-commerce is becoming a more common way of consuming for households. Especially improvements in security, graphics, and speed have aided this rapid rise of consuming on the Internet. Safe transactions, price, buying experience, and retailer quality are some factors that influence consumers’ decisions to choose Internet shopping over traditional shopping (Liao and Cheung 2001). Approximately 37 % of Finnish consumers shop on the Internet (Tilastokeskus 2009). Buying on the Internet removes many complex steps that are included in traditional shopping. The consumer can therefore be expected to buy more frequently and perhaps larger quantities. E-commerce is expected to grow on a global scale (Brashear, Vishal, Musante, and Donthu 2009). In the future e-commerce might even be the primary method of purchasing for consumers. There are however some issues that have to be dealt with first, in order for this to happen. One such issue is the return of products that have been bought on the Internet. This is the most common reason why consumers choose traditional commerce over e-commerce (Trebilcock 2001).
+Logistics is a vital element of e-commerce. Consumers expect companies to be responsible for the all the logistical aspects that are included in e-commerce. In traditional consumption it is the consumer that is responsible for transportation between themselves and the company. For a company that is active within e-commerce, as much as 40 % of total costs are due to logistics (Bayles 2001).
+The concept of reverse logistics has been around for as long as the concept of forward streaming logistics. However, companies have only realized the opportunities lowering costs by investing in reverse logistics, during the last decades (Andel 2004). Forward flowing logistics is relatively easily planned, however the same cannot be said for reverse logistics. Every single case is unique and therefore has to be handled in that manner (Hughes 2003; Biederman 2006). Reverse logistical costs may be two or three times than of the original logistical costs (Kuzeljevich 2004).
+Reverse logistics has become a competitive advantage for companies (Meyer 1999). Companies even offer longer return times for products, in order to attract consumers. Companies have started competing in offering consumers more attractive return policies (Bayles 2001). Product return policies can therefore play a large role in how successful companies are within their respective markets. In Finland, laws that protect consumers also play a role in influencing companies’ return policies. Cho, Ozment, and Sink (2008) claim that strong logistical capabilities, in companies that are active within e-commerce, have a positive relationship with firm performance. There is however no evidence to show that the same holds for reverse logistical capabilities. In other words, it is unclear if companies that handle their product returns better are more successful.
+The purpose of this paper is to investigate the relationship between e-commerce companies’ reverse logistical capabilities and their firm performance. Based on previous research a framework for reverse logistical capabilities, of companies operating in e-commerce, is constructed. This framework is then tested to evaluate the relationship between reverse logistical capabilities and firm performance. The focal group of the empirical study is Finnish companies that sell products to consumers on the Internet. Reverse logistics is a broad subject area and this paper will therefore focus on product returns flow between consumers and companies. The next chapter will include a literary review of reverse logistics in e-commerce. In the third chapter the research hypothesis sill be stated and discussed. Thereafter the empirical study will be discussed and the results will then be presented in the fifth chapter. The final chapter discusses and concludes the findings.
+2. Literary rieview:
+Rogers and Tibben-Lembke (2001) define reverse logistics as:
+“The process of planning, implementing, and controlling the efficient, cost effective flow of raw materials, in-process inventory, finished goods, and related information from the point of consumption to the point of origin for the purpose of recapturing or creating value or proper disposal” (Rogers and Tibben-Lembke 2001: 130).
+There are four types of reverse logistics, these are commercial returns, end-of-life returns, return of products that are no longer in use, and the recycling of products (Krikke, Le Blanc, and Van De Velde 2004). Commercial returns are returns between consumers and companies. Reverse logistics always leads to costs for companies. The only way to lower these costs is by minimizing the number of commercial returns.
+Stock, Speh and Shear (2006) claim that there are two types of commercial returns, these are controlled and uncontrolled returns. In order to lower reverse logistical costs companies have to try and minimize the controlled returns. There are different ways of minimizing the controlled returns. Rogers and Tibben-Lembke (1998) suggest that efficient customer service, to better inform the consumer about products, might be a method of reducing returns. Customer service is needed both before and after the purchase. Meyer (1999) suggest that companies should optimize their websites to reduce commercial returns. Stock et al. (2006) also claim that complicated instructions and manuals might lead to consumers misunderstanding the product and returning it. Improving instruction manuals can therefore lead to a reduction in the controlled returns. Making sure all divisions of the company are aligned is also important. Bayles (2001) states that some marketing campaigns might lead to impulsive consumption. Brashear et al. (2009) continues on the same point by stating that such campaigns are frequent within e-commerce and focus specifically on increasing sales. Impulsive consumption can however lead to an increase in commercial returns. Many companies do not identify what amount of their total costs can be specified as reverse logistical costs. Zieger (2003) states the importance of identifying reverse logistical cost.
+Another important factor of the reverse flow of products is time. According to Fisher (1997) the importance of time in a supply chain depends on the type of product. Fisher identifies two types of products and two types of supply chains to manage the respective products. Functional products have stable demand and long lifecycles. These kinds of products need efficient supply chains. Innovative products have unstable demand and short lifecycles. These products need responsive supply chains (Fisher 1997). Guide, Souza, van Wassenhove, and Blackburn (2006) build on Fisher’s (1997) article by using the same concept in reverse logistics. 
+According to Meyer (1999) companies can have a competitive advantage over their competitor by effectively managing their reverse logistics. Jack, Powers, and Skinner (2010) state that companies that commit resources to positively influence their reverse logistics capabilities, lower their overall costs. Cho et al. (2008) identifies 11 logistical capabilities that, if managed effectively, increase firm performance for e-commerce companies. These 11 capabilities, proposed by Cho et al. (2008), are:
+1. Pre-sale customer service
+2. Post-sale customer service
+3. Delivery speed
+4. Delivery reliability
+5. Responsiveness to target market(s)
+6. Delivery information communication
+7. Web-based order handling
+8. Widespread distribution coverage
+9. Global distribution coverage
+10. Selective distribution coverage
+11. Low total cost distribution
+3. Research Hypotheses
+The purpose of this paper is to investigate the relationship between e-commerce companies’ reverse logistical capabilities and their firm performance. In order to fulfill the purpose three hypotheses will be tested. All three hypotheses are related to the relationship reverse logistical capabilities and firm performance.
+The first hypothesis tests if there is a significant correlation between any of the reverse logistical capabilities and firm performance:
+1. H1: There is a significant correlation between reverse logistical capabilities and firm performance.
+The second hypothesis divides the ranking of reverse logistical capabilities into two groups: over and under the mean. It does the same for firm performance. By doing this, the paper tries to identify if companies that rate their reverse logistical capabilities higher also rate their firm performance higher. The second hypothesis is:
+2. H2:
+The third hypothesis adds up the reverse logistical capabilities and then calculates the mean value of this. The new variable is called total logistical capability. This new variable will then be tested against firm performance in order to establish if companies with an over average total reverse logistical capability value have perform better. The third hypothesis is:
+3. H3:
+
+
+
+
+
+
+4. Method
+By using some of the logistics capabilities proposed Cho et al. (2008) and adding some that were identified as issues related to commercial returns, this paper has constructed its own reverse logistical capabilities. Seven reverse logistical capabilities were produced:
+1. Pre-sale customer service
+2. Post-sale customer service
+3. Return delivery speed
+4. Return delivery reliability
+5. Product reintroduction speed
+6. Internal divisional communication
+7. Low total cost for reverse logistics
+The first two reverse logistical capabilities are directly borrowed from Cho et al. (2008). Capabilities 3,4, and 7 are modified versions of the capabilities proposed by Cho et al. (2008). The two new reverse logistical capabilities are numbers 5 and 6.
+5. Analysis
+6. Discussion and conclusion
+

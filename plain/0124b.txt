@@ -1,0 +1,63 @@
+1. Introduction
+The rise of the Internet has both challenged and provided companies with new opportunities. The influence of the Internet has been especially strong on marketing and communication efforts (Heinen 1996). Today, it is not only companies that can reach bigger audiences at a lower cost than ever before, but it is also the first time in our history that individuals can easily publicise their thoughts, reactions, and emotions to the global network of Internet users (Dellarocas 2003). 
+The Internet is developing into a medium where companies and customers can interact with each other, changing the marketer’s role (Heinen 1996). Traditionally, the marketer has been the sender of messages and the customer the receiver of them. Today, both marketers and customers are sending and receiving messages (Leskovec et al. 2008). Moreover, customers are communicating with one another in more efficient ways than ever before (Dellarocas 2003, Leskovec et al. 2008). The development of the Internet has enabled consumers to communicate with one another on completely new platforms, transforming traditional word-of-mouth (WOM) to electronic-word-of-mouth, eWOM (Dellarocas 2003). 
+Recently, several studies have been conducted on eWOM. (Heinen 1996, Dellarocas 2003, Mazzarol 2007). The content of WOM has traditionally been unknown to marketers, even though WOM has been defined as the most efficient communications channel (Keller 2007). The nature of the Internet has enabled marketers to reach the unknown, since all online communication can be traced. Marketers are now increasingly interested in using the previously unreachable communication channel, but in order to do so, further research is needed (Shao 2008).  
+As several studies have concluded, consumer-to-consumer communication, or WOM, has a great influence on consumers’ purchase decisions and brand attitude. (Engel et al. 1966; Herr et al. 1991; Bone, 1995).Even though many researchers have studied eWOM, only a few have studied the motives of individuals to participate in eWOM (Hennig-Thurau et al. 2004, Sen&Lerman 2007, Shao 2008.
+
+In their study about eWOM, Hennig-Thurau (2004) defined different consumer segments according to consumers’ motives to post content online. The study was quantitative and employed statistical methods to define four segments. 
+1.1. Aim of the Study
+To understand the motives that consumers have to articulate themselves via eWOM, this study shifts the focus from studying the masses (Hennig-Thurau 2004) to studying the individual. The aim is to understand why one individual posts comments online. In other words, what are the various motivations of an individual to participate in eWOM? This study aims at deep knowledge on consumer motivations to participate in eWOM.
+The aim is depth, not breadth. According to Patton (2002:244) in-depth information can be very valuable. Considering that there is broad knowledge on the phenomenon (e.g. Hennig-Thurau 2004), in-depth knowledge is valuable both for the researcher and marketers. 
+1.2. The Structure of the Paper
+This paper will try to find an answer to the research question according to the following structure:in the next section, the theoretical framework of consumers’ motivates to participate ineWOM will be described, followed by a description of the method deployed to conduct the empirical study. The paper will continue with the results and analysis of the data.The paper will end with conclusions and recommendations for future research. 
+
+2. Theoretical Framework
+The theoretical framework is based on Hennig-Thurau’s(2004) quantitative study on consumers’ motives to participate in eWOM. In his study, he identified four different segments according to eight motives that consumers have for participating in eWOM. Table 1 summarizes the findings. 
+[Table]
+Drawing from Hennig-Thurau’s (2004) results, it can be stated that different according to motives that individuals have to participate in eWOM, various consumer segments exist. However, the question remains, what kind of motives one individual may have to participate in eWOM. The following will shortly describe the different segments and the relative motives (1-8).
+2.1. Self-Interested Helpers
+Individuals in this segment are motivated to post online comments because they are driven by economic incentives. A platform operator can offer economic rewards to those individuals that are active (Hennig-Thurau 2004). According to Lawler (2003) economic incentives are an important tool in influencing human behaviour, which is the case also in online behaviour.
+According to Hennig-Thurau’s study, most (34%) of the consumers participating in eWOM belong to this segment.
+2.2. Multiple-Motive Consumers
+Individuals in this segment are motivated to participate in eWOM for a variety of reasons. The first motive, platform assistance refers to an individual participating in eWOM because she hopes that the platform operator could assist her problem solving. The second motive, venting negative feelings refers to an individual participating in eWOM to complain or in other ways express negative feelings. Not only does an individual participate in eWOM to express negative emotions, but also to enhance oneself positively. The motive rises from an individual’s need to gain acceptance from others (Sundraram et al 1998). In order to gain acceptance, individuals seek to show a positive image of themselves, therefore participating in positive eWOM (Shao 2008). Finally, individuals participate in eWOM to get help from peers, in other words seek for advice.
+2.3. Consumer Advocates
+Individuals in this segment participate in eWOM mainly out of concern for other consumers (Hennig-Thurau 2004). According to Carman (1992), individuals are motivated to participate in communication because they believe it is beneficial for other consumers. 
+2.4. True Altruists
+The true altruists participate in eWOM out of selfless motives: they seek tohelp other consumers or companies (Hennig-Thurau 2004). According to Sundaram et al (1998), consumers are motivated to help companies mainly out of being satisfied with the company’s products or services. If the consumer’s expectations are exceeded, she may experience feelings of guilt. Therefore, she wants to give something back to the company. eWOM is an effective channel to reach other consumers, and a perfect platform to help a company. 
+The consumer may also want to help other consumers. This motive is closely related to concern for other consumers, discussed above. The main difference between the two motives is that in helping other consumers, the individual is participating in eWOM out of entirely selfless motives. When participating in eWOM out of concern for others, the individual may have some selfish motives (Hennig-Thurau 2004).
+3. Method
+This section describes the sampling and analytical methods that were employed in the study. 
+3.1. Sample
+This study will deploy purposeful sampling, as is the case in most qualitative studies (Patton 2002:227). Furthermore, the sampling strategy is a combination of intensity and criterion sampling. Since the aim is to find a unit of analysis that can provide rich information about his/her motivations for eWOM, the intensity strategy is applicable. 
+In addition to finding an information-rich interviewee, he/she must fulfil the following criterion. The informant must be an active user of social media, i.e. participator in eWOM. In the study an active person is defined as someone who, on a daily basis, uses several social media platforms (e.g. Facebook, Twitter, LinkedIn). Furthermore, the individual uses several devices (mobile phone, computer) in his/her social media activities. The criterion is based on the notion that a non-participator in eWOM will not be able to provide information about why he/she participates in eWOM. 
+3.2. Data collection
+The data was collected by an in-depth interview. The informant is a 23-year-old male, who is a student and part-time employee. He fills the criterion defined above: he is an active user of social media, and he participates in eWOM using several devices. The interview was conducted on Thursday, the 23rdFebruary, 2011. The interview lasted from 21:01 to 22:04. 
+The method for data collection was the general interview-guide-approach (Patton 2002). The approach has a set of predetermined questions, which are formulated according to the research area. The guide provides topics or areas within which the interviewer can (…) explore, probe and ask questions that will illuminate that particular subject(Patton 2002:342). The interviewer can ask “ad-hoc” questions, engage in conversation, and formulate questions spontaneously. The focus does, however, need to stay in the predetermined subject/area. 
+The interview was recorded and transcribed. Patton (2002:381-382) and Silverman (2006:113) describe recording interviews as essential in gathering interview data. The interview was conducted in Finnish, which is the maternal language of the interviewee. 
+3.3. Analysis
+There are five clear stages that can be defined in the analytical process of this study. (I) The interview guide was formulated according to the theoretical framework of the research area. To do so, some initial analysis was required. (II) The interview was conducted. According to Belk et al. (1998), the analysis of the data begins already at the interview situation. (III) The researcher transcribed the recorded interview.During the transcription process, the researcher conducted some initial analysis. (IV)The interview was read and categorized by codes that were defined inductively, in accordance with the vocabulary used by the interviewee. (V) The interview was re-read twice to be able to analyse it and build abstraction (Spiggle1994). 
+The researcher constantly iterated between the steps, which were not carried out in sequential order. There was a constant dialogue between analysis, data recording, and theory building.
+3.3.1. Categorization & Abstraction
+Categorization refers to classifying and/or labeling units of data. In qualitative research, categorization is done by coding the data. The idea is to categorize a unit of data as part of a more general phenomenon. Categorization (coding) can be done deductively or inductively. The prior refers to coding the data according to “a priori” contexts (e.g. theoretical framework), and the latter to identifying (…) emerging categories from the data (Spiggle 1994.)
+In this study, the data were categorized inductively. The codes emerged from reviewing the interview transcripts. The codes weredefined from the interviewee’s vocabulary and translated into English. 
+Abstraction builds on categorization. Abstraction is about finding more general constructs under which the categories (codes) can be sorted. Abstraction takes categorization to the next level by identifying a few general concepts. Furthermore, at this stage the data is re-organized according to the constructs – analysis is no longer bound to the temporal order of the interviews. Also constructsare defined inductively or deductively. 
+In this study, the categories emerged from the theoretical framework, in other words, inductively. The constructs, under which the various motives can be sorted, are defined according to the segments described by Hennig-Thurau (2004): self-interest, multi-motive, true altruism, and consumer advocacy. 
+4. Data
+The respondent identified twenty-five different motives for him participating in eWOM. Table 2 summarizes the motives found in the interview data. Even though this is a qualitative data, the motives were analysed quantitatively to be able to compare findings to those of Hennig-Thurau (2004). 
+
+[Table]
+5. Analysis
+In this section the above results are analysed according to the four segments defined by Hennig-Thurau (2004), described in section 3. 
+5.1. Self-Interest
+The interviewee described twelve motives, which originated from self-interest. Interestingly, the majority (44%) of motives to participate in eWOM were selfish. This is in line with Hennig-Thurau’s (2004) findings, according to which the largest segment of consumers participating in eWOM is the self-interested helpers representing 36% of the eWOM participators. 
+
+5.2. Multiple-Motives
+
+5.3. Consumer Advocacy
+
+5.4. True Altruism
+
+Segments according to the different motives -> marketers
+6. Discussion
+7. Conclusions
+

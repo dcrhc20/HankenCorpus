@@ -1,0 +1,22 @@
+I r rational?
+The Hidden Forces that Shape Decisions
+
+
+1. Introduction
+
+The field of behavioural economics is nothing new – in fact its roots can be drawn from the classical era and Adam Smith's work The Theory of Moral Sentiments. However, since the concept of Homo Economicus – a rational being – emerged in the late 19th century, it has predominated the field and left soft values more or less untouched. [bridge to paragraph]
+
+With the advent of emerging technology capable of better studying the human brain, new studies in this field are being carried out and interest in the topic has subsequently grown rapidly. Numerous studies into the breeches of the human mind have of course been performed during the years, but the brunt of these have been firmly anchored in the field of psychology.  This field, by some not considered an objective science <citation> due to heavy reliance on surveys and questionnaires is fundamentally different from  economics, where the very basic idea of rationality provides the foundation for economic theories, predictions, and recommendations (Berglund, 1998). After the publication of his 2008 book Predictably Irrational, Dan Ariely has brought behavioural economics into the public eye and raised the awareness of the lay audience. 
+
+In early 2008, the former Federal Reserve chairman Alan Greenspan told Congress that he was “shocked” that the markets did not work as anticipated, or automatically self-correct as they were supposed to. Ariely (2008) states that “the first step toward recovery is admitting you have a problem”, and ponders whether “relying on standard economic theory alone … might, in fact, be dangerous”. A broader perspective than just the neo-classical Keynesian view is required to fully understand economic decisions, and this has prompted me to perform my own research in behavioural economics. 
+
+This paper will try to replicate Ariely's experiments regarding relativity, the way “zero” skews our thinking and why some people are ready to pay a higher amount for the same service. An additional point of view will come in comparing the results of an American versus a European university. 
+
+The paper is structured as follows. After a description of the theoretical framework, I will present the methodology used to perform the study. The outlines of the experiments will be described and the tools and methods used to analyse the data will be described. The main part of the paper will be the analysis of the results and following that, a discussion regarding the findings will ensue. 
+
+
+2. Theoretical Framework
+
+In this chapter I will describe the theoretical framework used in the project, as well as delve deeper into the underlying causality of the subject.
+
+Introduction to the field of behavioural economics, history of the field. Explore leading theories and references. Select a few key components and analyse these further.

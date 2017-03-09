@@ -1,0 +1,90 @@
+Money Laundrering
+1 Introduction
+What are the reasons that people need to get their money laundered? What methods do people use when they launder money? Where does money laundering take place? These are all questions that this report will try to find answers to. After answers have been found to these questions, the report will suggest different methods that companies, authorities, and ordinary people can do to try to prevent money laundering. This report will also include what you are obligated to do if you suspect money laundering and how you should make a report to the authorities. 
+
+Money laundering goes way back in time and today money laundering is more common than many of us can understand. Money laundering is happening in almost every country. This paper will not describe all types of money laundering, but will present examples of how money laundering is done and how we can detect and try to prevent it. The paper will not include the financing of terrorism.
+
+The paper will be narrowed down to money-laundering in Finland, which means that it will only look at the statistics in Finland and what the Finnish law says about money laundering. Some of the laws are though the same in all EU-countries. The paper will also present the importance with customer control and customer identification and how important it is with the obligation to report if you suspect money laundering activity. This part will also be narrowed down, and only look at the main things.
+
+The main reason for this study is to make people more aware of this problem. With more knowledge about the signs of money laundering, and how it works, people will recognize money laundering attempts more easily. This could maybe prevent some of the money laundering attempts. 
+
+First, the paper will describe what money laundering actually means. We will look at the history, the definition, the process, and where money laundering takes place. Secondly, the importance of customer control and customer identification will be investigated. Thirdly, the Finnish law against money laundering is presented. Fourthly, the paper will explain what FATF does. Finally, a few examples about money laundering cases in Finland will be presented.
+1.1 History
+The term money laundering originates from the interwar period (1920) in the U.S, where the Mafia used different laundries and car washes to hide the illegal origin of money. The money came from prostitution, gambling and extortion, and the Mafia needed to get the money to look clean, so they mixed their dirty money with the clean money from the laundry and car wash business. This way it looked like the money came from a legitimate source. (FP Turks and Caicos Official Website, Paul Coleman, 2011) (Billy´s money laundering information website, 2010)
+
+One of the owners to a Laundromat was the well-known Al Capone. Al Capone was later convicted for tax evasion in 1931. People say that it could have been the conviction of Al Capone that got the money laundering business ball spinning. (FP Turks and Caicos Official Website, Paul Coleman, 2011) (Billy´s money laundering information website, 2010)
+1.2 Definition
+Money is usually the main reason for engaging in crime activity. Money laundering is when you have earned money in an illegal way, and then try to hide that in a process where the proceeds of crime and the ownership of those proceeds are changed in a way that it appears to come from a legitimate source without leaving any trail of crime. (UNODC) (Journal of Money Laundering Control) (Financial Supervisory Authority)
+
+Money laundering is a common phenomenon in almost every country in the world, and usually it is done transnational. A transnational crime is a crime where many different countries are involved, when you for example are planning the crime in one country and the crime takes place in another country. In the money laundering process, the money is usually divided into smaller amounts of money, and then sent though different routes from one country to another, until the money is collected at one place again. (Police) 
+1.3 The three steps in the money laundering process
+ In a single money laundering transaction, there are three stages that can be performed. These stages can be performed at the same time, or in separate transactions. The first stage is placement, which is the most dangerous stage in the process, because this stage must be performed without detection from the authorities. In this stage, the money launderer takes the cash from the location of acquisition and then tries to transform the money into other assets. (Journal of Money Laundering Control)
+
+The second stage is called layering. In this stage, the money launderer creates a web of transactions to hide the origin of the illegal money. These transactions are made to prevent any person to track the trail of the transactions of the illegal money and also to conceal the source and the fund owner. (Journal of Money Laundering Control)
+
+The third stage is the integration. In this stage the launderer puts the money back in the economic and financial system, but with the impression that the money has been legally earned. After this stage, if the stage is working, the money launderer can use the dirty money as if they were legal. (Journal of Money Laundering Control)
+1.4 Where does money laundering take place?
+Last year, over 28 000 suspicious transactions were reported in Finland. Most of the reports came from currency exchange companies, gambling companies and banks. These are also the companies that are most familiar in recognizing money laundering. Also insurance companies and companies that sell expensive things like cars; have reported many suspicious cases that could be suspected as money laundering cases. (Police) (Keskusrikospoliisi – Rahanpesun selvittelykeskuksen vuosikertomus 2011)
+(Chart?)
+2 Customer control and customer identification
+First we will look who is obligated to follow the customer control and identification and what they should do. After that we will look at when the persons are obligated to check their customers’ identification, and last we will look at things that could be good to know when you report to the authorities about you suspecting money laundering.
+2.1 To know and identify the customer
+People who are required to report suspected money laundering crimes are for example people who work at banks, real estate agents, and people who are working with currency exchanges. These people are obligated to supervise their customers and have to be able to tell and show their supervisor how they identify their customers and how they can prevent the money laundering risks by monitoring their customer’s transactions. (Financial supervisory authority)
+
+The persons who belong to the group that is required to report suspected money laundering crimes must be able to identify the customer, or the person that represents their customer, get information about their clients business operations, keep storage of their customers identification, report to the authorities if they suspect criminal actions in their customers’ business, and be up to date with the methods of preventing money laundering. (Financial supervisory authority)
+2.2 When are you obligated to identify your customer?
+The client has to be identified when a regular customer relationship begins or at least when the customer will be able to use the funds that is connected to a business activity. A regular customer relationship means, for example, that the customer opens an account, subscribes for a fund unit or signing of an insurance policy with the company. It does not really matter how big of a transaction the customer wants, it will still be necessary to identify the customer. (Financial supervisory authority)
+
+The customer can also be an occasional customer, which means that they will only make a single business transaction. This customer has to be identified if the value of this single transaction exceeds 15 000 euro. Exchange of currency is a common example of a single business transaction. The person who is obligated to report still has the right to identify this customer, although the transaction is under 15 000 euro. (Financial supervisory authority)
+
+If the transaction exceeds 1 000 euro, and the transaction is not made from an account, the client needs to be identified. The identification is obligatory whether it concerns a cash payment for a bill or a cash payment to the customer’s own account, but also here, if the person that is obligated to report, suspects something, the identification can be made even though the transaction is smaller than the amount of 1 000 euro in cash. (Financial supervisory authority)
+2.3 When you should report
+A background check for the transaction should be made for example when the size or the structure of the transaction is unusual to what it usually is. Another reason could be if the transaction does not have an economical purpose. The third reason is when the transaction does not fit to the customer’s economical situation or business. (Financial supervisory authority) (Keskusrikospoliisi – Rahanpesun selvittelykeskuksen vuosikertomus 2011)
+
+You should inform the Authorities if the transaction still looks suspicious after you have done a background check. Even if the transaction has been done already, you can still report it afterwards. Sometimes it can be necessary to make the transaction, although you suspect money laundering; only to make the investigation more clear afterwards. (Financial supervisory authority) (Keskusrikospoliisi – Rahanpesun selvittelykeskuksen vuosikertomus 2011)
+
+If a person helps their customer with their investments even though they suspects money laundering in the investment, the person will who helped will also get sentenced to punishment. (Financial supervisory authority) (Keskusrikospoliisi – Rahanpesun selvittelykeskuksen vuosikertomus 2011)
+2.4 To make a report to the authorities
+If you are suspecting money laundering, you should report this to Finland’s Financial Intelligence Unit. The report can be writing in a free form. The Financial Intelligence Unit will then assess the suspicious transaction. (Financial supervisory authority)
+
+When you make your report, you should make sure that the report includes the person’s name and contact details that made the report, observations about the transaction and why you suspect that this transaction is not clean. You should also mention the peoples’ names that made the transaction and information about their nationality, their personal identification number. If the person is not Finnish and does not have a Finnish identification number, you should mention for example their passport number. (Financial supervisory authority)
+
+Other things that you need to report are: what they attempted to do, the value and the currency in the transaction, and if the transaction has already been made, interrupted or declined. Any other relevant information can also be included in the report. (Financial supervisory authority)
+3 What are the penalties for money laundering under the Finnish law?
+The penalties for laundering money in Finland can vary from fine to imprisonment for up to six years, depending on how big of a crime you have committed. According to the criminal code of Finland (39/1889) chapter 32 section 6 – Money laundering:
+“(1) A person who
+(1) receives, uses, converts, conveys, transfers or transmits property acquired
+through an offence, the proceeds of crime or property replacing such property
+in order to conceal or obliterate the illegal origin of such proceeds or property or in order to assist the offender in evading the legal consequences of the offence
+or
+(2) conceals or obliterates the true nature, origin, location or disposition of, or
+rights to, property acquired through an offence, the proceeds of an offence or
+property replacing such property or assists another in such concealment or
+obliteration, 
+
+shall be sentenced for money laundering to a fine or to imprisonment for at most two years.
+(2) An attempt is punishable.” (Finlex)
+In the criminal code of Finland (39/1889) chapter 32, section 7 - Aggravated money laundering, it is said that:
+“(1) If in the money laundering
+(1) the property acquired through the offence has been very valuable or
+(2) the offence is committed in a particularly intentional manner,
+and the money laundering is aggravated also when assessed as a whole, the offender shall be sentenced for aggravated money laundering to imprisonment for at least four months and at most six years.
+(2) An attempt is punishable.” (Finlex)
+Section 8 - Conspiracy for the commission of aggravated money laundering tells that:
+“A person who agrees with another on the commission of aggravated money laundering directed at the proceeds of the giving of a bribe, the acceptance of a bribe, or aggravated tax fraud or aggravated subsidy fraud directed at the tax referred to in chapter 29, section 9, subsection 1(2), or at property replacing such proceeds, shall be sentenced for conspiracy for the commission of aggravated money laundering to a fine or to imprisonment for at most one year.”  (Finlex)
+
+Criminal code of Finland (39/1889) chapter 32, section 9 – Negligent money laundering implies that:
+“A person who through gross negligence undertakes the actions referred to in section 6 shall be sentenced for negligent money laundering to a fine or to imprisonment for at most two years.” (Finlex)
+
+Section 10 – Money laundering violation, explains that:
+
+“If the money laundering or the negligent money laundering, taking into
+consideration the value of the property or the other circumstances connected with the offence, is petty when assessed as a whole, the offender shall be sentenced for a money laundering violation to a fine.”  (Finlex)
+
+4 FATF
+Text
+5 Examples of money laundering cases in Finland
+Text
+6 Summary / Discussion and conclusions
+Text  
+

@@ -1,0 +1,311 @@
+Wage Equation
+
+1    Introduction
+The main objective behind this paper is to examine closely the aggregate wage
+rate (also known as real wage rate) and study a model that examines it. Ear-
+lier studies have examined the wage equation by including measures of union
+power, unemployment benefits, tax rates, structural mismatch and productiv-
+ity [Manning (1993)][Nickell and Andrews (1983)]. Hall (1986) studied the UK
+aggregated wage rate instead, using consumer price index, unemployment rate,
+aggregate productivity and average weekly hours.
+    Differing from this I have chosen a wage equation where I will examine how
+unemployment, productivity, tax wedge and inflation impacts the real wage.
+The basic idea behind this is to test if the mentioned variables are stationary
+in their second differences, since it is a requirement for doing OLS (Ordinary
+Least Squares) regression. A study of this is interesting, since recognition of the
+interrelationships can help formatting policies that increases benefits considering
+society and corporations.
+    The equation studied is given by:
+
+[Formula]
+
+Logarithms are taken of the series persumed to exhibit growth, that is, all but
+unemployment. The general expectations of the variables and their behaviors
+are that unemployment and the tax wedge will decrease the wage, while produc-
+tivity and inflation should increase the wage. The reasoning behind this is that
+higher employment and greater tax wedge should lower the wages, whilst higher
+productivity and inflation is thought to increase the wages. The coefficients are
+expected to: 
+
+[Formula]
+
+    The main question is whether the general expectations of the variables and
+their relationships to the real wage can be proven correct, or if there are some
+differences between general expectations and the data estimations. The other
+question I will try to answer is that if there are differences between data es-
+timations and general expectations, why it is so and are there some general
+explanations to this.
+    The main focus in this case is Finland and the data used is quarterly data
+between 1975 and 2007. The OECD database and ETLA are the main sources
+for the data used in the estimation of the wage equation.
+    The remainder of this paper is divided into 5 sections. Section 2 describes
+the data used in this study. Section 3 describes the unit root and stationarity
+tests, while section 4 looks at cointegration and the error correction model. The
+final section consists of a discussion conserning the results.
+
+
+2     The Data
+The data used to estimate the wage equation is Finnish quarterly data from the
+time period 1975-2007. The data is gathered from the OECD's database, from
+"OECD Economic Outlook Data", "Main Economic Indicators" and "National
+Accounts Data", and from ETLA's "Kotimaiset Aineistot" -database.
+    Before doing a OLS regression and studying stationarity the series used are
+presented graphically. By this the possible trends and breaks will hopefully be
+identified so that one can improve the model if needed.
+    In the first figure 1 the individual series are plotted against time. From all
+series except for unemployment, there can be seen a trend of growth over time.
+From the graphs one can also see a very clear break in the series in the beginning
+of 1990's. This break is very visible in unemployment and total employment,
+but one can also see a shift in the gross domestic product. The reason for this
+break is obviously the early 1990's economic depression.
+
+
+[Figure]
+                                          5
+    The second figure 2 is showing graphs where the combined series are plot-
+ted against time. From these one can also clearly see the impact of the 1990's
+depression.
+
+[Figure]
+
+3       Unit Root and Stationarity Tests
+The important thing before estimating the wage equation in itself, is to test
+the series, included in the equation, for stationarity. Stationarity implies often
+stability and that the series converges to an equilibrium. From this one can
+say that if non-stationarity is found then making economic translation becomes
+meaningless. Thus controlling for stationarity is a necessity before performing
+a time series analysis.
+
+   The stationarity and its "strength" is much dependent of the time series
+mean and auto-covariance and how it relates to t. It can be said that a time
+series is weakly stationary if the mean and auto-covariance are not dependent
+of t and if there is no change in the stationarity over time. It can be concluded
+that a series is stationary and will be integrated of order 0, I(0), and a series
+is integrated of order d, I(d), if the d :th difference is I(0) [Engle and Granger
+(1987)].
+   One way to analyze the stationarity process is by using unit root processing,
+which is the one used in this term paper. One simple example of the unit root
+process is the random walk:  
+
+[Formula]
+
+with the mean zero. The random walk is I(1), which implies that the first
+difference  
+
+[Formula] 
+
+[Hendry (1986)].
+   The conclusions that can be drawn from a unit root test is that if there exists
+a unit root the process is non-stationary. One way of testing this is by using
+a Dickey-Fuller test, where the model is rewritten to  
+
+[Formula]
+
+ Another variant of the
+model with a more general lag structure is the Augmented Dickey-Fuller test
+(ADF-test) and it is used as follows:
+
+         [Formula]
+
+3.1    ADF-test of the Individual Time Series
+Economic time series are at their most I(2), which implies that their second
+difference must be I(0), which instead implies a stationary process. Thus if the
+first differences are I(0) the series would be I(1). If there exists a unit root and
+the first difference is I(1) the series in itself is I(2). From this it becomes clear
+that the first step is to test whether the individual series are I(1) or I(2).
+
+The first differences of the individual time series are tested using the ADF-
+test under the null hypothesis "there exists a unit root" and the results are
+given on the left part of the table 1. If the null hypothesis cannot be rejected,
+it is assumed that the series are I(2). If the null hypothesis can be rejected,
+the stationarity levels needs to be tested. If that null hypothesis cannot be
+rejected the variables are assumed to be I(0) and stationary. These results are
+given on the right side of the table 1.
+
+[Table]
+
+   The t-value has been chosen as the lag length with least information loss
+according to the Akaike criteria.
+   The test show that unemployment and producer price index would not be
+I(2). For the other variables the null hypothesis cannott be rejected which would
+mean that they would be I(2).
+   The level of unemployment and producer price index were tested by adding
+a trend, since there is a reason to expect linear growth in the measures, eg.
+wages have a tendency of growing in a long-run. Tests indicates that both series
+would be I(1).
+
+
+3.2    ADF-test of the Combined Time Series
+After testing the individual time series, the second step is to test the variables
+which are relevant to the wage equation. In other words the real wage is ex-
+plained by unemployment, productivity, tax wedge and inflation. Through this
+paper following notation of these are used:
+
+            real wage
+
+            unemployment
+
+            productivity
+
+            tax wedge
+
+            inflation
+
+The series above are all constructed from individual time series. An important
+thing to note is that if individual series of the same order are integrated, their
+sum is most often of the same order or of a lower order. If again individual
+series of different orders are integrated, the sum of them is of the higher order
+[Engle and Granger (1987)].
+   The tests done on the individual time series in section 3.1, indicates that
+the time series would be integrated of different orders. Although due to the
+possibility of a weak ADF-test, the problem is ignored for the following analysis.
+    The combined variables are all tested in the same way as the individual se-
+ries in the earlier section 3.1, using the null hypothesis "there exists a unit root".
+On the left side of the table 2, the results of testing the differences are shown,
+and on the right side the results of testing the levels are shown. Unemployment
+was already tested in the earlier section and thus it is not tested here again.
+
+
+[Table]
+
+    The t-value has been chosen as the lag length with least information loss
+according to the Akaike criteria.
+    As a result of the tests the null hypothesis can be rejected for all differences,
+but not for any of the levels, which implies that all series are I(1). From this
+we can conclude that since  
+
+[Formula]
+
+ and is I(1) and when  is I(2), that
+also  is I(2) even if the ADF-test could imply something different.
+
+
+
+4     Co-integration and the Error Correction Model
+The problems that occur when studying time series data is that the data fluc-
+tuates and moves in and out from equilibrium. This becomes a problem when
+in economic theory and models the interests rely on equilibrium relations, this
+again indicates that ordinary time series' models becomes useless when we want
+to translate it to economic theory. To overcome this problem a error correction
+model is used, which allows the series to show short-run fluctuations while it
+still on a long-run converges to a equilibrium. The condition that has to be
+fulfilled when using error correction models is to use co-integrated time series
+in the models [Engle and Granger (1987)].
+    If a series are expected to co-integrate they have to individually be I(1) and
+non-stationary, but the linear combination of them has to be I(0) and stationary.
+An example of this is that there is a vector,  , of a time series that is I(1) and
+the linear combination  , where  is a co-integrating vector, is stationary.
+From this can then be said that the  [Formula] is the long-run equilibrium of the
+time series. It can although be said that for the most t,  is not a equilibrium
+and for this reason there is a equilibrium error  [Formula], which should be
+minimized in the models [Engle and Granger (1987)].
+   Since it is already clear from section 3 that all the time series that are inter-
+esting for the wage equation study, are all I(1), the next step, before formulating
+the error correction model, is to study co-integration. For doing this here the
+static long-run solution model is used.
+
+
+4.1    Lag Length and Misspecification Tests
+The first step is to specify the right model and then to find the right lag length
+that should be used. The model used is the same as presented in the introduction
+in section 1 and the relationship between the relevant variables is presented in
+section 3.2, from this we get the following relevant relationship (corrected for
+seasonality and including lags):
+
+                    [Formula]
+
+   The lag length that should be used is determined by doing a F-test using six
+lags as a beginning point. (The model used is also corrected for seasonality.)
+These results are shown in table 3, where on the left side each lag's significance
+is tested under the null hypothesis is "the lag tested is significant". On the right
+side of the table it is shown whether the models with fewer lags is a part of the
+general model, under the null hypothesis is "the model is a part of the general
+model".
+
+[Table]
+
+   From the test where each lag is separately tested, it is shown that only the
+first lag is significant, but the second test on the right side shows that there
+might be significances in the second and third lag. Since this, three lags are
+included in the model.
+   The next step is to re-estimate the test by only using three lags and af-
+ter that the misspecification is tested.        This test gives measures for auto-
+correlation, auto-regressive conditional heteroscedasticity (ARCH), normality
+and heteroscedasticity, under the null hypothesis is "there is no misspecifica-
+tion". Results are shown above in table 4.
+
+[Table]
+
+   From the results it can be seen that none of the tests' null hypothesis can
+be rejected, which implies that the model is correctly formulated and that no
+misspecification occurs when using only three lags. This will then give us the
+following model:
+
+[Formula]
+
+
+4.2    Co-integration Test
+As the correct model is determined, the following step is to control for possible
+co-integration. This is done by using the static long-run solution. If the model
+for the equilibrium model (ECM) is stationary, then the series are co-integrated.
+The stationarity is determined with the ADF-test, where the null hypothesis is
+"there exists a unit root".
+
+[Table]
+
+   The t-value has been chosen as the lag length with least information loss
+according to the Akaike criteria.
+   The test indicates that the null hypothesis can be rejected even on a 1 %
+significance level, which means that the equilibrium model is stationary and
+that the time series are cointegrated.
+
+
+4.3    The Error Correction Model
+From all the tests done in the earlier sections the following and last step is to
+estimate the final error correction model. With the help of the model estimated
+in section 4.1 the model can be formulated as following:
+
+[Formula]
+
+This model is then estimated a few times, so that every time it is
+re-estimated, less significant lags are removed [Flaig and Steiner (1989)]. These
+removals are then tested with a F-test to assure that the new models are still
+a part of the general model. The final variables of the final error correction
+model, except for seasonal corrections, are shown in table 6.
+
+[Table]
+
+    The final error correction model is then, as the final step, tested for misspec-
+ification as in section 4.1, with the null hypothesis "there is no misspecification".
+These test results are shown in table 7.
+
+[Table]
+
+    The results of the test shows that the null hypothesis cannnot be rejected
+for any of the tests. By this one can conclude that the final error correction
+model is valid and the model seems to be correctly stated.
+
+
+5     Discussion
+The equilibrium error coefficient in the error correction model, describes how
+quickly the equilibrium error will adjust to the steady state. The tests indicate
+that 4,7 percent of the actual value and the equilibrium level is corrected quar-
+terly. In the model the equilibrium error explains the long-run deviation, when
+the other variables explain the short-run dynamics.
+   The static equilibrium long-run solution becomes the following:
+
+[Formula]
+
+   All coefficients are significant, but the most statistically significant varibles
+are the differentiated inflation and production, which both are significant even
+on a 1 % level. Another significant variable is the differentiated unemployment
+(second lag), on a 5 % level. From the equation it can also be concluded that
+unemployment and tax wedge have both negative signs, which is expected since
+higher employment and greater tax wedge should lower the real wage in the
+end. It is also expected that productivity has a positive sign, since increased
+productivity should also increase the wages. The only thing in the model that
+is opposite from what was thought, is that in this model the inflation should
+affect the real wage negatively. These inflation effects have been studied closely
+and many have tried to explain why the models have poor forecast performance,
+and that is a reason for why thses models can't be taken as a "true" fact [James
+E. H. Davidson and Yeo (1978)].

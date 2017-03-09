@@ -1,0 +1,397 @@
+The performance of Finnish technology IPOs during Information Technology Bubble
+
+1.0 Introduction
+As an investor you are always looking for a good investment opportunity. Investing in
+an initial public offering in Finland is one possibility, but then perhaps you want some
+more information about their performance in general. In recent years, there have been
+many studies about initial public offerings and their performance, but not so many
+particularly in Finland.
+
+According to Ibbotson & Ritter (1995) IPOs have proven to be great investment
+opportunities in the short run, but not as good in the long run. These are studies,
+which have been made outside Finland. Now we need to further investigate if these
+same patterns of good short run performance and poor long run performance also
+occurs on the Finnish stock market. Most of the previous studies have investigated
+every single one initial public offerings made on a certain stock exchange. I find that,
+now it`s the time for concentrating on a specific area, and my idea is to investigate the
+performance of Finnish technology IPOs during the Information Technology Bubble.
+The question remains, will my upcoming research get the same results as the previous
+ones?
+
+There were fifteen technology companies that made an initial public offering during
+years 1998 to 2002. These are also the companies which will be used in my research.
+How will they perform? That is a question that hopefully will be answered at the end
+of this paper.
+
+This remainder of this paper is divided into seven sections. The first section contains
+general information about initial public offerings, why companies want to go public,
+and the advantages and the disadvantages of going public. The third and fourth
+sections will contain the main theoretical framework and previous studies. After these
+two sections, I will present the data, restrictions and my method for this research.
+Section seven will consist of the results and the last section will conclude the whole
+research.
+
+
+1.1 Purpose
+
+The purpose of this study is to investigate how Finnish technology IPOs have
+performed on the Finnish market from year 2002 to 2012.
+
+                                                                                       
+1.2 Problem discussion
+
+Previous studies (Ritter 1984) have shown evidence of initial underpricing. Meaning
+that the IPO shares are sold to initial investors (usually large institutional investors) at
+lower prices than they are later traded at on the stock market. Which in turn leads to a
+concept called "money left on the table", i.e. the profits that the initial investor makes
+by buying underpriced shares and later selling them on the stock market at a higher
+price.
+
+Because the shares are underpriced it means that on the first day the shares are traded
+on the stock exchange the price will be driven up. The difference between the closing
+price of the first day and the offer price is called the initial return. The issuing
+company itself does not gain anything when money is left of the table; it is in fact
+capital that they could have raised but failed to, due to the underpricing (Ritter 1986).
+However, the underpricing is in most cases partially on purpose and the underlying
+theories as to why they are underpriced will be more thoroughly discussed in chapter
+three.
+
+Another phenomena of IPOs is their long run underperformance. Extensive studies,
+from Ritter (1991), Keloharju (1993), and Ljungqvist (1997) have shown that IPOs
+tend to underperform their competitors within a time period of approximately 3-6
+years after the initial public offering.
+
+In the next section I will present the basic concepts of initial public offerings and then
+have a look at some underlying theories behind underpricing and performance in
+general of IPOs.
+
+
+
+
+2.0 Initial public offerings
+An initial public offering (IPO) is when a formerly private company goes public i.e.
+lists itself on a stock exchange. The previously privately owned company gives
+investors the opportunity buy the company's shares for the first time. IPOs are in
+practice the most convenient way for a company to start trading its securities,
+especially shares such as common stock. The most common way to offer the shares to
+the public is through a new issue, which is when a company offers new shares to the
+public in hopes of raising new capital. In some cases only existing shares (owned by
+major shareholders) are offered, but in practice most IPOs are a mixture of both
+existing shares and new shares. (Jenkinson & Ljungqvist 2001).
+
+
+2.1 Why firms go public
+
+Most initial public offerings are from small and fast-growing companies searching for
+capital to finance their business. Basically there are two ways to attain capital. One
+way is to go to the bank and taking a loan, and another way is by performing an IPO.
+However, IPOs are time consuming and expensive, but it's a decision that gives a
+long-term strategic plan for the company (Jenkinson & Ljungqvist 2001). For
+example, let's say that you are an entrepreneur who has started a business, with a
+great business idea. It has created value for the shareholders and you are eager to go
+further with your company but you don`t have the internal operational and external
+borrowing capacity. IPOs present an alternative opportunity to expand your business
+and presents lots of new possibilities in oppose to loaning from the bank. On the other
+hand you might just be an investor looking for a opportunity to exit from the
+investment to receive a return.
+
+In conclusion most firms go public to gain capital and to add liquidity to the
+ownership.
+
+
+2.2 The advantages of going public
+
+There are several advantages in going public. In this section I will present the most
+common upsides that an IPO presents.
+
+By going public firms get more capital, that gives the company better opportunities
+for growth and expanding which is a clear advantage. Companies might want to
+finance an acquisition, buy-out existing shareholders, invest in research &
+development or move into larger and more diverse markets.
+
+Another advantage is the improved financial status. Commonly IPOs help companies
+finance growth in the future and to achieve an optimal debt-to-equity ratio, which in
+turn makes it easier for borrowing additional funds, and renegotiating the existing
+debt on more favorable terms (KPMG).
+
+After an IPO companies have higher visibility (due to the news around them and the
+fact that they are listed on a stock exchange), which usually works in their favor as a
+good marketing factor. The wider and more diverse investor base creates added public
+awareness, which can give the companies' products or services a better visibility in
+the markets. These competitive advantages can help perform better than the other
+companies in the same industry and at the same time makes it easier to expand
+nationally or internationally (KPMG).
+
+Public companies often have a way to motivate the employees by compensating them
+by a stock-based compensation strategy. Trying to retain managers and key
+employees by giving the company's shares, and it also gives additional opportunity
+for the employees to take part of the financial success of the company. If the stock-
+prices rise of the company, the employees that are involved in a stock-based
+compensation program will benefit from this. In other words going public will
+increase employee motivation and retention (Jenkinson & Ljungqvist 2001).
+
+When the companies' shares go public, it will increase the liquidity and gives the
+shareholders the ability to exchange shares. The shares will also become more
+acceptable as collateral for personal loans.
+
+
+2.3 The disadvantages of going public
+
+Probably the biggest disadvantage is that the company loses its privacy. As a public
+company, they have increased scrutiny and accountability. This means that they have
+to report more information about the company's business operations, executive
+officers compensation, customers, competition, and material contracts. By sharing this
+information to the public, it will result to that competitors will be able to know your
+standing on the market. The material that has to be shared to the public could be
+sensitive for the company, for example geographic segment, compensations and the
+operating result of the company. Public firms are also under constant pressure to meet
+the market expectations, and explaining the decisions that have been made and how to
+deal with things that concern the company (KPMG 2010).
+
+Reporting requirements are not the same as for non-public companies. There will be
+new reporting requirements, filing financial statements quarterly and annually. This
+leads to significant commitment of time and resources by senior management and
+other personnel. It can lead to that companies have to re-new their existing accounting
+and reporting system, which takes time and money.
+
+There is also a risk of potential increases in income taxes. Depending on in which
+country the company is located (Jenkinson & Ljungqvist 2001).
+
+The control of the company decreases when the ownership changes and there will be
+a bigger spread of different owners. This can be both a good thing and a bad thing.
+But in most cases majority stake remains with largest shareholders even after IPOs.
+
+
+3. Theoretical framework
+In this chapter I will more thoroughly discuss the theories behind underpricing. There
+are various theories and hypothesis behind this phenomena.
+
+
+3.1.1 Reason for underpricing
+
+According to Ljungqvist (2006) underpricing is estimated as the percentage
+difference between the price at which the IPO shares were sold to investors (the offer
+price) and the price at which the shares subsequently trade in the market. As we
+know the three parties in an IPO transaction are the issuing firm, the bank that is
+underwriting and marketing the deal, and the new investors.
+
+Theories of underpricing can be grouped into four headings: asymmetric information,
+institutional, control, and behavioral. I will present the theories that I find to be most
+relevant in the case of Finnish Technology IPOs.
+
+3.1.2 Information Revelation Theories
+This theory initially introduced by Benveniste & Spindt (1989) involves the investors
+and underwriters in the bookbuilding process of the IPO. When the underwriters are
+bookbuilding, i.e. gather interest from the investors in order to help set the offer price,
+the investment bankers purposely underprice the IPO shares in order to get investors
+to reveal their truthful valuations of the shares. Investors would have no incentive to
+give positive information ­ raising the offer price ­ if they can't be sure that they are
+still getting them a bit underpriced (Ibbotson & Ritter 1995).
+
+
+
+3.1.3 The Cascades Hypothesis
+Welch (1992) presented a model in which investors rely not solely on their own
+information and knowledge, but also about other investors' actions. Thus they are
+more willing to buy IPO shares if they notice that others are also buying, and vice
+versa if no one is buying they will not buy either. This leads to the theory that there is
+incentive for the issuer to underprice the shares in order to get the first investors
+interested and get things rolling.
+
+3.1.4 The Signaling Hypothesis
+The idea behind the signaling hypothesis is leaving your customers (investors in this
+case) happy simply by underpricing the new issues, allowing the firms and insiders to
+sell future offerings at a higher price.
+
+3.1.5 Ownership Dispersion Hypothesis
+The ownership dispersion model hypothesizes that issuing firms intentionally
+underprice their shares in order to attract and disperse ownership of the firm to a large
+number of small investors. This in turn gives the firm more liquidity on the stock
+market and prevents outsiders to challenge the firm's management (takeover).
+
+
+3.1.6 Long run Underperformance
+
+Several studies have shown that IPOs tend underperform in the long run. For example
+a study from Ritter (1991) documented an average of -15.08 % 36 months after initial
+public offering (sample size: 1526 US firms, documented during 1975-1984). There
+have been many empirical studies on this subject in different geographical areas and
+with different measures for "long run".
+
+
+
+Finnish technology related IPOs during Tech bubble
+The technology bubble took place around the year 2000. There were 15 tech-
+companies in Finland who made an initial public offering during the years 1998 to
+2002, which are still operating and listed in NASDAQ OMX Helsinki.
+
+A list of the companies and the dates when they entered to the NASDAQ OMX
+Helsinki public stock market:
+
+
+    [Table]
+
+
+IPOs in Finland
+The company`s initial public offerings is a phenomenon highly cyclical and irregular.
+The yearly amount of IPOs varies a lot by time. Initial Public offerings occurs usual
+in peaks, when the economy is strong and stays in an "economic boom" and the stock
+indices are high. In Finland there have been two quite major IPO periods, and one a
+bit smaller. The years 1984-1989 can be described as the biggest period when IPOs
+occurred in Finland, with 92 IPOs. The second large amount of public offerings
+
+                                                                                   7
+occurred around the year 2000, when the "The Information Technology Bubble" burst
+out. The amount of IPOs during the bubble was highest the year 1999, when there
+were 19 of them. After the Information Technology Bubble, there have been
+noticeably smaller amounts of IPOs, before the financial crisis in 2007, there has been
+less than ten IPOs (Selosmaa 2007).
+
+[Figure]
+
+4.0 Previous studies on the Finnish market
+
+4.1 Keloharju
+
+Keloharjus study (1993) was the first IPO study performed on the Finnish market.
+Keloharju used a sample of 79 IPO firms from the time period of 1984-1989. He
+estimated the long run performance by calculating the cumulative abnormal return
+(CAR) from a three year holding period and benchmarked the IPOs performance to
+the market-index HEX. Keloharjus results showed the same phenomena as previous
+international studies i.e. initial high returns and long run underperformance. Keloharju
+also discovered that the long run underperformance is more common in small firms.
+
+
+4.2 Sandström
+
+Sandströms study (2000) was performed on the Helsinki Stock Exchange and mainly
+investigated the economic cycle effects on IPOs. The study had a large sample of 147
+IPOs from a time period 1984-2000. Sandström used a similar method as Keloharju
+and also benchmarked the IPOs to the market-index, and to not much surprise her
+study showed the same results as Keloharju; high initial returns and long run
+underperformance.
+
+
+4.3 Ahlberg
+
+The Master's thesis from Ahlberg (2002) differed from Keloharju (1993) and
+Sandström (2000) in that instead of using only the market-index as a benchmark
+Ahlberg also used similar firms (same industry and size). However, Ahlberg had a
+relatively small sample of 49 IPO firms and measured a time period from 1994-1999.
+Ahlbergs results were the same as Keloharju and Sandströms studies when
+benchmarking to the market index. However when the returns of the same IPOs were
+benchmarked to similar companies the IPO firms showed significantly better
+performance than the similar firms during the first 22 months and slightly better at the
+three year mark after the IPO. However should be noted that over 50 % of Ahlbergs
+sample firms were IT-firms and many of the measurements were taken during a
+bullish market before the IT-bubble crash.
+
+
+5.0 Data
+The stock data and index will be retrieved from NASDAQ OMX.
+
+
+5.1 Restrictions
+The study is restricted to initial public offerings on the Helsinki Stock Exchange from
+the time period 1998-2002. The sample size consists of all the 15 technology
+companies that have performed IPOs on OMX Helsinki. Because the times IPOs
+entered during 4 years period, during the bubble, I decided to start my performance
+investigation from year 2002, when every one of the 15 companies had entered to the
+public stock market.
+
+
+6.0 Method
+I will perform an own investigation on IPOs long run performance (10 years from
+8.3.2002 ­ 8.3.2012) on the Helsinki Stock Exchange (NASDAQ OMX Helsinki). By
+calculating the holding-period return (HPR) and comparing the HPR to that of the
+market index to be able to see how the IPOs have performed.
+
+
+6.1 Measuring return
+
+I will measure the performance of the IPOs by comparing the returns of each IPO
+company to the stock market index (OMX Helsinki).
+
+6.1.1 Long run performance
+To calculate the long run performance, first I will calculate the holding period return
+(HPR) for each stock. The end-of-period value [Formula] initial value [Formula] divided by
+the initial value.
+
+
+
+
+After the HPR is known, I will calculate the market index return for the same period
+as the IPO. The market index is calculated using the same holding period return
+formula.
+
+
+
+
+After retrieving both of these measures, I can calculate the abnormal returns for each
+stock separately, abnormal returns will function as the measure of performance.
+
+
+
+
+Ultimately I will add all abnormal returns together to calculate the average of IPOs to
+draw my conclusions.
+
+
+6.2 Hypothesis
+
+The purpose of this study was to see how technology IPO's have performed in the
+Finnish equity market. In this section I will present my hypothesis.
+
+6.2.1 Hypothesis : Long run performance
+The hypothesis is about long run performance. Based on earlier research (Ritter,
+Keloharju, Sandström) I expect to see that the IPOs have underperformed the market
+index after the 10 years period.
+
+Hypothesis: IPOs underperform the market index after ten years from the initial
+offering.
+
+H0:
+
+H1:
+
+
+
+
+7.0 Results
+The results show that on average the long term performance of abnormal returns are -
+11,55 % less than the OMX Helsinki index performs on the time period 8.3.2002 ­
+8.3.2012. During the same period the OMX Helsinki index performed -2,61 %. This
+result agrees with the previous studies (Keloharju, Sandström & Ahlberg), that in the
+long run the IPOs are underperforming.
+
+The results of each company and the return.
+
+[Table]
+
+
+
+
+There were only four of the fifteen companies that performed better than the index.
+These companies are highlighted with the green color and the rest which done worse
+than the index are on white ground. The average return of all the IPO companies and
+the OMX return are highlighted as red. Due to a small sample size of (N=15)
+observations these results do not probably indicate the average of the performance in
+the long run. I can conclude that H0 can be accepted, and say that the market index is
+performing better than all of the IPO companies together.
+
+
+8.0 Conclusion
+The purpose of this study was to investigate the performance of technology IPOs in
+the Finnish stock market. I have done an own research in investigating the long run
+performance of these technology companies. We can conclude that these companies
+have been underperforming in the long run, compared to the market index.
+
+These results should be pretty good comparably to each other, because the research of
+the performance have started the same day for all these 15 companies and also ended
+at the same time. The study starts at 8.3.2002, when the bubble had already burst so
+that all the companies should be fairly comparable to each other. This 10 years
+interval also includes the financial crisis in 2007, which also has affected these results
+and still the economy is in a vulnerable position, which also can indicate to these
+underperforming results.
+
+

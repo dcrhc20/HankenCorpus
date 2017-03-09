@@ -1,0 +1,369 @@
+Organizational Structure change with Cloud Computing SaaS
+
+I. INTRODUCTION
+INCE the appearance of the Internet, remote web access
+from any place and at any time has given the possibility
+for organizations to use different resources outside its
+premises. This includes storage of data in remote
+infrastructure or servers, applications built on platforms
+supplied by third parties, and software which is simply
+accessible though a web browser without the need to
+purchase any licenses. These remote resources, accessible
+through the Internet, are called Cloud Computing.
+Cloud computing enables the outsourcing of most of the
+organizational IT infrastructure to third parties, who offer
+Software (SaaS), Platform (PaaS), and Infrastructure (IaaS)
+as a Service. Cloud Computing provides the possibility to
+delegate the responsibility of most of the IT function of the
+organization in exchange of a subscription or “pay as you
+go” fee. Thus, Cloud computing is characterized by
+scalability, new IT paradigm, measured service, on-demand
+self-service, availability, reliability and elasticity (Gartner,
+2008; Duncan D., Xingchen C., Vecchiola C. and Buyya R.,
+2009).
+With this possibility, organizations perceive the
+opportunity to decrease their capital and human investment
+in IT resources. The opportunity for organizations to
+outsource most of their IT responsibilities is a paradigm shift
+in the way IT business has been done. Thus, when adopting
+Software as a Service in the Cloud, organizations “just” need
+to ensure that the cloud provider delivers what has been
+agreed upon in the Service Level Agreement (SLA).
+Besides the mentioned opportunities, organizations now
+face the challenge of restructuring their IT structure linked to
+the business strategy. Some of the challenges are: What
+happens to the previous IT structure in the enterprise? How
+do Organizations evolve and change to adapt to this new
+type of IT offer? Do existing positions disappear? Does the
+Enterprise needs to restructure its IT department? Are new
+positions created to deal with risk assessment and
+management of Cloud Computing solutions?
+The aim of this study is to answer these questions,
+specifically: How are enterprises changing their structure
+when adopting SaaS in the Cloud? Current research lacks a
+more holistic view of cloud customer’s IT organizational
+structure and IT Governance transformation. No previous
+research has been found when it comes to human resources
+and internal policies change. This is supported by Hosseini
+A., Sommerville I. and Sriram I. (2010), who present a list
+of “Research challenges for enterprise cloud computing”.
+One of the issues is: the authority of the IT – where
+enterprise users will have more political influence, and “the
+IT department's role will change from “provider to certifier,
+consultant and arbitrator”” (Hosseini A. et al., 2010, p.3).
+Thus, an exploratory study is proposed to answer the
+questions presented. A Case study, with in-depth
+unstructured interviews, is considered the best method to
+retrieve information about the changes. The changes
+identified help to observe the current evolution in the case
+company and their lessons learned.
+The successful and unsuccessful approaches identified
+help to create an understanding of different trends. Current
+and potential cloud customers are the main audience of this
+study, which can help to analyze the difficulties and
+opportunities for IT governance and IT infrastructure
+changes in organizations. Furthermore, it enables the
+development of new tools and techniques to facilitate the
+migration to Cloud Computing. Finally, Cloud Computing is
+constantly evolving so organizations need to always keep
+themselves up to date about the different variables that allow
+for a successful migration linked to their business model and
+strategy.
+The current paper is structured as follows. The next
+section describes Cloud Computing, followed by the current
+research background on why organizations need to adapt
+internally to these new technology adoption. Then, a deep
+discussion is presented related to what kind of changes are
+needed and why. This is after linked to the proposed
+research framework to use in this study. Finally, the
+empirical methodology is explained and presented, which is
+followed by the analysis of the main results. Conclusions are
+then presented based on the main findings.
+II. CLOUD COMPUTING
+Cloud computing aims at providing users and businesses a
+whole package of application systems through the web,
+which can be either as a service, a platform or an
+infrastructure. Organizations don’t have the need to store
+their data on company specific location servers, nor to
+manage it or even to own software applications. In other
+words, the organizations will be completely dependent on
+the cloud computing provider for data access, data analysis
+and to run the whole business applications.
+It will, however, provide access anytime anywhere as long
+as there is internet connection, and a service agreement
+settled by the organization and the cloud computing service
+provider. There are several definitions given to Cloud
+Computing either from technology, advisory and market
+research companies, to IT Companies, and Regulatory
+Institutes and National Organizations. Some of the
+definitions are presented in Table 1:
+
+[Table]
+
+It can be observed that Cloud Computing is a recent
+concept in development, where research companies were the
+first ones approaching this new phenomenon or paradigm on
+the way IT business will be conducted on the future. Further
+on, regulatory entities found the need to define this concept
+and referrer the potential opportunities that it can bring on
+the markets and economy. All the definitions presented
+agree on common characteristics such as: scalability, new IT
+paradigm, measured service, on-demand self-service,
+availability, reliability and elasticity.
+Cloud computing is moving towards the stage of Rapid
+Cloud Computing Adoption, and this is possible due to
+several Companies investment in IaaS that will support the
+further layers that will enable the PaaS and SaaS. Cloud
+Computing Market is expected to be adapted in to marketbased
+strategies, which will shape the IT infrastructure of the
+future, especially when the Security, control and trust issues
+are overcome (Vecchiola C., Duncan D., and Buyya R.,
+2009).
+
+III. WHY ORGANIZATIONS NEED TO ADAPT INTERNALLY?
+Although cloud computing presents many benefits, it also
+comes with many risks related to reliability, “integrity,
+recovery, and privacy, and an evaluation of legal issues in
+areas such as e-discovery, regulatory compliance, and
+auditing” (Brodkin J., 2008).
+Of the 3 main categories of Cloud Computing services
+mentioned: SaaS, PaaS and IaaS, SaaS is considered the
+most risky. Thus, the focus of this study is in SaaS. With
+SaaS, the Governance structure of IT in organizations is
+expected to change dramatically. The infrastructure,
+platform and application will no longer be hosted under the
+premises and in direct control of the Cloud Customer (CC).
+CC will mainly have access to the application through an
+internet browser. Thus, Cloud Provider (CP) increases his
+control while CC needs to take the necessary steps to adapt
+its organizational structure to this new emerging business
+model in the software industry (Mather T., Kumaraswamy S.
+and Latif S., 2009).
+The reasons why many organizations choose to use SaaS
+are related to “social influence, attitude towards SaaS -
+adoption, adoption uncertainty, and strategic value”
+(Benlian, A., Hess, T., and Buxmann, P., 2009, p.1).
+However, when organizations are considering SaaS, a new
+business-IT alignment, skills, project teams, policies, risk
+management and assessment teams, and compliance are
+needed. The risks mentioned can be reduced or prevented if
+it is established a “proactive program management office to
+implement industry best practices and government policies
+in the management of any program” (Paquette S., Jaeger P.
+T., Wilson S. C., 2010, p. 4)
+“Risk Management program focused on cloud computing
+is an essential part of the government IT environment”
+(Paquette S. et al., 2010, p. 1). Furthermore, risks concerning
+the implementation, management, and usage of cloud
+computing need an adequate strategy to enable good
+administration and soften potential risks. Identifying the
+risks should be the first priority in order to find ways of
+preventing them or to assess them if they are inevitable
+(Paquette S. et al., 2010). There are several risks identified
+3
+when a new technology is implemented, such as: policy
+changes, dynamic applications and securing the dynamic
+environment (Paquette S. et al., 2010). They can be reduced
+or prevented if it is established a “proactive program
+management office to implement industry best practices and
+government policies in the management of any program”
+(Paquette S. et al., 2010, p. 4).
+IT governance has an important role on the ability to
+identify, assess, and mitigate the risks surrounding the use of
+cloud computing. This happens since it focuses on internal
+and external compliance initiatives. Thus, it provides
+decision making process to all stakeholders and assignment
+of accountability within the IT organization. An appropriate
+governance structure can help to effectively inspect the risk
+management program (Paquette S. et al., 2010).
+IV. ORGANIZATION STRUCTURE CHANGE: BUSINESS-IT
+ALIGNMENT, POLICIES, RISK MANAGEMENT AND ASSESSMENT
+When moving into the cloud, an important aspect
+concerns the internal organizational structure of Cloud
+Customer (CC). CC can no longer rely merely on its
+implemented internal Security infrastructure. By adopting
+services on the cloud, especially in the case of sensitive data,
+CC not only needs to ensure the Cloud Provider (CP) has in
+place the needed security requirements according to its
+business and internal policies needs. CC needs as well to
+adapt its existing organizational structure to allow security
+and compliance in place by monitoring all the activity of the
+SaaS in the Cloud. Qualify of Service (QoS) can only exist if
+CC develops adequate parameters to be measured together
+with CP in a constant live monitoring plus service follow up
+meetings (Rittinghouse J. and Ransome J., 2009).
+Information Security department in organizations will
+move to a more strategic role where IT Governance main
+focus will be related decisions, implementations, monitoring,
+risk management and assessment, and IT-business strategic
+alignment to explore potential opportunities with the use of
+Cloud Computing. This includes Security Governance where
+a Security steering committee can provide “guidance about
+security initiatives and alignment with business and IT
+strategies”. Such change is indispensable when starting to
+use applications in the cloud. Roles and responsibilities
+related to information security need to be set and explained
+for efficient change in the organization (Rittinghouse J. and
+Ransome J., 2009, p. 165).
+Other roles are related to Risk Management and Risk
+Assessment. Risk management involves identification,
+maintenance and accountability in important areas of the
+organization, like: “technology assets; data and its links to
+business processes, applications, and data stores” and
+“information assets including protection requirements, and
+custodians implement confidentiality, integrity, availability,
+and privacy controls” (Rittinghouse J. and Ransome J.,
+2009, p. 165). These formal actions are not completed until
+proper descriptions of needed procedures to support the risk
+management are formed. Risk assessment enables such
+descriptions, allocation of resources and prioritization of
+actions between normal business operations and the
+protection of information. Moreover, it provides the
+identification of proper controls that help decrease security
+risks besides reviewing if those are in place and working
+properly. Information security can then have a link between
+the business needs and internal policies with the proper
+allocation of resources, controls, and maintenance
+(Rittinghouse J. and Ransome J., 2009).
+However, without training individuals along the
+organization, and in particular direct users and the people
+involved in the risk management and risk assessment, the
+exposure to risk can increase due to unaware security
+vulnerabilities. Specific and general training for using SaaS
+can help enhance the right behaviors towards information
+security and provide updated training in a developing and
+changing environment such as the cloud computing
+(Rittinghouse J. and Ransome J., 2009).
+Besides training, “a cloud computing security team should
+first identify the information security and business
+requirements unique to cloud computing, SaaS, and
+collaborative software application security” (Rittinghouse J.
+and Ransome J., 2009, p. 167). These requirements are met
+by the deployment, execution and documentation of policies,
+standards, and guidelines. Again, these ones need to be
+updated according to periodic reviews and/or change in the
+business requirements to prevent disclosure of information
+(Rittinghouse J. and Ransome J., 2009).
+Security processes related to using SaaS in the Cloud need
+to be implemented having in consideration the business
+requirements and organization internal policies and controls.
+Thus, when designing the security architecture the following
+security processes should be designed along the different
+layers of the IT structure of the organization: authentication,
+authorization, availability, confidentiality, integrity,
+accountability and privacy (Rittinghouse J. and Ransome J.,
+2009, p. 172). It will allow future reviews to be designed
+accordingly making the whole process easier.
+In a Cloud environment, data becomes more vulnerable
+when stored outside the premises of the organization.
+Therefore, when it comes to whom, how and what actions
+can be performed related to information data, a Data
+Governance framework can help to define, nominate
+responsibilities by increasing awareness of the areas of data
+Inventory, classification, analysis, protection, privacy,
+retention/recovery/discovery and destruction (Rittinghouse J.
+and Ransome J., 2009, p. 175).
+
+V. RESEARCH FRAMEWORK
+Most of the findings under our literature review are
+theoretical frameworks and recommendations. The majority
+is from the professional or market side, with little from the
+academia. A more empirical approach is needed through a
+Case Study as an exploratory research. The goal is to
+analyze how and why in practice the change occurred in the
+case organization. In-depth interviews are the main data
+collection. The aim is to “recognize important themes,
+patterns and relationships” (Sanders M., Lewis P. and
+Thornhill A., 2009, p. 488) in the changes indentified.
+Holistic research framework presented here aims to
+analyze cross functionally the organization.
+
+[Figure]
+
+List of in-depth unstructured interview questions to put in
+the appendice:
+1. When did the organization started to used SaaS in the
+Cloud?
+2. How did it start the decision to consider SaaS?
+3. How long did the process take to decide to go into
+SaaS? Why? (cost savings, IT business strategy in the
+short and long run or...?)
+4. Why was SaaS chosen and not other? Criteria (network,
+hosting, application security, APIs, price, any additional
+costs for enhancement of security controls to handle
+sensitive and regulated data?)
+5. With the adoption of SaaS were there any changes to
+existing internal practices? If so, how and why has it
+happened? (any risk assessment, development of a risk
+treatment plan, and implementation of processes for
+responding to identified issues => all these still linked to
+the business strategy and needs)
+6. Any changes as well in the structure of the
+organization? Why?
+7. Has there been recruited new people with new
+skills?why?
+8. Has there been provided any specific training related to
+the SaaS? who and why?
+9. What were so far the biggest challenges in the
+organization regarding the adoption of SaaS in the
+Cloud? Why? Would you do it differently?
+10. How has the continuous improvement been conducted
+to keep up the cloud computing developments in terms
+of Information Security best practices?
+11. How and how long did it take for CC to decide how the
+Risk management would be structured and the
+allocation of resources for risk assessment?
+12. How were identified the different kind of professionals
+to be included in the risk management and risk
+assessment related to the SaaS?
+13. How have the processes been defined to decide when
+periodic review meetings should take place? How where
+the parameter that are reviewed in those review
+meetings defined?
+14. Has there been any training provided to users related to
+Security issues and others (please describe briefly) to
+use SaaS? How and who provided it? Why training was
+provided?
+15. How about training to the internal security team and
+(link this to fundamental security and risk management
+skills and knowledge inside the organization)?
+16. Have there been any policies implemented? Why and
+how has it been developed, documented and
+implemented?
+17. Have there been any changes to the policies, standards
+and guidelines related to SaaS since the beginning?
+Why have they occurred? (is it due to review on any
+basis or due to significant changes in the business or IT
+environment?)
+
+VI. EMPIRICAL RESEARCH
+A. Research Methodology
+The case study company is an industrial big multinational
+supplier with is headquarters in Finland. This company has
+adopted SaaS in the cloud since 2006. Therefore, 5 years has
+passed since its adoption, being considered a good subject of
+study for the changes occurred.
+The chosen interviewees are from different areas in the
+organization. From the top level management the
+interviewees are responsible for the decision and
+implementation of the changes occurred. A Head of
+Technology and global strategic and a Director, head of h
+process solution-customer interviewed for this purpose.
+Other relevant interviewees are a platform owner,
+responsible for in-depth processes changes due to SaaS; a
+representative from the Legal department due to the Service
+Level Agreement; and an Information Security Officer
+SaaS
+Strategic
+decision
+Needed
+changes
+identified
+Why?
+How
+implemented?
+Monitoring
+and
+feedback
+related to training, risk management and assessment
+planning.

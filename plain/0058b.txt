@@ -1,0 +1,57 @@
+Factors influencing the college student choice of school souvenir-cloth in University of Helsinki: A conjoint study
+1 Introduction.
+The aim of this paper is to report a study that deal with the choice of school souvenir, which is especially on cloth with UH logo. To evaluate the factors affect the result, conjoint analysis: a multivariate technique developed specifically to understand how respondents develop preferences for any type of object (products services, or ideas) (Hair et al 409., 2010) is being used, and make a contribute to analyses product choice by students. The first objective of this paper is to find important attributes of school cloth from the student’s perspective. Second, explore group differences between man and woman depends on their own willingness of the differentiate aspects. At last, the interest gap between four different campuses of university of Helsinki.  
+The next section provides a brief introduction of the market. According to the University of Helsinki annual report 2010(Table 1.1), there are 36609 students including undergraduate, master and PHD students in four school campus- City Centre Campus, Kumpula Science Campus, Meilahti Campus for Medicine and Viikki Campus. University of Helsinki has approximately 4,000 researchers and teachers. 
+[Table]
+
+It is no wonder that college life is one of the most important periods through the majority of people's whole life. To be a current student especially an alumni willing to have something remind his/her memory in college. Nowadays, school uniform is not that popular among college students who do not prefer wearing the same cloth every day and no their own style. However, student union of each school produces hoodie, T-shirts, and Thermal shirts within its own school logo, which is popular in American and west European. In the Nordic countries universities, such as University of Helsinki, it is hard to find a shirt of hoodie with UH logo.Thus, it has become very important for school union managers to understand more about the consumer behavior of students and alumnus, especially about what influences students decisions when choosing a school logo cloth. 
+2 Methods.
+From the book (Hair et al, 2010) list the steps to do conjoint analysis:
+a) Define the attributes (utility, factors, levels and profiles).
+b) Gathering preferences evaluation from respondents.
+c) Using multiple regressions to estimate par-worths.
+d) Compute the importance of each factor.  
+e) Assessing predictive accuracy.
+Full-profile method, pairwise comparison method, and trade-off approach had been widely present in the research paper.
+Full-profile is concluding the factors and number of factors is fewer than 6.Pairwise comparison method lists a rating scale to show the strength of each factor, and applicants mark the score individual. Trade-off approach is mainly compares two choices by ranking all combinations of levels.
+In academic literature,the full profile method has been the most used approach to conjoint analysis. However, this method has few limitations only suit small numbers of attributes and has technique problems of the conclusion when concerning larger numbers of attributes.
+3 Conjoint studies with SPSS.
+To identify the factors influence the willingness of purchase school souvenir-cloth, relevant products attributes list below. 
+Color(Black, Red, and Yellow).
+Pattern (T-shirt,Hoodies).
+Material (Cotton, Lycra).
+Sample
+Twelve students of the University of Helsinkitaking the questionnaires and four of them do not need those products. Other eight students are coming from four different campuses of University of Helsinki, and ranked 8 hypothetical combinations to show their choice preference. There are four men and four women participle in questionnaires, and all of them are current students of University of Helsinki.
+Result
+1) Part-worths and important of attributes
+Table 3.1shows the part-worth utility scores for each level of those attributes. Among three attributes, Color is the most essential factor (70.051%), which illustrates the color of the cloth lead the choice of students. Compare with type of materials, Pattern seems a bit of important than material when students consider buying a school souvenir-cloth, but not much more difference. The value of Pearson’s R=0.787 and Kendall’s tau=.837 contribute the stability of the result of SPSS. 
+Furthermore, the utility of each level should also be taken into consideration. With color, the most utility was picking up yellow (U=, 844). Meanwhile the utility of Black (U=-, 625), and the utility of Red (U=-, 219). It means students are more likely to purchase school souvenir-cloth with the color of red. From the Chart 3.2 Summary utilities of Pattern, the material of Hoodies is more popular and supported by students than T-shirt. Through the analysis of Chart 3.3 Summary utilities of Material, it is no wonder that students prefer the more comfort and quality material cotton than Lycra.
+[Table]
+[Figure]
+[Figure]
+[Figure]
+
+2) Group difference for four different campuses.
+Students in four school campus- City Centre Campus, Kumpula Science Campus, Meilahti Campus for Medicine and Viikki Campus are being distinguished with majors and subjects. Table 3.2 shows students in City Centre campus prefer red than other two colors, and Color looks less important than three others campuses (55.128). The reason might be in City Centre campus, majors are more focus on Arts, which induce students have partiality for bright colors such as Red (U=1.833) and yellow (U=-0.167). 
+For the students in Kumpula Science Campus, Meilahti Campus for Medicine and Vicki Campus, three tables do not have show significance difference among each other. It is because all of three campuses, students are subject to Science. However, the utility of Lycra (U=0.125) students in Viikki campus is higher than the utility of cotton (-.125).
+
+
+[Figure]
+[Table]
+[Table]
+[Table]
+[Table]
+
+3) Group difference forman and woman
+It’s obvious that men and women have significant different preference toward the color of the cloth. From the table 3.6, the utility of red(U=1,229)and yellow (U=0,854) are higher than the utility of black (U=-2,083). Both of men and women are in favor of Hoddies and cotton.  
+
+[Table]
+
+4 Discussion and Conclusions
+In conclusion, conjoint analysis found that the ideal school souvenir-cloth is the color of yellow, 100% cotton of Hoodies. School union managers who in charge of design and sell school souvenir-cloth can evaluate the results of each factorthrough conjoint analysis to identify how and in which parts can increase the student’s utility, and at last improve the market performance in the field of school souvenir-cloth.In Finland, there are 16 universities and more than 27 universities of applied sciences. Such a potential market encourages school union managers to focus on the school souvenir.
+However, due to the limitation of conjoint analysis still some key factors haven’t been list in this research, such as price, size, and brand of the cloth. The reason why this paper choose the other three attributes, pattern and material determine price. It’s hard to say which would be an ideal price for all students. What’s more, only eight students participle in this market research cannot represent the real needs of all students. That’s to say, the result of this researchcan only be a small index when school union managers make decision. 
+
+
+
+
+

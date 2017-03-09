@@ -1,0 +1,102 @@
+
+
+
+
+
+
+
+Credit spreads vs. credit ratings – which one is the better credit rating
+
+Introduction
+
+The financial crisis that started in the fall of 2008 shocked the global financial system. The crisis that got its start from the rotten American sub-prime mortgages has during the recent years developed into a debt crisis. The economic growth of Europe and America has been based on public and private spending, which has led to record-high levels of indebtedness on both the private and public sector.
+
+Since the implementation of the euro in the shift of the 21st century, many countries have been able to borrow money from the debt market to the lowest possible interest rate, thanks to their highest possible credit rating. The market blindly believed in the credit-worthiness of all the members of the monetary union, because the currency was anchored by the large economic powers like Germany and France.
+
+Well as the recent years have shown the markets were wrong. The so called “PIIGS-countries” or the “Mediterranean club” i.e. Portugal, Ireland, Italy, Greece and Spain have during the recent years shown alarmingly high deficits in their balance of payments and their public spending. These deficits have led to historically high indebtedness levels, because the deficits always have to be financed with debt.
+
+The excessive borrowing continued the major part of the last decade, until 2008 when the true state of the economy was revealed. One of the key factors, that the borrowing had been allowed to continue for as long as it did was the fact, as I mentioned earlier, that the government bonds of these countries had the highest possible credit rating of triple-A.
+
+Now many years after that the financial crisis has begun, many economists have wondered how these countries had maintained their triple-A rating for so long, when the structural flaws of these economies were clearly evident in years. The public opinion has also been highly critical towards the rating agencies. The rating agencies were first wrong with the sub-prime mortgage loans and then with government bonds. Both of these errors have cost billions to the ordinary tax-payers.
+
+These “fatal” errors have started a discussion about credit ratings and the big three rating agencies in general. The rating agencies have been accused of manipulating the market and politicians have begun to search for ways to limit their power.
+
+Economists have also researched alternatives to the traditional credit rating. One interesting option would be to measure the credit spreads. The credit spread is the difference in the yields between a bond and a bond that is considered risk-free, with the same maturity. The risk-free bond, which all other bonds are compared to, is in practice the German government bond or the American government bonds. It can be argued that the credit spread contains all the same essential information as the credit rating, but is more accurate. The problem with credit ratings is that the issuer of the asset pays for the rating; this gives a twisted incentive to the rating agencies because they don't want to give a bad rating to the one who’s paying the bill. Credit spreads on the other hand are determined by the market, which makes them more accurate because arbitrary opportunities on the market disappear in seconds.
+
+The aim of this paper is to research the advantages of rating bonds with the help of a credit spread based mechanism instead of credit ratings. The topic is now more current than ever and credit spreads and ratings are followed daily in the media. I will base my paper mainly on two articles that I will present in the earlier research section.
+
+The paper will be structured in the following way. The first part will include the abstract, a introduction and a review of the earlier literature. The second part will include the theory, a discussion of the pros and cons of both credit ratings and credit spreads. The third part will include a discussion and the conclusions.
+
+Earlier research
+
+In this chapter I will present some of the earlier research that has been done in this field of study. The topic has been much discussed in the media recently, so it has also naturally caught the attention of the economic community.
+
+(Flannery, Houston, & Partnoy, 2010)
+
+(Flannery, Houston, & Partnoy, 2010) study the spreads in credit default swaps as an alternate for credit ratings. Credit default swaps (CDS) are “insurance” contracts that an investor can purchase to hedge the taken position. For example, if an investor buys a Finnish government bond with the maturity of 5 years, he/she exposes himself to the risk that Finland will default and will be unable to pay its debts. But if the investor has purchased a CDS he/she will not lose it all, because in the case of a Finnish default the issuer of the CDS is obliged to pay to purchaser of the CDS. In other words the CDS provides an insurance against a Finnish default.
+
+The paper concentrated on the CDS spreads of the 15 most important financial firms. The study was conducted on data ranging from 2007 to 2009, which included the most critical years of the latest financial crisis.  (Flannery, Houston, & Partnoy, 2010) found that the credit spreads of the CDS contracts failed to foresee the financial crisis, as did the credit ratings, but they reflected the new information faster than the credit ratings. The biggest contribution of (Flannery, Houston, & Partnoy, 2010) was the confirmation that credit spreads are a good market-based alternative to credit ratings.
+
+(Partnoy, 1999)
+
+(Partnoy, 1999) takes a critical view on credit ratings. The paper even claims that the only superpowers left in the world are the United States of America and the credit rating agencies. The paper claims that the role of the credit ratings has been greatly exaggerated and the informational value of credit ratings have been steadily declining. The paper also discusses the dilemma with financial regulation and the need for NRSO-licenses to provide credit ratings.  finds that credit spreads are at least as accurate as credit ratings and they would be a potential substitute for credit ratings.
+Theory
+
+In this chapter I will discuss the pros and cons of the traditional credit ratings. I will also discuss the pros and cons of using credit spreads as a substitute for the traditional rating. Finally I will make a comparison between credit spreads and credit ratings.
+
+Credit ratings
+
+The main objective of credit ratings is to provide the investor a “grade” on the assets credit worthiness. There are thousands of financial assets on the markets nowadays and it is impossible for a single investor to analyze each and every asset, based on this fact it is easy to realize why credit ratings would be needed. An investor could choose based on the credit rating what asset to analyze closer or what to buy. Credit ratings help also to minimize the problem with adverse selection. Thousands of financial assets are issued daily, the quality of these assets range from junk to practically risk-free. A credit rating is a good instrument for the issuer to signal the quality of the asset. For example government bonds have to pay less interest if they possess a high credit rating and vice versa. This means that a credit rating is a credible signal, because assets that are not creditworthy will not acquire the rating. Credit rating agencies have also built a reputation as a provider of accurate essential information, even though this image has been stained during the recent years and the latest financial crisis (Partnoy, 1999).
+
+Credit ratings are for the most part provided by the “big three” i.e. Standard & Poor’s, Moody's and Fitch. These three firms are renowned around the world and they all have been licensed to provide credit ratings. Each of these firms possesses a lot of market power, i.e. they make profits above the perfect competition- equilibrium. The fact that rating agencies have to be licensed means that there will only be a handful of agencies providing information to the markets. The exclusivity of these licenses forms one of the major problems with credit ratings(Flannery, Houston, & Partnoy, 2010).
+
+It is a well-known fact that competition is good for the consumer. Competition drives down the prices, accelerates the technological progress and creates additional value to the consumer. Same goes for credit ratings. If there were more rating agencies, one could argue that the ratings would be more accurate, they would reflect all new information faster and they would be more foreseeing. In today’s world credit ratings have been criticized to be more retrospective than foreseeing and they don't portray the expected returns of assets accurately. It can also be said that the informational value of the credit ratings have declined over time since the 1970s, thanks to constantly developing financial markets(Flannery, Houston, & Partnoy, 2010).
+
+Another problem with credit ratings lies in the fact that the issuer of the asset pays for the credit rating. If the issuer of an asset wants to get the asset sold in today's world the asset has to have a credit rating. If the issuer opts to not go for a credit rating the market will deem the asset as junk, because why would any creditworthy asset not have a credit rating. This principal-agent relationship creates twisted incentives for the rating agencies. The issuer wants the best possible rating for the asset and the rating agency does not want to have any unhappy customers. So the result is that the asset gets a higher rating than it truly would deserve(Flannery, Houston, & Partnoy, 2010).
+
+This incentive problem raises the question of who should provide the credit ratings. The existence of credit rating agencies is well justified, but it could be a more socially optimal solution if the ratings would be provided by a unbiased third party, for example the department of finance or the central bank(Partnoy, 1999).
+
+Even though credit ratings have received a lot of criticism there has not been a replacing mechanism. In the next chapter I will present one option.  
+
+
+Credit spreads
+
+In the following part I will concentrate on credit spreads. Credit spreads are an option for credit ratings because they reflect the risk premium that the market requires to invest in an asset.
+The so called credit spread is the difference in yields between an asset and a “risk-free” asset. Credit spreads could be measured from either government bonds, municipal bonds or other debt assets. One could also look at the credit spreads of CDS contracts to determine the riskiness of an asset.
+
+The biggest strength of the credit spread as a rating is that it is determined by the market. This means in theory that it should reflect all the information that is available and the asset should be correctly priced. Credit spreads also react faster to new information than traditional credit ratings; this on the other hand means that they reflect the future better than credit ratings. These findings support the hypothesis that credit spreads are more accurate measures of risk than credit ratings (Flannery, Houston, & Partnoy, 2010).
+
+A weakness of credit spreads as a substitute for ratings is that there are no actual grades or guidelines. For example, if a bond is graded AAA or BB- what is the corresponding credit spread? When dealing with credit ratings, the investor can straight away see in what ballpark the asset is by looking at the rating, the case is not as clear with the credit spreads (Flannery, Houston, & Partnoy, 2010).
+
+Credit spreads compared to credit ratings
+In this chapter I will make a comparison between credit ratings and credit ratings. If we start with a comparison which on is more accurate the winner is the credit spread based method. The credit ratings can be viewed as stale and they are expected to predict the performance of the bond in the near future. Credit spreads on the other hand are determined daily and they showcase all the latest information and future views (Partnoy, 1999).
+
+The method of using credit spreads as ratings is not very well known, credit rating is on the other hand an expression that everybody are familiar with. Credit ratings are also more easily read compared to the spreads. Investors that do not have the time or the knowledge to examine and compare the spreads of different bonds and assets, can have a hard time figuring out the different investment grades just by looking at the credit spread. Credit ratings give this information right away. This is also one of the factors, which have helped the credit ratings and the rating agencies to achieve their almost legendary status(Flannery, Houston, & Partnoy, 2010).
+
+If we look at ratings from the perspective of asymmetric information, we find that credit spreads are clearly the superior rating method compared to the traditional ratings. Asymmetric information means that one party possess more information than another party, this can lead to situations where the better informed party takes advantage of the less informed one. In the case of credit ratings this can be applied to issues of new bonds. Nowadays it is a necessity for a bond to have some sort of credit rating, if the issuer wants the bond to be liquid and attractive to investors (Partnoy, 1999).
+
+What the issuer does is that they hire a rating agency to provide a rating for the bond, and because the issuer pays for the rating, they receive a higher rating than they should. This dilemma shows how the principal-agent relationship between the issuers and the rating agencies give “false” information to the market. Credit spreads on the other do not suffer from this principal-agent relationship, because the spreads are determined by the markets (Flannery, Houston, & Partnoy, 2010).
+
+Another big advantage that credit spreads have over credit ratings is the fact they are determined by the market, which means that there are thousands and thousands of investors who make sure that all information is reflected in the spreads. There are only three NFSO-licensed rating agencies in the world, which give all of them huge market power and they can extract economic rents without the fear that some other competitor steps in and starts grinding down on the profit of the rest. This lack of competition does not provide enough incentives for rating agencies to constantly monitor and develop their rating methods (Flannery, Houston, & Partnoy, 2010).
+
+Discussion
+Credit ratings have met some strong opposition from the public during the recent financial crisis. The failure of recognizing the underlying risk in both the sub-prime mortgages and some sovereign bonds has raised the discussion, what credit ratings are actually good for. If the credit rating does not reflect the true expectations of the bonds performance, then why do they have such a great weight?
+
+The main problem in my opinion is that there are too few rating agencies. The market based solution is often the most efficient one in my opinion. A good example for this claim is to look at the failure of communism. Everything was regulated in the Soviet Union, which created twisted incentives. If the ratings would be provided by the credit spreads, then the markets would probably give the best solution. This solution is not perfect, because the markets are also wrong from time to time, but I think they would still do a better job than the rating agencies.
+
+Another solution would also be to provide more licenses to firms, that want to get into the rating business, but it takes time to build a credible reputation. To provide more NFSO-licenses would also be pretty tough, because the financial regulation would have to change and the three big agencies would oppose this regulation with all their might (Partnoy, 1999).
+
+The regulation of the financial markets has been a hot topic after the financial crisis, but there has not been much discussion of the regulation of rating agencies. I think that this is a issue that the governments have to tackle eventually. The European Union has proposed some reform propositions, but they have not been implemented yet. This reforms have naturally received an ice cold welcoming from the rating agencies, and the “big three” will surely object to any regulations that will limit their business (FT.com,2010).
+The “inaccuracy” of the credit ratings is a side-product of the lack of competition and the twisted incentives that the rating agencies have. Competition forces firms to better their product, and I think the case would be the same with credit ratings.
+
+The main problem with using credit spreads as ratings is determining the different grades of the assets. I so not see this as a problem. One could use historical data to research how different bonds have performed and on basis of this research create a table with different grades. For example, every asset with a spread less than 25 basis points would be equivalent to a Triple-A bond, and a bond with a spread of 25 to 50 basis points would equal a rating of AAA- and etc. A table like this is proposed by (Partnoy, 1999).
+Conclusions
+Credit ratings have been under strong criticism during the recent years. Some of the wrong and questionable decisions that the rating agencies made during the latest financial crisis have strongly undermined the authority of these firms.
+
+Even though the informational value of credit ratings have been decreasing since the 1970s (Partnoy, 1999), there has not really been any subsitutes that would have challenged the position of the traditional ratings. This is also a sign of the market power that the rating agenicies possess. The rating agencies have succeeded in making them unexpendable. They have also managed to prevent the de-regulation of the credit rating market. This is also a point where the governments should step in. There has been musch discussion after the crisis of how the financial markets should be regulated to prevent catastrophes like the one we saw in the fall of 2008. But there has not been much discussion of how rating agencies should be regulated.
+
+This paper has researched the possibility of using a credit spread based mechanism to rate financial instruments. The credit spreads would provide a market-based solution to the rating-dilemma, and markets have historically provided the most efficient solution.
+
+Credit spreads have been shown to react faster to new information than credit ratings. One reason for this is that the credit spreads are evalueated daily, when credit spreads do not change that often, if there are not any drastic news. Credit spreads have also been shown to predict the future better than the traditional ratings.
+
+I would propose for future research, a paper where the the credit spreads would be graded. What I mean by this is that credit spreads of different sizes would receive their own grade, this would help the investors to easily determine, which bonds to buy or sell.

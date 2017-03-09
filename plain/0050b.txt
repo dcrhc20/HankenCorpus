@@ -1,0 +1,24 @@
+One-to-one marketing: Counterattacking the problems
+
+1 Introduction
+The world of marketing has undergone a huge transformation in the past decades. The discipline started off transactional and has now moved to become relational. In the transactional period, the competition was scarce and companies had the power to decide on what was produced and the customers had no means in influencing the production. Nowadays, the tables have turned; information is easily available and therefore customers have no problem in comparing different alternatives and finding exactly what they want. Hence, mass marketing becomes ineffective and customers may and will give feedback to companies. Competition is fierce and in order to succeed a company needs to put the customers in focus and meet their demands. One-to-one marketing; personalization and customization have become relevant. 
+There have been several studies on one-to-one marketing and it is generally accepted that it brings upon many opportunities for a company. Jamie Fiorda (Karr 2001) claims that such opportunities are e.g. increased sales and customer loyalty. However, where there are opportunities, there also lie problems. There are some studies on the issues but no comprehensive study seems to exist and many companies are struggling with the issues regarding one-to-one marketing. 
+This study aims at mapping out the problems in one-to-one marketing from both a company’s and a customer’s perspective. The secondary aim is to look at the managerial implications and arrive at a conclusion on what a company can do to address these issues. 
+The paper is divided into three sections. In the first section, previous literature on one-to-one marketing will be examined. A special interest will be put on the problems encountered in one-to-one marketing. The second section will contain managerial implications, i.e. what managers can do to deal with these issues of one-to-one marketing. The last section will contain a discussion and conclusions of the study.
+
+2 One-to-one marketing
+Definition of one-to-one marketing. 
+Difference between personalization and customization; Personalization is Internet based (personalizing web-pages according to the user’s movement on the web) and customization is product based (designing your own Nike shoes) (Arora et al. 2008).
+
+2.1 Personalization
+Benefits
+Problems e.g. privacy (Smyth 2007) and legal (Schubert, Kummer & Leimstoll 2006) issues; how and what information can a company gather about a customer without crossing the laws and invading customer privacy. Personalizing might also be difficult; it is not an easy task to create a system that gathers the right information and does so effectively. 
+
+2.2 Customization
+Benefits 
+Problems e.g. humans are lazy; do they really care enough to put the time and effort into designing their own products? Customers have fuzzy expectations (Ojasalo 2001) i.e. they do not always know what they want and therefore need the company to put it in front of them. Costs; it can be expensive to create a system that supports customization (technical, functional). Risk; the company might invest huge sums of money and fail to make the customizing offer successful. Brands; brands are very powerful in some industries. The customer might specifically want a designed product, not their own creation.
+
+3 Managerial implications
+What can a company do to counterattack the problems?
+
+4 Conclusions

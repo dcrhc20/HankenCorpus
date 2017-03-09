@@ -1,0 +1,56 @@
+Strategy in military and business contexts
+
+Introduction
+Strategy is perhaps the most used single word, term or concept, in business in general and management in particular. The word strategy is used in management, accounting, finance, marketing and personnel policy with seemingly different meanings depending on the discipline that uses it. This can lead to a confusion for a reader not familiar with the different meanings.
+
+When looking at how the word is defined in literature one can see that there are as many definitions as there are writers. This makes the word, term or concept of strategy highly nebulous and very imprecise. Due to this the word, term or concept risks loosing its meaning altogether and becoming irrelevant.
+
+Purpose
+The purpose of this paper is to examine how strategy moved from a purely military context to a business context and what kind of differences there are in both meaning and usage of the word, or term. The paper starts with the etymology of the word and its original meaning. Texts of military strategists are examined so as to establish whether there are commonalties in them with the intention to establish a common meaning. 
+
+An ancillary purpose of this paper is to provide the reader with a better understanding of a very important term used widely in business contexts.
+Origins of the word strategy
+The word strategy is derived from a Greek word strategos which means “leader or commander of an army, a general”. The word in turn is a combination of two Greek words stratos “army or  host” and agos “leader or chief”. The words meaning is very clear in the military context whereas its use in the business context is very obscure.
+
+Military strategy
+Commonalities in military strategy 
+There are significant commonalities in the text of military strategists. These commonalities are not restricted to time period or culture. It is possible to give a common description of what the word “strategy” in the military context means. There are many factors that are the same regardless of origin of the text. Leading or commanding an army seems to require the same things from the generals. Below is a description of what the requirements for leading an army are and what duties and responsibilities the commander has.
+Business strategy
+Origins of business strategy
+Introducing strategy into the business context is widely contributed to Igor Ansoff. His book Corporate Strategy that was published in 1965 was the very first book in which strategy was used as tool for planning business activities. Previously planning had not been as systematic. Still there is little doubt that corporations had had strategies long before 1965, they were just not called strategies. 
+
+Schools of business strategy
+Researchers (Mintzberg et al. 2000) have identified ten major different schools of strategy and grouped authors accordingly. 
+
+Differences in business strategy
+The differences in how business strategists use the word “strategy” can at least partly be explained by the concept of mental models. 
+Mental models
+Link between military and business 
+Chandler (1993) describes how the link between military thinking and business thinking was formed. In the late nineteenth century USA business enterprises were growing fast and thus there arose a need for a more systematic way of managing them. Companies were operating over large areas and had thousands of employees that had somehow to be supervised and managed. The owners of the companies started to hire military officers as overseers and as what is today called managers. These officers had received their officers training at West Point, the military academy of the USA. They were experienced at commanding large numbers of men and they had had an opportunity to practice their skills in the US Civil War. They organised the companies according to the best military knowledge of the time. Companies started to resemble military organisations with chains of command and strict definitions of responsiblities.
+
+Hoskin et al (1997) view military and business strategy more as twins rather than being parent and offspring.
+
+People tend to use methods and practices with which they are familiar when encountering new situations that the have never before experienced (Dörner). Military officers introduced the methods they were familiar with and which they knew worked.
+Comparison of military and business strategists
+Comparing the backgrounds of military and business strategists is useful because it will explain some of the differences that can be found in the respective disciplines. This comparison will be useful when explaining the differences in how strategy is defined by the respective groups of strategists.
+Military strategists
+There is, however, only little precise information on the earliest writers on military strategy such as Sun Tzu and Vegetius. They seem to have been military men of some sort but the details are very diffuse. 
+
+Later strategists such as Maurice are well documented. The best documentation can be found on De Jomini, Clausewitz, Maurice de Saxe, Alfred Thayer Mahan. All military strategists seem to have been soldiers with first hand experience of command in actual war in addition to extensive studies of the subject.
+
+Business strategists
+The backgrounds of business strategists are generally very well documented. All have at least a degree in business administration and many have also a degree in engineering. Most have never worked in business organisations as members of management with responsibility of business operations. Most have worked as researchers at universities, business schools or at consulting companies. This brings out an interesting aspect of the development of business strategy thinking. The majority of business strategists are western in general and Anglo-American in particular. They work usually at American business schools and their research objects are American or multinational corporations led and managed by Americans who have been trained at American business schools by American professors who have based their strategic thinking on research made at corporations led by Americans who have been trained at American business schools by American professors and so on. This creates a closed loop into which fresh thinking and new ideas are rarely introduced. Few if any business strategists have first hand experience in leading a corporation of any size. Whereas the majority of military strategists base their work and ideas on personal experiences gained from war.
+Sources
+Texts from various time periods of time and different cultures are used. Ideas of military strategists such as Vegetius, Maurice from Rome and Byzantium as well as Sun Tzu from China and Kautiliya from India are examined. More modern such as De Jomini, Clausewitz and Musashi are also considered. These are examined to establish similarities or dissimilarities over time and between cultures.
+
+Text on strategy in the modern business context by Igor Ansoff, Henry Minztberg and Michael Porter are used. Ansoff is widely considered the Father of Strategic Management. The latter two can be considered the most influential theorists of business strategy. Textbooks popular at business schools will also be examined as they are influencing coming generations of managers.
+
+Psychological factors, such as mental models, and their influence on how strategy is defined are also considered. The influence of psychological factors on strategy as well as strategy as a psychological phenomenon will be examined. Psychology and psychological warfare are important aspects in the oriental strategic tradition. The tie between military and business strategy is much tighter in Japan and China as both fields have their roots in Zen Buddhism. 
+
+The study will be based on literature that is more or less publicly available. The study should not be considered an exhaustive study of strategy, its origins and its definition in business and military contexts. Its aim is to give the reader an overview of the complexity of the field of strategy and act as a primer for further more detailed studies of the subject.
+
+Conclusions
+There is no strong and significant connection between military strategy and business strategy. The connection between them is more or less created by the use of terminology which have their roots in military strategy. Terms such as “captains of industry” which refer to managers, “campaign” which refers to business activities with limited scope, “division” for different parts of the company, to name but a few . This inference is strengthened by quoting military strategists such as Sun Tzu and Miyamoto Musashi which in fact have very little to do with contemporary western business strategy. It could be said that these, and many other, military strategists are “twice removed” from business contexts. They are culturally removed from western thinking which forms the core of main stream business strategy thinking and as previously noted are not related in any meaningful way to business strategy as they are military strategists..
+
+Further research 
+The largest change in management thinking and practice occurred after World War II. It would be interesting to investigate what influence the home coming officers have had on this development. What influence have been exerted on the behaviour of future managers by the officers training they received and by the actual warfighting they were involved in.

@@ -1,0 +1,50 @@
+Localization of Industries: Decisions Today and Challenges in the Future
+
+1 Introduction
+The concept of location theory rose during the 19th century (e.g. Weber, 1929) along with the era of industrialization, and continued to develop throughout the 20th century. The usability of such theories is of even greater importance in the internationalized world of today: as goods and production factors are enabled to move freely, incentives for companies to reconsider the localization of their sources grow even bigger.            Although some research has been conducted on the subject, many are made as case studies for production of specific products in specific countries. Likewise, this paper will also focus on studying the case company in order to acknowledge and address specific issues for thisparticular company, as initial research indicates that little generalizations can be made. Furthermore, the playing field is constantly changing with new regulations,political actions, availability of production factors, and the distribution of welfare globally. Because of this, research and evaluation must be done quite frequently. This paper will therefore start by giving an introduction and overview of the current factors that affect the localization decisions made within corporations. The main part of the   paper will however focus on the case company and the factors that according to them are of relevance today. The discussion that follows builds upon the current state, and aims at identifying possible threats and scenarios for the future.
+As freight volumes for containerized cargoincrease year by year (World Shipping Council, 2012), it is obvious that production factors are found to be more economically viable on one continent then another. But at the same time the fear of shortage of fossil fuels will eventually lead actors into investigating solutions that require fewer and shorter transportations.Ever growing restrictions on emissions will have the same effect, as the investments in cleaner technology will in the end be paid for by the end-user.    Also, as the bigger part of the world is made up of emerging markets with the BRICS countries, and it is said (Baldwin & Martin 1999) that we are in the middle of a second wave of the industrial revolution. This will perhaps not change the fundamentals of    localization theory, but it will arguably greatly change the setup of today.
+Previous studies, such as Baldwin (2011) suggest that producers located in these countries riding on the 2nd wave of industrialization do not need to have a deep knowledge of the production. They only have to be strategically located with regards to the supply chain of international companies. This implies that the step to becoming an exporter is small.
+However, the recent economic instabilities justify a deeper analysis of the subject. The company studied for this paper operates in a global, constantly changing, environment, where their decisions regarding localization is crucial for the profitability.
+As many studies regarding the subject focuses on “traditional” outsourcing industries such as electronics, automobiles and clothing, I believe that there is a need for more   thorough research offering insights to another type of industry.
+[Research question? Purpose of the paper? Paper structure?]
+
+2 Literature review
+
+3 Method / Material
+Decribes the methodology, materials, and procedures
+
+The subject was studied mostly by qualitative means, consisting of reviews of scientific articles, and more importantly by discussing with a corporation that manufactures goods globally. Additionally, quantitative material was obtained in the form of data regarding the transportation of goods worldwide. 
+
+4 Results / Analysis
+Findings described, with commentary
+
+The information acquired through the literature and the interviews have been divided into groups based on their main characteristics. In the following chapters these will be presented.
+4.1 Laborcosts
+Labor costs are usually one of the main reasons why production is moved abroad.      Depending on the technical specifications of the product, it is decided if the product can be manufactured with automated processes such as welding robots, or if the production requires a great amount of manual labor. If automation is possible, production abroad will not likely give an economical advantage, as the cost of equipment is likely the same regardless of localization. If on the other hand production is labor intense, the           production price will largely be dependent on labor wages.
+
+4.2 Economies of scale
+The batch sizes of the order, and the amount of products that can be stuffed into       transportation units such as sea-containers, will affect the costs linked to transportation.
+4.3 Fluctuations in the global market
+Whether the production is carried out in own facilities or the products are bought from contract manufacturers, they are always subject to fluctuations in prices of raw materials and local currencies.
+The recent recession has led to a decrease in demand throughout the world. This in turn has led to changes throughout the supply chain.
+
+4.4 Lead times
+Time can be a crucial factor, meaning that the price will play a smaller role in the       localization decision.
+
+4.5 Environmental issues
+Maersk Line, the worlds largest shipping company has made orders on container ships that will, when finished, be the largest ships in traffic. Thies
+
+5 Discussion
+An account of what has been learned
+Moving from specific findings to generalisations
+Explanation of the results with respect to the theoretical framework applied
+Why is it necessary to have a discussion section separate from the results section?
+
+6 Conclusion
+
+
+Appendix 1:
+
+Test 1
+
+

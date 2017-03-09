@@ -1,0 +1,367 @@
+Exceptional Circumstances in Compulsory Licensing of IPR
+
+
+1. Introduction
+
+   Intellectual property rights are valuable assets to companies. Particularly licensing
+intellectual property rights is an efficient way for companies to pursue profits. At the
+same time business relations in general are becoming more complex and competition
+between companies is harsh. Consequently, there are multiple competing interests to be
+fulfilled in today's market. In the continuously developing market system intellectual
+property regulation and regulation concerning competition tend to collide. Thus, the
+legislator as well as the authorities applying the law should be able to do a justifiable
+evaluation between the interests of competition law rules and the rules concerning
+intellectual property rights and thus design the best possible decision in every case.
+
+
+   This paper examines the possibilities of a company that is in a dominant market
+position, according to the EU competition law rules, to refuse to give a competing
+company a right to use its intellectual property right. Moreover, this paper studies the
+situations under which an intellectual property right may be subject to compulsory
+licensing under Article 102 of the Treaty on the Functioning of the European Union
+(TFEU). The compulsory licensing is considered possible under certain exceptional
+circumstances defined in the case law of the EU. Consequently, this paper describes
+some parts of the legal praxis of the EU.
+
+
+  Furthermore, the boundaries of the exceptional circumstances in which a compulsory
+license will be granted are still being tested. In addition, most of the legal literature
+analyzing the concept of compulsory licensing has concentrated on evaluating either
+some parts of the exceptional circumstances or evaluating the situation mainly from a
+legal viewpoint (e.g. MacQueen et al. 2008). This partial and merely legal approach is
+not sufficient as there are also economic aspects in the cases. For example Korah (2006)
+demands more discussion on economic theory in relation to the decisions of EU courts.
+There are only a few studies (e.g. Mylly 2009, Vezzoso 2006, Kanter 2006) that analyze
+the exceptional circumstances from an economic point of view. Therefore this paper
+contributes to understanding the economic aspect of the evaluation of a refusal to
+license.
+
+
+    This study addresses three questions. Firstly, as the owner of intellectual property
+right has an exclusive right to exploit the intellectual property right for example through
+licensing, the owner can prevent competition in relation to the subject matter of the
+right, but when can a refusal of licensing be an abuse of a dominant market position?
+Secondly, in what circumstances is a company in a dominant market position allowed to
+refuse a license? Moreover, are these circumstances practical and reasonable from an
+economic viewpoint?
+
+
+    The remainder of this paper is divided into four sections. The following section
+provides an overview of the applicable EU legislation and principles. The second
+section presents some EU case law and the third section discusses the justifiability of
+compulsory licensing from an economic point of view. The concluding section presents
+a summarized overview of the current situation and research findings.
+
+
+2. Applicable legislation
+
+2.1 Licensing
+
+
+    Licensing is a central feature of the exploitation of intellectual property. Intellectual
+property right can be exploited through licensing; intellectual property licensing
+agreements are simply ordinary agreements between the right holder and third parties
+(licensees) to determine how, when and where and for how much the third party can
+exploit the intellectual property of the owner. In other words, the licensor takes
+advantage of his right by granting licenses. That is to say the licensor pursues financial
+benefit in the form of royalties and license fees. Moreover, licensing is an effective way
+for the licensor to make profit especially in cases where the licensor himself is not able
+to use the right to its full extent due to lack of resources or expertise.
+
+    As an exception to the general rule of the freedom of contract, in some situations the
+contents of the license agreement can be restricted due to some compulsory provisions.
+In these situations the owner of the intellectual property right is not allowed to choose
+the contracting party freely and he might not be able to even choose whether to make
+the agreement or not. Furthermore, such obligation to compulsory licensing can also
+arise in individual cases, which are the subject of this study, when a company is
+considered abusing its dominant market position.
+
+
+2.2 The common market and the abuse of a dominant market position
+
+
+    One of the main objectives of the EU is to guarantee the functionality of the internal
+market. Therefore there should not be any trade barriers between the member states.
+However, because the intellectual property rights as exclusive rights are in nature
+potential to erect barriers to free trade, the free movement of goods and creation of a
+common market is threatened to some extent by the exercise of intellectual property
+rights. Accordingly, it is apparent that as well as the EU legislation, also the legal praxis
+of the EU plays a significant role in determining the boundaries for competition as well
+as for intellectual property owner's rights.
+
+    Furthermore, the promotion of market integration is one of the key objectives of EU
+competition policy. Thus the EU is trying to foster competition and accordingly it has
+set some legislative boundaries for the companies that operate in the common market.
+The aim is to ensure that free trade is not compromised by unacceptable, restrictive or
+monopolistic practices. Competition law rules applying to companies that enjoy
+economic strength and concerning the abuse of a dominant market position are in article
+102 TFEU which provides as follows:
+
+            Any abuse by one or more undertakings of a dominant position within the
+            internal market or in a substantial part of it shall be prohibited as
+            incompatible with the internal market in so far as it may affect trade between
+            Member States.
+
+            Such abuse may, in particular, consist in:
+
+            (a) directly or indirectly imposing unfair purchase or selling prices or other
+            unfair trading conditions;
+
+            (b) limiting production, markets or technical development to the prejudice of
+            consumers;
+
+            (c) applying dissimilar conditions to equivalent transactions with other trading
+            parties, thereby placing them at a competitive disadvantage;
+
+            (d) making the conclusion of contracts subject to acceptance by the other
+            parties of supplementary obligations which, by their nature or according to
+            commercial usage, have no connection with the subject of such contracts.
+
+
+
+
+    It should be underlined that according to the article 102, only the abuse of a
+dominant market position ­ market power - not the position in itself, is forbidden.
+Generally abuse has been described as conduct by a dominant firm which seriously and
+unjustifiably distorts competition or causes it further to weaken. Abusive behavior can
+for example be price discrimination.
+
+    The relevance of article 102 for the owners of intellectual property rights can be seen
+in the context of licensing. Firstly, a refusal to enter an agreement with a third party
+does not automatically mean a contravention with the article. However, in some
+circumstances it may be abusing of a dominant market position to refuse to license.
+
+Hence, what are the rules concerning compulsory licensing? In order to address this
+question, the European courts have sought to develop rules which balance the interests
+of the holder of the intellectual property right with those of the creation of a common
+market and competition law. Accordingly, some case law will be examined in the
+following section.
+
+
+3. Compulsory licensing ­ case law of the EU
+
+     In one of the first cases concerning the question as to when and if a refusal to license
+a third party might amount to an abuse of a dominant position -the case Volvo v Veng -
+the European Court of Justice (ECJ) stated that the mere refusal to license a third party
+did not amount to an abuse of a dominant position.
+
+     Later on ECJ outlined in the Magill case (Radio Telefis Eireann (RTE) and
+Independent Television Publications Ltd (ITP) v Commission ) that the exercise of
+intellectual property right and the refusal of a license do not automatically pose an
+infringement on competition rules, but in certain circumstances they can lead to an
+abuse of a dominant position. ECJ defined those exceptional circumstances in which a
+refusal to license may constitute an instrument of abuse. These are where there is no
+actual or potential substitute for the product for which the license is sought and there is
+a demand for a product which is not provided by the rights owner. In addition, the
+refusal to license must not be objectively justified and interference in a secondary
+market has to occur.
+
+     After the Magill case, the ECJ gave its decision in IMS Health case (IMS Health
+GmbH & Co. OHG v NDC Health GmbH & Co. KG). In this case, after referring to
+Volvo v Veng and Magill, the court underlined that an exclusive right of reproduction
+forms a part of an intellectual property owner's rights. A refusal to grant a license, even
+by a dominant company, could not in itself constitute an abuse of article 82 EC
+(currently 102 TFEU) except in exceptional circumstances.
+
+The ECJ stated that the refusal by a company which holds a dominant position to grant a
+license to another company constitutes an abuse of a dominant position where the
+following conditions are fulfilled: the refusal must prevent the emergence of a new
+product for which there is a potential demand; the refusal cannot be objectively justified
+and the refusal must be such as to exclude competition in a secondary market.
+
+     With the above mentioned IMS Health decision, ECJ reinforced the interpretation
+adopted before. The court also reinforced the necessity of the prerequisites ­ the
+exceptional circumstances- where fulfilling the undertaking in a dominant position can
+be considered abusing its position. Nevertheless, the court has generally emphasized
+the exceptionality of compulsory licensing.
+
+     The most recent case concerning the compulsory licensing of intellectual property
+rights is the Microsoft case. In the Microsoft case, one of the most famous cases, both
+the European Commission and later on the Court of First Instance (CFI) concluded that
+Microsoft had abused its dominant position in the PC operating system market by
+refusing to supply competitors the necessary interface information for their products to
+interoperate with Windows, and hence to compete viably in the market.
+
+     The CFI concluded that while companies are as a rule free to choose business
+partners, is some circumstances a refusal to supply by a dominant company can
+constitute an abuse if a dominant position unless it is objectively justified. Moreover, the
+exercise of the exclusive right by the owner of the intellectual property right may give
+rise to such an abuse only in exceptional circumstances. The CFI stated that there were
+three preconditions for the exceptional circumstances: the refusal must relate to a
+product or service indispensable to the exercise of an activity on a neighboring market,
+the refusal must be such as to exclude any effective competition on that market, and the
+refusal must prevent the appearance of a new product for which there is demand.
+
+     In addition, the Commission had concluded in its decision that it was entitled to take
+account of exceptional circumstances other than those identified by the ECJ in the
+Magill-case for example. In spite of this Commissions statement, the CFI considered
+that first of all, should be decided whether the circumstances identified in previous
+cases, Magill and IMS Health, were also present in this case. Only if it would find that
+one or more of those circumstances were absent the Court would proceed to assess the
+particular circumstances invoked by the Commission that is the other circumstances.
+
+
+5. Economical evaluation of exceptional circumstances as a whole
+
+
+5.1 Competing interests
+
+
+     Evidently, the essence of an intellectual property right is that it gives the owner a
+monopoly in the subject matter of the right for a declined period of time. The owner
+strives to obtain economic return with the intellectual property right. Generally, in
+Europe it is considered pro-competitive to grant strong protection to intellectual
+property rights. On the contrary, freedom to copy is a cornerstone of competition and
+it operates to minimize monopoly profits. What is right balance in the market then and
+what is the right amount of intellectual property protection? How far does the
+requirement for a free trade go, what are the needs of customers and when can
+compulsory licensing be justified?
+
+     When assessing the justifiability of compulsory licensing, three kinds of interests
+have to be taken into account. Such are those of the company in a monopoly position,
+competing companies and consumers. A company in a monopoly position is aiming at
+reducing the transaction costs by refusing to license. Furthermore, as a sole
+manufacturer and seller of a product, a company could define the price of their product
+in the market and maximize their monopoly profits. First of all, Motta (2007), among
+others, has argued that the prospect of having market power (i.e. some profit) represents
+the most powerful incentive for firms to innovate and invest. Regulation concerning
+competition should therefore ensure that firms will be able to enjoy the rewards for their
+investments. On this account, Motta (2007) further states that "as a consequence, drastic
+structural remedies must be carried out only in truly exceptional circumstances."
+
+     Furthermore, in addition to taking into account the encouragement of the incentives
+to innovate of the company in a monopoly position, also the public interest should be
+taken into account. The public interest can be jeopardized if private rights are exercised
+in a way that means that the property in question is not used or exploited in a public
+setting. Compulsory licensing is an excellent example of a situation where public and
+private interests are competing. If the competing companies cannot enter the market and
+do not have access to essential facilities, there is no competition. Lack of competition
+means usually higher prices for consumers. The aim with competition law would be to
+enhance consumer welfare. Furthermore, in some cases compulsory licensing is hence
+justified in order to protect consumer welfare although it restricts the actions of the
+company that has a monopoly.
+
+     In relation to balancing the public interest to the interests of the company in a
+dominant position, a specific test was used that focused on innovation incentives in the
+Microsoft case. This test was used when deciding whether the refusal to license could
+be objectively justified. The test included an evaluation between interests: the
+company's refusal to supply cannot be objectively justified under article 102 TFEU if
+the negative impacts of a compulsory license on the dominant company's incentives to
+innovate are outweighed by its positive impact on the innovation level in the entire
+industry. In the Microsoft case, the possible negative impact of the order to supply
+interface information on Microsoft's incentives to innovate was outweighed by its
+positive impact on the level of innovation of the whole industry. According to Vezzoso
+(2006), such a refusal to deal could constrain the consumer choice, lower input, raise
+prices and therefore produce allocative inefficiency. Vezzoso (2006) furthermore
+concluded that the test however was controversial from both economic as well as legal
+point of view.
+
+     All in all, in general compulsory licensing is justifiable in situations where a
+company in a dominant market position has the only access to an inevitable facility and
+this causes a restrain to competition. The inevitable facility should be essential and
+inevitable to other companies for example for entering the market. The fear of
+compulsory licensing might be a hindrance of innovation to the company in a dominant
+position if it is aware that the innovation is so essential to others that the company will
+be obliged to license it. However, in these cases the company might freely draft
+licensing agreements and get the profits that way.
+
+     According to Kanter (2006), compulsory licensing may be used only in cases where
+other less restrictive measures are likely to be insufficient in addressing the anti-
+competitive conduct. Furthermore, authorities should draft the compulsory licensing as
+narrowly as possible and competition authorities must not intervene too rashly and
+reduce the incentive to innovate. I agree with Mr. Kanter and also other authorities, in
+addition to competition authorities, should address the issue similarly.
+
+
+
+
+5.2 Exceptional circumstances as guidelines
+
+
+     According to Kanter (2006), economic reasoning and common sense suggest that
+strong intellectual property rights encourage productivity, investments and innovation.
+On the other hand, if a firm has control over an essential facility this can undermine
+competition and reduce productivity and lessen the incentive to innovate. Consequently, defining what is the right balance between these interests is not an easy
+task.
+
+     Thus, are the exceptional circumstances defined in the case law of the EU a
+reasonable way of evaluating situations concerning the justifiability of compulsory
+licensing? The conditions that the courts have laid down for the exceptional
+circumstances for compulsory licensing in case law can be considered as guidelines.
+The problem is, however, that how can a company that operates in the marketplace be
+able to recognize the conditions for abuse early enough or at all during the course of
+business? Are the conditions that the courts made in the mentioned cases so flexible that
+all relevant factors in the market can be taken into account? In my opinion, the rules are
+reasonable, but there should be some flexibility when the circumstances are assessed by
+the courts in the future.
+
+     I also consider it to be possible that other circumstances could be taken into account
+as the Commission has suggested in its decision in the Microsoft case. Moreover, I
+agree with Korah (2006) about the fact that the Commission's decision in the Microsoft
+case was controversial and more discussion on economic theory is needed.
+
+     As can be reasoned on the basis of legal praxis, compulsory licensing is possible in a
+situation where a dominant firm owns or controls access to an essential facility. It then
+may be pro-competitive to force the dominant company to grant access to the facility
+provided that a refusal of access would have significant anti-competitive effects. The
+possible anti-competitive effects are an important factor when the situations are
+evaluated. According to Mylly (2009) the Magill decision marked the beginning of an
+effects-based argumentation model. This means that the court based its decision on
+considerations related to competitive effects.
+
+
+6. The conclusions
+
+     This study investigated the justifiability of compulsory licensing and the definition
+of exceptional circumstances. According to the legal praxis of the European courts the
+refusal by a company holding a dominant position to license a third party to use a
+product covered by an intellectual property right cannot in itself constitute an abuse of a
+dominant position within the meaning of article 102 TFEU.
+
+      However, in exceptional circumstances the exercise of the exclusive right by the
+owner of the intellectual property right may give rise to such an abuse. Evidently, as
+mentioned, this is an exception about the general rules and aims of intellectual property
+law. Additionally, it is an exception to the rule that companies are free to choose their
+business partners. By giving guidelines on compulsory licensing, the EU is aiming in
+assuring effective competition and furthermore the free movement of goods.
+
+      A refusal of licensing is considered an abuse of a dominant market position if the
+exceptional circumstances that have been assessed by the courts on an ad hoc-basis are
+fulfilled. On the basis of the case law, the refusal must relate to a product or service that
+is indispensable (essential), the refusal excludes effective competition on the market and
+the refusal prevents new products from entering the market provided that there is a
+demand for those products. If these conditions are fulfilled, it has to be also stated that the
+refusal cannot be objectively justified. Moreover, it is not considered at the moment to be
+possible that other circumstances would be taken into account according to the
+Microsoft decision.
+
+      Due to the case by case definition of these exceptional circumstances, the situation is
+somewhat unclear for the companies operating in the market. On one hand, the
+companies should protect their innovations with intellectual property rights and use
+those for gaining economic interest. The owner of the intellectual property right should
+have a reasonable scope for the right; the owner should have an advantage. On the
+other hand, the companies should be able to take into account the rules of competition
+law and act accordingly.
+
+      On that account, a balance between these interests needs to be found. A danger is
+that competition law affects intellectual property rights in a way that might inhibit
+innovation. Already the rights of the owners of intellectual property law have been
+shaped (mostly limited) to a great degree by competition law. By fulfilling the
+competing interests, the market could work effectively and the incentive to innovate
+would exist.
+
+      Accordingly, currently the courts do the evaluation between these interests. In my
+opinion, it is economically efficient to do the evaluation in these matters case-by-case,
+taking into account the specific features of each case although this causes some
+uncertainty in the market. Strict rules might not be the right tool for guiding companies
+in their market behavior as the markets are constantly changing and general
+technological development goes further and further.
+
+In addition, as the decisions of the courts have significant effects on the market, the
+efficient evaluation of the facts in the cases by courts needs not only expertise in legal
+issues, but also in economic issues. Idealistically, the decisions in these cases should be
+legally and economically sustainable. In my opinion, the economic aspect and
+especially the economic effects on the companies in the cases should be emphasized
+more.
+
+

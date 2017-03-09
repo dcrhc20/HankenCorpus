@@ -1,0 +1,65 @@
+How price affects young adults regarding Smartphone Applications 
+1. Introduction
+In this section I will introduce some background information regarding the mobile phone industryand the product in question. After this I will explain the problem I aim to revolve my study around. Lastly I will shortly introduce the aim and structure of this paper.
+1.1 Background
+The first mobile phone was produced in 1973 by Motorola and weighing 2 kilograms (BBC News, 2010).Since then the mobile phone has developed tremendously and gone through many phases. Today, most mobile phones that can befound in stores are so called smartphones. The term smartphone was first introduced with the introduction of Ericsson GS88 in 1997(Stockholm Smartphone). 
+However, Smartphones have evolved notably since then andone of the most notable changes is the ability to modify your own phone with the help ofApplications. Applications canbe downloaded from various sites using an internet connection either for free or for a price. 
+The smartphone penetration in Finland is growing rapidly. In the first quarter of 2011, 29 % of Finns owned one. In only one year this number had increased to 38 % and in the end of 2012 the number is expected to reach 50 %. Furthermore, the market value for sold applications to these smartphones reached 4 million euros in 2011 and is expected to grow to 10 million euros in 2012, which means it is expected to more than double in value (Idean, 2012).
+1.2 Problem Zone
+The price of a product has a big influence on customers’ decision whether or not to buy a product.  Since there are such a big variety of applications available for smartphone users, the price is often what influences the potential customer’s decision first. According to Kardes et al. (2008) customers often rely on price in order to judge a product’s quality given that they do not know about anything about the attributes of the product. However, one can often access reviews and recommendations of apps. Furthermore, price is one of the four important factors that determine a product’s success according to the marketing mix theory.
+Since the prices within the smartphone application industry has started to decline, and that the revenue from this industry is predicted to increase from $ 7.3 billion in 2011 to $36.7 in 2015 (Mobithinking, 2012) makes pricing decisions even more important. Despite the growth, there is very little information regarding pricing strategies for smartphone applications. Since this industry is expecting a massive growth in the close future, makes this an important aspect to gather more knowledge within.Moreover, according to a study by Idean (2012) the average smartphone user in Finland had seventeen applications installed on their 
+phone. Out of these 17 applications only three applications were paid for, which means the common strategy within application sellers is to simply provide customers with free applications.
+1.3 Aim and structure of this study
+The aim of this study is to gain better knowledge regarding young adults’ attitude towards prices within the smartphone application marketin Finland.  With this study I hope to help those who sell smartphone applications aimed for young adults to price their applications more accurately. For the academic community this will also serve as a database for those doing any research within the smartphone application industry.
+As mentioned earlier, only three out of seventeen applications installed on smartphones in 2011 were paid for. I want to know more if this is a worthwhile strategy or not .Personally I have never paid for an application for my smartphone.
+More specifically, the research question that I wish to answer is: How does price affect young Finnish adults regarding Smartphone applications
+The structure of this paper will be as follows: First I will introduce the literature related to my research question. After this I will present my methodology and results. Following this I will present a discussion with reference to the literature.
+
+
+
+
+
+
+
+
+
+
+
+2. Literature Review [will add more sources and text]
+The price a consumer is willing to pay for a product depends on various factors. J. Paul Peter and Jerry C. Olson (2008) has compiled a framework called”The pivotal role of price in marketing exchanges”regarding which factors that decide the price a consumer is willing to pay for a product and which factors that decides the price companies are willing to sell a product for. However, the factors involving which factors that decide the selling price of a product for companies will not be presented since these factors do not help answering the research question.
+[Figure]
+2.1 Consumer costs
+Consumer costs refer to the factor that decides the price consumers are willing to pay for a product. These factors are money, time, cognitive activity, and behavior effort.Although these factors do not always affect the consumer for every purchase, they are frequently used.
+2.1.1 Money
+Money in this contextmeans the amount of money that is spent on a product alone, i.e. the price of the product. Most pricing research has concentrated on money alone and these researches have concluded that the same amount of money used is perceived differently among different individuals or market segments. For example, money earned from work has a different value than if received e.g. as a gift or from gambling. Furthermore, the final price on a product is also different depending on the paying method e.g. credit card versus cash. In addition, prices are also different depending on where you buy the product. A product bought from internet might have extra shipping costs or a product bought in a convenient store most probably have a higher price for the same product compared to a big supermarket. 
+However, in order to get the cheapest price for a product you might have to spend money for travelling costs, thus increasing the final price.  In this context the amount of money you pay for internet connection is more relevant (J. Paul Peter,Jerry C. Olson, 2008).
+2.1.2 Time
+When referring to this factor, time spent travelling in order to buy a product is usually mentioned. However, mobile phone applications are bought online and can thus be bought in a matter of minutes, granted that an internet connection is available for the consumer. This factor should still not be completely ruled out, considering that the time spent reading reviews and looking for other options within the same product category is also of importance when talking about time in this context.  Furthermore, there are many different websites serving as selling platforms for mobile phone applications which means that even though these sites can be accessed instantly, individuals might choose to spend time looking for the cheapest option. (J. Paul Peter,Jerry C. Olson, 2008).
+2.1.3 Cognitive Activity
+Cognitive activity refers to the thinking and deciding in regard of what to buy. If there are too many options for the consumer this might cause a negative effect making the consumer stressed. For example an inexperienced smartphone user might find it very stressful to being forced to use a credit card in order to complete the payment for an application. 
+The decision making cost is however easy for the costumer to reduce or eliminate. To have rules when buying products is one way of reducing or eliminating the decision making cost. Examplesof rulesarefor example to always buy the cheapest option or to buy the brand your father use to buy. This reduces the consumer’s effort in deciding and thus reducing both stress and time. However, some consumer’s seek cognitive involvement in deciding on which product to buy. These individuals might be experts within a certain area and enjoys comparing every option (J. Paul Peter,Jerry C. Olson, 2008).
+2.1.4 Behavior Effort
+A synonym for behavior effort in this context is physical effort. In short, this means the actual effort in walking around a shop to pick the product of the shelf or putting the bed chair you bought from IKEA together. However, again, since mobile phone applications are bought and downloaded via your phone this factor is not a crucial matter for the consumer when they want to buy a mobile phone application. Still, mobile phone applications are special as a product in the way that if you have the expertise to develop applications the cost to produce one is very low. This makes certain people able to produce some of the applications themselves thus reducing the money cost to zero (J. Paul Peter,Jerry C. Olson, 2008).
+2.1.5Value
+In contrast to the costs, value is what you gain from buying a product. A consumer views a buy as good if the consumer perceives that they gained more value than what they spent on the product. Every factor of the consumer costs that we earlier discussed are not however always being taken into account, when a consumer decides to buy a product (J. Paul Peter,Jerry C. Olson, 2008).
+ There are many free mobile phone applications available. These applications might however have a negative value for the customer. Many applications are only used once, and left on the mobile phone only taking up space after being downloaded. This might lead to slowing down your mobile phone as well as making it less organized.
+3. Methodology
+In this part I will explain my choice of informants as well as how I gathered the data.
+3.1 Choice of Informants
+Since the aim of this study was to interview young adults in Finland regarding how price affects when they download mobile phone applications, it was natural to look for participants among my friends.
+In order to fulfill the aim I aimed to interview 5-10 informants. These informants were found among my friends and were all within the target age, 18-24 year olds. The interviews were conducted face-to-face, Skype and Facebook. This method is called convenience sampling and is a type of nonprobability sampling. This method is best used when the amount of informants are expected to be low and when you try to target a certain target group (Kauppinen-Räisänen, 2011).
+3.2 Choice of Method
+Previous research is limited in this area which is why qualitative types of interviews were conducted and also why the amount of informants was relatively low. This is recommended during such circumstances.Qualitative data means that the data consists of words or sentences (Kauppinen-Räisänen, 2011).
+An interview guide was used in order for the interviews to discuss the same topics and thus not go off-topic.
+3.3 Conducting of the data
+
+To be completed
+4. Results
+To be completed
+5. Discussion
+
+To be completed
+
+
+
+

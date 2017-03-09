@@ -1,0 +1,271 @@
+Corporate governance and takeovers: Is corporate governance value ­ destructive in the bidder company?
+
+
+
+1. Introduction
+Despite the short-term decrease in mergers & acquisitions, this market is on a long-term growth
+trend. When organic growth is foreseen, M&A activity is the most relevant growth path for growing
+companies. This, among other things, builds interest towards M&A studies.
+
+Empirical evidence show, that even though takeovers are value-creating, the stock-performance for
+takeover bidders, and in many case takeover target, is negative. One reason for this might be that
+the stock-performance of the involved companies are affected by external factors. Barik (2012)
+show that for instance takeover defenses impacts the value-creation in the takeover event. What is
+destroying the value in M&A?
+
+Meanwhile, there has been a wide interest towards the corporate governance mechanism in
+companies, due to the value creating effect of it. Corporate governance can be seen as a hot topic in
+today´s academic research. Previous research focuses on the impact of external factor on the value-
+creating process of takeovers, but few studies focuses on the corporate governance aspect of the
+deal.
+
+There are many different fields of studies within takeover studies; many studies focus on the stock-
+performance of the bidder and/or the target company ( (Servaes, 2012) (McConnell, 2012)), while
+others on the tax implications of acquisition (Ryngaert, 2012) and the rest on optimal financing
+structure of the takeover (Morellec & Zhdanov, 2008) As a result, no comprehensive theory appears
+to exist on how corporate governance affects the value-creation at the event of takeovers. The
+question remains, has previous studies focused too much on the external factor implications in
+takeover events, and foreseen the internal factor implications at these events?
+
+This study focuses on the bidder in takeovers, and classifying them in successful and unsuccessful,
+based on the bidders' stock-performance. There after the paper will try to study if differences in
+corporate governance principals have had a significant impact on the stock-performance. I.e. this
+paper hopes to show that there, in fact, is a correlation between the stock-performance of the bidder
+after the initial announcement of a takeover and some specific corporate governance principles in
+the same company.
+
+The reminder of this paper is divided into six sections. First, the paper introduces key concepts and
+theories of corporate governance and takeover theory. Secondly, a literature review is conducted to
+create an academic background for this study. After this, a description of the data in the study is
+presented. Then the method and the results are presented. The paper ends with a discussion around
+the main findings and how these relate to previous research.
+2. Theoretical framework
+
+2.1. Corporate governance
+Corporate governance is one of the cornerstones of corporate finance and the theory have been
+studied thoroughly (Cadbury, 1992; Claessens;Djankov;& Lang; Clarke, 2007; Khalid, 2011). The
+main reason why companies need to think about corporate governance is agency theory. Basically,
+the theory assumes that managers with substantial freedom act more likely in ways that improves
+their own interest instead of the shareholders interest. Therefore, without appropriate corporate
+governance mechanism the company is lead inefficiently and firm value is destroyed. (Sheraz, 2009)
+
+2.1.1. Agency Theory
+Agency theory, introduced by Jensen and Meckling in 1976 in their article "Theory of the Firm:
+managerial Behavior, Agency Costs and Ownership Structure", sees a firms as a legal entity that
+serves as a connection point between different individuals. A contract combines these individuals,
+under which individual (principal) engages another individual (agent) take decisions on behalf of
+him. Therefore, the principal must align the agents' incentives to those of himself, so that resources
+are not wasted on unattractive projects. This issue is called "the agency problem". Agency theory
+can also be defined as the problem arising when management and finance is separated, or ownership
+and control as it can also be referred. The problem is created when ownership and control is not
+aligned and there is conflict of interest. These conflicts of interest, together with imperfect contracts
+and inefficient monitoring of controllers, eventually cause a decrease in firm value. Furthermore,
+lots of small stakeholders with limited negotiation or monitoring resources increases conflict of
+interest.
+
+
+Agency theory can further be divided in two parts; moral hazard and adverse selection. (Sheraz,
+2009) In moral hazard the company management uses its position to secure personal benefit in cost
+of the principals. Moral hazard is prevented by eliminating information symmetry and increasing
+external monitoring mechanism. (Arrow, 1965) Adverse selection is a problem when people utilize
+their person information to achieve personal benefits. Risk sharing, which minimized benefits from
+cheating, and information sharing, which reveals information now public, decreases the risk of
+adverse selection. (Akerlof, 1970)
+
+
+In this study, agency problem arises at the merger or acquisition situation. Management influences
+highly on the probability of success for a merger or acquisition.
+
+2.1.2. Corporate governance mechanisms
+Corporate governance mechanisms limit the value destruction of agency problem. The mechanism
+can further divide in two main groups; internal control mechanism and external control mechanism.
+(Sheraz, 2009)
+
+2.1.2.1. Internal control mechanism
+Internal control mechanism can further be divided in several sub-categories; Monitoring by the
+board, Internal control procedures and internal auditors, entrenchment and incentive alignment, and
+ownership structure. (Sheraz, 2009) Because the focus of this paper is on the external control
+mechanism, the paper only focuses on two sub-categories in the following to give an overview of
+the internal control mechanism. These are the monitoring by the board and ownership structure.
+
+The internal control mechanism the board of directors beholds has been studied widely (Baysinger
+& Butler, 1985; Beasley, 1996; Hopt & Leyens, 2004; Bhagat & Black, 1999). The board of
+directors' main task is to supervise the top management. The board of directors create and incentive
+to the top management to perform well, because otherwise they are able to fire the current
+management and hire new management instead. The board of directors has access to all company
+related information and can therefor act efficiently. (Bhagat & Black, 1999)
+
+Ownership structure is another internal control mechanism and has been studied thoroughly (Xu &
+Wang, 1999; Shivdasani, 1993; Singh & Davidson, 2003). Shareholder that own a 5 % or more in
+the company are major shareholders. For instance, In Finland, public companies are forced to
+inform the public if their shareholding exceeds this percent (Finanssivalvonta, 2007). An individual
+shareholder that owns large percent of company is able to misuse its ownership power to benefit on
+the cost of others. Furthermore, the ownership structure impact on the monitoring of the company ­
+a wide range of owners, not too many and not too few, is the desirable structure. This structure
+enhances the monitoring of corporate action and increase firm value. (Shleifer & Vishny, 1997)
+
+2.1.2.2. External control mechanism
+The external control mechanism can be divided in three different categories; the takeover market,
+product market competition and legal and regulatory framework. (Sheraz, 2009) In this study, the
+main focus is on the takeover mechanism and therefor this part gets special attention. Product
+market competition is not discussed.
+
+The legal and regulatory framework of a country builds the basic pillars of corporate governance.
+Without a working legal and regulatory system corporations cannot operate efficiently. Corporate
+governance is determined basically by the level the country monitor investor rights and enforces
+those laws. ( (La Porta;Lopez-De-Silanes;& Schelifer, 2002). La Porta et al. also show that a better
+legal protection leads investors to demand lower expected rate of returns, resulting in more efficient
+capital markets.
+
+2.1.2.2.1. Hostile takeovers
+A vast amount of theory and evidence support the idea of takeovers as control mechanism
+( (Holmström & Kaplan, 2001; Shleifer & Vishny, 1997; Manne, 1965; Cyert & Kang, 2002).
+Jensen and Ruback (1984) points out the most important point in takeovers: "takeovers typically
+increase the combined value of the target and acquiring firm, indicating that profits are expected to
+increase afterwards". Jensen (1986) further claims that takeovers solve the free cash flow problem
+in target companies, because takeovers usually lead to distribution of the firm's profits to investors
+over time. Usually, the target is performing poorly and the management is often removed after the
+takeover. (Shleifer & Vishny, 1997) All-in-all, takeovers are seen as a crucial corporate governance
+mechanism to control managerial discretion. (Easterbrook & Fischel, 1991)
+
+Generally, takeovers are seen as an efficient external control mechanism, but some specific
+questions should be remembered when takeovers are considered as control mechanisms. First,
+acquisitions are expensive and therefore only mayor failures are likely to be addressed. Secondly,
+acquisition might unbalance the ownership structure and increase agency costs. Thirdly,
+acquisitions require liquid capital markets that are not given. Without liquid capital markets the
+acquirer is unable to gather necessary capital.       Finally, acquisitions are influenced by political
+mechanism, which can hinder an acquisition process.
+
+Connection with our research
+
+2.2. Mergers and acquisitions
+It´s evident from the wide range of current research (Schmid;Carol;& Sanchez, 2012;
+Caiazza;Clare;& Alberto, 2012; Sumon & Ekta, 2012) that mergers and acquisition is a hot topic in
+corporate finance these days.
+
+2.2.1. Motives behind acquisition
+Muller & Sirower (2003) researched extensively different reasons for acquisitions. Their main
+findings can be divided in four categories; market for corporate control hypothesis, managerial
+discretion hypothesis, synergy hypothesis and hubris hypothesis. In following the paper address the
+corporate control-, synergy- and hubris hypothesis.
+Manne (1965) invented the term "market for corporate control" that created the hypothesis that
+markets operated efficiently to eliminate managers who wanted to achieve goals that conflicted
+shareholder interest or were incompetent to the task. The basic assumption for the hypothesis is that
+any firm can capture the potential gain by reversing the inefficient policies of the target company.
+
+Another reason for acquisition is synergies. Berkovitch & Narayanan (1993) identify synergies to
+be the reasoning behind acquisition when two companies combined generate efficiencies due to
+some sort of market power increase or cost reduction. Under this assumption both companies
+realizes some of the benefits associated in the acquisition.
+
+Finally, the hubris hypothesis bases on irrational behavior. A "winner's course" arises in auction
+because the person with the largest error in its assumptions will win the auction. I.e. the bidder
+company might be incompetent in evaluating acquisition benefits and therefor engaging in
+unattractive M&A activity. (Roll, 1986)
+
+Connection with our research
+3. Previous research
+
+3.1 Brewer & al. (2007)
+In their article "Target's Corporate Governance and Bank Merger Payoffs" the authors investigate if
+certain corporate governance characteristics of the target firm have an impact on the takeover
+premium paid by the acquirer. They use three corporate governance determinants in their analysis,
+namely the share of independent directors on the board of directors, managerial share ownership,
+and the presence of independent large block holders.
+
+The data used to estimate if corporate governance factors affect target premiums was collected from
+a sample of bank merger and acquisition transactions between 1990 and 2004. The material
+consisted initially of 11,252 transactions, but the authors narrowed it down to 392 mergers.
+
+To compute the premium they used the model specification in Benston, Hunter, and Wall (1995).
+According to this model the premium is the difference between the announced offer price for a
+target organization and the market price of the target's common stock 20 business days prior to the
+merger announcement date, multiplied by the number of common shares outstanding. To test if
+corporate governance determinants have an impact on the premium the authors conduct a multiple
+regression. As independent variable they use the premium and as dependent variables they use
+(among others) board composition, Target's Managerial Share Ownership, Independent Large
+Block holders, market to book value, and variance and covariance of the acquirers' and targets'
+return on assets.
+
+The study finds a significant positive relationship between independence of the target's board and
+the size of merger purchase premiums received by the target. Further they find that the target
+company's managerial share ownership and magnitude of independent block holders have a
+negative impact on the merger purchase premiums received by the target bank.
+
+3.2. Bebchuk, Cohen & Ferrel (2008)
+In their article "What matters in corporate governance?" the article introduce an entrenchment index
+which is used to determinate the excellence of corporate governance.
+4. Data
+The data source used to develop the acquisition sample was Thomson One Banker. Thereafter
+Thomson Data stream is used to gather the financial information needed for regression analysis.
+The preliminary target sample included only acquisitions of European companies on the financial,
+manufacturing and construction industry during the period 2000 - 2006. The industries were chosen
+to make an industry comparison possible and the period is limited to 2006 because corporate
+governance index used in our regression is limited to this date. To facilitate the information
+gathering process, only public companies with a market capitalization of above  100 million was
+included.
+
+Table 1 reports the summary statistics for the data set.
+
+[Table]
+
+Missing
+5. Method
+To determinate the impact of company corporate governance in target company on the premium of
+bidder we first cluster the takeover targets accordingly to their corporate governance level and then
+analyze the different clusters with a multiple regression analysis.
+
+5.1. Clustering takeover targets
+The takeover targets are clustered 4 tiers, clustered with the Bebhuck index, 1-4. Takeovers 200-
+2006 ­ index 2006
+
+5.2. Multiple regressions analysis
+The variables applied to explain the risk premium (rp ) associated in the acquisition are: (1) CGIND:
+the Bebchuk entrenchment index; (2) OWNS: the ownership structure of the target company; (3)
+DIREC: The composition of board of directors; (4) SIZE: revenue to control for size; (5) INDUS:
+industry to control for industry; (6) MULTI: EV/EBITDA multiple to control for profitability.
+
+The multiple regression analysis applied in the study is as following:
+
+Figure 1 multiple regression analysis
+
+[Formula]
+
+
+
+
+5.2.1. Bebchuk entrenchment index
+In analyzing the corporate governance we apply bebchuk entrenchment index as benchmark for
+corporate governance excellence. In their article "What matters in Corporate Governance?"
+Bebhuck et al. introduced an entrenchment index based on six provisions: staggered boards, limits
+to shareholder bylaw amendments, poison pills, golden parachutes, and supermajority requirements
+for mergers and charter amendments. (Bebchuk;Cohen;& Ferrell, 2008)
+
+5.2.2. Corporate governance and control variables
+Bebchuk entrenchment index is a good corporate governance measurement, but to make the
+measurement even more appropriate the study adds two additional variables; ownership structure
+and board of directors.
+
+In the multiple regressions analysis the premium is explained with the variables mentioned above.
+Though, as Slusky & Caves (1991) shows, the excess premium is caused by profitability level,
+target size and industry. This study addresses these causes by using three control variables; Size,
+industry and EV/EBITDA multiple.
+
+6. Results
+The empirical part of the study is not yet completed.
+
+6.2. Clustering takeover targets
+Applying the clustering techniques represented in methodology part
+
+6.3. Analyzing takeover targets
+Analyzing the target companies with techniques represented in methodology part
+
+6.4. Model diagnostics
+Study the econometrics behind the methodology to check that statistical properties are acceptable.
+
+7. Discussion
+The main findings from the study is presented and then compared with previous studies.
+
+8. Conclusion
+
+

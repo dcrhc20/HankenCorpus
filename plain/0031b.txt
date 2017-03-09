@@ -1,0 +1,276 @@
+Life Cycle Management of Open Source ERPs in SMEs
+
+1    Introduction
+
+The magnitude of an ERP implementation initiative is a classic issue of discussion in ERP research. 
+Traditionally companies have relied on big and expensive commercial ERP solutions
+from well known vendors, such as SAP, Oracle and Infor. Usually such companies charge
+prices starting from millions of euros for the installation, consultation, training and other required 
+tasks related to the installation of an ERP. Large enterprises are typically in possession
+of enough resources to cover all required expenses, whereas proprietary ERPs are much less
+affordable to SMEs. Thus research and development of open source ERP is significant for
+SMEs.
+
+    The success factors in the implementation of ERP into enterprises has been studied extensively 
+in the past decade. Of the many CSFs, allocation of experts, balanced team,
+definition of scope and goals, deliverable dates, management support and commitment to
+change have been the most extensively studied [Xia, Lok, and Yang, 2009]. Likewise the
+factors of failure have received considerable attention, including issues related to the organization 
+culture, management base, allocation of experts and limitation of capital [Xia et al.,
+2009]. A large body of data suggests that most companies attempting to integrate ERPs have
+failed [Chen, Law, and Yang, 2009, Kumar, Suresh, and Prashanth, 2009, Xia et al., 2009,
+Capaldo and Rippa, 2008, Johansson and Sudzina, 2008]. As ERPs often are the single most
+expensive information technology (IT) investment for enterprises, knowledge of how to increase 
+the success rate of such initiatives has great importance for industries.
+
+   A long-standing problem has been to obtain more information on CSF relating to open
+source ERP, which are especially attractive to SMEs due to the smaller commitments involved. 
+Many investigators have recently turned to research open source ERP success factors,
+while researching less and less ERP which is not open source. The change can be seen in the
+amount of published articles (see appendix B).
+
+    The general features of ERP implementation process models are well mapped [Chen et al.,
+2009, Kumar et al., 2009, Xia et al., 2009, Capaldo and Rippa, 2008, Manarvi, Irfan and Ahmad,
+2008, Motwani, Subramanian, and Gopalakrishna, 2005]. E.g. one standard ERP implementation 
+framework consists of three phases: pre-implementation (including understanding 
+the goals of ERP, commitment by top management and cultural and structural changes),
+implementation (inculding project management, package selection and establishing common 
+communication policies) and post-implementation (including audit and documentation)
+[Motwani et al., 2005].
+
+    It is generally accepted that open source ERP can bring SMEs huge savings over choosing
+commercial packages. Yet at the same time consultants of open source ERP might cost double
+that of consultants of commercial solutions Johansson and Sudzina [2008]. For both types of
+ERP there are common costs, such as learning, installation and maintenance costs.
+
+    Observations by Chen et al. [2009] suggest that the following six project management
+areas are CSF in ERP implementation: scope, human resource, risk, communications, procurement 
+and integration. Kumar et al. [2009] argued that the following things are crucial
+for a successful implementation: provision of exact data from legacy systems and on entry 
+to the new system, undertaking of proper training of new system, avoidance of usage of
+parallel systems, doing at least one conference room pilot before system launch, practice of
+employee retention programs, less than 30 % customization of initial packages and clarity
+in management objectives and expectations and identification of all stakeholders. Data have
+been presented in the literature which show that in SMEs in China the following issues can
+be problematic when implementating ERPs: organization culture, management base, absence
+of IT engineer and limitation of capital [Xia et al., 2009]. On the other hand it has been suggested 
+that CSF are: top management support, great competence tea, right implementation
+scope, management program change, data accuracy and education and training [Xia et al.,
+2009]. Johansson and Sudzina [2008] concluded that clearly there are other factors than cost
+which need to be taken into consideration when choosing whether to adopt a open source
+ERP or a proprietary.
+
+    A considerable amount of research has been carried out relating to life cycle management
+of ERP and about open source ERP. However, less attention has been paid to critical success
+factors in life cycle management of open source ERP in SMEs.
+
+   The purpose of this paper is to describe how to manage the life cycle of free and open
+source ERP. The research questions are:
+
+
+   1. How are open source ERP different from proprietary ERP?
+
+   2. What does ERP LCM consist of?
+
+   3. How is open source ERP LCM different from proprietary ERP LCM?
+
+    4. Based on the paper's findings, which available open source ERP are suitable for SMEs?
+
+
+    The paper is structured as follows. Section 2 presents a history of ERP, shows some
+statistics about the present market shares and describes how ERPs are categorized. Section 3
+describes the difference between open source ERP and proprietary ERP. Section 4 presents
+the life cycle management or ERP and what needs to be considered in the process. In section
+5, the differences in LCM of open source ERP and proprietary ERP are presented. Next,
+section 6 reviews present open source ERPs based on the literature review and suggests a
+method to distinguish between the different ERPs. Penultimately, section 7 presents the
+contributions of the paper. Finally, section 8 explains the limitations and tells the conclusions
+of the paper.
+
+2     Enterprise Resource Planning
+
+The purpose of this chapter is to describe the history of ERP, why it is relevant for business
+and how ERP is categorized.
+
+    To put the topic into a larger perspective a brief history of ERP is presented. In the 1960s
+the first predecessors of ERP were introduced; the first systems (computerized reorder point
+systems) being able to notify when a reorder of inventory should take place. Soon the first
+manufacturing planning and control systems (MPCs) were devised. MPCs could read and
+write on magnetic tapes, which contained item lists, transactions, bills of material (BOMs)
+etc. Later that decade material requirements planning systems (MRP) were developed, with
+the breakthrough of random access memory (RAM). The first MRPs were huge, expensive
+and required much technical staff. MRP continued to develop until the next breakthrough
+happened in the late 1970s, when MRP saw a great increase in demand, mainly due to its status 
+as the de facto system for parts and materials planning. All through the 1970s many ERP
+related companies were established, including SAP, Oracle, Lawson Software and The Baan
+Corporation. Manufacturing management and account system (MMAS) was introduced in
+1975. It enabled users to create general ledger postings, job costing and forecasting based
+on inventory and production transactions as well as generate manufacturing orders from customer 
+orders. According to Jacobs and Weston Jr. [2007] the next version, introduced in
+1978, manufacturing, accounting and production information and control system (MAPICS),
+included "general ledger, accounts payable, order entry and invoicing, accounts receivable,
+sales analysis, payroll, data collection systems support, product and production definitions
+[...], inventory management, material requirements planning [...], production monitoring and
+control capabilities [...] forecasting, capacity requirements planning, purchasing, and full 
+scale master production schedule planning modules". Until the early 1980s the MRPs evolved
+enough for a new term to be coined. Manufacturing resource planning (MRP-II) referred to
+more sophisticated systems than MRP and included flexible disk drives. During the 1980s
+many innovations were made which enabled more flexible MRP-II, including usage of the
+programming language RPG2, usage of multi-user supporting UNIX, wide availability of
+the SQL database system by Oracle and the human resource management system (HRMS)
+offered by PeopleSoft. In the 1990s the term ERP was coined, distinguishing it from its
+predecessor mainly by the extend that it is integrated across and within functional silos. In
+1992 SAP introduced R/3, which was based on an open client-server architecture, enabling
+third-party companies develop software that could be integrated and different operating systems 
+run the software. The Y2K problem, later that decade, drove demand of ERP high as
+many companies had to change their legacy systems to newer ones, which were Y2K compliant. 
+After 2000 and its dot com bubble, several ERP companies merged and in 2005 the
+only major players left were SAP and Oracle. The present situation of ERP is marked by the
+need to drive the implementation time down to less than 6 months by having more specialized 
+standard packages available. Other trends include: ability to transmit data in any format
+anywhere in real-time, better simulation capability support and optimization systems, consolidation 
+within the ERP industry and increased awareness of world cultures in the design
+of ERP systems. [Jacobs and Weston Jr., 2007]
+
+    Next some statistics about ERP vendors are presented. According to Pan [2010a], in 2009
+SAP had 31%, Oracle had 25% and MS Dynamics had 15% of the total ERP vendor market
+share. 35.5% of ERP projects took longer than planned and 51.4% went over the budget
+[Pan, 2010a]. 28.3% of the companies chose ERPs without customizations, whereas 23.8%
+chose "completely customized" or "heavily customized" ERPs [Pan, 2010a]. Only 12.4% of
+the companies were "satisfied" or "very satisfied" with their selection of ERP vendor [Pan,
+2010a]. According to Pan [2010b], the geographical market shares are as follows: North
+America 31%, Asia Pacific 31%, Europe 14%, Africa 8% and South America 3%. The study
+concluded with stating that ERP implementation initiatives are marked by five issues, which
+are: they take longer than expected and are likewise more costly, they under-deliver business
+value, software as a service (SaaS) take less time than on-site ERP implementation while
+contributing less business value and last that organizations do not effectively take care of
+organizational changes related to the ERP implementation.
+
+   Next the typical modules and categorization of ERP is presented. According to Rashid, Hossain, and Patrick
+[2002] typical ERP modules are:
+
+
+          Accounting management
+          Financial management
+          Manufacturing management
+          Production management
+          Transportation management
+          Sales & distribution management
+          Human resources management
+          Supply chain management
+          Customer relationship management
+          E-Business
+
+
+     To make ERPs dynamic and enable decentralization, typically they follow a client/server
+architecture. This enables splitting up of the functionality of the system into a presentation
+layer, application layer and a database layer [Rashid et al., 2002]. Practically it means that
+each layer may be served on virtually or physically separate devices, allowing more flexibility.
+
+    One study [Parr and Shanks, 2000] distinguishes between three types of ERP implementations, 
+based on the physical scope, business process re-engineering (BPR) scope, resource
+scope, time scope and technical scope and module implementation strategy. The ERP implementation 
+types are: "comprehensive", "middle road" and "vanilla". Comprehensive implementation 
+involves multiple site or international implementation, local or international BPR,
+minor or major customization, broad module implementation, time greater or equal to four
+years and budget greater or equal to $10 million. Middle-road implementation differs from
+the previous by including single, rather than international implementation, BPR alignment to
+ERP rather than international BPR, not including industry specific module implementation
+and having a time budget of over a year and a monetary budget greater or equal to $3 million.
+         
+Vanilla implementation only includes single implementation, BPR alignment to ERP, minute
+modification or ERP and a similar module implementation strategy as middle-road. The time
+scope of vanilla is half to one year and the monetary budget is between one and two million
+USD. [Parr and Shanks, 2000]
+
+    The descriptions of this chapter shows some statistics of ERP vendor market shares and
+geographical distribution. Also modules and categorization of ERPs were presented. The rest
+of the paper focuses on vanilla ERP implementation solely, because it is the category that fits
+best SMEs.
+
+
+
+3     Open Source ERP
+
+This chapter describes how open source ERPs differ from proprietary ERPs. According to
+OS2 a software is open source if it conforms with the following criteria:
+
+
+    1. Redistribution must be unregulated
+
+    2. The source code must be accessible
+
+    3. The source code can be modified and so under the same license as the original
+
+    4. The author might require that the original source code be not edited, but rather allow
+       modifications through distribution of patches that make the software functionally different. 
+	The author can require that the derived softwares use different names than the
+       original.
+
+    5. "No Discrimination Against Persons or Groups"
+
+    6. "No Discrimination Against Fields of Endeavor"
+
+    7. The rights stated in the license of the software applies to all who acquire the software
+
+    8. "License Must Not Be Specific to a Product"
+
+    9. "License Must Not Restrict Other Software"
+
+ 10. "License Must Be Technology-Neutral"
+         
+   Thus software which is not open source might brake one or more of the rules. Two obvious 
+benefits are that open source software is free and open, which implies savings through
+lower spendings and ability to modify the software at will. Thus it is especially suitable for
+SMEs, which cannot necessarily afford expensive proprietary ERPs.
+
+    According to Riehle [2007] there are two types of open source: community developed
+and commercial. The main difference between these is that the commercial is owned by a
+company which maintains a copyright, whereas community developed software is controlled
+by the community. Company ruled open source software is typically free for nonprofit users
+and might be free for profit purposes. The main source of revenue for commercial open source
+business models is the selling of support services and software add-ons. The conclusion
+is that community developed open source ERP is definitely free in every sense, whereas
+commercial open source ERPs might be free.
+
+    Summary comes here.
+
+
+
+4    ERP LCM
+
+This section describes the life cycle management of ERPs, including what the phases are,
+how they are categorized, what they include and how you manage them.
+
+    Summary comes here.
+
+
+
+5    Open Source ERP LCM
+
+Summary comes here.
+
+
+
+6    Open Source ERP Review
+
+This section will review existing open source ERP based on the literature review and will try
+to suggest a method to chose a suitable open source ERP.
+         
+    Summary comes here.
+
+
+
+7    Contribution
+
+This section describes the contribution of the paper.
+
+    Summary comes here.
+
+
+
+8    Limitations and Conclusions
+
+Here the limitations (counter arguments and rebuttal), conclusions and future research are
+presented.
+         

@@ -1,0 +1,262 @@
+Tobashi Scheme, ­The Failure of Japanese Corporate Governance? ­ Case Olympus
+
+
+1. Introduction
+
+In recent years, there has been wide interest in controlling managers. Agency problems have been
+important contributors to financial crises. Considering agency relationships, the central corporate
+governance problem is how managers are controlled. There are several mechanisms of corporate
+governance, such as legal protection, boards, codes, and auditors, all of which serve to reduce
+agency problems.      Because of a number of special characteristics, the corporate governance
+mechanisms are used to varying degrees in different countries. For example Keiretsu (i.e. cross-
+ownership) is common in Japan. The corporate governance mechanisms are created to add value to
+shareholders. Nevertheless, the lack or failure of corporate governance mechanisms will destroy
+shareholders wealth. (Thomsen 2009, 41-42.)
+
+
+The separation of ownership and control gives rise to agency problems between the agents and the
+principals, as stated by Fama and Jensen (1983). In order to control resulting agency problems,
+corporations separate management and control. Despite the separation, the questions remains why
+financial scandals still take place one after another. The corporate governance mechanisms are
+needed to reduce agency problems. Fundamentally good corporate governance consists of tailoring
+these mechanisms to the individual firm. It enhances and creates value (Thomsen 2009, 41, 240). It
+is vital to answer questions: which CG mechanisms have failed in the most recent financial scandal
+and what could have been done to prevent it?
+
+The method being used is a descriptive case study. The research comprises an intensive analysis of
+the most recent accounting scandal, Olympus. The data consists of Olympus's interim and year-end
+reports, newspaper articles and interviews. The news paper articles are collected from financial
+papers, such as Reuters, New York Times, Bloomberg and Financial Times. The articles contain
+straight quotations from Olympus's management considering the events taken palace during the
+accounting fraud. All the interviewees were working for or otherwise linked to Olympus at the time
+of the scandal. The paper aims to produce conservative generalizations from the case study, for
+example "if it is valid for this case, it is valid for all (or many) cases" or in negative form "if it is not
+valid for this case, then it is not valid for any (or only few) cases."
+
+Accounting scandals have shaken the world in the early 21st century. They arise with the disclosure
+of misdeeds by trusted executives. The scandals indicate that some corporate governance
+mechanisms have failed. The purpose of this paper is to explore which corporate governance
+mechanisms tend to fail in accounting scandals and how to prevent these scandals. It is important to
+point out which factors led to accounting scandals and how to prevent them, since the abuse, for
+example earnings management, can be completely legal or quasi legal.
+
+The structure of this paper is as follows. Chapter 2 defines corporate governance in this particular
+context and presents the most widely-used corporate governance theory, agency theory. Chapter 3
+lists the mechanisms of corporate governance, which all serve to mitigate agency problems. Chapter
+4 focuses on Japanese corporate governance and its special characteristics. Chapter 5 provides
+background information about a financial scheme designed for privileged customers. Chapter 6
+highlights issues of Japanese corporate governance through the case Olympus. Chapter 7 analyzes
+the issues and provides solutions. Chapter 8 draws conclusions and suggestions for further research.
+
+
+
+
+2. Agency Problems and Corporate Governance
+
+
+
+
+2.1 Defining Corporate Governance
+
+
+
+
+There are many different definitions of corporate governance. This paper follows the generally
+accepted definition by Cadbury (1992). Corporate governance is `the system by which companies
+are directed and controlled'. The reason behind this system is to ensure value creation (Thomsen
+2008, 240).
+
+
+
+
+2.2. Agency Theory
+
+
+
+
+The theory of the firms suggests that firm exist and make decisions in order to maximize their
+profits. Good management is vital to economic efficiency, productivity, firm performance, and
+social welfare. (Thomsen 2008, 21). Therefore owners (shareholders) hire executives to manage
+companies on their behalf (Thomsen 2008, 17). According to Ross (1973) "an agency
+relationship has arisen between two (or more) parties when one, designated as the agent, acts for,
+or on behalf of, or as a representative for the other, designated the principal, in a particular
+domain of decision problems". Agency problems arise because the agents (managers) do not always
+act in the interests of the principal (shareholders) (Thomsen 2008, 31).
+
+
+
+
+2.3. Moral Hazard and Adverse Selection
+
+
+
+
+According to Holmström a problem of moral hazard may arise when individuals engage in risk
+sharing under conditions such that their privately taken actions affect the probability distribution of
+the outcome. The source of this moral hazard is an asymmetry of information among individuals
+that results because individual actions cannot be observed and hence contracted upon by the
+principal (Holmström 1979,2).
+
+Hidden knowledge ­ adverse selection ­ occurs when there is some element in the situation which
+is known to the agent but not to the principal. (Thomsen 2008, 34).
+
+A timeline can be drawn to distinguish between these information problems. Adverse selection
+problems tend to occur before the principal is to make a decision and moral hazard problems tend to
+occur after the decision. (Thomsen 2008, 32.)
+
+According to Thomsen (2008) two important tasks are needed to complete in order to ensure good
+management of the company, the most important task in corporate governance. Selection includes
+hiring the right managers and replacing bad ones, if necessary. The problem behind selection is
+adverse selection. The second task is motivation. Management should be encouraged to do their
+best through incentives and monitoring. The key problem here is moral hazard.
+
+
+
+
+3. The Mechanisms of Corporate Governance
+
+
+
+
+Considering agency relationships, the central corporate governance problem is how managers are
+controlled. Thomsen (2008) has listed the most important corporate governance mechanisms: moral
+standards, reputation and trust, legal protection, large owners, shareholder pressure, boards, creditor
+monitoring incentive systems, auditors, analysts, takeovers, competition, managerial labour market,
+codes, and media pressure. They all serve to mitigate agency problems and ensure that managers
+manage the company in shareholders best interest. Thomsen (2008) argues that "good corporate
+governance essentially consists of tailoring these mechanisms to the individual firm."
+
+
+
+
+4.1. Ethics as a Corporate Governance Mechanism
+
+
+
+
+Thomsen (2008) defines ethical codes as a set of principles which govern economic behavior and
+which may function as a correction to market and policy failures as well as failure of the prevailing
+social ethic to achieve socially optimal outcomes and distinguishes ethical business codes adopted
+by an individual corporation from general ethical codes expressed in the prevailing social ethic.
+Ethical business codes should be consisted with profit maximization. However the codes can limit
+the range of acceptable activities, and be considered to be inconsistent with profit maximization
+since a profit maximizing firm will offer the same opportunities for profit as an ethically-
+constrained firm. Moreover the additional opportunities may arise from the option to be unethical.
+An implication is that business managers may find it in their interest to mimic ethical behavior to
+the extent that the public cannot distinguish between honesty and dishonesty. Harrington (1989)
+and Frank (1989) state that it will be interest of the profit maximizing firm to signal a commitment
+to ethical values if signaling costs are small and if this is perceived to have a positive financial
+effect. By preventing illegal activities ethical business codes can add value and improve social well
+being if they concentrate on issues which are specific to individual firm.
+
+
+
+
+4. Corporate Governance in Japan
+
+
+
+
+Charkham (1995) argues that Japanese corporate governance is shaped by mutual obligations
+between the company and its employee, a strong corporate family feeling, and decision based on
+consensus and social responsibility. Japanese corporate governance differs from continental
+Europe, UK and US. Special characteristics include Keiretsus (company groups), bank finance, the
+board system, employee relations, government intervention, incentive pay, and company law.
+Keiretsus are the dominant ownership mode, especially for large listed companies. Companies form
+a large company group. The companies hold plenty of shares in each other to prevent hostile
+takeovers. Japanese companies use rather bank finance than equity finance. The main banks are
+reported to play a leading role in many Keiretsus. The board system is one tier. (Thomsen 2008,
+200-201.) Shareholders elect the board, which appoints the executives. The difference to two tier
+board system is that there is no supervisory board which evaluates company performance. One tier
+boards can run the company on their own. (Thomsen 2008, 67.) However, according to Aoki (1988)
+the banks step in and lead rescue operation in times of crises. Labor markets are inflexible and
+employee relations are characterized by long-term, often lifetime employment. Japanese managers
+tend to work in the same company throughout their entire careers. Employees in the same company
+are usually members of the same enterprise union, not trade unions. Incentive pay level is lower
+than in the US and it is seems to be determined more by seniority than performance. However,
+company-wide bonus systems for all employees provide incentives. Government intervention plays
+a key role in Japanese society. For example large parts of Japanese businesses are protected from
+international competition by tariffs. Company law is in the civil law tradition. Japan scores highly
+on formal measures of investor protection, but lacks on level of shareholder influence. For example
+Japanese companies are famous for holding their annual meetings on the same day and keeping
+them short which effectively prevent small shareholders from attending to most of them. (Thomsen
+2008, 201.)
+
+
+
+
+5. Tobashi Scheme
+
+
+
+
+In April 1992 The New York Times published a story about a financial scheme designed for
+privileged customers. It is so well known in the Japanese stock market that it has a nickname,
+Tobashi, or "flying". "An official of the Daiwa Securities Company, Japan's second-largest
+brokerage house, had approached a prominent corporation, Tokyu Department Store, and
+proposed that Tokyu pay 90.5 billion yen (about $675 million) for securities whose market value
+was only 30 billion yen. According to Tokyu, Daiwa promised it would repurchase the securities
+later, at a price that would guarantee Tokyu a small profit." In other words a broker spares a
+customer, whose securities have dropped in value, from having to show the losses in its balance
+sheet by arranging another customer to purchase these securities at an unrealistically high price.
+When the accounting period is about to end, a new purchaser is persuaded to go along with an
+increasingly inflated price. The broker guarantees a profit no matter what happen to the market
+value of the securities. In the ideal world the stocks "fly" from account to account until the market
+rises enough and the market value of the securities is finally the same as the last rigged trade.
+However this was not the case. In April 1992 the New York Times wrote: `...Daiwa refused to
+repurchase the securities at the promised value.' The Tokyo stock market crashed when the largest
+investors pulled their investments back. The New York Times had doubts about the Tokyo stock
+market: "No one knows if the Tokyo Stock Exchange will return to what it was before its slow-
+motion collapse."
+
+
+
+5.1. "Bing Bang Reforms of Accounting Standards"
+
+
+Japanese Accounting Standards have been greatly changed. Japan's financial regulator finally
+outlawed Tobashi schemes in 2000. New market-to-market accounting rules were introduced,
+requiring companies to account for securities at market value instead of at their purchase price.
+(Layne et al. 2011, 4) Large companies have also been supposed to disclose consolidated financial
+statements as formal documents and introduce consolidated statements of cash flow and tax
+consequences accounting. The purpose of these changes was to push the management of Japanese
+enterprise to shift their focus from unrealized profits/losses to cash flow generated by their assets
+and improve efficiency of capital. The chances were also expected to attract foreign enterprises and
+investors to make transactions in capital markets in Japan. (Asaki 2006, 235.)
+
+
+6. The Decades-long Cover-up of Losses at Olympus Corporation
+
+
+In November 2011 The Financial Times published a story which shone a harsh light on Japanese
+corporate governance. Olympus, established 1919, the world's biggest maker of endoscopes and a
+top producer of cameras, admitted wrongdoing for the first time in a scandal involving more than
+$1.7 billion in acquisition-related payments and advisory fees. The money was used secretly to
+cover losses on investments dating back to the early 1990s. According to the Wall Street Journal
+the scandal was "one of the biggest and longest-running loss-hiding arrangements in Japanese
+corporate history." At its center were an inner circle of Olympus executives, who sought to delay
+the reckoning of the losses. Olympus practiced the art of "tobashi", accounting maneuvers that
+would make problems "fly away" of balance sheets.
+
+
+6.1. Financial Engineering
+In the 1980s investment bankers gained riches and new respect in Japanese society as the Nikkei
+stock average roared to new heights. However manufacturer exporters, the engine of the Japanese
+economic miracle, did not want to tie their fate to the mercurial financial markets. That mindset
+changed in September 1985, when major industrial powers agreed to devaluate the dollar. The yen
+sharply appreciated, cutting Olympus operating profits in half. Suddenly the idea of using financial
+engineering, called zaitech, to pad earnings by non-operating income made sense to Toshiro
+Shimoyama, Olympus president, 1984-1993. "Until last year I was against zaitech, but conditions
+are changed", he told Nikkei Industrial Daily in November 1986. In consequence Hideo Yamada
+and Hisashi Mori, managers in Olympus finance department, started pouring money in to riskier
+securities through Akio Nakagawa, famous Japanese banker. "Nagasawa was a genious when it
+came to persuading people in the finance department." Said an ex-colleque. "He convinced them it
+was the job of finance department to create more money by investing the company's funds, and told
+them they should do that aggressively because it was their core business." On the final trading day
+of 1989 the Nikkei average peaked and went to a tail spin, losing nearly 40 percent the following.
+Stock portfolios across the corporate sector were crushed. By the mid-1990s the losses had grown to
+tens of billions yen. The financial health of the company was threatened. To hide the deficit,
+Olympus signed a contract with Credit Suisse First Boston for tobashi scheme to cover up securities
+losses in 1992. Bad securities were sold by book value to trust of Olympus's balance sheet. (Layne
+et al. 2011, 3.)
+

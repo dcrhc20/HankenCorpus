@@ -1,0 +1,41 @@
+1 Introduction
+
+The financial crisis that took place in years 2007-2009 raised a need to review whether and how financial regulation should be reformed. The formulated regulation solution, in the framework of Basel III, has spurred a vivid academic discussion as the paradigm of deregulation of financial markets seems to be in a turning point. While before the crisis there were some alarmist voices demanding more comprehensive supervision and regulation, now there is hardly anyone saying that financial regulation structure does not need a reform. However, the consensus has not been reached in the level of regulation and between the different regulation approaches.
+
+Basel Accords, which lay out the international standards for banking regulation, have previously focused mainly to capital regulation. The new accord, Basel III, introduces new liquidity requirements to fix the serious inadequacies exposed by the recent crisis. The effect of the liquidity requirements have been less researched. The question arises what will these new liquidity requirements add to the capital requirements and will they solve the deficiencies present in the banking system. 
+
+The paper reviews the dominant paradigm of banking regulation that has stressed the capital requirements as a tool to keep the banks afloat. The implications of the recent crisis will be studied and an overview made to the new Basel III regulation. The new liquidity rules will presented and a discussion of their effect will be carried out. 
+
+The exact projection of the effectiveness of the new the Banking regulation package is of course extremely difficult - if not impossible. In this paper I will conclude that the desired stability will come with a cost. The more burdensome regulation will probably slower the economic growth. 
+
+The remainder of this paper has five sections. The first will explain the rational for the banking regulation. The second will give background information about the framework of Basel Accords. The third will evaluate the capital adequacy regulation. The fourth will introduce the new liquidity requirements and the fifth will discuss their effects.
+
+2 Prudential regulation of banks
+2.1 Rationale for regulation
+The financial system is crucial to the health of the economy because it performs the essential function in an economy of channeling funds from savings to those individuals or firms that have productive investment opportunities. It is possible to satisfy the concurrent needs of funding and investment activities only through financial markets and the supporting institutions, which together form the financial system. Bank acts as supervisor of debtors and risk assessor of their credit risk. Although the banks hold natural advantages of collecting information that come from the benefit of the large scale operation the problem of instability is inherent to the nature of banking activity.
+
+As it has been learned from the all pervasive effects that financial market failures can have, governments have a great incentive to control the soundness of banks. With prudential supervision governments regulate and monitor the banking system to ensure its safety and soundness. The need for banking regulation and supervision stems from asymmetric information and the harmful side-effects that come with the government created safety nets. Serious downsides of the government safety net arise from moral hazard and adverse selection. Because depositors are aware that with a safety net they will not suffer losses if a bank fails, they do not impose market discipline on banks by withdrawing deposits when they suspect that the bank is taking on too much risk. As a consequence, banks with a government safety net have an incentive to take on greater risks than they otherwise would.
+
+The purpose of prudential supervision is to limit the strong incentive to take on excessive risks. Otherwise the safety net may do more harm than good and promote banking crisis rather than prevent them. Prudential supervision is comprised of government regulations to reduce risk taking and monitoring of the banks to see that they are complying with these regulations.
+2.2 The Basel framework
+Basel Committee on Banking Supervision (BCBS), founded in the year 1974 by central-bank governors of G-10, has established itself as the forum where international standards for banking supervision are formulated. Interestingly it possesses no statutory authority and issues no binding regulation and is not considered as classical multilateral organization, because it operates outside international law. Acting as an informal forum to find policy solutions and to promulgate standards the main task of the BCBS is to prevent risk of bank failures and the resulting risk for financial systems from possible bank crises.
+
+The BCBS has produced various standards regarding different aspects of banking supervision. The most important has been the capital adequacy standard issued in 1988 (Basel I) that imposed the minimum ratio of capital to risk-weighted assets of 8 percent. This standard specified the minimum amount of capital reserves that any internationally active bank needed to retain in order to be safe from financial and operational risks that banks face. The process for revised structure started in year 1999 and the outcome New Capital Framework was issued by the BCBS in year 2004 (Basel II). Basel II changed Basel I by expanding the capital requirement rules and by further introducing internal risk assessment processes. As a result of recent financial crisis BCBS has taken rapid steps to revise the framework again. New capital adequacy and liquidity requirements, denoted Basel III, were issued in December 2010.
+ 
+2.3 Capital adequacy requirement
+Capital functions as a buffer that absorbs failed investments to protect depositors and to keep the bank afloat. Shareholders suffer losses when capital is consumed to cover declined assets, but this is considered a private matter, whereas there are strong public policy reasons to protect depositors. Capital requirements had arisen over the time to a central position in the prudential regulation due to changes in banking environment even before the Basel I. The dominant reliance on capital requirements has only intensified through the adoption of Basel Accords and is considered broadly accepted approach to prudential regulation.
+
+Although, the various factors that expose banks to instability have been historically regulated in many different ways, capital adequacy regulation has become increasingly central to prudential regulation. Tarullo reflects that ”this trend has created a closer conceptual link between one important rationale for bank regulation and the dominant regulatory paradigm”. 
+
+The question of how much capital banks should be required to hold is at least equally important but perhaps a lot more difficult than the question whether banks should be subjects to capital requirements at all. The setting of desired level of capital requirement involves a trade-off between the cost of capital to firms and individuals and the possibility of harmful bank failures. The related contributing factors and probabilities are very hard to quantify which makes it clear that no financial model can provide unquestionable formula for capital requirements. 
+
+If risks that the banks face can be quantified then the regulators can better judge how much capital will be needed as a buffer to reach a specified level of stability. Nevertheless, the fact is that a bank is exposed to various risks that could cause trouble to its solvency such as credit risk, market risk, operational risk, interest rate risk, liquidity risk and political risk. Perhaps the most highlighted risk by the recent crisis is the systemic risk that hasn’t been regulated previously at all. To calculate all these risks correctly is a daunting task. So far, capital requirements have mainly attempted to cover only credit risk and operational risk.
+
+2.4 Capital regulation in Basel Accords
+2.5 Basel III as a response to crisis
+3 Liquidity risk regulation
+3.1 What is a liquidity risk?
+3.2 Liquidity risk regulation in Basel III
+4 Assessing the Basel III liquidity regulation 
+5 Conclusion
+

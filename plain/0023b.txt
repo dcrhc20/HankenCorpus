@@ -1,0 +1,50 @@
+On Ontological Paradigms ofthe Network Analysis Approach to Sociology of Markets
+
+Abstract
+In recent years there has been a growing interest in modelling complex and ambiguous systems of markets. As companies’ strategic decisions are increasingly based on such theoretical models, it is important to understand the fundamental perspectives embedded in them, one such being the ontology
+
+
+1 Introduction
+The salience of economy in the postmodern society in conjunction with the acknowledged social embeddedness of economic action (Granovetter 1985) has brought about the revision of the economic sociology. Since its rebirth the discipline, originating from the works of Karl Marx, Max Weber, and Émile Durkheim (Portes 2010: 10-23), has been dominated by the sociology of markets, ares earch area exploring the structures and the dynamics of markets. Being influenced by the recent advances in the network and system theories, in addition to lacking a shared description of its constitutive perspectives (Portes 2010: 1), this interdisciplinary domain reflects the multiplicity in sciences’ ontological and epistemological stances. 
+The sociology of markets has three major analytical approaches: the network analysis, the field analysis, and the performative analysis (Fourcade, 2007: 1017).Of these, the network and the field analysis represent structuralism (1025), portraying markets as social systems, whereas performativity is rather “a theory of modernity” (1026). Compared with the field analysis, having its roots in the social interactionism of Kurt Lewin, or the ontologically distinctive framework of performativity, the network analysis approach is explicitly multidisciplinary. 
+Along with the emergent complexity and ambiguity of the business environment, the strategic decisions taken by companies are increasingly relying on the theoretical models of markets. This emphasises the importance of understanding the fundamental assumptions embedded in them (Akerlof 2011, Reyner 2010). Despite the pivotal significance, the ontological perspective has on the interpretation and the application of themodel, few researchers have studied itsvariance inthe area of network analysis.In stead, in the domain of economic sociology, the ontological discussion has been focusing on the pluralist (Latour 2010) relativism (Kjellberg and Helgesson 2006: 841) of performative analysis.…Add Move 2 – Step 3 about the multiple paradigm and business ethics research.
+This paper identifies and discusses the ontological perspectives embedded in the network analysis approaches to the sociology of markets. The paper is structured in the following way. First, a literary review of the prevailing network analysis theories is conducted. Second, the ontological analysis framework and method are described. Third, the ontological perspectivesare analysed. Finally, the significance of these perspectives is discussed and future research areas are identified.    
+
+2 Network Analysisin Sociology of Markets
+(˜ 250 words)Definition of a network and the development of the network theory:
+Structure and dynamics: Watts 1999; Newman, Barabási and Watts 2006; Jackson 2008; Benkler 2006; Carrington, Scott and Wasserman 2005
+Recent discoveries: Leskovec, Lang, Dasgupta and Mahoney 2008, Benkler 2009
+
+2.1 Network Analysis Approaches
+(˜ 800 words)To be described:
+Social networks and social embeddedness: Granovetter 1985, 1992 and 2005; Fiske 1992; Carrington, Scott and Wasserman 2005; Howell 2010
+Market exchange theory:Bagozzi 1975a and 1975b; Geroski 1998; Aspers 2005; Prenkert and Hallén 2006; Nenonen and Storbacka 2010; Storbacka and Nenonen 2011
+Actor-network theory (ANT):Callon 2005, 2007; Callon, Méadel and Rabeharisoa 2002; Latour 2006, 2010, 2011; Kjellberg and Helgesson 2006; Andersson, Aspenberg and Kjellberg 2008
+Science, technology and society (STS): Stark 2011;
+Industrial Marketing and Purchasing (IMP): Håkansson and Ford 2002; Gadde, Huemer and Håkansson 2003; Gadde and Zott 2010
+
+3 Ontological Analysis Frameworks and Method
+(˜ 200 words)Definition of the ontology and ontological perspectives
+In general; Niiniluoto 2002; Peter and Olson 1983; Latour 2011
+In market and marketing research: Deshpande 1983; Anderson 1983, Hudson and Ozanne 1988; Hunt 1990; Tadajewski 2004; Brand 2009
+
+3.1 Ontological Analysis
+(˜ 400 words)To be described:
+Burrell and Morgan’s “Four paradigms for the analysis of social theory (1979: 22, as cited in Brand 2009: 436-437)
+Guba and Lincoln’s “Basic Beliefs (Metaphysics) of Alternative Inquiry Paradigms” (1994: 109, as cited in Brand 2009: 437-438)
+Pluralism: Latour 2011
+Multiple Paradigm Research: Tadajewski 2004
+
+3.2 Method
+(˜ 250 words)To be described:
+Purpose of the research and preunderstanding
+Units of analysis
+Sampling strategy
+Analysis framework: Spiggle 1994
+
+4 The Ontological Paradigms in Network Analysis
+(˜ 1 000 words)Loremipsum
+
+5 Discussion and Conclusions
+(˜ 400 words)Loremipsum
+

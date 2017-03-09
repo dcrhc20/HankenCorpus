@@ -1,0 +1,110 @@
+An Extended TAM Model for the Adoption of E-
+Banking in an Emerging Economy
+
+
+Introduction
+
+Information technology has changed people’s life greatly. World Wide Web has been introduced in the 90s last century, the number of internet users has been skyrocketing. Apart from the traditional internet usage like website surfing, or online chatting, more and more people began to handle their personal life online, too.(ref)
+
+The introduction of E-banking is one example of internet usage. E-banking is a way of distributing financial services or products using an electronic channel. (E-banking, 2010)  Unlike the traditional face-to-face banking services, E-banking provides real-time services to customer. Bank clients can get access to their bank accounts without time or physical limitation. Narrowly speaking, e-banking can be only limited to the on-line website services provided by banks; however, in fact, ATM (automated teller machine), phone banking etc, can be also regarded as parts of e-banking. (E-banking, 2010)  E-banking services can also be divided in to two categories according to the characteristics of customers: private and corporate users. Based on this separation, the financial services are quite different, corporate customers may have more demand for secure transaction than private ones, due to the large amount of each transaction.  Though corporate customers are important to banks, the author will only focus on the attitude of private users (human-being) towards the adoption of E-banking in this paper.
+
+Compared to the usual financial services, it has been argued that though the e-banking is aiming to achieve cost efficiency, from accounting point of view, it’s obvious that direct material and labor cost of banks will have been declining as the adoption of E-banking, for instance, decreasing consumption of papers and number of employee. However, evidences show that E-banking in the world hasn’t performed as expected due to the heavy burden of overhead cost. (Delgado, Hernando and Nieto, 2007) It’s clear that the maintenance and innovation of E-banking systems cost quite much. In addition, the threats or shortcomings of E-banking have also been argued from bank’s perspective, that is, the loyalty of their customers would not be as stable as before after the adoption of e-banking. (Durkin, O’Donnell, Mullholland, Crowe, 2007) therefore, it’s very important for all banks to analyse customers’ attitudes towards E-banking adoption, to avoid unnecessary overhead costs. 
+
+
+There are plentiful of models with respect to the research of IT acceptance, each of which contains various determinants. Many researchers have great interests in investigating the factors affecting the adoption and diffusion of e-banking from consumers’ perspective. (Venkatesh and Davis, 1996; Johnson and Marakas, 2000; Hong, 2001; Chau, 2001; Wang, 2003; Pikkarainen, 2004).  Technology acceptance model (TAM) has been generally regarded as the base model to analyze customer behaviors to the acceptance of computer technology. This model was initiated by Davis(1989) and has been applied in many fields of information technology. There are two main factors which influence customers’ attitudes towards the adoption of an information system: perceived usefulness and perceived ease-of-use which relate to the quality and convenience of the information system. (Davis, 1989) Earlier studies have proved that these two factors are positively related with the customers’ adoption of E-banking. (Venkatesh and Davis, 1996; Johnson and Marakas,2000; Hong, 2001; Chau, 2001; Wang, 2003; Pikkarainenet, 2004). 
+
+Though the investigations done by many researchers empirically identified the creditability of TAM, However, most of the studies have been conducted in well- developed countries. (ref) The question remains if this model is also applicable in developing countries, or if more independent variables should be brought into this model to get better predictive results with respect to customers’ attitude towards E-banking adoption. There are some research which have been done in India, Jordan, Malaysia….(ref)
+
+E-banking can be regarded as the sum of very diversified on-line banking services, including the on-line website services, ATM(automated teller machine), and phone banking.(E-banking, 2010) Additionally, a new term ‘mobile banking’ has emerged with the development of information technology. Mobile banking has the similiar fuctions like other E-banking products with the help of a mobile phone or Personal Digital Assistant (PDA) through SMS or  mobile internet. In this paper, E-banking means PC banking and mobile banking. (Tiwari and Buse, 2007)  
+
+This thesis empirically evaluates the applicability of a modified TAM model in China. This extended model will be presented after the literature review. The data will be collected by a survey, and factor analysis and correlation analysis will be used to investigate whether the independent variables have significant relationships with the dependent variable --- the adoption of E-banking.  
+
+The structure of the paper is as follows. The first section will introduce the background of E-banking and research questions; the second section will give an general literature review with the summarization and comparison of previous research; the next section will present empirical framework with design and results of the survey; the last section will be the analysis and conclusion.
+
+
+
+Theoretical Background
+
+
+In this part, the author will briefly describe TAM, and extend TAM, and UTAUT, by reviewing the studies which have been done from 1980s till now. A current situation of internet banking in China will be also presented.  Factors affecting the adoption of e-banking will be identified, and there will be a comparison and evaluation of these research findings as well as their generalizations and validities. Several hypotheses will be presented in the end of this part. 
+
+
+On e-banking adoption: from banker perception to customer reality 
+Mark Durkin, Aodheen O’Donnell, Gwyneth Mullholland, Joseph Crowe, Journal of Strategic Marketing 15 237-252, 2007
+
+The authors intend to find the factors which have influence on the adoption of internet banking, as well as evaluating the perception of senior bank managers about which the predictor factors are with regard to the adoption of internet banking. (Durkin, O’Donnell, Mullholland, Crowe, 2007)
+
+This paper examined the characteristics of customer behavior in internet banking registration by conducting a quantitative analysis both from customers’ perspective and managers’ perspective focusing on the internet bank registration by specifically testing customer communication preferences with bank focusing on the internet banking registration. (Durkin, O’Donnell, Mullholland, Crowe, 2007)
+
+
+The authors pointed out the importance of analyzing customers’ adoption behavior for e-banking by identifying the advantages for bank to implement e-banking service, and its persuasiveness in current daily life. In empirical part, first, the authors make a survey about customer satisfaction about services and delivery quality relating to the registration of internet banking. Then, the estimation of senior manager about factors influencing customers’ choice of registration of internet bank has also been identified. (Durkin, O’Donnell, Mullholland, Crowe, 2007)
+
+
+The study shows that there is a managerial ‘knowledge gap’ between managers and customers. The managers failed to identify two factors which influence the choice of customer to the registration of internet bank. One is relationship management status, which indicates that customers who are relationship managed are more willing to sign up for internet bank. The other factor is that the managers underestimate the willingness of customer to use new technology. (Durkin, O’Donnell, Mullholland, Crowe, 2007)
+
+
+The determinants of customer interactions with internet-enabled e-banking services (2008) Z.Liao and WK Wong, Journal of the Operational Research Society 59, 1201-1210
+
+The purpose of this study is to illustrate the determinants of the adoption and acceptance of customers’ use of internet banking. The authors point that it’s vital for bank which implement on-line banking systems to achieve the actual market penetration and make the expected profit. (Liao,Wong, 2008)
+
+This paper mainly used technology acceptance model (TAM) as a base to illustrate customer behavior to computer technology. This model was initiated by Davis and has been applied in a quite big field of information technology. Through time, the summarization of users’ behaviors has been developed regarding to the use of any kind of information system. Based on this original model and other research findings, a more modified model has been built up. In this new model, the authors add more elements such security, responsiveness and convenience, with regard to the special features of bank service industry. Various hypotheses have been presented in this paper and more specific questionnaires with responding variable were gathered. (Liao,Wong, 2008)
+
+The results showed that the perceived usefulness, ease of use, security, responsiveness and convenience have significant relationship with customer interaction with e-banking. Specially, the customer would rank security most important part regarding to the decision of signing up for e-banking. The limitation of this article lied to the asymmetric demographic distribution of respondents, which mostly are comprised of young people. The authors assume that there might be some variations of answers regarding to the age or different experiences. Therefore, the authors suggest that further researches should be done  by different demographic data or under in different social context, which means culture probably would play some part in the determining the adoption of e-banking It has been suggested that traditional bank institutions should continuously improve business process reengineering to achieve market penetrations. (Liao,Wong, 2008)
+
+
+An Experimental Investigation of Online Banking Adoption in China, Guangying Hua (2009) Jounal of Internet Banking and Commerce April, vol.14, no.1
+
+This paper researches the situation of online banking acceptance in China in the context that online-banking has been delayed the development of e-commerce in China. The researcher conducted an experiment to analyze how users perceive online banking with the influence of the perceived ease of use of website and the privacy policy provided by the online banking website. The findings of this paper revealed that user’s adoption of online banking is significantly affected by perceived ease of use and privacy policy. It also has been discovered about the ranking of the importance of perceived ease of use, privacy and security, the latter two are more important. Moreover, security is the most important factor affecting user’s adoption. (Hua, 2009)
+
+The author designed a laboratory experiment in this research. Moreover, a questionnaire was developed for this purpose. There are several limitations in this paper. It had been claimed that this was an experimental study; however, there was no real website for testing in this experiment, only questionnaires had been filled and the sample was quite limited: only students were involved, which may cause great bias on the final results. (Hua, 2009)
+
+
+
+
+Factor Underlying Attitude Formation towards Online Banking in Finland, Heikki Karjaluoto, Minna Mattila, Tapio Pento, International Jounal of Bank Marketing 261-272 (2002)
+
+The purpose of this article is to find the factors which have impact on the attitude and behaviors of bank customers to internet banking and differences in demographics and perceptions. The article is based on the theory of Theory of Reasoned Action (TRA) and Technology Acceptance Model (TAM). After reviewing the previous articles with relevant topics, the authors summarized the factors which influence customers’ attitude with regards to internet banking, the factors are as follows: Consumer demographics and personality traits, prior experience of computers and technology, personal banking experience, and reference group influence. The authors performed a factor analysis to classify the factors and demographic features of the respondents. (Karjaluoto, Mattila, and Pento, 2002)
+
+The results show that the attitudes and behaviors of the customers to use internet banking are affected by prior experience of computers and technology, and attitude towards computers. The authors pointed that it’s very import for banks to provide more comprehensive education in using computer, because the more sufficient knowledge a customer have in computer technology, the more possible he or she would like to use internet banking service.  (Karjaluoto, Mattila, and Pento, 2002)
+
+The author also found that customers’ internet banking behaviors have been greatly influenced by demographic factors, in these factors, occupation and income are quite significant.  The authors also are aware that the culture difference may have impacts on the results, since this research was only carried in Finland. (Karjaluoto, Mattila, and Pento, 2002)
+
+
+Consumers’ attitudes towards online and mobile banking in China Sylvie Laforet, Xiaoyan Li International Jounal of Bank Marketing Vol. 23 No 5, 2005 p362-380, 2005
+
+The authors of this article intended to analyze current market situation for internet banking in China by testing customers’ attitudes, and behaviors, their demographic information and classify the targeted group of consumers of internet banking, were also included. Especially, the authors were aware of the cultural impact on the decision marking of customers to internet banking. The authors review the previous researches about customer adoption of internet banking, their attitude, motives, and culture difference, Chinese culture was the focus one. The authors didn’t use specific logistic regression or other method, they briefed with comprehensive descriptive statistical graphs and table. (Laforet, Li, 2005)
+
+They found the demographic features of Chinese internet banking users are quite different from their counterparts in western countries. For instance, Chinese users think security is most important factor in adopting internet banking service, on the contrary, users from western countries would be more emphasized on other issues. (Laforet, Li, 2005)
+
+They also discovered that there has been only a small proportion of group are currently adopting internet banking, because ordinary people are lack of the knowledge about this service, which also can be seen in demographic features, the average education level in western countries are relatively higher. Therefore, banks should place more education on the adoption of internet banking and also banks should spend more on the promotion to persuade customers’ beliefs on the security and advantages of internet banking. (Laforet, Li, 2005)
+
+
+
+Customers’ perspective on online banking services Maria Marvi George Loannou International Journal of Consumer Studies 30, 6, November 2006, pp 552-560
+
+The purpose of this article is to adopt a methodology to investigate the factors affecting customers’ decision of choosing internet banking service. The authors also used TAM model as base model, exacted the factors in this model, and built a logistic regression model to predict customers’ attitude towards internet banking. they identified that customers’ age, perception about the difficulty of using internet, reluctance to changing with respect to technology development, and lack of information of financial products, these factors perform significantly, however, the speed of response and cost considerations are not the significant ones. (Marvi, Loannou, 2006)
+
+
+Chong, A.  Ooi K., Lin, B., Tan B.(2010) Online banking adoption: an empirical analysis 
+International journal of bank marketing, Vol.28, No. 4, pp.267-287
+
+The authors intend to investigate the customers’ perception about the acceptance of online banking in Vietnam and find out the determinants or predictors of their perceptions.
+
+
+
+
+Empirical Framework
+
+Research Design
+
+In this part, a survey will be conducted. The population will be young university students in China due to time limitation and research convenience. Questionnaires by email will be sent to 50 students of university of China. The 
+
+Findings
+
+Descriptive statistics
+
+Gender, educational level, age and other demographical items will be presented. A normality test will be conducted to test the basis of the sample data.
+
+Factor analysis
+
+Conclusion

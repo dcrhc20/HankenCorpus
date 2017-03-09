@@ -1,0 +1,147 @@
+FAIR USE IN DEFENDING REMIX CULTURE IN THE EUROPEAN UNION
+
+INTRODUCTION
+
+Inarguably, the way music is consumed today is very different from what it used to be. The
+digitalisation and the development of the internet have led to a myriad of new ways to distribute and
+consume music. According to European Commission, user-generated content is emerging and
+having a new and important role alongside professionally produced content. This has an increasing
+social, cultural and economic impact on content industries, as consumers expect more freedom and
+flexibility to express themselves by re-creating new works from previous works. This can be seen
+as consumers becoming content providers on sites like YouTube, Daily Motion and MySpace in
+what is nowadays called the "second-generation internet". One of the many examples of this kind
+of creativity are so-called mash-ups, which are created by combining parts of several different
+songs in order to create a new, arguably original, piece of music. For instance, Girl Talk, a well
+known artist in this genre, has a song consisting of 200 to 250 samples from 167 artists.
+
+
+This new phenomenon, however, is in contradiction with the current state of the copyright law.
+According to Directive 2001/29/EC, the authors shall have the exclusive right to reproduce a work
+"in whole or in part" (Article 2), which means that a license should be sought for even a part of
+copyrighted material included in a mash-up piece. Inpractical, time consuming and costly as this
+can become, most of the creators of the new digital era never seek for these licenses. As regards to
+Girl Talk, since no permission was asked from the authors of the songs, his song was removed from
+several online shops quite shortly after his emergence in the public's and especially the copyright
+owners' awareness. Thus, this remix culture, as Lessig calls it, is unable to survive in the current
+legal environment, because the efforts and the financial resources required to ensure its legitimacy
+are unfeasible.
+
+The fundamental point of interest in relation to the remix culture from a legal viewpoint is the scope
+of limitations applied to copyright protection. The Directive 2001/29/EC aims to harmonise these
+exceptions on a European level in an exhaustive list in Article 5: Exceptions and limitations. They
+include certain technical as well as practical cases where copyrighted material can be used without
+there being an infringement. However, only Article 5(3)(k) is in a remote relation to
+abovementioned remixing, excluding copyright protection in cases of caricature, parody or pastiche.
+As for now, there is no legal support for remix works relying on still protected material as such, and
+the only way would be to show that the work one has created is a parody of some kind.
+
+
+In the core of the issue lies a dilemma: should user-generated content, that uses material from
+copyrighted works, be allowed and accepted as a modern output of creativity, or should the
+traditional philosophy behind copyright be respected and thus the exclusivity valued on the cost of a
+new, potentially flourishing, market of remix culture?
+
+
+This study aims to discover, whether or not the legislative development in Europe is shifting
+towards preferring the existence of works built upon existing copyrighted works. The research lies
+on the principal of fair use, which is an exception to copyright protection, and the research question
+will be whether or not the European concept of exceptions and limitations is likely to cover for
+remix culture in audiovisual works made available online in the future. This study will be
+conducted by using a qualitative research method, where legal cases and rulings the Court of Justice
+of the European Communities (further referred to as ECJ) from the last five years function as
+indications of how Article 5 of Directive 2001/29/EC is interpreted within modern legal practice. It
+will then be assessed whether or not these cases and rulings have given an increasing preference
+towards allowing remix culture to exist and be made available.
+
+1 Remix culture
+
+In this chapter it will explained what remix culture is, how it has developed and what are the basic
+consequences, good and bad, of it. The term, as such, is used by Laurence Lessig, an American
+lawyer practicing within copyright issues and having written extensively on issues related to new
+technology and copyright. Other literature is also used for describing the emerging artform. The
+chapter will demostrate the issues and problems faced when dealing with remix culture, be it in the
+form of creating or distributing and sharing.
+
+2 Fundamentals of copyright law
+
+
+Certain aspects of copyright law will be uncovered to give a basic understanding of the philosophy
+why copyright protection is granted and how it functions. The chapter will discuss the scope of
+copyright protection, its function as an incentive to create as well as the idea of giving a limited
+monopoly.
+
+
+3 Fair use in the European Union
+
+
+This chapter explains what the concept fair use means and how it functions in the European
+copyright legislation. Fair use is used in the American copyright system as an umbrella term for all
+exceptions to the scope of protection of a copyrighted work. In Europe, these exceptions are
+described in an exhaustive list in Article 5 of the InfoSoc Directive 2001. This chapter will
+elaborate on some of those exceptions that best connect with the issue at hand. There are
+differences in the national implementations of the Directive, because most of the exceptions there
+are permissive, in other words giving the Member States the possibility to choose whether or not
+they would like to implement certain amount of them in their own copyright legislation. This leads
+to an unharmonised situation in relation to exceptions and limitations.
+
+
+3.1 Exceptions and limitations
+
+
+There are certain uses that are not regulated by copyright law, for example those of public interest.
+It must be secured that property rights are not used oppressively or contrary to countervailing public
+interests. This is why there are exceptions and limitations to the protection of copyright that allow
+certain kind of use of the copyrighted material. This chapter will explain what kinds of exceptions
+are found from the InfoSoc Directive. Those that best connect with the issue at hand will be
+elaborated on.
+
+3.2 National implementations
+
+
+Since the field of national laws in relation to exceptions and limitations is unharmonised, there are
+certain differences between national copyright laws of the Member States within the EU. This
+chapter will uncover some of those differences in order to describe the fragmentation of the field of
+copyright law within the EU.
+
+
+
+
+4 Research problem and research question
+
+
+There are several examples of a new form of culture that is created from existing pieces of music.
+The creators of this culture regard themselves as creators of new works, rather than someone who
+merely steals the intellectual property of others. It is unknown as of now whether or not there is a
+possibility for this form of culture to legally exist in the future. Therefore it needs to be researched
+how the issue is perceived within the European case law in order to establish what the future
+direction might be. The research question will be: Is fair use as a concept likely to cover for remix
+culture within the EU in the future?
+
+5 Case law: Fair use in defending remix culture in the EU
+
+This chapter will give an overview of legal cases in both the Court of Justice of the European
+Communities and national courts of the Member States. The decisions will be analysed from the
+viewpoint of how they line up with the exceptions and limitations in Article 5 of the InfoSoc
+Directive.
+
+
+5.1 Rulings of the Court of Justice of the European Communities
+
+ECJ rulings will be uncovered and analysed here. Important aspects in the rulings include the
+references to Article 5 in the InfoSoc Directive and how this article is interpreted in relation to
+different kinds of uses of copyrighted material.
+
+
+5.2 National case law of the Member States
+
+Decisions from the national courts of the Member States will be presented and analysed here. If
+there are certain national courts ruling in a substantially different way from other national courts,
+this will be highlighted.
+
+
+6 Conclusions
+
+The results and their implications will be discussed here. Conclusions will be drawn in order to
+finally answer the research question based on the finding in the case laws of ECJ and the national
+courts. Patterns will be looked for in terms of how remix uses are regarded in these courts,
+especially in relation to the Article 5 of the InfoSoc Directive.

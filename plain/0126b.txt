@@ -1,0 +1,17 @@
+Exploring the advantages and disadvantages of implementing the Helsinki metropolitan mass transportation information into Google Maps
+
+1. Introduction
+Background regarding Google, Google Maps, HSL and Reittiopas
+Aim of the study
+Limitations
+2. Technical background on Google Maps
+
+3. Method of the study
+
+4. Analysis (pros / cons on major factors)
+Centralized database
+Real-time Information
+Mobile applications
+5. Conclusions
+
+

@@ -1,0 +1,268 @@
+Fundamental indexation in the framework of modern finance theory
+
+1. Introduction
+One of the last bastions of capital asset equilibrium based finance is the school of passive, indexed investing.
+This simple and elegant strategy relies on the notion that buying and holding the market portfolio is a
+superior investment alternative for an average investor. Indexation as an investment strategy has not lost its
+appeal even as the foundations of efficient market hypothesis have crumbled in academia and among
+practitioners. On the contrary, indexed investing has grown in popularity in recent years as more private and
+institutional funds are moved to different indexed investment vehicles, such as index mutual funds and
+exchange traded funds (ETFs). According to Investment Company Institute (2010), in the United States
+alone, net assets invested in index funds totaled $837 billion in 2009 and index funds share of equity mutual
+fund total net assets have risen from 4.0 per cent in 1995 to 13.7 per cent in 2009. The beauty of indexed
+investing lies in its conceptual simplicity and compliance with classical finance theory as well as its
+characteristic low-cost portfolio construction.
+
+In a 2005 article "Fundamental Indexation" Robert D. Arnott, Jason Hsu and Philip Moore came forth with
+the conclusion that the common practice of weighting portfolios by market capitalization is inherently
+flawed. They argue that in a noisy1 market environment capitalization-weighted indexation produces
+portfolios that allocate more money to overvalued securities and less money to undervalued securities, which
+leads to a persistent performance drag. This notion has since gained further acknowledgement from several
+finance heavyweights, including Jeremy Siegel, Harry Markowitz, Jack Treynor and the late Peter
+Bernstein.
+
+As a solution, Arnott et al (2005) propose a weighting scheme based on company fundamentals, indifferent
+of investors subjective valuation that is subject to pricing error and noise created by speculative investors
+and momentum traders. This indexation method is said to eliminate the performance drag inherent in cap-
+weighted portfolios. Arnott et al (2008) demonstrate that fundamentally weighted portfolios place lower
+weight on high valuation multiple companies than cap-weighted portfolios, making the investor less exposed
+to price bubbles and, consequently, generating a more satisfying cyclically-adjusted performance.
+
+The "noise-in-price" framework adds another perspective to the discussion of the persistent size- and value
+premia in equity market performance in capital markets. On the other side of the argument is the efficient
+market camp, who offers rational, risk-based explanations to the equity premium puzzle. The discussion
+regarding cap-weighting and valuation-indifferent indexation boils down to the same problem. Theoretical
+discussion regarding fundamental indexation has so far been polarized between proponents of the so called
+noisy- and efficient market hypotheses. It should also be noted that the most audible advocates of
+fundamental indexation (in published research papers) are closely associated with investment management
+companies offering fundamental index funds to individual and institutional clients. Whether these papers are
+a marketing gimmick or evidence of the claimed superiority of fundamental indexation is inconclusive.
+
+Empirical research based on backtesting of historical data supports the view that fundamental indexation, and
+valuation-indifferent index weighting in general, produces more mean-variance efficient portfolios than cap-
+weighting, but research on the causality of these excess returns is still lacking. What are the value drivers of
+the reported outperformance? Do they stem from pricing errors in the market, as claimed by Arnott et al, or
+is a fundamental indexation strategy subject to hidden risks not captured by simple return analysis? Going
+forward, this is the most significant research question for investors considering adopting a fundamental
+indexation strategy instead of a passive, cap-weighted strategy.
+
+           Contribution
+
+      1.1.Purpose of the study
+The purpose of this study is to investigate the theoretical justifications for the claimed outperformance of
+valuation-indifferent portfolio weighting relative to a cap-weighted indexation.
+
+      1.2.Structure of the thesis
+The paper is organized as follows:
+
+
+2. The Noisy Market Hypothesis
+This chapter presents the fundamental problem in using cap weighting
+
+           Development of EMH and CAPM shortly
+
+A short recap of classical finance theory is necessary to fully grasp the theoretical justification for the
+supposed underperformance of cap weighting, also known as noisy market hypothesis.
+
+According to the efficient market hypothesis, the price of every security traded on capital markets represents
+the best, unbiased estimate of the true underlying value at all times. This does not mean that mispricing does
+not occur, but that it is impossible to distinguish which securities are mispriced through security analysis. It
+can be shown that in an efficiently priced market, a capitalization-weighted portfolio offers the best
+performance in a mean-variance space.
+
+           Failure of CAPM (market portfolio is not mean-variance efficient)
+           relevant anomalies[size(Banz, Keim), value(Basu, Dreman) and momentum(?), other anomalies
+           have also been detected
+
+Historical backtesting of following a small cap or value strategy could not be rationalized by existing pricing
+models. The magnitude of these excess returns caused turbulence in academia and severely hurt the
+credibility of the capital market equilibrium theory developed more than two decades earlier.
+
+           CAPM extensions(multifactor, consumption), hidden risks, behavioral explanations(time varying
+           risk premiums))
+
+If prices observed in the market are the best, unbiased estimators of fair market value, a cap-weighted
+portfolio will be the superior portfolio choice in the investor opportunity set, but empirical tests on CAPM
+show that the cap-weighted equity market portfolio has not been a mean-variance efficient portfolio in the
+past. [Ref.]
+
+           equities a poor proxy
+
+There is also a problem with using an equity market portfolio as a basis for CAPM. Theoretically, the CAPM
+market portfolio should include all capital assets, non-traded assets included, that are in positive net supply.
+Therefore, a market portfolio based on traded equities can be seen as an unfit proxy for an all-asset market
+portfolio. (Mayers 1976)
+
+           Background
+
+Taking these inconsistencies with the efficient market hypothesis into notion, it seems rather odd that a large
+quantity of investment advisors and investment literature suggest that a casual investor should stick to
+following a passive, low-cost indexation strategy based on replicating the return of a broad, well-diversified
+equity index. If the CAPM assumptions are not empirically robust, it is highly likely that an investment
+strategy based on the assumption that the market portfolio is mean-variance efficient is not the best possible
+investment alternative for the casual investor.
+
+           What is noisy market hypothesis
+
+Being in direct opposition to the efficient market hypothesis, the noisy market hypothesis makes the claim
+that the observed market price is not always the best, unbiased estimate of the fair market value of a security.
+Siegel (2006) argues that price formation in the market is subject to structural disturbances, such as taxes and
+liquidity, as well as speculative behavior on part of investors. These unpredictable and temporal shocks,
+dubbed as "noise", obscure the intrinsic value of securities. If individual share prices are noisy, this pricing
+error will also affect the index weights in cap-weighted indices.
+
+The basic intuition of Arnott et al (2005) argument is this: suppose pricing error is randomly distributed
+around the intrinsic value of a stock. In other words, the equity market provides a statistically unbiased "best
+guess" of the future discounted cash flows of a stock. In a valuation-indifferent portfolio, such as an equally-
+weighted portfolio, portfolio weights are unaffected by the emergence of pricing error in the share prices. In
+a reasonably large valuation-indifferent portfolio, the net impact of pricing errors will be negligible as
+portfolio holdings are evenly distributed among overvalued and undervalued securities. On the other hand, in
+a cap-weighted portfolio, portfolio weights will have a positive correlation with pricing error as overvalued
+securities get a larger relative share of the portfolio. If and when share prices revert to their intrinsic value,
+cap-weighted portfolios suffer a performance drag due to this correlation.
+
+However, the effect of pricing errors in capital markets on portfolio performance is not an easy subject to
+investigate, as the intrinsic value of assets is not observable. Furthermore, there is no assurance that asset
+prices ultimately regress to fair value. In this sense, an exacerbation of pricing errors can be favorable to an
+investor following a cap-weighted indexation strategy. [Arnott example of cap-weighted outperformance
+during booms]
+
+In an efficient market, asset prices would be static and no trading would need to take place, unless new and
+unexpected information about the asset emerges. [out of place?]
+
+        Formal mathematical proof (Treynor, Hsu)
+
+It can be shown that in the presence of noise, capitalization-weighted portfolios offer inferior risk-adjusted
+returns relative to valuation-indifferent portfolios. Treynor (2005) offers a formal demonstration of the
+underperformance of cap-weighted portfolios relative to valuation-indifferent portfolios in a "price in noise"
+­framework.
+
+        Mean reversion effect
+        Critique of Arnotts rationale
+
+    2.1.Can noise explain the size- and value anomalies?
+The noisy market hypothesis offers a possible explanation for the size and value anomalies. [Other studies
+claiming pricing inefficiency as source of anomalies?] If a stock price falls because of noise, i.e. without a
+change in the company fundamentals, overweighting that stock will probably yield a positive excess return.
+Conversely, if a stock price moves up without a change in fundamentals, that stock will probably
+underperform. Stocks whose price exceeds their fundamental value become large-cap stocks and therefore
+are more likely to underperform (Siegel 2006).
+
+        Risk-based explanation for size- and value effects
+
+
+
+3. The case for index investing
+This section explains the use of indexing and its pros and cons as an investment strategy
+
+        What is index? -> Arnotts requirements? Discussion (S&P 500) and my own definition (portfolio
+        construction method). apply a rule-based rebalancing scheme. FI=portfolio
+        What is cap weighting?
+
+In a capitalization-weighted index, each company in the index weighed in accordance with their market
+capitalization (i.e. market value or share price times the number of shares outstanding) relative to the total
+market capitalization of all companies included in the index. Most of the well known capitalization-weighted
+equity indices, such as those developed by Standard & Poors (S&P 500), Russell Investment Group (Russell
+1000) or Wilshire Associates (Wilshire 5000), are float-adjusted meaning that the number of shares owned
+by company insiders and the government are not taken into account in the calculation of market
+capitalization. The aforementioned indices are rebalanced annually. The holdings in the indices do not
+necessarily consist of the largest U.S. based companies measured by market capitalization, but instead the
+portfolio selection is made by a committee.
+
+Positive traits with cap weighted indexation:
+
+    1. Capitalization weighting is a "buy and hold" strategy that is often associated with low portfolio
+        turnover and, hence, generates relatively little trading costs. Stocks in the portfolio are automatically
+        rebalanced as the market constantly reconsiders its expectations of a stocks return and riskiness. A
+        cap-weighted portfolio requires rebalancing only when there are changes in the constituents in the
+        underlying benchmark due to corporate events such as mergers, acquisitions, bankruptcies et cetera.
+    2. Cap weighted indices give the largest weight to stocks with high trading liquidity further reducing
+        trading costs.
+        cap index theoretical justification, elegance, empirical performance, a good measure of the market
+        portfolio
+        Indexation as an investment strategy (pros & cons)
+
+    Research on long-term equity returns versus and the relatively poor performance of actively managed
+    funds performance prompted a demand for indexed investing. The first index fund was set up for
+    institutional investors in 1973 and for private individuals in 1976 (Arnott et al. 2008). An argument
+    commonly set forth by index fund providers is that actively managed funds seldom can consistently beat
+    a cap-weighted market portfolio adjusted for survivorship bias, management fees and trading costs.
+    [Ref.] An intuitive explanation for this phenomenon is that if we subtract index funds from the cap-
+    weighted market portfolio, were left with a market portfolio collectively owned by actively managed
+    funds. Net of costs, this actively managed market portfolio cannot outperform itself.
+
+       Capitalization-weighting is a method to replicate the market portfolio and should the market price assets
+       efficiently, given no information asymmetries or other imperfections, this portfolio will offer investors
+       the best risk-return combination.
+
+           What is valuation-indifferent weighing?
+
+
+
+4. Valuation indifferent indexation
+This section explains the rationale behind valuation-indifferent indexation (focus on fund. indexation)
+
+A valuation-indifferent index differs from the cap weighted index in the way that, instead of market
+capitalization, the weight of a security included in the index is based on a non-price related metric. The main
+idea is to break the link between equity price and index weighing. An example of a valuation-indifferent
+weighing scheme is the equal weighting. In this method, every index constituent is given the same index
+weight relative to each other. For instance, if a portfolio consists of n stock, each stock will be given the
+weight of 1/n in an equally weighted portfolio. The weighting is thus completely unrelated to the individual
+stock prices.
+
+           Random weighting?
+           What is fundamental indexation? economic weight
+
+The main focus in this thesis is on investigating a concept known as fundamental indexation. Similar to a
+cap-weighted portfolio, fundamentally indexed portfolios do not involve security analysis, but instead of
+market value the holdings are proportional to a suitable fundamental metric of company size. There is no
+definite measure of company size or its significance in the economy. Portfolio managers following a
+fundamental index strategy usually measure a companys economic weight using balance sheet data. The
+commonly chosen size metrics include: revenue/sales, book value of equity, earnings, cash flow, dividends
+and employment. Fundamental indexation as such does not indicate which weighting method is used.
+Fundamental indexation is a valuation-indifferent weighting method due as long as the weight metric is
+unrelated to the market value of a company.
+
+On a conceptual level, fundamental indexation is a step away from a market-centric approach where
+investors view their investment opportunity set relative to the stock market. This approach is supported by
+classical finance theory where, given the liberty of some simplifications, stock prices incorporate all
+available information concerning expected future cash flows and the risk characteristics of these cash flows.
+In this approach, securities traded in the market, at least in the long run, are priced correctly. Instead, Arnott
+et al. (2008) prefer to view their indexation method as an economy-centric approach, where portfolio
+holdings are weighted according to their relative size in the economy.
+
+      Time       perspective   (estimating   future   performance    vs.   measuring     past    performance),
+      subjective(valuation) vs. objective(fundamentals)
+      Problem: sector tilts, taxation and structural issues(dividends)
+      Solution: to use a composite combining several size metrics
+      Arnotts rationale (price randomly distributed around true value and not vice versa)
+      Critique
+            Asness, Malkiel
+            Kaplan, Perold
+            Averaging (not current data)
+            Wikipedia
+            Own critique (no definite metrics, if theory correct success relies on continued irrationality,
+              etc.)
+      Empirical research
+            US evidence (Arnott)
+            International evidence
+            Evidence from other markets (bonds, real estate)
+      Costs
+
+  In contrast to cap weighted portfolios, which rebalance automatically as security prices change,
+  fundamentally weighted portfolios are rebalanced periodically. In practice, this means purchasing shares
+  in companies whose share price have risen more than the fundamental metric and selling shares in
+  companies whose share price has dropped more than the fundamental metric. Rebalancing generates
+  trading costs, which depend on rebalancing frequency, portfolio size, market liquidity factors and the
+  maximum tracking error a portfolio manager is prepared to tolerate.
+
+      Investing in fundamental indices (in Finland and abroad)
+
+
+
+5. Conclusions and summary
+      Further theoretical considerations:
+             Pricing errors must persist in the future (irrationality of investors, hedge funds etc)
+             Strategy not adopted by investment professionals (slow adjustment in the investment
+              community
+          

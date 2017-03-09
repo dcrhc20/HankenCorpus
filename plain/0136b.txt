@@ -1,0 +1,107 @@
+The adoption of ISO 9000 in organizations with comprehensive ERP systems
+
+1 Introduction
+1.1. Research background
+An ERP system is a multi-module software system that integrates all business processes using a single database (Turner and Weickgennant, 2009, pp. 5). ISO 9000 standards, developed by the International Organization for Standardization, describe fundamentals of quality management systems which form the subject of the ISO 9000 family, and define related terms (ISO 2010). In this research when the term ISO 9000 is used, the author is referring to ISO 9001-2008 which is the latest edition of the ISO 9000 series. ERP systems and the ISO 9000 standards have both been very popular in the business world for over two decades. Together with the development of ERP and ISO 9000, researches concerning different aspects of these two fields have been increasing at an amazing rate. 
+
+Since the 1990s, researchers have discovered the benefits that ERP systems and ISO 9000 standards bring to a company. The clear motive for companies to adopt an expensive ERP system is that the system integrates all different functions of the company into one software infrastructure. Therefore, ERP’s great benefit isthat the business process of the entire company can be visualized and controlled by one software system. On the other hand, one of the commonly perceived benefits of ISO 9000 is the establishment of formal process management systems and systematic recording of process performance data (Psomas. E. L, Fotopoulos.C.V, 2009). Overall, it is believed that both management tools will enhance a company's competitive advantage in its industry.
+
+Because of the large amount of resources that a company has to invest in when implementing an ERP system and when acquiring an ISO 9000 certificate,  and because of the difficulties of these kinds of projects, the approaches of implementation and the critical successfactors(CSF) have also been researched into in depth in the past. 
+1.2. Research Objectives & Research Questions
+It is interesting how the two management tools share so many similarities in their benefits and requirements, and whether the implementation of one benefits the future adoption of the other may be a very interesting topic to study into. However, little research can be found regarding this matter. Thus, the main objective of this paper is to study how an organization with an appropriate ERP system performs in the adoption of ISO 9000 standards. 
+
+There are two major research questions to be answered in this term paper. First of all, would a well working ERP system contribute to a better organizational setting for the adoption of ISO 9000 standards? Secondly, what are the common features of appropriate ERP systems that contribute to better adoption of ISO 9000 standards? 
+1.3. Research Methodology & data collection
+The scope and methodology of this research is limited due to the limited time the author has to complete this term paper. The author intends to complete a qualitative research based on prior researches that have been done in this field. The data to be used is secondary data. 
+
+The author intends to use multiple data sources to complete this term paper. Text books about ERP systems and ISO 9000 will form the foundation of the knowledge base. In search of such books the Hanken library will be used. Journal articles from related research disciplines will constitute a large part of the literature review; such articles will come from the Nelli Portal. Materials from the International Standard Organization (ISO) will be another essential part of the data source. Eventually, figurative evidences will come from statistics of the ERP industry and the ISO auditing industry. 
+1.4. Structure of the term paper
+This article will include four sections. An introduction where an overview of the term paper is given will be the first section. Secondly, in the literature review section the past researches will be looked into. In the next section, the author will analyze the information gathered according to the purpose of the study. Finally, a conclusion which summarizes the findings and answers the research questions will be given. In the same section, the author will also review the limitations of this research and give suggestions for future research. In addition, the bibliography will be presented in the end.  
+
+2 Literature Review
+2.1. ERP systems
+1.1.1. What are ERP systems
+An Enterprise Resource Planning (ERP) system is a packaged business software system that allows a company to automate and integrate the majority of its business processes, share common data and practices across the enterprise and produce and access information in a real-time environment (Summer 2005, pp. 2). ERP systems are consisted of modules that manage different functions across an enterprise. Examples of such modules are supply chain management, human resource management, Finance and accounting, customer relationship management and knowledge management. 
+ERP systems originated from Material Requirement Planning (MRP) and Manufacturing Resource Planning (MRP II), it became popular in end of the last century while companies were eager to solve their Y2K panic (Summer 2005, pp.3). The total revenue of ERP applications in 2006 is 28, 82 billion US dollars, while the estimated total revenue for 2011 is 47,688 billion US dollars. There are over 100 ERP venders globally; the largest vendors are SAP and Oracle in 2006. (Jacobson et. al.2007).
+1.1.2. Benefits vs. Drawbacks of ERP systems
+(Each point to be elaborated supported by text books and articles)
+Advantages:
+Improved cycle time (order management, financial management, information response time etc.) (Summer 2005, pp.5)
+Integration among different functions within a large company
+Internal control 
+Real-time data processing
+Data integrity, reduction of data redundancy
+Improved performances (Summer 2005, pp.5)
+Business process reengineering and industrial ‘best practice’ (Summer 2005, pp.5)
+Strong data security
+Total quality management
+Integrated supply chain management (Summer 2005, pp.5)
+Disadvantages: 
+Large investment in implementation (money, working hours etc.), high cost in maintenance and updating
+Customization of the ERP software is limited (limited to vendor’s modules)
+Once a system is established, switching costs are very high for any one of the partners (reducing flexibility and strategic control at the corporate level).
+Limitations for multinational companies (with subsidiaries abroad etc.)
+1.1.3. Characteristics of a well-functioning ERP system
+2.2. ISO 9000 standards
+1.1.4. What is ISO 9000 standards
+(to be completed)
+Brief history of ISO 9000
+
+What kind of organizations can obtain an ISO 9000 certificate?
+
+This International Standard specifies requirements for a quality management system where an organization
+General requirement: The organization shall establish, document, implement and maintain a quality management system and continually improve its effectiveness in accordance with the requirements of this International Standard. (ISO 2008, pp. 2)
+
+a) needs to demonstrate its ability to consistently provide product that meets customer and applicable statutory and regulatory requirements, and
+b) aims to enhance customer satisfaction through the effective application of the system, including processes for continual improvement of the system and the assurance of conformity to customer and applicable statutory and regulatory requirements. (ISO 2008, pp. 1)
+
+
+What does the organization look like from ISO 9000’s perspective?
+
+[Figure]
+
+
+Usability of ERP in ISO 9000’s adoption: 
+It is possible for an organization to adapt its existing management system(s) in order to establish a quality management system that complies with the requirements of this International Standard. (ISO 9001-2008, pp. vii)
+1.1.5. Strength vs. Weaknesses of ISO 9000
+(to be completed)
+Strength:
+An advantage of the process approach is the ongoing control that it provides over the linkage between the individual processes within the system of processes, as well as over their combination and interaction. (ISO 9001-2008, pp.v)
+Weaknesses: 
+Investment money-wise and time-wise (Dalgleish 2002)
+large amount of paperwork  (documentation change) (Dalgleish 2002)
+Misuse, if the company is more interested in the certificate than quality (Wade 2002)
+Some companies have misconception that ISO certificate means better quality (Wade 2002)
+1.1.6. CSFs in adopting ISO 9000 standards
+(to be completed)
+
+When used within a quality management system, such an approach emphasizes the
+importance of
+a) understanding and meeting requirements,
+b) the need to consider processes in terms of added value,
+c) obtaining results of process performance and effectiveness, and
+d) continual improvement of processes based on objective measurement. (ISO 2008, pp. 2)
+
+4 CSFs: Top management support, continuous improvement, employee involvement, quality planning (Lin & Jang 2008)
+2.3. Past researches considering the relationship between the two management tools
+(to be completed)
+Review of research articles found discussing this matter:
+Facilitating implementation of total quality management through information technology, Au & Choi, Information & Management 36 (1999), 287-299
+Gaining competitive advantage from integrating enterprise resource planning and total quality management, Laframboise, the journal of supply chain management: summer 2005, 41, 3; pp. 49-64
+
+A mechanism for the integration of TQM and MRP I, Yung, Ip & Chan, Computer integrated Manufacturing Systems, 1998 Vol.11, No. 4, pp. 291-296
+
+3 Findings
+3.1. Problems threatening ISO 9000’s effectiveness
+3.2. How ERP systems can facilitate a  good organizational setting for  the adoption of ISO 9000 standards
+3.3. What ISO 9000 require from ERP systems
+
+
+
+4 Conclusion
+4.1. Summary of the research outcome
+Would a well working ERP system contribute to a better organizational setting for the adoption of ISO 9000 standards? 
+
+What are the common features of appropriate ERP systems that contribute to better adoption of ISO 9000 standards? 
+4.2. Limitations of this study & suggestions for future researches
+Because of the given time limit for this term paper, the author did not use any primary data as evidence of the research outcome. Thus, this research is limited in validity and reliability. In the future, primary data can be collected to either support or contradict the conclusion that this research has made. Furthermore, researchers can study the inverse of this topic-whether an organization that has adopted the ISO 9000 standards gets more benefits from their ERP systems. 

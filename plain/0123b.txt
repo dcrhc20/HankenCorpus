@@ -1,0 +1,358 @@
+The Financial Crisis : How it affected the risk management of financial companies
+
+
+
+
+Introduction
+In recent years, we have been following the development of the Global Financial Crisis (GFC),
+which struck hard on financial institutions and whole countries. The crisis has affected a large part
+of the financial system, increasing regulation, and placing more weight in risk management in
+financial institutions. Today, the regulation of risk management in financial companies has been
+revised in order to avoid the birth of similar problems in the future.
+
+It is generally accepted that the main reasons for the crisis where: the de-regulated financial
+market and inadequate risk management of financial institutions. 1Basel II, implemented in 2007
+to 2009, increased the regulation, with Basel III currently being developed to further improve the
+current regulation. The Basel regulations change the rules of risk management in financial
+institutions, which helps to identify problems in future. All actions are being taken in order to
+increase the level of risk management in the financial system.
+
+In previous studies, the political regulation, in fact de-regulation, is blamed for the crisis (Tarr,
+2010; Taylor, 2009). The development of complex instruments and new financial innovations has
+also been presented to cause the crisis (Acharaya, Philippon, Richardson and Roubini 2009).
+Acharaya et al. also claim that the inadequate risk management of banks is one of the main points
+that allowed the crisis to grow as large as it did. Many of the previous studies have concentrated
+on the question: what caused the crisis? To answer this, studies have discussed why different
+institutions acted as they did to motivate their actions.
+
+This paper will provide a contribution to previous studies by examining more closely on the risk
+management decision in financial institutions more closely, and how the financial crisis affected
+the risk management. As a result, this paper will bring forward how the risk management has
+changed due to the GFC and how this affects the operations of banks.
+
+To explain the risk management and the development of it, the paper will concentrate on
+examining the informational and incentive problems in financial institutions. As a part of risk
+management, especially the market risks of the institutions are especially examined, and how the
+risk management of market risk has changed due to the crisis.
+
+The remainder of the paper is divided into five sections; the first section provides an insight into
+the risk management of banks and how they differ from other companies; the second section will
+explain the market risks of the banks; the third will go through the regulation and how it has
+affected the risk management; and the fourth analyses what kind of effect the changes in risk
+management will have. The fifth section will be a conclusion and discussion of the findings in the
+paper.
+
+Risk management in banks
+Risk management in banks has experienced great changes in the latest years due to the financial
+crisis. The economy is also under continuous development, and risk management must keep up
+with this development, and must therefore go through changes.
+
+To understand what drives the risk management decisions in banks, one must know what affects
+the decisions the bank makes to manage risk. Because banks are important financial
+intermediaries whose business differs from other industries, they have different features that
+drive their risk management. Banks have three important features that affect their risk
+management: credit sensitivity of customers, opaqueness and high liquidity, and the highly
+competitive market where profits depend on the cost of capital (Merton & Perold, 1998). The
+three features are explained more closely in the next section.
+
+Customer credit sensitivity
+Banks differ from other companies because their customers are large liability holders. In addition
+to investors, also customers have invested in the bank by their deposits. The customers do not
+want that the value of their deposits will be depending on the success of the bank, and therefore
+safe banks with low risk of default. Because the risk of default is determined by the rating of the
+bank, customers seek banks with high ratings. The credit sensitivity of customer leads to a rating
+sensitivity of banks.
+
+To minimize the market risk the banks use derivative instruments to hedge themselves against
+risk. By effective risk management banks can hedge the market risks they do not want to bear, and
+by doing this minimize the risk of default. An important notice is that only known risks can be
+hedged, but hedging can´t be used against unknown risks.
+
+Opaqueness and high liquidity
+Financial institutions differ from other companies because of their non-transparency. Because
+they are non-transparent, the monitoring by shareholders and customers is difficult, and therefore
+regulation is needed to keep the customers safe. Moreover, the financial companies have often
+high liquidity, which allows them to make changes in their portfolios and risks quickly, before the
+market has time to react.
+
+Before the GFC the economy trusted more on self-regulation, and that banks would manage their
+risks properly because of their loyalty to the customers and investors. It has though been shown
+that this is not the case. Because the market can´t manage the risk because the banks opaqueness,
+the task is given to regulators, and supervision of banks is increased. The changes in a bank's risk
+management by regulation are discussed in chapter three.
+
+High competition and cost of capital
+The third factor arises from the fact that banks sell and buy capital, and at the same time they sell
+and buy risks linked to the capital. This is all done in a highly competitive market, where banks
+makes profits by the spread between the risks they buy and sell. The level of competition brings
+down the profits of banks and their profitability depends on the cost of capital, especially the cost
+of risk capital. It is important that banks can borrow cheaply to be able to compete on the market.
+Because of the high competition, banks must also have an effective risk management, which costs
+can´t exceed profits they can make.
+
+
+Market Risk
+Market risk is defined as the risks in assets, foreign exchange, and interest rates. In a banks
+operation it is important to control the risks in market variables. First market risks affecting; asset
+prices, foreign exchange and interest rate risk is presented; then liquidity risk and system risk is
+discussed because of their linkage to the first three risks.
+
+Asset price risk
+Asset price risk is the risk of a decline in asset prices, affecting the banks' balance. The total risk in
+asset prices can of course be diversified, but not all the risk can be diversified away. The risk in
+asset price decline is counted with a maximal loss on a specified confidence interval within a
+specified time horizon. To cover the risk some capital must be reserved.
+
+Foreign Exchange risk
+Foreign exchange risk is the risk in value change of a currency, and affects investments made in
+other foreign currencies. The risk can be easily hedged with derivative instruments like forwards
+and futures, and does not bring additional significant risks to banks.
+
+Interest rate risk
+Interest rate risk is the risk of changes in the interest rates, which will affect the banks' profits. The
+interest rate risk is more difficult to handle than for example foreign exchange risk, because the
+interest rate is affected by many different factors. In addition there are many different interest
+rates that is used. Interest rates can be managed within the bank by controlling the contracts
+banks do, or with outside partners by interest rate swaps. With todays developed financial tools it
+is possible to manage the interest rate so that the net income from the interest rates is held stable
+(Hull, 2010)
+
+Liquidity risk
+Liquidity risk is not by definition a market risk, but the market risks can lead to liquidity risk. The
+risk is that the liquidity disappears from the market, which is serious for the financial sector. If
+there is not enough liquidity on the financial sector, the banks cannot continue their task to
+distribute money by lending and borrowing. This will eventually shut down the whole financial
+system.
+
+The liquidity risk can be protected with increased liquid assets in the banks, that is higher capital
+requirements. The risk can be reduced by more transparency in the banks, so that the banks
+situation is known by the market and other banks. If the banks were more transparent then some
+banks in good shape could continue their operation in difficult times, and banks in bad shape
+would probably default.
+
+System risk
+The system risk is that a default of one bank will lead to problems in other banks. System risk is an
+important factor in the financial sector because the banks risks are highly correlated with each
+other. The system risk can start a snowball effect if risks are not managed properly.
+
+Regulation
+Regulation of financial companies, especially banks, has become current under the recent years.
+Before the GFC there was a belief that the market would regulate itself, but this has proven to be
+wrong, and regulation is needed.
+
+Motives to regulate banks
+One reason to regulate banks is that the banks have enough capital reserved against the risks they
+take. It has been shown the economy suffers from different kind of crisis that also affects banks.
+During difficult times bank crashes happen, and they have proven to be difficult or even
+impossible to eliminate (Hull, 2010). To minimize the possibility of a bank failure different kind of
+regulation has been put on place. The goal of the regulation is to create a stable economy for
+individuals and companies.
+
+To build a stable economy and reduce the possibility of a bank failure there is a system that
+lessens the motives for risk management in a bank, namely government deposit insurance. The
+deposit insurance helps to create a stable economy, as the customer concern of losing money is
+decreased. The deposit insurance can also create moral hazard in banks, as the bank knows that
+the government secures the depositors. This is the last thing the governments want to achieve,
+and therefore deposit insurances are connected to capital requirements.
+
+An important factor of the regulations is the management of system risk. The system risk arise
+from the strong correlation between the banks, which leads to the fact that if one banks defaults it
+affects other banks. A larger bank has a larger impact on the system, and if a large bank defaults, it
+can start a snowball effect taking many other banks to default state. This could finally lead to a
+total collapse of the financial system (Hull, 2010). To avoid this situation the governments must
+take difficult decisions when a bank is in a risk of failure: to let the bank fail or to save it. If the
+banks fails it increases the system risk. If it is saved, it can give a wrong message to the market that
+the government will save the banks, and they can increase their risks to get higher profits. The
+purpose of the regulation is to kick in before the banks are in risk of failure, which motives the
+regulation of banks.
+
+Regulations today ­ Basel II
+Today the bank sector is regulated by the Basel regulations made by the Basel Committee on
+Banking Supervision. The objective of the Basel regulations is to control the risk taking of banks
+and increase the supervision of the banking sector. Basel II was implemented in 2007, and the way
+it regulates the banking sector is divided in three pillars: 1. capital requirements, 2. supervision
+and 3. market discipline. The three pillars is discussed following.
+
+Pillar 1 ­ capital requirements
+The pillar one consists of capital requirements to protect the bank against various risks. Capital
+requirements differentiates from other risk management techniques because it is a protection
+against all types of risk, known and unknown.
+
+Basel II made some changes in the way credit risk is calculated compared to Basel I, and brought a
+new risk class: Operational risk. In addition in Basel II it was decided that the credit rating of
+companies assets in a banks balance should affect how much capital is required from the bank. In
+Basel I the capital requirement was same for an A rated company as for an BB rated, which lead to
+more risk taking by banks because they had a larger spread on the BB companies, and wanted as
+much of these instead of A companies. The capital requirement for banks is 8 % of their risk-
+weighted assets (RWA).
+
+Total capital requirement = 0,08 *(Credit Risk RWA + Market Risk RWA + Operational Risk RWA)
+
+Pillar 2 ­ Supervision
+Supervision and regulation was increased and standardized in Basel II. The goal is to take care of
+the problems before they arise, and to encourage banks to develop their risk management. As a
+part of the pillar 2, stress testing was implemented to the banking sector, in which banks risk
+profile and risk management is tested.
+
+Pillar 3 ­ Market Discipline
+The third pillar requires the banks to disclose more information how their capital is allocated and
+what kind of risks they have. The goal of this is to develop the risk management of the bank, so
+that the investors and depositors get to know the real situation of the banks.
+
+Development of Basel II
+As noted earlier, the GFC has caused changes in the risk management of financial companies, and
+much of the changes come from increased regulation. Basel II is further developed, and in 2013
+Basel III is going to take effect. In this chapter, I am going to present the development and changes
+in Basel II and present Basel III shortly in the next chapter.
+
+To be better prepared against future crisis, the development of the regulation is made to protect
+against the risks that has caused problems in the last years. Under the last crisis liquidity caused
+much discussion because almost all liquidity disappeared from the interbank market. This
+happened because the banks could not trust other banks because of opaqueness of banks. The
+situation was difficult due to different financial innovations and a de-regulated market, but the
+main point is that almost all liquidity disappeared. Now regulators have developed instruments to
+ensure that banks have enough liquidity, and that the risk management of liquidity crashes is on a
+good level.
+
+Another important development factor is the introduction of stress tests to the banking sector.
+The stress tests is done to measure the banks' ability to survive future crisis. In the stress tests an
+imaginary situations is made up, and then test the banks' ability to survive different scenarios.
+
+A third development to the Basel II is to increase the capital requirement for securitized assets (for
+example MBS). This is also an affect from the last crisis, when securitized assets cased problems in
+the banks balances.
+
+Two risk management changes for banks
+Changes have not only been done to the regulative part, but also to the risk management in the
+banks. To improve the risk management two new measures of risk has been implemented:
+
+Incremental Risk Charge (IRC) and stressed VaR. Both of the measures will increase the capital
+requirement for banks.
+
+IRC is implemented because the Basel Committee where worried that the banks would shift their
+assets from the banking book to the trading book. The change of the assets from the banking to
+trading book is possible by securitization and structured products. An example of this is the trading
+of real estate mortgages as MBS securities. In normal cases the risk of the assets in the trading
+book was accounted had different risk profiles than in the banking book. Now assets from the
+banking book was transferred to the trading book, which would mean that a bank can take more
+risk because the risk profile of the assets in the banking book were more strict. The Basel
+Committee has proposed that structured assets in the trading book should be accounted with the
+same risk profile as the products in the banking book. IRC will be implemented during 2011.
+
+Another improvement to the risk management is implementation of a measure called stressed
+VaR. In normal risk management VaR is accounted for a period of two to four years. Stressed VaR
+is accounted from market variables during one year of losses. This would give the banks a sum of
+loss that would not be exceeded (on a 99% chance) even the economy would be in recession. The
+Basel Committee have proposed that the market risk of banks is calculated of the sum of VaR and
+stressed VaR. These changes will at least double the capital requirement for market risk banks
+have (Hull, 2010). Stressed VaR will be implemented in the late 2011.
+
+Basel III
+The development of Basel II has gone towards increased regulation, and Basel III makes changes
+towards even more regulation and supervision. This papers presentation of Basel III is based on
+meeting notes of Nout Wellink, the president of Basel Committee and Banking Supervision, from a
+meeting in Malaysia 17 January 2011.
+
+In the notes Wellink presents that Basel III is made to prepare the banks against future crisis. The
+globalization and financial innovations puts higher demand on capital requirements, and increased
+liquidity must be implemented in the system to protect against unknown, unexpected risks. The
+problems that caused the last crisis must be manageable in the future. Wellink brings forward the
+main points that caused the crisis which must be protected in the future:
+
+        The primary reason why the GFC began was: excess global liquidity, too high usage of
+        leverage, too little good quality capital, and inadequate capital reserved for liquidity
+        problems
+        The crisis worsened when international financial companies, which were too-big-to-fail,
+        decreased their indebtedness (decrease leverage) at the same time. As they all sold their
+        assets the prices plummeted.
+        Additional reasons for the crisis were inadequate risk management, corporate
+        governance, and transparency. There were also wrong incentives in compensation
+        systems and bad quality supervision. The risk management and supervision failed because
+        the understanding on system risk under recession was not adequate.
+
+To develop and improve the risk management in the future Basel III is going to manage both
+company specific risks and market risk on the banking sector. The company specific risks in
+handled through rules and regulations, when the market risk in handled on a macro-level that will
+give information about the system risk and the connections between banks. Basel III will contain
+the following improvements on a company level:
+
+        Increase the quantity and quality on capital requirements
+        Implement stressed VaR, which i explained earlier
+        Banks must keep more capital for less liquid credit sensitive assets
+        Capital requirements for securitized assets will be made consistent with the capital
+        requirements in the banking book (higher capital requirements)
+        Increase the supervision, risk management and transparency
+
+Improvements on macro level:
+
+        The financial companies should have capital reserved for credit bubbles. This reserved
+        capital can be used in a crisis.
+        A new, easy to understand ratio, will be established that will put an end to the risk driven
+        system we have today
+        A tool to handle international liquidity will be created
+
+To summarize Basel III will increase the level of regulation, supervision and raise the capital
+requirements. This will have an influence on the whole financial system by affecting banks risk
+management.
+
+Analysis ­ How the changes affect banks
+All the development and changes in risk management and regulation will affect the operations of
+banks. These changes are done so that consumers and companies would have a stable market,
+with secure banks. The changes affect different parts of a bank's operations, of which three
+important changes will be analysed: increased capital requirements, transparency and supervision,
+and developed risk management. Additionally the planned international liquidity tools are
+analysed on macro level.
+
+Increased capital requirements
+Many points of the development in risk management are done to increase the capital
+requirements for banks. This point will be analysed because capital requirements are connected to
+the central operations for banks.
+
+How to increase
+To increase the amount of capital in their reserves, banks would in theory have a couple choices. If
+the capital requirement would be increased immediately, banks would have the choice to sell their
+assets and reduce the total assets, and at the same time, the amount of capital would increase.
+Another choice would be to keep the old assets, and only raise their spread on money. In practice
+banks would have to do the both, which brings us to the problems in future problems in raising
+capital requirements.
+
+If one bank would want to sell its assets to increase the capital requirement, it would not be an
+problem. The problems start when all the banks do this at the same time. Then there is an
+increase in the supply of assets, which pushes the prices of assets down. When the prices fall, so
+does also the price of the assets still left in the banks' balance, which the banks want to avoid.
+
+The other choice is to increase the spread; and through this get a larger profit on the money.
+Increasing the spread would have an effect on the banks competitive position if other banks would
+not do the same at the same time. This, in contrast to asset sales, should be done synchronized by
+all banks, because otherwise the competition would make the bank lose its customers. In addition,
+this would increase the cost of money on the market, which affects the whole development of the
+economy. It is tough a difficult question for regulators, who are looking for the best answer to the
+economy.
+
+How the changes affect banks
+Interesting in this that the banks must make these changes, and therefore it is important that the
+changes are done on a long time horizon. How the changes can affect the operation of banks is
+discussed next.
+
+I will start by making a short conclusion on what assets banks must increase capital. Capital
+requirements are increased on; credit risk, operational risk, securitized assets, non-liquid assets,
+and preparation for difficult times and credit bubbles. Moreover, the capital requirement depends
+on the rating of companies banks operate with. By all these regulations and rules banks are forced
+to increase their capital, without rules how to do it. The interesting thing with rating based capital
+requirements is that one can choose a low risk customer that pays a low spread, or a high-risk
+customer that pays a high spread. In the latter case a bank must reserve more capital, that will
+decrease their other operations. I think that this will lead to banks searching companies that have
+a higher rating than believed, and thus the capital requirement is lower than it should be. The
+bank can have this information if a company is a customer of a bank, then the bank has insider
+information that rating agencies do not. Therefore, in the end the system can lead to more risk
+taking by bank that does not show anywhere.
+
+Transparency and supervision
+
+Developed risk management
+   -   : stress testing, IRC, stressed VaR
+
+International liquidity tools
+
+
+Conclusions

@@ -1,0 +1,57 @@
+Impacts of the EMU: Long and short term linkages between financial markets of new and upcoming EMU members and founding member states
+
+1 Introduction
+1.1 Problem definition
+
+1.2 Purpose of study
+The purpose of this study is to establish whether the entry process for the EMU and the consequentmembership give rise to increased short and long term financial linkages between capital market indices of applying countries and founding states.
+
+1.3 Limitations
+The methodology will incorporate analysis of both bivariate and multivariate relationships between financial markets. Bivariate analysis (simple linear regression and correlation) is used to examine stock index time series pairwise while multivariate analysis is used to study   how time series of indices in a vector of variables respond simultaneously to changes in others. The MSCI EMU index acts as a proxy for the stock indices of the founding member states.
+For the purpose of this study the research will focus on members that have entered the European Union within the past seven years and are on their way to become EMU members or already are, as well as on official EU entry candidates. Of these recently established members ten entered the EU in 2004 and two in 2007. Currently three countries hold candidate status for entry.
+To be able to study a long term linkage it is recommended that the sample of observations is relatively stable without severe short term variance and that the number of observation exceed 100.Accordingly, the frequency of observation will be monthly and the target sample interval will be ten years. Consequently some indices may be left out of the study if sufficient data is unavailable.
+
+1.4 Disposition
+
+2 Financial Integration and the EMU
+Definition and description of key concepts in separate subchapters:
+International Integration
+Short Term and (Correlation and Covariance) and Long Term (Bivariate / Multivariate Cointegration) Linkages
+EMU: Historic Development, Criteria for Entry (Copenhagen Criteria and Maastrichcriteria)
+Drivers of European Financial Integration
+
+3 Theoretical Implications of Integrated Financial Markets
+Identify and present the underlying theoretical frameworks which rely on the degree of financial integration between capital markets, and highlight the implications of financially integrated markets. Subchapters:
+Modern Portfolio Theory
+Efficient Market Hypothesis
+Optimal Currency Region (may be left out if deemed too in-depth)
+
+4 Previous Research on Linkages Between Financial Markets of Applying States
+Focus on 3-5 previous studies that have specifically put emphasis on applying and new member states. Furthermore, research methodology will include both bivariate and multivariate cointegration analysis. One study will focus on the driving forces behind the convergence period. Will probably write one chapter summarizing the following articles instead of separate subchapters:
+Hardouvelis, Malliaropulus och Priestley (2006)
+Gilmore, Lucey och McManus (2005)
+Vizek och Dadic (2006)
+Syllignakisoch Kouretas (2006)
+Oney (2006)
+
+5 The Methodology of Financial Linkages
+Short Term Linkages:
+Correlation Coefficients
+Jennrich’s test of Correlation Matrices
+
+Long Term Linkages:
+Bivariate Cointegration Analysis / Engle-Granger 2 Step Procedure
+Multivariate Cointegration Analysis / Johansen’s Test
+
+6 Data
+Data sample: Jan 2000 – November 2010	(at least 10 years)
+Cointegration: Monthly Total Return of Stock Index
+Correlation: Weekly Total Return of Stock Index
+Indices:
+
+[Table]
+
+7 Results
+8 Discussion
+9 Conclusions
+

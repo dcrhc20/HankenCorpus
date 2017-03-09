@@ -1,0 +1,295 @@
+Inequality in Finland - is the "Europe 2020"-Strategy Focusing on the Right Things?
+                                  
+
+1     Introduction
+Income inequality has been on the rise in Finland during the past decades.
+Firstly, the functional income distribution has shifted away from labour income
+to, increasingly, favour capital income. While labour's share of the national
+income was 69.4 per cent in 1993, its share in 2007 had shrunk to about 56.3
+per cent according to official statistics. On the contrary, capital's share grew
+from 15.6 to 29.8 per cent in the same period. Secondly, the change in the
+functional income distribution has also affected the relative income distribution
+between households. For instance, the income share of the lowest income decile
+shrunk from 4.9 per cent in 1993 to 3.9 per cent in 2007 while the share of
+the highest income decile grew from 19.2 to 23.9 per cent respectively. In fact,
+during the period 1993 to 2007 income shares shifted from the eight lowest
+deciles, which all saw their shares shrink, to the top two, who consequently
+grew their shares on the expense of the former.
+    One of the reasons for this development can be traced back to the tax reform 
+in 1993 where the separation of capital and labour income taxation tilted
+the income distribution in favour of, often capital rich, high income earners
+(Ruotsalainen, 2011). Another reason is that social benefit payments, which
+are predominantly directed at the lower income groups, have not kept up with
+the rise in living expenditures (Savela, 2008). With this in mind the Finnish
+Government of Prime Minister Jyrki Katainen adopted a new growth strategy
+in June 2011, called "Europe 2020", which specifically emphasizes the impor-
+tance of reducing poverty. Namely, one of the key objectives in the strategy is
+to reduce the number of people at risk of poverty in Finland from 920 000 to 770
+000 by the year 2020. This is to be achieved mainly by countering social and
+economic deprivation through various support programmes and increased so-
+cial benefits, but also by increasing employment rates and promoting economic
+growth. In addition, in a bid to balance public finances, the Government has
+also announced changes in the taxation of income.
+    Although some level of inequality is an inherent, and necessary, by-product
+of economic growth, many argue that excessive inequality is not only socially
+detrimental, but could potentially also have negative effects on economic growth
+itself. Higher levels of inequality might, for instance, lower domestic demand
+and affect investments through changes in the way capital is accumulated and
+used (Ehrhart, 2009). It might also give rise to increased social instability
+and criminality, and, in the presence of a welfare state, higher taxes and rent
+seeking behaviour by those enjoying social benefits (Alesina and Perotti, 1994).
+The peculiarity is that these effects are not merely a product of some level of
+absolute poverty, although they are highly interrelated, it is the relative poverty
+within a community that can cause these detrimental effects. Thus, the "Europe
+2020"-strategy raises a few questions which this paper hopes to answer. Firstly,
+is focusing simply on the reduction of the number of those at risk of poverty
+the most efficient way to proceed? Surely, there is nothing wrong in helping the
+poor, but if the reduction in poverty among the poor is not equal to, or greater
+than, the increase in prosperity among the rich, the net effect would still be more
+inequality. Secondly, are the proposed measures going to reduce inequality? It
+should be obvious that if the Government were to combat inequality, it should
+focus on the causes of the problems rather than merely alleviating the symptoms.
+Lastly, inequality is more than just an economic question, it is above all a social
+and moral dilemma and what we ought to ask ourselves is: what kind of a
+society do we really want to live in? The answer to this question may have
+deeply rooted implications for the welfare state model we so highly regard.
+    The paper continues with a general review of the economic literature on in-
+equality in Section 2. The following section, Section 3, gives a historical account
+for the recent evolution and causes of inequality in Finland. Section 4 discusses
+the proposed measures of the "Europe 2020"-strategy, its appropriateness and
+implications for the future development of inequality in Finland. Section 5
+concludes.
+
+2     Income Inequality and Growth
+One of the first attempts to model the relation between income inequality and
+economic growth was done by Kuznets (1955) who examined the long run ef-
+fects of economic development on inequality. The study found that the long
+run relation between economic development and inequality tend to follow an
+inverted U-shaped curve, where countries in the early stages of development
+experience increasing inequality, while countries in latter stages, developed be-
+yond some threshold value, will see decreasing levels of inequality. Intuitively,
+structural changes due to the industrialization of developing countries will in-
+creasingly favour firm owners as workers are trapped in lagging (agricultural)
+industries. However, once a certain level of economic wealth has been achieved
+and the transitional effects have started to level out, the gains from the in-
+creased overall wealth will increasingly be more evenly distributed due to the so
+called "trickle-down" effect. Although the Kuznets curve might provide a rough
+guidance on the long term dynamics of the inequality and growth relation, it
+has been criticized for not adequately accounting for cross country differences.
+For instance, one of its critics, Fields (1980, p. 94) argue that the level of de-
+velopment alone cannot explain the between countries differences in inequality,
+rather the determining factor is the interplay between the political environment
+and the type of development. Building upon this notion the reminder of this
+section examines this interplay more closely and in the spirit of this paper I
+specifically focus on the causation going from inequality to growth instead of a
+more general review of the two way relation.
+
+2.1    The Economic Channels
+The channels through which inequality may affect growth may be divided into
+two sections; the purely economical channels and the politico-economic channels.
+I start with the former. Increased inequality may affect growth through its
+impact on the accumulation of physical, and human, capital and aggregate
+demand (Ehrhart, 2009). First, in the presence of imperfect capital markets
+the poor may not have access to capital which they could invest productively
+in production or education. If the relative amount of poor people is high and
+capital is predominantly allocated among the rich, the lack of adequate collateral
+among the poor creates a situation where lending across the income groups is
+scarce (Piketty, 1997). Suppose that the initial wealth of the borrower is low, in
+this case the borrower has less to lose if his or her investment goes bust. Thus,
+when the personal risk is low, the borrower has an incentive to borrow more, in
+relation his or her wealth, and to be less cautious with his or her investment.
+This implies that the flow of capital from rich to poor would be scarce and,
+due to high demand, high interest rates would further decrease the access to
+capital for the poor. This lack of capital may even become persistent, stretching
+over generations (Piketty, 1994). If current generations of poor people cannot
+adequately access capital, and thus climb the income ladder, future generations
+are also in risk of being trapped in the same situation. Moreover, this persistency
+problem is aggravated if a person's functional status, whether a person is an
+employee or an employer, depend on his or her initial wealth. Indeed, Banerjee
+and Newman (1993) find that poorer people tend to become (low income) wage
+earners while richer people become (high income) employers.
+    Second, growth might also be affected by inequality through changes in
+aggregate demand. More specifically, the different consumption patterns of
+poor, middle class, and rich people, respectively, will determine not only the
+size of a country's economy but also its composition (Murphy et al., 1989).
+For the sake of argument, assume that poor people mainly consume necessities
+(food, clothes, etc.), middle class people consume, apart from necessities, also
+increasingly manufactures (cars, mobile phones, etc.), and rich people consume
+all goods available, including luxury goods. Additionally, when the level of
+income of a person increases he or she, rather than consumes more of one good,
+expands the range of goods consumed. Thus, in the case of extreme inequality,
+and consequently no middle class, demand for manufactures would be little or
+non-existing. This lack of demand would lead to a state where no modern
+technology would be developed and the economy would not grow. The same
+is true for the opposite scenario of extreme equality. In this case everyone
+would only demand necessities and the outcome would again be that no modern
+technologies were developed.
+    Building on this argument Jaramillo (1995) shows that less inequality also
+affects the size of the economy through employment and income effects. A less
+unequal income distribution would see a rise in the demand for manufactures.
+To meet the increased demand firms would hire more workers and the sector
+would start developing. With the new technologies labour productivity is driven
+up which lowers prices and increases demand even further. Thus, less inequality
+can stimulate growth through its positive employment effects on modern sectors.
+
+2.2    The Politico-economic Channels
+Inequality does not only have direct effects on growth, rather, political, social,
+and economic factors jointly determine the outcome of inequality. First, an
+unequal distribution of wealth may cause rent-seeking behaviour and increased
+rates of criminality among the poor (Alesina and Perotti, 1994). This combined
+with increased social and political instability may effectively restrain the growth
+of the local economy and deter foreign investments.
+    Second, and perhaps more importantly for developed countries, fiscal policy,
+determined by a democratic voting process, is likely to affect the returns on
+investments and, thus, growth. The basic reasoning is that the more unequal a
+country is, the more voters will favour candidates who advocate redistributive
+fiscal policies. Since these policies often target the rich capital income earn-
+ers, higher taxes will decrease the returns on investments, investments fall, and
+so does growth (Alesina and Perotti, 1994). Thus, the effects of inequality on
+growth are two dimensional; where the former is an example of the political and
+the latter of the economic dimension. However, developing the argument fur-
+ther, including different types of inequality and redistributive policies, reveals
+a more complex structure. When considering the functional distribution of in-
+come, that between employees (wage earners) and employers (capital earners),
+one would expect that when the share of capital income of the median voter
+increases, the following capital tax rates (assumed to be proportional) are ex-
+pected to fall (Bertola, 1993). Conversely, the lower the income of the median
+voter in relation to the average voter, the higher the taxes are expected to be
+(Alesina and Rodrik, 1994). Arguably, the effects of higher capital taxation
+also depend on the form of the redistributive measures. For instance, if the tax
+proceeds are used to finance public investments, some of the lost returns on
+private investments can be recouped if the public investments are used promote
+growth. Such measures include e.g. investments in infrastructure, education,
+and the business environment. On the other hand, if the taxes are used to sim-
+ply redistribute income from the rich to the poor, all the gains of redistribution
+are accrued by the poor and, consequently, the returns on investments are lower
+than in the former case.
+    The same conclusions can also be drawn in the case of proportional income
+taxation. This scenario differs from the functional approach in that it does not
+distinguish between labour and capital income, rather it focuses on the differ-
+ence in income between (presumably working) individuals. Again, if the income
+of the median voter is lower than that of the average voter, one would expect
+the voting process to render higher taxes (Persson and Tabellini, 1994). In sum,
+more inequality is expected to raise taxes through an election process where can-
+didates who favour redistributive income policies are elected by the relatively
+poor. Higher taxes will in turn lower the marginal return on private investments,
+which decreases capital accumulation and, thus, growth. However, the above
+presented is indeed sensitive to its underlying assumptions. As Saint Paul and
+Verdier (1996) point out, the effects could even be the reverse if the assump-
+tions are changed. First, if e.g. inequality is concentrated among the poor, an
+increase in inequality may not necessarily worsen the relative position of the
+median voter in relation to the average voter. Second, different voter groups
+may hold different weights in the political election process. Thus, taxation could
+be more dependent on the political power balance than on the relative wealth
+of the median voter. Third, the framework is not able to capture the effects of
+progressive taxation and following redistribution of income. Fourth, taxes may
+affect rich and poor people differently. For instance, because rich people have
+more possibilities to evade taxes, the marginal tax might actually be higher for
+poor people. Thus, according to Saint Paul and Verdier (1996) the preferred
+tax rate may actually drop when inequality increases.
+    With this in mind, the question one should ask oneself is: what are the im-
+plications of these findings on public policy? Since capital, physical and human,
+plays a big part in the inequality/growth debate, it seems logical to start here.
+The prevailing consensus seems to be that investments in human capital could
+provide a key in promoting both more equal societies and increased growth.
+The reasoning starts off with the assumption that capital exhibits decreasing
+returns to scale, implying that those who lack capital (i.e. the poor) have higher
+marginal returns than those who are capital intensive (i.e. the rich). Thus, the
+gains from redistributing wealth to be spent on productive investments and ed-
+ucation among the poor could very well be large enough to outweigh the losses
+incurred by the rich (Bénabou, 1996). Of course, this assumption requires that
+the redistributed wealth is indeed used on productive investments. One has also
+to keep in mind that the effects of the policy heavily rely on the population's
+marginal propensity to invest (Lee and Roemer, 1998). Further, investments in
+education have sizable feedback effects on inequality and growth. Namely, in-
+vestments in education will, in addition to promote growth, reduce inequality as
+wages increase (Saint Paul and Verdier, 1993). Reduced inequality in turn raises
+education levels and, thus, growth (Perotti, 1993). For these reasons Bour-
+guignon (2000) suggests that rather than redistributing income, which would
+have negative effects on capital accumulation, redistributive policies should fo-
+cus on distributing wealth more evenly, where the benefits would outweigh the
+losses. Lastly, it seems that the goal of any public policy should be to avoid
+both extreme inequality and extreme equality and to ensure adequate demand
+by maintaining an economically healthy middle class (Matsuyama, 2002).
+
+
+3    Inequality in Finland - a Historical Review
+The increase in inequality in Finland during the last couple of decades can
+be largely attributed to the tax reform of 1993, where the taxation of capital
+income was separated from labour income taxation (Ruotsalainen, 2011). More
+precisely, after the reform labour income was still progressively taxed while a
+fixed tax was imposed on capital income. As the fixed tax rate was lower than
+the progressive rate for high income earners, this meant that they could minimize
+their tax burden by converting their labour income to capital income. This
+development has lead to two outcomes. First, the functional income distribution
+has shifted in favour for capital income earners. Figure 1 shows the development
+of the functional groups' shares of national income in Finland during the time
+period from 1975 to 2010. Here labour's share is measured as all compensation
+paid to employees and capital's share as the net asset and firm income. The
+share of taxes on production and imports is also included. During the period
+1975 to 1990 two patterns arise. First, the functional distribution is somewhat
+constant during the entire period; labour's share fluctuates around 65 per cent
+of national income, while capital's share is fairly stable around 20 per cent.
+Second, taxes' share of national income grew steadily from about 10 to 15 per
+cent, contributing to decreasing income disparities during the pre-1990's period.
+After 1990 these patterns break down, however. First, during the crisis of the
+early 1990's firms' profits dropped remarkable which increased labour's share,
+reaching a high in 1991 of almost 75 per cent. The more recent crisis that
+started in 2007 show a similar pattern, though the effects do not quite match
+that of the previous one. Second, during the entire post-1993 period, except for
+the crisis years, labour's share decreased to below 60 per cent, while capital's
+share increased by a third, almost reaching 30 per cent in 2007. Meanwhile,
+taxes' share stopped growing and has been quite stable at around 15 per cent.
+
+
+       
+[Figure]
+
+
+    Second, high income earners have benefited most out of the development in
+functional income distribution. Figure 2 shows the evolution of the percentage
+shares of disposable income according to wealth deciles during the period 1976
+to 2010. The increase in taxation during the pre-1990 period seems to have
+helped close the income distribution gap. In fact, the income dispersion was
+at its lowest in 1987 when the difference in shares between the richest and the
+poorest was merely about 13 percentage points, 7 percentage points lower than
+it was in 2007. More generally, income shares were quite stable up until the tax
+reform in 1993, the effects of which were immediate; between 1992 and 1993 the
+bottom seven deciles lost on average 0.15 percentage points of their respective
+shares, while the top three either maintained or grew their shares. The biggest
+winner of the reform was undoubtedly the top 10 per cent who grew their share
+with almost 1 percentage point. This development continued all through the
+90's and the beginning of the first decade of the 21th century. In fact, by
+2007 the top income decile had grown its share by 5.7 percentage points, the
+second highest decile with 0.4 percentage points and the bottom eight lost on
+average 0.76 percentage points off their shares. While the biggest winner in this
+comparison is beyond doubt, worryingly enough, the biggest losers are found in
+the bottom three income deciles who lost on average 1.1 percentage points each.
+    Although the main cause of this development can be attributed to the change
+in the functional distribution of income, the situation of the poorest have been
+aggravated further by the real decline in benefit payments (Savela, 2008). Figure
+3 shows the nominal and real change between 1994 and 2008 in some benefit
+payments which specifically target the lower income groups. Although real
+wages increased during the 14 year period, thus mitigating the negative effects
+on the middle class, all but pensioners of the most vulnerable societal groups
+
+NB: The first two entries are for the years 1976 and 1981, respectively. Yearly
+comparisons only start from the third entry at 1987.
+
+[Figure]
+
+
+(low income earners, the unemployed, young families, and students) saw their
+benefits shrink or barely increase. Thus, the change in the income distribution
+in Finland during the past two decades is the result of three developments.
+First, tax policies have increasingly favoured the rich. Second, though losing
+out on the functional distribution of income, the increase in real wages have
+helped mitigate the losses among the middle class. Third, the decrease in real
+benefit payments has made the situation of the most vulnerable classes of society
+worse off than anyone else. Conclusively, if the "Europe 2020" is to have a real
+impact on poverty in Finland it needs to address these fundamental issues and
+not merely try to alleviate the symptoms.
+
+
+4    Inequality and "Europe 2020"
+

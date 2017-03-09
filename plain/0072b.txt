@@ -1,0 +1,106 @@
+Marriage and Economics: 
+Empirical Research of the Economic Effects of/on Marriage Trends
+
+Introduction
+
+In recent years, much attention has been drawn to demographic issues – aging of the nations in the developed countries, late marriages and frequent divorces, increasing number of people following “child-free” philosophy. Particularly, researchers have had concern in the cross-cultural differences in these trends and have been trying to investigate reasons that underpin them. Interest to these purely demographic topics is expressed, however, by scientists in different fields, such as law, economics, management etc. Though it may seem not so obvious, some of these disturbing trends can be not more than direct consequences of changes in economic wealth of not only particular families, but also of the whole countries over the last century. Another view could consider demographic situation in the country as one of the grounds of its economic development, and as supportive or contradictive basis for the shift towards economic stability and growth.
+Some connections between the marriage phenomenon and economics were established in works by Grossbard-Shechtman (1993), Steven E. Landsburg (1993, 2000), Michelle Conlin (2003), Tim Harford (2007) and others. 
+One can also find a lot of explicit statistics in different sources (state agencies, public organizations, universities and others) that focus attention on sociological aspects of late marriages, frequent divorces etc. Yet it is hard to find some relevant findings of the previous researches that could give a clear picture about fundamental correlation between economic situation in the country and trends in marriages and divorces.
+One of the reasons for this might be the fact that using economics to explain human (not a customer’s) everyday behavior was separately established in 1970s, were more concentrated on the “crime-punishment” issues and on finding effective economic solutions to them, and still has not paid much attention to the demographic consequences of the level of economic development in particular country. So the question about a link between marriage and national economy remains unclear, and that creates a huge space for a fundamental research.
+This paper aims at investigating connection between marital issues and country’s economic health. Studying economic reasons of different problems concerning divorces, single-parent families and society’s attitude to these issues is important for the introduction of effective measures of the demographic policy from the government.
+The rest of this paper will be organized in the following way: firstly, literature review will be presented; section 3 will be devoted to the theoretical framework of the issues; main data and methodology will be presented in the section 4; section 5 will introduce analysis and discussion of the main findings; finally, conclusion will be presented.
+
+Literature overview
+
+There is a relationship between national economy and demographic dynamics in the country. “That the English term economy originates from the Greek word, oikos, which means household, confirms [this truth]. …[T]he father of modern capitalism, Adam Smith, saw marriage, family, and children as foundations of the subject of his classic work The Wealth of Nations.”
+Shoshana Grossbard-Shechtman in her book Marriage and Economy (1993) explored marriage’s influence on the supply on the labor market, workforce characteristics (e.g. productivity), saving and consumption in the society. Steven E. Landsburg in his books Armchair Economist: Economics & Everyday Life (1993) and More Sex Is Safer Sex: The Unconventional Wisdom of Economics (2000) introduced cost-benefit approach as the one people use to make decisions in everything from taxes, auctions, baseball and the high price of movie theater popcorn to government inefficiency, the death penalty, environmentalism. Partially, marriage and sex are covered in books by Landsburg mentioned above; however, author concentrated more on showing how “common economic logics” works in decision-making related to marriage, not on the issues to be investigated in this paper. Michelle Conlin in her article Unmarried America (BusinessWeek, 2003) investigated modern trends in the American society and “how the new demographics will change business and society.”
+There are a lot of studies – both theoretical and empirical – that focus their attention on the influence of demographic and cultural factors on the level of the economic development of the nation. One of the papers that study these links - Gender and GDP Contributions: The Effects of Culture (Oshkosh Scholar, Volume III, 2008) by Elizabeth Graham - is devoted to the investigation of the “cultural, demographic, and geographical sources of differences in the Gross Domestic Product (GDP) contributions of women.” According to the Elizabeth Graham’s approach, “cultural variables” could be defined as “religion, level of female education, fertility, political representation, and the mean age of marriage.” In our study we assume that demographic trends are influenced both by cultural and economic development of the country. However, we define them as the ones that are independent from cultural indicators for the research purposes. This assumption is needed to examine the level of influence of economic and cultural factors on the main demographic trends considered. 
+In the article Love and Marriage in Eleven Cultures (Journal of Cross-Cultural Psychology, 1995) authors came to the conclusion that importance of love for the “nations with higher economic standards of living” is higher. Moreover, “Western and Westernized nations” are regarded as the ones with higher number of marriages and divorces per 1000 citizens (comparing to the “underdeveloped Eastern nations”). Consequently, we could assume that there are differences in the demographic characteristics of the nation related to the level of its wealth. This assumption, in particular, underpins the hypotheses we are going to develop in this paper. 
+Another study aiming to compare the influence of economic factors on the marriage was done by Soons and Kalmijn. In their article Is Marriage More Than Cohabitation? Well-Being Differences in 30 European Countries (Journal of Marriage and Family, 2009) authors concluded that difference between the level of well-being of married and unmarried people “can be partly explained with the selection factors material resources and religiosity”. What that actually means is that decision-making about marriage could be influenced by cost-benefit economic analysis done by individuals.
+ Economic consequences of divorces are under research in the book When marriage ends: economic and social consequences of partnership dissolution by Hans-Jürgen Andress and Dina Hummelsheim. Their findings consider mostly individual well-being and can only be partially related to the analysis of the country-level economic consequences through changes of the supply on the labour market etc. However, overall negative influence on the particular household income can be admitted, that also harmfully influence the level of economic development in particular country.
+
+Theoretical framework
+
+The environment we all live in is a set of dynamic sub-environments: they are political, economic, social, cultural, business, technological ones and even more. All these sub-environments, influencing each other, create a unique national environment typical for this or that country. Sometimes these link and channels of influence are obvious: for example, “national business culture” is conception often used in business for defining culture-specific ways of doing business by people in a particular country (meaning particular cultural environment).
+Sometimes these cause-effect relations are not that obvious:
+How the level of economic development could influence the level of marriages? Is not marriage an event that deals with feelings not economy?
+If there is a cause-effect link between marriage and GDP, then how strong are these relations? To which extend can we explain changes in the level of marriages using changes in economic environment?
+Is family-oriented society (meaning society where the value of marriage is high) expected to be more economically developed and socially successful? 
+Similar questions can be raised with regard to different social, demographical, environmental and many more other issues considering their possible dependence on and influence on the economic or cultural national peculiarities.
+“Marriage, as we know it in our Western civilization today, has a long history with roots in several very different ancient cultures, of which the Roman, Hebrew, and Germanic are the most important. Western marriage has further been shaped by the doctrines and policies of the medieval Christian church, the demands of the Protestant Reformation, and the social impact of the Industrial Revolution.”
+“Despite its invisibility to the news media and the economic guild, the family GDP, or the contribution of the family to the economy, is nonetheless massive. At a rudimentary level, every marriage creates a new household, an independent economic unit that generates income, spends, saves, and invests.”
+There are many factors that influence family and marriage. The decision here could be affected by the education level, cultural background, and economic independence of particular individual. But the one also estimates social guarantees, economic and political stability in the country. For example, in ancient Greece marriage was usually treated as a practical matter without much romantic significance. Today the system of mutually effecting factors (economic, social, cultural etc.) is very complex. Moreover, it is a dynamic system which makes necessary to investigate it constantly. 
+Another explanation of the relationships between marriage/divorce-related ratios and economic development of the country could be nationally specific marriage transactions (e.g., bride wealth, dowry). However, scholars have concentrated more attention on the cross-cultural differences (concluding that some societies have absence of transactions and that many societies have primary and secondary marriage transactions); no researches have tested the link between level of economic development of society and marriage transactions typical for this society.
+The direction of the relationships between the economic well-being and marriages’ or divorces’ dynamics in the society is another interesting issue. On the one hand, family is associated with stability that could be converted into the higher contribution to the economic well-being of the whole nation. On the other hand, however, more developed and socially successful society ensures possibility of the prosperous life after divorce; consequently, people have one reason less to “save” their marriages.
+The researches of these issues are of extreme importance for the society: they are aiming not only at raising awareness and creating knowledge for better understanding, but also have obvious applied character – the political decisions about strategic development of the whole country could be grounded on the findings of these researches.
+Cross-cultural studies become more important considering the integration processes that require working out common policies in different spheres of social life. 
+
+Data and methodology
+
+For the purposes of the research we have gathered the following data for the period from 2000 till 2010:
+GDP per capita in purchasing power standards in constant USD 2005;
+number of marriages per 1000 individuals;
+number of divorces per 1000 individuals.
+We use GDP per capita (PPS, constant USD 2005) as world-wide accepted primary indicator of the level of economic development of the country. It is the ratio between the level of gross domestic product (GDP), expressed in purchasing power standards, and total population of the country. “The per capita GDP is especially useful when comparing one country to another because it shows the relative performance of the countries.”
+Two demographic characteristics used are numbers of marriages/divorces per 1000 individuals - major demographic trends. 
+The data represents the following countries, which are divided in 3 groups:
+Eastern-European countries: Ukraine and Russia;
+Scandinavian countries: Finland and Sweden;
+English-speaking developed countries: the UK and the USA.
+Primary data is presented in tables 1 and 2 below.
+
+[Table]
+Data is obtained from the official sources: databases of the World Bank, official state statistic committees and burros. 
+The following statistical methods were used:
+Summary statistics. The computation of summary statistics is an important step in data analysis as it gives overall picture about data samples used in the study.
+T-Test for two samples. This test is conducted when it’s necessary to test the hypothesis about the populations’ identities. In our research we used this test for both economic and demographic variables when grouping countries for comparison. 
+Linear regression. This data analysis tool is used when there is a need to test the linear dependence of the dependent variable (level of marriages and level of divorce are dependent variables in our research in the Ha(2) hypothesis; in Ha(3) hypothesis dependent variable is GDP per capita) from the independent variable (GDP per capita in PPS is taken as independent variable in the Ha(2) hypothesis; in Ha(3) independent are demographic trends).
+[Table]
+In this part of paper we also would like to give a short overview of the summary descriptive statistic (see Table A.1 in Appendixes) as it provides overview of the primary data used in the research:
+Number of observation for particular country varies from 9 to 11 for different factors, which produce relatively small samples. Because of that particular limitation grouping of countries has been introduced, that increased number of values in each sample.
+Mean is a specific measure which can be trusted when making assumptions about the whole population only if the range is sufficiently small. For example, what can be seen from the range in level of marriages and divorces is that some drastic changes have taken place in Russia and Ukraine during last 11 years in these spheres.  
+Ratings of the countries with regard to the mean value of the three introduced indicators are as follows (starting with the country with highest value):
+Range based on the value of GDP per capita:
+1. the USA;
+2. EU-countries (the UK, Sweden, Finland);
+3. Eastern-European countries (Russia, Ukraine).
+Range based on the number of marriages per 100 individuals:
+1. Russia/the USA;
+2. Ukraine;
+3. EU-countries (Finland, the UK, Sweden).
+Range based on the number of divorces per 100 individuals:
+1. Eastern-European countries (Russia, Ukraine);
+2. the USA;
+3. EU-countries (Finland, the UK, Sweden).
+Finally, there are two sets of hypotheses to be tested in this paper. 
+First one considers grouping countries based on their GDP per capita and is following:
+Ho (1): countries could be grouped assumed comparable GDP per capita the following way: Eastern-European (Ukraine and Russia), Scandinavian (Finland and Sweden) and English-speaking (the UK and the USA) countries.
+Ha (1): countries cannot be grouped as proposed above due to the incomparable GDP per capita.
+Second set of hypothesis is formulated to test the linear relationships between the GDP per capita as economic variable and the level of marriages/divorces in the society as demographic variable (only alternative hypotheses are formulated below).
+Ha (2): There is a significant relationship between the level of economic development of the country and its level of marriages/divorces. The economic development is a significant factor positively influencing both the level of marriages and the level of divorces in the society.
+Ha (3): There is a significant relationship between the level of economic development of the country and its level of marriages/divorces. The economic development is significantly positively influenced by both - high level of marriages and high level of divorces in the society.
+The next section is devoted to the analysis of the statistical tests conducted to check hypothesis above, and discussion of the main findings is presented there.
+
+Discussion
+
+There are three main groups of findings: firstly, the results about grouping will be presented and discussed (see tables in Appendix B); secondly, consideration to the influence of the level of economic development on the marriage and divorce trends will be given (see tables in Appendix C); final group of findings reflects the relationships between marriages/divorces as independent variables and GDP per capita as dependent one (see tables in Appendix D).
+Table B.1 contains the results of the statistical test for the Ho(1) and Ha(1). As can be seen from the figures obtained we can reject the null hypothesis using results of the one-tail test for all 3 groups: in other words, there is not enough statistical evidence to assume that countries in the proposed three groups have similar level of economic development. However, in our research these three groups will be used, as countries in each group are ranked as the ones from the same group according to the world-wide classification of the IMF and the World Bank. Moreover, countries within one group have similar historical and cultural background.
+Tables with results of statistical tests done for the second set of hypotheses are presented in the Appendix C. 
+Below four scatted plots are offered: figures 1 and 2 are given to illustrate the limited ability to predict GDP per capita from the demographic figures; figures 3 and 4 show that prediction of the number of marriages or divorces from the actual GDP per capita value will not be accurate as well. 
+
+[Figure]
+What figures show (for the assumption that level of economic development is influenced by number of marriages and divorces in the society) is that only 10,5% and 12,3% of the deviations in the GDP per capita could be explained by changes in the level of marriages and divorces in the society respectively. The link in both cases is indirect, meaning the higher number of marriages or divorces, the lower GDP per capita is expected to be in the society. However, as can be clearly seen from the graphs 1 and 2, points representing the USA are outliers – having the same number of marriages and divorces per 100 individuals as Eastern-European countries have, States have four-time higher GDP per capita. EU-members are the ones having the clearest link between demographic and economic trends’ dynamic. 
+
+[Figure]
+
+Figures 3 and 4 indicate that, in the present situation, level of the GDP per capita is not a significant cause for the differences in the number of marriages and divorces in different countries. In fact, only as much as 10,5% and 12,3% of changes in the number of marriages and divorces respectively could be explained by the changes in the GDP per capita for the particular country. These figures are the same compared to the ones mentioned above with regard to the influence of the demography on the national economy. The question about cause-effect relations rises:
+Is economy influenced, even in such small degree, by the demographic situation?
+Or is that demography that reflects changes in the national economy?
+[Figure]
+Finally, contrary to the opinions about necessity of determination cause and effect in the relationships, this can be viewed as mutually influencing group of processes that have been changing and reciprocally influencing one another for ages.
+
+[Figure]
+ 
+Conclusions
+
+Despite distinct differences between the countries, the conclusion about insignificant mutual influence of the demographic situation and economic well-being of the nation could be made. History, religion, tradition and culture play important roles in the social and economic life of the particular country. While providing relatively small explanation to the national economy development, demography can be highly-influenced by economic stimuli. Accordingly, economic policy of the government should consider social demographic trends. 

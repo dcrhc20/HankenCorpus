@@ -1,0 +1,141 @@
+Modeling risks related to groundings of chemical tankers
+
+1 Introduction 
+Marine chemical transportation poses a risk for the environment, human health, and a risk for economical loss, in form of different types of accidents. Among the most frequent maritime accidents are groundings; in the Gulf of Finland alone, in the period from January 1997 to June 2006, 47.6 % of all reported accidents were groundings (Kujala et al. 2009).
+
+The scientific field that focuses on this problem is called ship grounding risk analysis (SGRA). The first ideas within this field, laid out by Macduff (1974) and Fujii (1974), focused on the geometric probability of a ship grounding. More recent suggestions for modeling groundings and their consequences have been presented by, e.g., van de Wiel& van Dorp (2009) and Pedersen (2010).  The focus of the research has been mostly on general grounding descriptions or modeling oil tanker groundings (Mazaheri 2009), thus there is a need for additional research when it comes to chemical tanker grounding risk. Moreover, as Mazaheri pointed out, one of the main issues of SGRA is that currently a holistic and reasonably accurate model for describing the reality does not exist. 
+
+Reasons why SGRA is an important topic to study, is that if a reasonable model existed, it could be used e.g. to mathematically simulate the positive effects of different risk control options (RCOs).  A RCO is a measure that can be implemented to reduce risk, such as mandatory double hulls in tanker ships.  
+
+The model would be used as follows: first one would use it to simulate the risks of groundings given the current situation, and then simulate the risks after a certain RCO has been implemented. These results would be compared with one another and the reduction in grounding risk between the simulations would then be the benefit of the given RCO. This benefit could then be combined with the respective RCO’s cost in a Cost-Benefit Analysis (CBA) in order to determine the respective cost-effectiveness. One of the problems regarding decisions regarding which RCO to implement is the difficulty in assessing their true costs and benefits (Kuronen & Tapaninen 2009).  Having a good SGRA modelwould help to solvethisproblem.  This, in turn, would make it possible for decision-makers to make better decisions about increasing maritime safety in the future. 
+1.1. Scope
+Based on the current models, the aim of this paper is to build up a framework for modeling the risk related to chemical tanker groundings. This is done by first defining what risk is, and then identifying the relevant stages that one needs to go through in order to model it. After identifying the relevant stages, a literature review will follow, in which the most recent and best-suited methods for the purpose of modeling and linking the different stages together will be described and discussed. Of special interest are the shortcomings of current SGRA models and particularly the gaps that need to be filled in order to do a reasonable risk assessment of chemical tanker groundings. 
+
+Finally, based on the identified limitations, suggestions for future research will be presented, so that ultimately CBA of RCOs would become more effective. 
+
+In order to be able to model risk, first the concept of risk must be defined and outlined. This is done in the following paragraph.
+1.2. Risk
+Risk can be defined in different ways. Cool (1999) defines risk as the absolute value of the probable loss. The Society for Risk Analysis (2011) defines risk as "the potential for realization of unwanted, adverse consequences to human life, health, property, or the environment." As this paper takes a quantitative approach to risk, it is necessary to express the risk with mathematical variables. A widely accepted definition of risk is given by Kaplan (1997), which is used in this paper. According to Kaplan, risk can be defined by asking the following three questions: “What can happen?”, “how likely is it to happen?” and “if it happens, what are the consequences?”
+[Table]
+The answer to question 1 is called a scenario (event). The number or the i:th scenario is denoted by Si, its probability by Pi and the consequences of the scenario by Xi. That is to say, that the risk R can be expressed as a set of scenarios, probabilities and consequences. Mathematically this can be expressed as
+[Formula]
+where c means a complete set, meaning that all the possible scenarios are being considered. So Si is used to describe an undesirable event, in this case a tanker grounding. On the other hand, a "successful" scenario is denoted by S0, meaning that no accident happened. 
+1.3. RISK MODELING
+Risk modeling can be divided into two different steps: Accident Frequency Modeling and Accident Consequence Modeling (Goerlandt et al. 2011). Modeling frequency relates to the second risk question and modeling consequences to the third risk question defined above.
+
+[Figure]
+
+For the purposes of risk modeling, any viable accident frequency model needs to give its output in a format that can be linked to the Accident Consequence Modeling, a requirement that is not necessarily trivial. 
+
+APPROACHES TO MODELING: 
+WHITE BOX
+GREY  BOX
+BLACK BOX =>  I THINK I NEED TO EXCLUDE THIS DISCUSSION OF APPROACHES. IT IS INTERESTING FOR THE PAPER BUT NO ROOM :( 
+
+WHEN IT COMES TO THIS FIELD => LIMITATIONS IN AVAILABLE MODELS
+
+Present the approach to modeling frequency by Goerlandt (WHY IWRAP DOES  NOT REALLY WORK IN THIS CASE OR OMIT?)
+
+DESCRIBE THE DIFFERENT STEPS NEEDED TO MODEL THE RISK
+In the following paragraphs the two steps are described in more detail: First the different models available are described along with their simplifications, benefits and drawbacks. 
+1.3.1. Accident Frequency Modeling
+For modeling maritime accident frequencies and how the risk is distributed over a larger geographical area, a simulation approach is  usually adopted. This means randomly generating ships with different speeds, tonnage, cargo, etc. from statistical data and then "sailing" these ships in a simulation program. (Goerlandt &Kujala 2011; IALA 3 2011)
+In this paper, the as IWRAP Mk 2 is used to simulate the number of groundings in a given geographical area. According to Pedersen (1995), groundings can be divided into four categories:
+
+ I.  Ships following the ordinary direct route at normal speed but still end up on the ground. Accidents in this category are mainly due to human error, but may also be due to problems with the propulsion or steering system near the ground.
+ II. Ships that failed to change course at a given turning point in the shipping lane near ground.
+III. Ships taking evasive actions near an obstacle and consequently run aground.
+IV. All other track patterns than Cat. I, II and III, for example ships completely out of course due to loss of propulsion. 
+Category I and II collision patterns are illustrated below: 
+[Figure]
+For category I and II collisions, the following formulas are used (Friis-Hansen, Ravn&Engberg 2009). 
+[Formula]
+The navigator is expected to check the position and course on average every three minutes. In IWRAP Mk 2 Category III groundings are currently not modeled. Of Category IV groundings, only drifting groundings due to blackouts are modeled by making ships suffer random blackouts for a random length, then making them drift randomly and see if they regain control before they run aground. See Friis-Hansen, Ravn&Engberg (2009) for details regarding the models. 
+In this manner, the number grounded ships in a given shipping lane during a certain time period (etc. a year) is obtained. The results can be filtered to exclude other ships than chemical tankers. 
+The results from IWRAP will look something like this: 
+[Figure]
+In the picture above, the red, straight line in the middle represents the analyzed lane section. The black areas represent dry land; the light blue represents water at least 10 m deep and dark blue water less than 10 m deep. The yellow, orange and red lines on the shores and on the boarders between deep and shallow water represent grounding probabilities. The darker the color, the more probable is grounding on the spot. 
+1.3.2. Discussion of the limitations
+Even though simulation using the methods defined above gives a comprehensive map of the grounding frequencies, there are several questions regarding reliability, that need to be assessed: 
+Firstly, the number of groundings is based on the causation factors, which are dependent on factors such as the location and visibility (Goerlandt &Kujala 2010). Using causation factors is a simplification which is used to in place of modeling the complex chain of human and mechanical events that lead to a grounding. 
+Furthermore, IWRAP Mk 2 does not take into account Category III groundings (groundings due to evasive maneuvers) and the number of Category II groundings are highly dependent on the time between the position checks (Mazaheri&Ylitalo 2010): A check time of 0 minutes in IWRAP Mk 2 gives 0 Category II collisions. Currently, all the check times are assumed to be the same on all shipping lanes in a given geographical area. This might be unrealistic as intuitively ship personnel will check their position more often in a situation where the risk of grounding is higher due to lane turns. Lastly, the weather is hardly at all taken into account in IWRAP Mk 2: Effects of storms, currents etc. are not modeled.  
+However, the IWRAP Mk 2 does provide a reasonable tool for estimating the accident frequencies for a given area. The next step in risk analysis is combining the accident frequency modeling with accident consequence modeling, which is presented as follows.
+there are several different models for accident frequency estimation available. Approaches: 
+Bayesian, EXAMPLE HERE
+Simulation based on causation factors 
+Calculations from distribution functions 
+What models are available?
+What are the pros and cons? What aspects can they cover?
+1.3.3. Accident Consequence Modeling
+Different approaches
+
+What models are available`? 
+Pros and cons. 
+Limitations
+
+The second part of risk modeling is the Accident Consequence Modeling. Due to the limitations of the paper, this paper concentrates on the structural damage and estimating the size of spills due to groundings. 
+
+Requirements for a good model: DO I NEED REFERENCES or is it enough to state things intuitively? MAYBE SKIP THIS PART TOTALLY!!
+
+Reliability
+All ship types, taking into account speed, mass and ship layout and cargo
+Effects of weather (waves etc.) 
+Slushing etc. ship motions after grounding
+Not too computationally demanding
+Ability to link output of Accident Frequency Modeling with Accident Consequence Modeling
+All underwater obstacle collision scenarios (rock, shoal, sandbank, etc.)   
+
+1.3.4. Modeling grounding consequences with physics
+Structural damage to ships can be simulated using non-linear Finite Element Methods (FEM) through numerical simulations of the structural deformations of tankers’ hulls that occur as a result of a collision or grounding (Klanac et al. 2010). FEM modeling is based on the laws of physics, however, it is very time extensive (Zhang et al. 2004), and therefore do not allow a direct link between Accident Frequency and Accident Consequence Modeling (van de Wiel& van Dorp 2009). 
+
+A simplified consequence model which is not overly time-consuming is presented by van de Wiel& van Dorp (2009). The model is a regression modelbased on resultsfrom80,000 FEM simulatedcollisions and groundings in the National ResearchCouncil SR250 report. In the report, damage to fourdifferenttankertypesweresimulated: single  (SH) - and doublehull  (DH) 40 000 tontankers and single- and doublehull 150 000 tontankers (Brown 2001). Beloware the dimensions of the fourtankertypesused.
+
+[Figure]
+The modelestimates the hullrupturelength (yl), depth (yt) and the oil outflow (z) that follows as a result of a ship colliding with an underwater rock using compartmental layouts as illustrated below: 
+
+[Figure]
+The groundings were simulated by “sailing” the 4 different ship types against different kinds of underwater rocks at different speeds in a manner that is illustrated below: 
+
+[Figure]
+The resulting damage of the simulated groundings depends on several factors, such as speed of the vessel. The affecting factors are summarised in the table below: 
+
+[Table]
+The rock eccentricity c is defined as the relative distance of the rock to the ship’s centerline. Thus c = 0, if the rock touches ship’s centerline and 1, if it hits the port or starboard side. The input variables can either be imported from the Accident Frequency Model (if available) or generated randomly for each grounding situation from statistical distributions outlined in the SR250 (Brown 2001:76). For example, c is uniformly distributed in the interval [0;1] as the ship is assumed to hit the rock "blindly", that is, on a random spot in the bottom. 
+
+Based on the input variables, the model uses a fifth degree logarithmic regression to estimate the hull rupture length from stern (yl) and depth (yt). See van de Wiel (2008) for a more detailed description. Even though the hull ruptures, no substances are necessarily spilled, especially if the grounded tanker has a double hull construction. 
+
+Therefore, in order to estimate the probability of a spill, a binary logistics regression is carried out based on the variable yv, which is the difference between ship’s draft (sd) and the depth of where rock’s tip is (od). If the draft exceeds the depth, yv is assigned the value “0”. Thus the probability of spill (Z’) is obtained as 
+[Fomula]
+After estimating the spill probability, a “coinflipping” is done. This means generating a random value between 0 - 1, and comparing it to the value of the calculated Z’. If Z’ is smaller than the random "coinflip" value, a spill occurs as a result of the grounding and vice versa. The spill size is estimated by looking at how long the rupture is (yl), where it is located (c) and comparing this information with the tanker layout to see which compartments are affected. The model assumes that all substances in all affected compartments are spilled. 
+1.3.5. Discussion of the limitations
+In the paper of Wiel & van Dorp (2009) this model is used for oil tankers. For the purposes of this paper a simplification is made, assuming that the structural rigidity is the same for oil- and chemical tankers as no specific model exists for the latter. The model also makes the simplification that all substances in a breached compartment are spilled, which is necessarily not the case. There are models for estimating spills from side damaged oil tankers (Tavakoli, Amdahl &Leira 2010), but as the viscosity and physical properties of many chemicals are very different from oils, these models cannot be directly applied. 
+For practical reasons perhaps the biggest limitation for the van de Wiel& van Dorp’s model is that only one grounding type is considered: Hitting a cone-shaped, indestructible rock. Nor are other important effects modeled, such as possible ship breaking due to the ship being lifted when it hits the ground, or additional damage caused by waves rocking the ship. 
+Modeling grounding on different sea beds is done by Alsos&Amdalh (2007), where FEM is used to simulate grounding on rock, reef and shoal as illustrated below:
+[Figure]
+Alsos& Amdahl, however, do not give a model that can be used to describe different ships running aground with different speeds; only one type of tanker was used with a constant speed. Thus no general model such as the one given by van de Wiel& van Dorp is presented by Alsos & Amdahl. 
+An additional problem is to determine what the sea bottom conditions are on the grounding location. For this, a survey of actual sea floor topologies in navigation channels is needed, especially in shipping lanes that experience frequent groundings. At present, such data is unfortunately close to non-existing (Alsos & Amdalh 2007). Also there is no generally applicable model for how waves can cause additional damage on a grounded ship (Zaraphonitis & Samuelides 2010). 
+In conclusion, modeling grounding consequences with physical models does not yield a satisfactory model for a comprehensive risk analysis due to the simplifications and limitations of the models. Therefore, in the next paragraph, a different approach is taken to modeling grounding consequences. 
+1.3.6. Modeling grounding damage using historical data
+Another approach for modeling grounding consequences is using historical collision data. This approach is used by the International Maritime Organization (IMO) to estimate double hull oil tanker bottom damage due to standings (IMO 1995). For this purpose, density functions were estimated based on actual damage data of 52 collisions and 63 grounding accidents of ships of different types recorded between 1980 -1990 (Pedersen & Zhang 2000).
+Below are figures that show the probability density distributions for the expected damage longitudinally, vertically and transversely according to the IMO Guidelines. All damages are given as the relative damage relative to the total ship length, depth or beam (0-1) respectively. 
+[Figure]
+Thus with these density functions it is possible to do “coin flip” and generating random damages along the three dimensions of the ship, starting from a random location. The damage area is then compared to ship layout to see which compartments are breached. The advantage of generating random damage is that no need of any information about the bottom condition, vessel speed, weather etc. is required, thus the problems of the physics approach are solved. Randomly generating damage is also computationally very fast to do  and requires very little information from the Accident Frequency Model: Only the probability of grounding accident per the different locations is needed. 
+1.3.7. Discussion of the limitations
+Even though the model is based on actual damage data, and is therefore applicable to all relevant ship types, weather etc., the guidelines have major shortcomings (Sirkar et al. 1997; Rawson et al. 1998). For example, the guidelines do not consider the effect of the local structural design or the crashworthiness on the damage extent, and assume that all tankers have the same damage distributions. Pedersen & Zhang (2000) conclude,that these damage distributions severely underestimate the grounding damages of larger vessels. Neither arespecial local conditions taken into account. Also a problem arises with randomly generating grounding damage separately and independently for the length, breadth and depth. Intuitively there might be some correlation between these; e.g. if a tanker has a very long rupture in the bottom, it most likely will not be very deep. 
+If this is the case, the damage along the 3 dimensions cannot be independently randomly generated from the distributions above. Also  the sample size used for the damage estimation (63 ships of all types) gives reason for concern regarding reliability. This can be seen from the not-so-smooth density function lines. Therefore, the model reliability is questionable, and the model may not be valid for large tankers or tankers that have a significantly better crashworthiness than tankers in the ‘80s and ‘90s.  This again raises a question whether oil tankers can be compared with chemical tankers or not as chemical tankers have more compartments and thus might be more rigid and more crashworthy.
+2 DISCUSSION & Conclusions
+In conclusion, grounding frequencies can be reasonably simulated using software such as IWRAP Mk 2, but not for all grounding types nor necessarily in a very reliable fashion. For modeling accident consequences, there are 2 approaches: a more detailed simulation based on physics that can only be used to simulate very few scenarios and a simplified statistical approach that can be used for all situations but is not necessary very reliable or even valid.  
+
+As a conclusion, modeling the frequency and the consequences of groundings is a difficult task, and even when many simplifications are made, no satisfactory model is obtained that can be used to model something more other than only a handful of grounding situations.  
+
+Several obstacles need to be overcome in order to have a working and reliable simulation model that can be used generally to estimate risks related to groundings of chemical tankers. These obstacles are summarized in the following paragraph. 
+2.1. Suggestions for future research
+
+Modeling chemical spills from breached compartments for different chemicals with different physical properties. 
+Assessing and taking into account differences in structural rigidity and crashworthiness between oil- and chemical tankers  in the models
+Working out a general model that can be used to simulate consequences of groundings on all types of seabeds
+Working out a model for the effects of waves and weather on grounded ships and 
+Taking weather into account in the grounding probability
+Refining and testing the IMO guidelines (1995) for better validity and reliability 
+Modeling the frequencies of all 4 grounding categories 
+Modifying causation factors to better take into account local conditions or replacing them altogether with a more detailed model for describing the chain of events that lead to groundings.

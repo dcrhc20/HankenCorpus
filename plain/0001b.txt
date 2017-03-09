@@ -1,0 +1,465 @@
+Service Oriented Architecture (SOA): a study of adaption intention factors for applying new technology
+
+
+1     INTRODUCTION
+
+Organizations are increasingly dependent on their IT infrastructure to help them to
+achieve business success. A company that manages to implement their IT infrastructure
+to support their business goals will increase their potential of keeping them competitive
+in the market (Piccoli, 12/2005) et al.
+
+Service Oriented Architecture (SOA) IT-governance concept has been around for more
+than a decade (Schulte W, 1996) and recent studies of SOA suggest that there are
+several business benefits to be gained through utilizing SOA IT-governance approach
+(Erl, 2009), (Papazoglou;Traterso;Dustdar;& Leymann, 2007) et al. However, many of
+the earlier studies on SOA have mostly dealt with explaining and describing what SOA
+is; how it can be used, what kind of technology and product solutions there are to help
+companies utilizing it (Erickson & Siau, 2008).
+
+Contemporary studies seem to demonstrate that there is much potential in SOA to
+improve companies IT-governance and find new ways of gaining competitive
+advantages of it. Despite these promises, there is still lack of studies that would show
+what possible factors trigger companies to adopt new technology innovations like SOA.
+As a result, no appropriate theory seems to exist regarding the adaption intentions of
+SOA IT-governance approach. Question is what kind of theory or adaption model
+would properly describe the companies' willingness to utilize SOA? What kinds of
+factors contribute or lessen the potential of using SOA in the industry?
+
+This paper evaluates the possible factors that have either positive or negative impact on
+companies' adaption intention to adapt to SOA IT-governance approach. In this paper,
+the author will present a model of SOA adaption intention, which is based on
+innovation adaption model by (Rogers, 1995) and (Tsai;Lee;& Wu, 2010/47), but
+modified by the author according to comprehensive literature of SOA to fit the specific
+features on SOA. This model will include the following factors: Relative advantages of
+SOA, Complexity issues of SOA, Supply-chain integration issues, Organizational
+readiness concerns, Communication channel affects, all or which will be described in
+detail in coming section of this paper.
+
+The construction of this paper will be to first introduce the topic and research objective.
+Secondly to present the current understanding of SOA concept, principles and
+architecture basics through literature reviews. This will be carried out so that the reader
+
+may follow the later discussion and understand the argumentations related to the
+presented topics. The third part will contain the SOA adaption intention model and the
+empirical study based on the model. The firth part will present the study results based
+to the analysis and reflections with the SOA adaption intention model. This part is used
+to observe the theories in light of the real industry IT-governance practices. It is also
+used to discuss how SOA is used and if SOA promises hold fast in reality. In the final
+stage the conclusions are drawn out of the empirical study in light of the literature
+review and the research questions of this paper.
+
+2        SOA DESCRIPTION SECTION
+
+Since SOA is very abstract paradigm in the first place, it is sufficient to describe its
+concepts, terms, techniques of this technology architecture. This will help the reader to
+better follow the later discussion of SOA's possibilities and challenges of applying SOA.
+
+
+         2.1. SOA definition
+
+To define SOA is a bit tricky. One can come across a myriad of definitions of SOA
+depending on a person you ask about it or how one a book or article author defines it.
+On the other hand, the definitions of SOA luckily do not differ so much either. Here is
+one definition that reflects how this study is characterizing SOA.
+
+
+           An SOA is as an interconnected set of services which in its basic form is a
+           message-based interaction between software agents, each accessible through
+           standard interfaces and messaging protocols. These agents can be service
+           providers or service requesters (clients) interacting with service discovery
+           agencies, and the services in the SOA should be technology neutral, loosely
+           coupled (not tightly integrated into the requester's process), and support
+           location transparency." (Papazoglou M., 2003.)
+
+
+         2.2. Overview of SOA technology
+
+According to literature web services are most often used when implementing SOA (ref).
+This is the reason this study focuses only web service technology implementation
+approach regarding SOA architecture.
+
+In principle, SOA is independent of any specific system set-up, implementation
+language, or platform technology used. In SOA architecture, standardized web service
+technologies are used to build the enterprise system infrastructure. Web services are
+enabling an open communications, sharing of information and data exchange between
+heterogeneous system environments. (Derrick Huang, 2004)
+
+
+         2.3. SOA fundamental principles
+
+Service-oriented architecture is a flexible design architecture based on a set of
+principles that are used during the systems development and integration of the
+organizations IT-environment. Thus, it is important that these principles are followed
+accordingly to enable a SOA compliant IT-environment.
+
+The introduced SOA principles that will be presented here are in no precedence order.
+This study focuses on Web-service technology implementation approach and therefore
+only those principles that apply for that technology are presented here. These principles
+are received from (Erl, 2009),
+http://www.soaprinciples.com/service_composability.php and (K. Laskey & K. Laskey,
+2009) et al.
+
+Firstly, the services need to be discoverable and this is done by providing a registry that
+enables this. This registry is a service description interface which makes it possible to
+discover automatically the available services that are provided on the enterprise
+network. This registry needs to be dynamic in character, allowing flexible adding,
+removing, modifying of the provided services. Secondly, the services need to share a
+formal contract. For service to interact, they need to share a formal contract that
+describes each service and defines the terms for the possible information exchange.
+Thirdly, services need to have an interaction control feature. The service access control
+function makes sure that only consumers with proper access rights are allowed to
+utilize the needed services. Fourthly, the service infrastructure needs to be applicable
+for information exchange. This is often done so that the overall service system
+environment is be transparent for the consumer and the service bus2 performs the
+needed functions for the service requestors. Later on in this chapter this issues will be
+described in more detail.
+
+
+         2.4. SOA terms and characteristics
+
+In addition to the above principles, it is important to understand some main terms and
+attributes or characteristics related to SOA architecture as they are defined in the
+literature (Erl, 2009), W3C 2004 and Papazoglou, M.P, 2003.
+
+In modularity, the services in the SOA architecture are developed as independent
+modules of functionality, offering well-defined interfaces to the service users. The
+services represent a logical view of operations (e.g., customer verification) as relatively
+granular or coarse-grained in scope.
+
+Loose coupling is one of the most common terms used in SOA context. Here the
+underlying functionality is encapsulated so that the implementation is logically
+decoupled from the invoking entity. Services may encapsulate functionality at various
+levels ­ from components within an application to components or sub-systems
+communicating across enterprises ­ as long as they represent discrete meaningful
+business functions. Loosely coupling facilitates the composition of these services into
+complex services and applications.
+
+
+Technology neutrality is achieved by making the services universally usable by any
+requester. This is possible due that the communication between services is message
+based, with the message format of web technology standards and this enables platform-
+neutrality.
+
+Location transparency is accomplished by making the services self describing. Services
+use formal documented interfaces that are well known, and they are easily located and
+accessed over a network. According to Papazoglou (2003), the service interface is
+"known where to be found not only by agents who designed the services but also by
+agents who do not know about how the service has been designed and yet want to
+access and use it".
+
+
+      2.5. SOA Architecture ­ a big picture
+
+The architecture infrastructure construction is the essential part of SOA concept. Here
+the author describes the basic components that build SOA architecture.
+
+"SOAs may be viewed as application architectures within which all functions are
+defined as independent services with well-defined inviolable interfaces, which can be
+called in defined sequences to form business processes" (Channabasavaiah K., 2004)
+
+       2.5.1.      SOA web-services
+
+       "The fundamental architectural unit for an SOA is a "service". Service, per our
+       definition of SOA is units of business capabilities, processes or functions that
+       are delivered in a repeatable way to consumers of those services." (Marks & Bell,
+       2006) p.Exhibit 1.10.
+The most common implementation of SOA is by using Web services (C. Derrick Huang,
+Qing Hu, 2004) et al. SOA is a design approach where the enterprises IT-infrastructure
+is standardized, based on Web Service and protocol standards. SOA enables the
+technical capacity to make process implementation independent between various
+system modules and applications.
+The goal of using web-services technology is to enable using organization's IT systems
+as reusable services that can communicate and integrate more easily and quickly. The
+intention with SOA is to eliminate the integration problems that exist in many
+enterprises today. SOA offers a standardized communication framework for systematic
+way to integrate current system functions and to develop new applications.
+
+SOA designed by using web-services uses an asynchronous processing technique to
+encapsulate the underlying application logic into standardized interfaces. These
+interfaces can then be called or interacted asynchronously. This is what is called loosely
+coupling - enabling flexible interaction between components. This allows SOA
+architecture to be a collection of independent IT systems, software or hardware
+components and application functions that appears to its users as a single logical
+system.
+
+The following four Web service standards forms the foundation of this technology (C.
+Derrick Huang, Qing Hu, 2004), (Erl, 2009) p.73:
+       Simple Object Access Protocol (SOAP). This enables the interoperability
+       between systems and heterogeneous platforms. It is for invoking functions and
+       procedures on remote systems and exchanging data between processes. This is
+       done by sending service messages encoded according to SOAP 1.1 specifications.
+       Web services Description Language (WSDL) is for describing the specific
+       services a software component or application provides and the interface binding
+       details.
+       Universal Description, Discovery, and Integration (UDDI) is for publishing and
+       searching Web services over the Internet by creating public and private Web
+       services registries that enable service discovery and interface binding.
+
+          The XML data representation format (syntax) establishes the structure of the
+          messages traveling in the SOA architecture. XML format enables and validates
+          service message to communication between and within the heterogeneous
+          systems and components ­ the SOA architecture environment.
+The figure below explains and illustrates the relations and interactions between these
+technology components.
+
+[Figure]
+
+The transformation of an enterprise's business processes to services according to SOA
+principles opens totally new possibilities of strategic partnerships with suppliers,
+partners, and customers (Hagel, J.I. and J.S. Brown, , 2001). This approach allows
+services from external service providers to be included as part of company's own system
+without having to understand the underlying implementation of the service. According
+to H. Luthria, F. Rabhi and M. Briers (2007) "the most significant advantage of a
+service-based business model in the context of inter-enterprise integration is that
+services have interfaces that are location transparent". This means that the services are
+reachable independent of whether they are implemented within the boundaries of the
+same business process, in another business process within the organization, or in a
+business process in an external (partner or customer) domain. This opportunity
+extends companies business strategies beyond organizational boundaries.
+
+
+The web-service system environment is often made transparent for the service
+consumer by using a service bus architecture solution. This technique is not described
+in very detail in this paper, but the below figure illustrates how it is used and
+constructed in IT-infrastructures.
+
+[Figure]
+
+Service bus performs the needed functions (e.g. provides a customer order information
+etc.) for the service requestors and hides the underlying it-system source where the
+actual data and information is retrieved from. Service bus solution makes the
+communication, interaction possible with the various heterogeneous systems and
+component possible, regardless of their internal architecture construction or process
+logic and so forth.
+
+
+        2.6. Why SOA?
+
+Today's enterprise IT-infrastructure and system set-ups are very complex and they are
+very demanding to maintain as well as challenging to make new development on them.
+This is due to various vendor systems, platforms, applications and components that
+were not meant to interact with each other.
+
+The earlier legacy systems, monolithic hard coded and coupled entities, the proprietary
+environment were built to function on their own. They were not designed to
+communicate with other applications and systems outside their "boundaries". Those
+system set-ups did not allow any business intelligent to work beyond to what they were
+designed to accomplish. It required normal software-projects to make any changes to
+9
+
+
+
+
+them and this could be very difficult accomplish since the changes had often impact on
+the whole environment. J. Noel (2005) calls this as a "result of integration spaghetti".
+Also, the results were not always exactly what the company were expecting. Companies
+are today aware of these problems and have found this old faction system development
+very ineffective, time consuming and expensive.
+
+What is it that SOA architecture approach offers beyond what earlier concepts,
+techniques or development methods made possible? Can SOA be the "silver bullet" of
+solving complex IT-integration challenges?
+
+
+          2.6.1.      SOA Promise
+
+SOA possesses a lot of promise according to the author's literature review of this
+subject. Most of the papers and books about this subject are praising and speaking only
+good things about SOA. The idea of creating new value from existing systems, eliminate
+communication barriers to (old) legacy systems and enabling seamless enterprise
+integration is something that raise organizations interest of finding more about SOA
+(ref). One could argue that it must be most rational to utilize such a technology
+opportunity that SOA offers. There must be money and time to win compared to
+normal old fashion system development where cost- and time-overruns is everyday life.
+Due to the limitation of this paper, the author is not going to discuss more deeply of
+this particular issue, but these will be discussed in detail in the following Thesis paper.
+The below figure illustrates what business and technology challenges SOA architecture
+"solution" technology is promising to cover and tackle.
+
+[Figure]
+
+
+     2.7. SOA Challenge
+
+According to Erickson and Siau (2008) there are very few critical studies about SOA,
+which is very unfortunate due to the increased interest towards this technology (Erl,
+2009) et al. Though, there are now emerging some doubts of the real value of adopting
+SOA (Dorman (2007), Havenstein (2007), Ricadela (2006) and Trembly (2007)).
+
+Here the author will bring up some criticism or challenges against SOA architecture
+implementation approach. There are more, but those will not be covered in this paper.
+
+One of the main concerns according to SOA literature are immature SOA standards
+(Erl, 2009) (Marks & Bell, 2006) et al. The technologies that are used in SOA are based
+on standards. Many of the standards are still developing and are not mature enough to
+be closed as some specific version number. Also, many standards are overlapping with
+each other which bring additional challenges into the SOA developing arena. Due to
+this "problems", companies, partners and SOA solution vendors can use and interpret
+these floating standards as they please. This is problematic in situations when different
+systems and components needs to communicate with each other and when they are
+build based on different specifications or standard versions. These kind of scenarios
+can unable the system to work properly.
+
+Implementing SOA is not only a technology matter or challenge. According to SOA
+books and papers ( (Erl, 2009), (Erickson & Siau, 2008) et al., peoples (employees)
+attitude to system or infrastructure changes is also a challenge organizations need to
+deal with when considering or implementing SOA. Giving them right kind of training
+and preparation time to overcome the challenges of the changes.
+
+Security is more challenging issue in SOA environment compared to "normal" client-
+server architecture with single point of authentication. In the loosely coupled and
+distributed system set-up environment of SOA, this is not possible. Security becomes
+significantly more complex and demanding to handle safely (Erl, 2009) p. 290. There is
+no "one way" how to deal with this concern, but there needs to be appropriate plans
+how to deal with this challenge.
+
+3     RESEARCH METHODOLOGY
+
+(Note this part is still written in planning format, but it will be changed to how things
+was done, when they are done)
+
+This study will use quantitative research method where the author is sending survey of
+SOA adaption intention factors to IT-managers and architects in the industry. For this
+part the author is willing to analyze and test some hypothesis with research variables
+and specifying and interpreting relationships between them. This is done to find
+possible facts or information of possible SOA innovation adaption factors.
+
+The author is also conducting some interviews with people that possess firsthand
+knowledge of SOA technology. Here a qualitative research approach is used to deepen
+the understanding of this new technology and its adaption intention factors. This is
+done to describe some specific characteristics of SOA technology and it usage in
+industry.
+
+
+      3.1. Research model and hypotheses
+
+The research study is based on Roger's (1995) Diffusion Innovation Theory, but this
+theory is further modified according to adaption intention model constructed by
+(Tsai;Lee;& Wu, 2010/47) which is the research model that this paper uses. This study
+slightly transforms adaption intention model to the specific needs and features of SOA.
+This is done according to the literature review of this subject by the author of this
+paper.
+
+[Figure]
+
+The study hypothesis and related statements are presented in the following table.
+
+         Hypothesis            Attribute                    Statement
+
+
+H1: Relative advantage has a
+positive effect on adaption
+intention.
+12
+
+
+
+
+                               R1   Increased cost efficiency
+
+
+                               R2   Enhances system development
+
+
+                               R3   Enhances business and IT strategy alignment
+
+
+                               R4   Improves reuse of system
+                                    environment/components.
+
+
+                               R5   Improves company's competitive advantage
+
+
+
+
+H2: Complexity has a
+negative effect on adaption
+intention
+                               C1   Risks involved in SOA
+
+                               C2   Immature and overlapping SOA standards
+
+                               C3   SOA security concerns
+
+H3: Supply-chain integration
+has a possitive effect on
+adaption intention.
+
+
+                               S1   Improves information sharing
+
+                               S2   Enables operation integration
+
+                               S3   Enable service outsourcing
+
+H4: Organizational readiness
+has a possitive effect on
+adaption intention
+
+
+                               O1   Top management support
+
+                              O2   Organizational attitude to changes
+
+
+                             O3           IT expertise
+
+                             O4           Innovation alertness
+
+H5: Communication channel
+has on positive effect on
+adaption intention.
+
+
+                                          Organizational decision making culture
+
+                                          'Opinion leaders' or 'change agents' impact
+                                          effects
+                                          Championing image
+
+                                          Successful SOA implementations
+
+
+
+
+The research hypotheses are conducted out of the research model as dependent
+variables, which each have their own unique independent variables. The hypotheses in
+this study are then tested against the independent variables to measure if the
+predictions can be confirmed by the empirical data of the survey.
+
+
+     3.2. Sample and data collection
+
+The data collection methods that were used in this study included survey
+(questionnaire) that was sent to target persons of IT-managers and architects working
+in Finland who had prior knowledge of SOA. The selected sample population for the
+survey was randomly selected through Hanken library industry databases and internet.
+
+The persons for the interview part were selected by the author whom he knew knows
+about SOA and who would be able to answer the research questions for this study.
+
+4     RESEARCH RESULTS
+
+      4.1. Descriptive statistics
+
+Questionnaire was sent to 26 persons ... Response rate, time to answer
+
+
+      4.2. Findings on hypotheses
+
+SPSS was used Hypotheses 1, 2 3
+
+
+      4.3. A Critical Evaluation of the Results
+
+Validity, reliability, generalizability
+
+5    CONCLUSIONS
+
+     5.1. Summary and analysis of the paper
+
+Will be written when there is something to say ..
+
+
+     5.2. Suggestions for further research

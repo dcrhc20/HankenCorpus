@@ -1,0 +1,170 @@
+ECONOMIC ANALYSIS OF DIGITAL PIRACY: A short overview of the public good nature of digital goods and DRM as an attempt to solve it
+
+
+
+1 Introduction
+ 
+
+The digital revolution and other technological breakthroughs of the past several decades
+have brought intellectual property to the forefront of economic, social, and political
+interest. Digital technology has not only permitted the creation of many new goods or
+services, but has also dramatically changed the way an entire category of goods in the
+economy are created, produced, distributed, exchanged and consumed. In addition
+digital technology has allowed media content to be flawlessly copied and redistributed
+through largely anonymous peer-to-peer digital networks. These new challenges have
+raised lots of discussions and concerns amongst different interest groups ­ especially
+amongst right holders.
+
+
+Moreover, the growing importance of digital technology has spurred research on the
+economic understandings of digital piracy activity. In order to understand the economic
+analysis of digital piracy, one must first understand the nature of digital goods. Digital
+goods are public goods; the public good nature of digital goods is likely to lead to a free
+riding behavior, i.e. digital piracy, of consumers. In response to digital piracy, the
+music and movie industry began to adopt technological measures, often referred as to
+Digital Rights Management (hereinafter DRM), to control the sale and distribution of
+music and other digital goods over the internet.
+
+
+In their research Rayna and Striukova suggest that DRM systems based on rivalness
+could be a solution for the public good problem. The basic problem with Rayna and
+Striukova's suggestion is that it is practically impossible to make digital goods fully or
+even at sufficient level rival or excludable. Thus, DRM cannot entirely or even
+satisfactorily solve the public good problem of digital goods, which means that
+alternative and more effective solutions are needed in order to suppress the overall rate
+of digital piracy. However, the intention of this paper is not to propose any new ways or
+ideas to reduce the overall rate of digital piracy, but rather show that DRM does not
+solve the public good problem of digital goods, and the same applies to the suggestion
+that Rayna and Striukova presents.
+
+
+The progression of this study is as follows: the introduction chapter is followed by a
+concise second chapter (2 Economic analysis of digital piracy) where the purpose is to
+present shortly a relevant background for this study (2.1 Background), discuss the
+public good characteristics of digital goods (2.2 Public good character of digital goods),
+and DRM as a solution to this problem (2.3 DRM as an attempt to solve the public good
+problem). The last chapter (3 Conclusion) contains a précis of the subject matter.
+
+
+
+2 Economic analysis of digital piracy
+2.1 Background
+ 
+
+Although it is true that piracy, in the form of copies of vinyl discs, audio and video
+tapes, photocopies of books etc., has existed long before the advent of digital goods, the
+piracy of the pre-digital era was different and never reached the extent of digital piracy.
+Earlier an infringer who wanted to distribute or reproduce counterfeit copies of movies,
+music or computer programs needed the same sort of production and distribution
+facilities that the copyright owner did. Thus, it is clear that end-user copies were not a
+serious threat to a copyright owner's sales during the twentieth century. Actually, end-
+user copies were often made for the copier's own personal use, but not to substitute the
+lawful copies. Moreover, these copies did not usually spread outside the personal use
+zone: nowadays just one original digital unit is sufficient to start an infinite stream of
+absolutely identical copies. These changes has led to a situation where right holders are
+genuinely worried about the consequences ­ especially economic consequences ­ that
+digital piracy may cause.
+
+
+It is generally accepted that counterfeiting and piracy are global phenomena with
+serious economic and social consequences not only in Europe but around the world.
+Digital technology has caused a drastic decrease in reproduction costs and distribution
+costs. This again is closely linked to end-user piracy activity. Nowadays, end-user
+piracy is almost entirely related to digital goods. The growing end-user digital piracy
+activity needs to be addressed in the right way. It is not acceptable to allow free-riding
+by end-users, but on the contrary not every small infringement should be punishable
+either. Trying to find the right balance in this environment has caused lots of concerns
+for legislators, and there also have been active discussions about how far the protection
+of copyright and related rights can be extended.
+
+
+If the copyright protection is not sufficient or at the right level it may lead to the scarcity
+of incentives. Incentives are essential in promoting future innovation. If the protection
+of copyright is too high or too strict, it can cause problems from the access point of
+view. Why there has to be public access to innovations? First of all, we have to
+encourage future innovation by competitors and thus promote greater competition, and
+secondly we have to enhance consumer welfare. The challenge here is to find the right
+balance between incentives and access. If the balancing is unsuccessful it can cause
+welfare loss (no innovation, no consumer welfare, and no economic growth). This again
+is closely linked to the problem of public goods. Public good characteristic of
+innovation provides an important economic rationale for intellectual property rights
+(hereinafter IPRs). IPRs are seen as a solution for the public good problem: IPRs
+provides legal control over reproduction which again creates incentive for innovation
+while facilitating limited public access.13
+
+
+2.2 Public good character of digital goods
+ 
+
+Public goods are defined as goods that are both non-rival in consumption and non-
+excludable. Non-rivalrous means that use by one person does not prevent others from
+using the same information. In its natural state, knowledge is also non-excludable. That
+is, even if someone claims to own the knowledge, it is difficult to exclude others from
+using it. The principal objectives of intellectual property law are the promotion and
+protection of new and improved works. Thus, intellectual property law is an attempt to
+solve the public good problem by legal means; it grants exclusive use of the protected
+knowledge or creative work to the creator.
+
+
+Digital products exhibit the fundamental characteristics of a public good, or actually
+they have a tendency to behave as public goods. Since digital goods are replicable
+they are non-rival (consumers can make copies of digital goods and thus many
+consumers can enjoy the same unit of digital goods at the same time) and since they are
+non-rival, they are indirectly non-excludable (producers are able to exclude consumers
+directly but cannot prevent consumers from copying the good from other consumers).
+As a consequence, as digital goods spread among the population of consumers they
+virtually become fully non-excludable, thereby giving them the same economic
+characteristics as public goods.
+
+
+Music, games, movies and other digital products are information and digital goods.
+These digital goods are expensive to produce for the first copy (high fixed costs), and
+inexpensive to reproduce and distribute for subsequent copies (near zero variable
+costs). The digital nature of these goods means that they are replicable and they can be
+infinitely copied without any loss of quality or information. The public nature of
+digital goods is likely to lead to a free riding behavior, i.e. piracy, of consumers: an
+individual consumes a public good without actually paying for it. The inability of
+firms to exclude consumers leads to a wide piracy phenomenon and, thus, undermines
+their ability to make profits and recover the initial fixed cost of production.
+
+
+As the costs of producing and distributing copies approach zero, the public goods
+problem gets worse, because the ratio of the cost of creation to the cost of imitation
+approaches infinity. Further, as the cost of producing and disseminating copies
+approaches zero, the sharp division between professional counterfeiters and end-user
+copiers breaks down. Anyone can give copies of software or music to others on the
+Internet in a variety of ways and it costs virtually nothing to do so. Shortly it can be
+said that the fact that digital goods are public goods bears important consequences. The
+considerably large number of these goods in the economy, as well as their ever growing
+importance, greatly affects the traditional balance between public goods and private
+goods in the economy. It is obvious that right holders and industry are willing to do
+almost anything in order to change the public good nature of digital goods ­ in other
+words turn them into private goods ­ and thus hoping that the overall rate of digital
+piracy reduces.
+
+
+2.3 DRM as an attempt to solve the public good problem (approx. 2-3 pages)
+
+
+      DRM  explaining
+       How DRM is linked to digital goods and digital piracy?
+             Will it stop piracy?
+             Can it change the nature of digital goods (from public to private)
+
+
+      Rayna and Striukova
+             DRM systems based on rivalness could be a solution for the public good
+                 problem
+                         The problem generally (main analysis)
+                         The problem with their suggestion (main analysis)
+                         hacking removes the private good characteristics (main analysis)
+                         other problems that have been linked to DRM
+
+
+
+
+3 Conclusion (approx. 1 page)
+ 
+
+ 
+

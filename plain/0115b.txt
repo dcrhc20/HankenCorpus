@@ -1,0 +1,79 @@
+
+1 Introduction
+ What makes a trend spread like a virus? What are the forces behind it? This paper aims to find possible answers to these questions. The world today is full of megatrends. A few examples include Facebook, Twitter, Angry Birds, Lady Gaga, and many others. Phenomenons like Lady Gaga or Facebook do not occur every year, but when they occur, they seem to spread through most of the developed world. How does this happen? Is it because of extensive marketing globally, push or pull-strategies, the use of celebrities in advertisements, luck, a question of timing, or is it a mixture of all these things and even more? These might be questions we cannot answer. In recent years, these kinds of huge trends have become more frequent and the world has become more competitive in all branches. For this reason, it is important to consider which factors might influence the birth of megatrends, as well as finding possible patterns in this area of study. What is more, it is simply interesting to investigate why a phenomenon such as Facebook has recently occupied the life of so many and how new similar trends will occupy the lives of many in the future. 
+
+From a marketing perspective, it seems as if it is not enough anymore to find out what customers want or need through marketing research. Instead, the focus is somewhat deeper. We need to find out how we can influence the tipping of a trend and what external factors play a part in this process. 
+
+Malcolm Gladwell considers the phenomenon in his bestselling book The Tipping Point: How Little Things Can Make a Big Difference (2002). He uses examples such as Airwalk, Hush Puppies, the decreased crime rate in New York, Sesame Street, as well as many others, to prove his point. Gladwell argues in his book that trends spread like epidemics among the population and that they may start from the smallest factor. For instance, one child goes to school with measles and soon the whole class has measles. He argues that trends spread in a similar manner: From a few people to thousands; even millions. Gladwell introduces three rules to help explain the phenomenon of the tipping point and how to reach it: The Law of the Few, the Stickiness Factor and the Power of Context. 
+
+This paper will evaluate how Gladwell’s theories and rules are applicable to a social network called Facebook. Facebook is an interesting phenomenon that has reached its tipping point recently, and its growth does not seem to stop. 
+
+This paper is structured as follows. Firstly, the three rules from Gladwell’s book will be described using examples. Secondly, there will be a short section about Facebook: what it is and how it works. Thirdly, there will be a section on the methods used to collect data. Then the results from interviews will be presented. This section will include any possible patterns that might have been found about the tipping point of Facebook as well as an evalutation of how Gladwell’s theories are applicable to Facebook. The following section will discuss the phenomenon in general and how this affects possible future trends. Finally, this paper will end with a conclusion.
+
+2 The Three Rules of Epidemics according to Gladwell
+According to Gladwell’s book The Tipping Point: How Little Things Can Make a Big Difference, there are three rules that help to explain the phenomenon of the tipping point. These three rules are the Law of the Few, the Stickiness Factor, and the Power of Context. In this section of the paper, these rules will be explained. 
+
+2.1The Law of the Few
+The first rule is called the Law of the Few, which can be explained by Pareto’s Principle, or more commonly known as the 80/20 Rule. The rule states that in many events, approximately 20 percent of the input produces 80 percent of the output. A classical example of this (and the original reason why the principle was discovered) is the distribution of wealth in country. Vilfredo Pareto discovered in 1906 that 20 percent of the population owned 80 percent of the wealth in Italy. 
+
+What this means in terms of the Law of the Few, is that a number of people (roughly 20 percent of the population) with certain skills have a great influence on the tipping of a trend. According to Gladwell, these people with certain skills are called Connectors, Mavens and Salesmen. 
+
+2.1.1 Connectors
+Connectors are people who have extraordinary social skills and can be a part of many different social circles and subcultures at the same time. Connectors are the kind of people who easily make new friends and their social networks are extremely large. Connectors also know the right kind of people, for instance, people with high status among friends, street-credible hipsters, or certain people among certain niches. Gladwell points out that everyone knows someone who is a connector. “But in the case of Connectors, their ability to span many different worlds is a function of something intrinsic to their personality, some combination of curiosity, self-confidence, sociability, and energy” (Gladwell 2002:49). However, Connectors are not just helpful because of their social personalities. The part that Connectors play in spreading social epidemics in communities is word-of-mouth. Connectors share their knowledge about, for instance, a new virtual way of keeping in touch called Facebook, and suddenly a very broad range of people from different sub-cultures know about Facebook. “Word-of-mouth epidemics are the work of Connectors” (Gladwell 2002:59). However, Connectors need to get their knowledge and the news about Facebook from someone, and this is where Mavens step in.
+
+2.1.2 Mavens
+Mavens are people who have a great level of knowledge. In fact, Gladwell points out that the word maven comes from Yiddish and it means someone who gathers knowledge. (Gladwell 2002:60). According to Gladwell, Mavens are the kinds of people who know, for instance, if products in a supermarket are really on sale or if the products are exactly the same price as normally but the price tag is yellow and it says “special price” on it everyday. (Gladwell 2002:60-61). Mavens, in other words, are “specialists of information when Connectors are specialists of people”. (Gladwell 2002:59). Gladwell describes Mavens as people who sincerely want to share their knowledge with you in order to help you. They do not share their information because they want to trick you or to brag on their expertise, they want to educate you. These people are crucial in starting word-of-mouth epidemics since they are the ones from whom Connectors get their information from. “Mavens are data banks. They provide the message. Connectors are social glue: they spread it”. (Gladwell 2002:70). 
+
+2.1.3 Salesmen
+The third kinds of people, who are important in the Law of the Few, are Salesmen. These people step in the picture when we feel insecure about some information we get. Salesmen persuade us into believing or trying something we might feel skeptical about at first. The most important trait that a Salesman possesses is charisma. A Salesperson’s charisma is more than the ability to verbally persuade, his or her facial expression and posture when talking to another person makes people want to agree with the Salesman.
+
+2.2. The Stickiness Factor
+The second rule for a social epidemic to reach its tipping point is the Stickiness Factor. According to this rule, any new product, advertisement, service, show, artist, etc. needs to have some characteristics that makes it stick like glue to the minds of people. The stickiness factor can be, for instance, repetition, a clue to a mystery, simple language, certain colors, or almost anything if used in the proper way, depending on the audience and in what ways something is wanted to become “sticky”. In other words, the Stickiness Factor is something that gets the attention of the target group for a longer period of time. 
+
+2.3 The Power of Context
+The third rule is called the Power of Context. This rule suggests that a sudden event or trend that tips is much dependent on the surrounding environment. “Epidemics are sensitive to the conditions and circumstances of the times and places in which they occur”. (Gladwell 2002:139). An example from the book is the Broken Windows theory, where one window is broken in a city and no one repairs it. People start to think that no one cares and no one is in charge, and soon more windows will be broken and the feeling that you can do anything without facing consequences will spread throughout the city. This might then lead to anarchist behavior tipping and criminal rates increasing. (Gladwell 2002:141). In a similar way other events can become more common, depending on the environment.
+
+3 Facebook
+This section will shortly describe what Facebook is. Facebook is a social network developed my Mark Zuckerberg. Anyone who has access to the Internet can join Facebook, it is free of charge. (To be continued..)
+
+
+
+4 Methods
+This section will shortly describe the methods used to collect data for this research paper. An interview will be conducted to five respondents. The respondents have been chosen according to the assumption that they are familiar with Facebook and that they are possible users to get an understanding of the phenomenon from the point of view of users. Three respondents were males and two respondents were females in order to see if there were any differences between the genders. The interview guide can be found in Appendix 1. 
+
+5 Results
+In this section the results from the interviews will be discussed. The results from the interviews will be evaluated using Gladwell’s three rules (the Law of the Few, the Stickiness Factor, the Power of Context), and to what extent they are applicable.
+
+The results from the interviews were similar to each other; there were not a wide range of different answers. All respondents are users of Facebook and all of them log in daily. The reasons for joining Facebook were similar for almost all respondents: everyone had joined because other friends were on Facebook. All respondents had heard about Facebook from friends or relatives, through word-of-mouth. One respondent had heard about Facebook from friends who used MySpace (a social network as well), and one male respondent said he had heard about Facebook from his brother who used to study computer engineering. This respondent said he was one of the first ones of his friends to join the social network, and he was the one who suggested it to his friends. Reasons to be on Facebook were also quite similar to each other: all respondents also said they were on Facebook in order to easily connect with other friends. One male respondent also said that one of his main reasons for joining and being on Facebook is because it is an efficient tool for the promotion of his companies. Other reasons to be on Facebook were, for instance, to look at pictures, follow parties and events (get invitations), follow the newsfeed, kill time, follow what friends are up to, “stalk peoples’ lives”, good entertainment, networking and searching for information about people, and chatting. 
+
+Most respondents said they are hooked on Facebook, only one male respondent said he was not. The reasons for being hooked on the social network were much the same as the reasons for being on Facebook: looking at pictures, staying connected with friends, and following other peoples’ lives and events. One female respondent said she is hooked on Facebook because she is curious to see what is going on in her friends’ lives. None of the respondents said they were hooked on games or other applications than the chat. One male and one female respondent said that they have become hooked on Facebook after they got Iphones since they log in more often. It has become a habit because it is very easy to log in. The female respondent said that she logs in when walking to the University, when sitting in the tram, during lectures, and in other places as well. 
+
+The attitudes towards Facebook in the beginning when the respondents first heard of it were somewhat differing. Three respondents thought it was interesting concept and wanted to try it because it was something new to them. One respondent, who was a user of MySpace at the time, thought that Facebook would be “one of those networks again”, and was skeptical about its functionality. One male respondent did not want to join Facebook because everyone joined it and “hyped” about it; he said he boycotted the network at first. However, the attitudes towards Facebook have changed over time. Most respondents said they see the network now as a useful tool to stay connected and informed about events. One female respondent, who at first thought that Facebook was very exciting and interesting, thought that Facebook has become useless for her because she only looks at pictures and she does not like the fact that it is “a competition of who has the most friends”. Another female respondent, who thought of Facebook still as a useful tool to stay connected, did not like the fact that the network has become very public and people whom you do not even know can “like” pictures of you (if they are friends with other people who are in the same pictures with you).
+
+The results indicate that The Law of the Few does apply for Facebook to a certain degree. All respondents had heard about the network from someone else. In most cases the respondents seemed to have heard from their friends, possible Connectors. Two male respondents had heard about the network from possible Mavens; one Maven being the brother who studied computer engineering and the other Mavens being friends who used MySpace before anyone had ever heard of it or Facebook. They seemed to be some sort of experts within the field of computers and social networks. However, there seemed to be little indication from the interviews that Salesmen existed. Possible Salesmen might have been the few friends that talked over one male respondent who was unwilling to join Facebook at first. 
+
+The results indicate that Facebook has a clear Stickiness Factor, which is the fact that the respondents can follow their friends’ lives. Curiosity seems to be the weakness of people that makes Facebook so sticky. All respondents said that they scroll down the newsfeed every time that they log into Facebook, and most respondents also said they look at friends’ pictures. (To be continued…)
+
+
+
+6 Discussion
+In this section a discussion will take place.
+
+7 Conclusion 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

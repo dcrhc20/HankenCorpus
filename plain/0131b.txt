@@ -1,0 +1,797 @@
+Measurement of online scientific publishing behaviour:­ a comparison of open access in xxx and xxx
+
+ 1 Introduction
+Worldwide computer networks have revolutionized the distribution of digital content, and the
+traditional commercial actors in the field struggle to stay on top of the food chain. In several
+cases, the companies tend to stick with their traditional business models which were
+developed before the tidal wave of just in time low cost delivered digital content. Instead of
+updating their business models they protect their grip of the market by introducing digital
+rights management (DRM) or other limitations, and using intellectual property law and
+copyright law to enforce their positions and penalize those who wish to openly share.
+
+
+This kind of dynamic is also clearly visible in the field of scientific publishing, where the
+market has been divided between a number of large commercial publishers like Elsevier ,
+Springer, and Wiley-Blackwell, and a number of pioneer publishers with a new type of "born
+on the net" business model, which emphasizes reader-centric ease of access, leveraging
+the dissemination of scientific research, but undermining the business models of the
+subscription access publishers. This kind of business model has become known as open
+access.
+
+
+In scientific publishing, the market dynamics have been a topic of lively debate, as "publish
+or perish" is a way of life and all things related to publishing are considered extremely
+important by both scholars and their funders, especially when public funding is involved, but
+the public not gaining access to the research findings because of restrictive publisher policy
+and their quest for profit.
+
+
+There is a considerable shift of equilibrium when the costs of online publishing are weighted
+against the profits.The economics of online publishing have significantly changed on the
+cost side, as digitalisation of content has made the whole publishing process more efficient
+compared to the past when journal issues were still printed on paper and physically
+delivered to their subscribers. Inspite of this, the revenue side has largely stayed intact,
+yielding significant profits for the commercial publishers (Houghton et al. 2004) while
+making the work of the scholar cumbersome by omitting the new technology-induced and
+reader centric possibilities of open access to scientific research literature.
+
+
+1.1 Research question
+The rapid shift from print only to full-on electronic publishing and digital content has made
+room for new ways to disseminate scholarship and new types of journals and associated
+business models. A question which arises from the aforementioned fact is; what is the
+current status of the new phenomena, and how do they affect where the field of scientific
+publishing is heading? The knowledge of how common open access publishing is would be
+interesting from the point of view of university staff responsible for selection of research
+resources, funders of research, individual scientists, and, not least, publishers themselves.
+
+
+These questions have , however, been impossible to answer, as there have been very few
+studies illuminating the situation and no reliable bibliometric indices contain data from which
+the answer could be derived. There are some indices in existence listing open access on
+the journal level, however, scholar's are in general mostly interested of access to particular
+articles rather than to complete volumes of journals while they follow an interesting citation.
+This kind of article level data does not exist, thus it is motivated to create this knowledge by
+a systematic test of article accessibility, rather than by restricting the study to analysis of
+existing bibliometric metadata.
+
+
+1.2 Aim and structure of the study
+This study aims to produce a regional snapshot of the present situation of accessibility of
+scientific research by reporting both a global share of open access as well as open access
+percentages of select geographic regions. The paper focuses on creating a systematic
+method to measure the aforementioned phenomena by using bibliometric metadata
+complemented with computer aided, semi-automatic data logging performed by a team of
+researchers.
+
+The structure of the paper ( needs to be updated ) starts with a chapter which helps getting
+acquainted with the field of scientific publishing as well as introducing the most popular
+journal business models along with some vital definitions. Secondly, a review of the relevant
+literature and previous research attempts at automating the data collection and
+classification of found article copies are discussed. After this, the data collection and
+analysis methods of this particular paper are presented, and the software development
+process and the article classification decision model is described. Finally, the outcome of
+the study is presented as well as discussion on the findings.
+
+
+
+ 2 Background
+
+2.1 The Scientific Publishing Process and The Function of the
+      Scientific Journal
+Scientific communication has the aim of disseminating academic research results to the
+widest audience possible and to act as an information source to the scholar for new
+research to be built upon. The most usual way of formal dissemination is through the
+traditional scientific journal, which is a periodical publication committed to ensuring the
+progress of science, mainly by publishing the reports of conducted scientific studies.
+
+
+Scholarly communication has a long history dating back to the 17th century, when
+academics utilized correspondence in the form of letters to share ideas, as the there was no
+other communication technology present at the time. As time passed by and society saw
+both economical and technological advancements, the amount of scholars and other parties
+with a scientific interest excalated. As time passed by, the sheer quantity of readers
+rendered correspondence ineffective as a way to communicate.
+
+
+The scientific journal became a new way to more effectively reach and target this growing
+crowd of scholars. It was based on a substantially better coordinated effort in which the
+reports of the scholars were sent to a single party, amalgamated into a single publication,
+duplicated, printed in a multitude of copies and, finally, sent out to all interested parties. The
+first publications which could be called jorunals started appearing in the 1665, namely the
+journal des scavans and the philosophical transactions of the royal society, which is still
+actively publishing. This kind of a more centralized and coordinated activity placed financial
+strains on the publisher, and these had to be covered by some kind of financial model for
+the journal's publishing activity to be sustainable in the long run. In most cases the required
+revenue was collected by charging the journal's subscribers with a fee. In it's time the
+printed scientific journal was a relatively effective way to disseminate research results and
+the model sustained largely unchanged for several centuries.
+
+
+Today, hundreds of years later, scientific pubilshing exists much in the same form as in the
+early years, although society has seen tremendous cultural, technological and economical
+changes. To better understand the reasons behind the seemingly static state of the
+scientific communications processes, one has to delve into the business models of scientific
+publishind that originally started out as non-profit activity simply aiming to serve the best
+interest of scholars, but early on starting to get influenced by the markets, and the quest for
+profit.
+
+
+Long before the general public had any knowledge about the digital era and worldwide
+computer networks, commercial publishers started to overtake journals which had been
+created in academia, as the journals inherently contain commercial value which the
+scholars themselves had little incentives to harness, as many researchers acquire their
+financing through other sources like tenured positions in universities etc.
+
+
+The commercial publisher purely relies on the mass of the subscriber base of the most
+popular journals to provide for commercial sustainability, i.e. the generation of profit through
+introduction of new subscription fees, or by raising the fees of the former non-profit
+publisher. This is possible as journals have such a strong market position as they are
+monopolists of their content, and researchers are dependent on access to the most recent
+results of the work in their fields of science. Another factor in favor of the commercial
+publisher is that although the subscriptions are a strain on the reader side, the costs at
+present become hidden in institutional library budgets rather than drawn from the pocket of
+the actual reader, the access to scientific journals and databases is granted and financed by
+the affiliated institution, which cuts the researcher out of the loop regarding the financial
+decision which has to be made to gain readership. In most use cases, the typical researcher
+is more interested about access and quality than cost of readership.
+
+
+This kind of financial model has become a norm in scientific publishing and has led to a
+number of problems concerning accessibility of research material. The situation where
+research organizations no longer possess sufficient funds to sustain their journal
+subscriptions , which inevitably leads to cancellations of subscriptions and thus, reduced
+access to research results for the individual scientist and thus, reduced efficiency in the
+scientific process.
+
+
+It has been proposed that, in the information age, these problems would best be remedied
+by shifting to another type of business model, where the funds will be collected from the
+author side rather than the reader side. This revenue model makes it possible to altogether
+remove the access restrictions to articles. This model is most usually called open access,
+and there is a growing number of scientific publications that already have adopted this as
+their business model. There is a strong resistance from the traditional scientific publishers,
+as the interest of the scientific community and the research funders is not shared by the
+publishing industry which is on a quest for profit on the expense of effectiveness of
+research.
+
+
+In basic economic theory (?), the firm can collect revenue in exchange for the value added
+which is inherent in its products. In several studies (?) it has been questioned if the
+commercial publishers really add significant value to the scientific communications process
+in exchange of their subscription charges. It is becoming increasingly difficult for the
+publishers to defend their claims of a balance between added value and the collected
+charges, as parts of the publishing process have seen dramatic reductions in costs. for
+example, distribution costs, through technological advances, have become almost a non-
+issue and as the actual journal content creation is done by the authors and their affiliated
+institutions deploying funds granted by a multitude of sources outside of the publishing
+business.
+
+
+Typical value adding functions of the publishers are general journal administrative functions,
+organizing of the peer review process, and technical assistance related to layout formatting
+and online publishing. Having thought about these value adding functions, it is interesting
+that the scientific publishing business is actually very profitable at least for the largest
+publishers like Elsevier, Springer and Wiley & Sons which make multimillion annual profits.
+
+
+Copyright policies
+
+
+One of the inherent features of the internet is that it has been filled to the brim with freely
+accessible content like the usual web pages, but also magazines, music, e-books and
+movies on peer-to-peer networks and normal websites. The public has grown accustomed
+to getting unrestricted access to a wide range of digital media and content in a most
+convenient way. It has become an expectation in today's world to receive not only
+unrestricted access to , but in many cases also the right to reuse the content freely as basis
+for new work, a multitude of examples of this is found for example in the open source
+software model and content.licensed under creative commons licenses. The Internet
+culture always is in favor of the free ­ both in form of free of charge ­ but also in the form of
+free speech, and the main forces resisting this momentum are the multimillion corporations
+that are hesitant to take the step and risk their business models by developing something
+new which would better suit the new world order of digital content. There have been
+numerous legal cases in the past years that reflect this, like extremely high monetary
+sanctions for sharing copyrighted material on peer-to-peer networks and obligatory
+copyright charges on purchase of empty media like DVD:s. The internet age, mass scale
+networking capabilities and digital technology makes it possible and many times more
+convenient to violate copyrights and other intellectual property laws compared to acquiring
+content the legitimate way, simply because the legal way is inferior.
+
+
+Many publishers prohibit authors of posting their own content on the internet. This restriction
+is totally legit, as in many cases the original author is forced to giving up the copyright on his
+own creation to the publisher, of whose property the article thus becomes. If this is in the
+best interest of the scientific community in today's world can unarguably be questioned, as
+this greatly enforces the position of the publisher.
+
+
+Questioning the publisher's role in the value chain is often counter addressed by the
+publishers with claims of higher quality of the commercial journal and a higher impact of the
+research they pubish. As these claims often seem to be made without in-depth reasoning to
+solidly back up these claims, this study aims to gain knowledge in the question by
+conducting a statistical analysis comparing the quaility of traditional journals against the
+open access journals to see if there really is any significant differences in quality between
+the two groups of journals.
+
+
+
+
+The scientific publishing process is merely a minor part of all the activities that belong to
+scientific communication as a whole. The actual publishing process has two main
+categories of activities, together of which aim to perfect the paper's visual appeal and fine-
+tune the semantic content of the actual substance of the paper by scrutinizing the research
+by peer evaluation known as peer review. The publishing process usually starts when the
+researcher has finished his research project and created a manuscript reporting the
+research results. This manuscript is in most cases submitted to a scientific journal, which
+ultimately results in a published journal article after passing the journal's peer review
+process.
+
+
+2.1.1          Refereeing, validation and screening through peer
+        review
+Something of peer review:The Role of Peer Review for Scholarly Journals in the Information
+
+Age David J. SolomonVolume 10, Issue 1, Winter
+
+2007DOI: http://dx.doi.org/10.3998/3336451.0010.107
+The first part of the publishing process which starts immediately after the paper has been
+submitted ­ the peer review process ­ aims to facilitate for a high standard of scientific
+research. A high standard of published papers is a key factor of overall journal quality, and
+from the publisher's perspective it's a balancing act between journal quality and depending
+on business model, revenue. The peer review process is a refereeing mechanism which
+involves independent experts in the field (peers) into a feedback process and in giving the
+final verdict of granted publication or notice of rejection after possibly several rounds of
+review. It is not unusual for the peers to conduct their refereeing without financial reward,
+and the process is usually managed by the journal editor or the editorial board members.
+
+
+Computer networks and digital content have significantly helped to smooth out the peer
+review process, as it is much more convenient and fast to electronically circulate documents
+and data, especially if several rounds of feedback and article modifications are necessary.
+There is also dedicated software created for the task of peer review and other journal
+administrative functions, of which some are even available free of charge, most noteworthy
+being the open journal systems (OJS) platform, which is widely used especially by smaller
+non-profit journals. While journals were originally developed to solve the issues with
+dissemination and registration of invention, validation and quality assurance in the form of
+peer review has become one of the most valued features that a journal can offer, up to a
+degree where journals that lack the feature are considered unprofessional by many. Thus, a
+well functioning peer review system is an important part of any high impact, high quality
+journal().
+
+
+A substantial part of the scientist's work consists of searching for relevant information(). In
+the information age, information no longer Is a scarce resource, but the scientist rather
+suffers from information overload(). One of the scientific journal's functions is to serve as a
+screening function to the vast amounts of information available, and to ensure the relevance
+of the information found.
+
+
+2.1.2          Registration of discovery and prior art
+In works of intellect, prior art is a central aspect which is addressed by the formal process of
+journal publishing to establish an author's priority in the subject. This addresses the problem
+of simultaneous discovery and hinders authors to take credit of work already conducted by
+others thus minimizing the amount of scientific disputes and claims of academic fraud.
+
+
+2.1.3          The production process
+The production process covers all the activities that are related to the physical appearance
+of the article, like typesetting, spell checking, copy editing, reserving space in a journal
+issue, online publication, and printing, in case hardcopies are made available. Depending
+on journal size and organizational structure, the work can be coordinated by anyone from
+editor-in-chief to production editor or editorial assistant. These kinds of tasks are mostly
+independent of the semantic content of the articles and can therefore be performed by
+persons who do not possess expertise in the field of science that the article covers. For
+these reasons, many commercial publishers may utilize outsourcing in these activities to cut
+costs and maximize profits where possible. Furthermore, digitalization of the product
+facilitates for virtual collaboration over the internet, thus further encouraging outsourcing of
+the most labour-intensive functions to locations with lower labour costs.
+
+
+2.2 Routes of Publishing Scientific Knowledge
+In previous research, there has been identified two distinct categories of ways to obtain
+open accessibility to results of scientific research. By most researchers familiar to the topic,
+these ways are called Gold OA and Green OA as introduced by Harnad et al. (2004).
+
+
+2.2.1          Traditional Offline and/or Online journal publishing
+The traditional subscription based business model of the scientific journal still exists largely
+intact and is the default business model for the large and well established commercial
+publishers. Distribution of the journal has been modernized to utilize the connectivity of the
+internet, as most publishers offer an online version of the journal as well as a printed
+version. in fact, the online version has become the preferred version of most readers, but
+the printed version can sometimes be acquired at an extra cost.
+
+
+2.2.2          Author self archiving and repositories
+One of the primary interests of the author is that the author's work would reach as a wide
+audience as possible. In order to achieve this goal, it is popular among authors to self
+archive copies of their published jpurnal articles on either the author's homepage or in a
+article hosting service also known as an article repository. This form of self archiving is ofter
+carried out in parallel with traditional journal publishing in case the publisher's copyright
+policies approve parallel self-archiving. In case of restrictive journal policies, authors are
+often forced to self archive an "unofficial" version of the paper, which is an incomplete
+manuscript or preprint version of the paper. This way to post articles openly on the web has
+been labeled with the phrase "Green Open Access" (harnad 2004) , which means self
+archiving of the author's work -- may it be a manuscript, a preprint version of a manuscript
+accepted to be published in a scientific journal or the actual published paper itself. Self-
+archiving by the author can be accomplished by uploading the paper to the author's
+personal homepage, or to the institution's repositories of published papers to which the
+author is affiliated to.
+
+
+There is also a third major actor in green OA, which is the subject-based repository. These
+repositories allow for self-archiving of articles which belong to some specific field of science
+thus being closer to a journal than simply a means to archive a document. Some subject-
+based repositories actually remind more of journal publishing platforms, and at some
+occasions may mirror a great part, or all, of the content of some open access journals. Only
+at rare occasions, results of scientific research are made available in other ways in the
+Green OA category (Bjork et al 2010).
+
+
+2.2.3            Open Access Journal publishing and hybrid models
+Journal articles can be made available directly by the publisher to whom the document has
+been submitted to. This kind of Open Access means that the content of the actual journal
+publishing the article is, either totally, or to some extent, freely accessible to the public. This
+kind of journal provided open access is known as Gold OA (harnad 2004), and can be
+further divided into subcategories depending on the degree or extent of journal content
+availability. Some journals (artificially) keep the most recent content accessible only to
+paying subscribers, but as time passes and the embargo period is over, the content is made
+available to the public. This variant is called Delayed Open Access. Delayed open access
+designates journals that open up their content when the articles economic lifecycle is
+approaching its end or offering free access after some other specified period. The delayed
+access to content helps the publisher to retain it's subscriber base but makes a step
+towards openness when it's financially safe under the traditional business model.
+
+
+Sometimes, an article can be paid by the author or his institution to be made freely available
+(Open Choice, online open). This however requires that the fees involved can be covered
+by either a sponsor or by funds reserved for the purpose at the author's institution, as the
+prize of opening up an article on an otherwise subscription site is set rather high for an
+individual scientist to finance himself. Hybrid OA journals are a mix of traditional restricted
+access content and some open access content. The journal will charge subscription fees for
+the majority of the content, but also allows for the author-pays business model to open up
+an article. This is sometimes called the double charge business model as it seeks to provide
+a golden mean between the two opposing business models. Some better known hybrid OA
+services are the Springer Open Choice and the Wiley-Blackwell Online Open.
+Open Access is a new force in the field of scientific publishing which traditionally has been
+dominated by the oligopolistic commercial publishers originating from the print media. Open
+Access has become a widely accepted term describing the way in which the results of
+scientific research are disseminated so that they can be freely accessed by peers or just
+about any audience interested in the topic. In practice, Open Access means that the article
+of interest can be obtained without any restrictions, such as obligatory registration to a
+website in order to obtain a copy, or facing any financial charges whatsoever.
+
+
+ 3 Literature Review and Previous Research
+Based on the review of previous research in the field, there is uncharted territory in
+measuring the availability of research papers. Most previous attempts have also focused on
+either specific fields of science, articles written in a specific language or papers of specific
+countries.
+
+An overall share of open access journals can be calculated by analyzing metadata from the
+Directory of Open Access Journals (DOAJ) against probably the most comprehensive index
+of scholarly publications, the Ulrich's Periodicals database. For self-archived article copies
+there are two databases that index parallel copies found in instutional repositories and the
+statistics can be obtained from them.
+
+More in-depth research can be performed by obtaining scientific article metadata from
+Bibliometric metadata indices such as the Thomson Reuter's Web of Knowledge and the
+Sciverse Scopus database, or PubMed in the field of medicine, and manually inspecting the
+availability of these article on the web with help of search engines. This approach has been
+tested by Matsubaiashi et al. 2009. Ultimately, article availability could - -in theory ­ also be
+studied by automated software tools as in the paper by Hajjem et al. (2005), although the
+experiments so far have not been succesful due to high probability of error induced by the
+incomplete AI model of the software. So far, the most reliable method for conducting the
+research seems to be a software supported manual data collection process conducted by
+experienced individuals. The following chapters report on an experiment utilizing this
+method.
+
+
+
+
+Crawford,wells,gustafsson versus hajjem, matsubaisashi
+
+Top down approaches
+
+This chapter discusses previously done metadata based studies
+
+3.0.1   Direct repository search
+
+
+3.0.1.1 OAISTER
+
+
+3.0.1.2 Opendoar
+
+Bottom up approaches
+
+Automated approaches
+
+Manual and semi-automated approaches
+
+
+
+ 4 Methods
+
+4.1 General method description
+The study was conducted as a quantitative analysis of article metadata gathered from
+Scopus citation database and classification of found articles with help of IT tools.
+Random samples of articles were constructed by conducting searches in scopus citation
+database, and the availability of each article was tested with help of custom developed IT
+tools linked with a popular web search engine. In case an article was available OA, it was
+further categorized which type of OA, open access journal, subject based repository
+institutional repository or other web site. The downloaded article was inspected to see if it
+was the exact publishers version or an author version, for example some kind of
+manuscript.
+   Peer-reviewed
+       online
+      scholarly
+      original research
+
+
+4.2 Overview of citation indices and other Bibliometrical Metadata
+       sources
+
+4.2.1          Something on citations and citation indices
+Quality of journals or research in general is challenging to measure, as it is subject to bias
+and subjectivity. Instead, quality is measured by conducting citation analysis to calculate
+metrics like the widely known ISI impact factor.
+
+
+Check these grounding works in scientometrics:
+
+
+       De Solla Price (1963)
+       Narin (1976)
+    Garfield (1955)
+   
+Scientometrics is a field of science which is concerned with analyzing and measuring
+science in different ways (find a better definition).The purpose is to provide for a
+quantitative, computational representation of scientific activity. The distinction between
+scientometrics and bibliometrics is not clear, as the publishing of written works and their
+evaluation has such a central role in the scientific method and scientific policy. In many
+scenarios scientometric studies are carried out by applying bibliometrical methodology,
+which aim at evaluation of scientific publications and their impact. Bibliometrics has also
+been defined as the quantitative analysis of media in any written form (Zitt, Bassecoulard
+2008).These factors are normally measured by conducting different kinds of citation
+analysis.
+
+
+One of the pioneers in the field of scientometric and bibliometrics is Eugene Garfield, widely
+known for being the founder of the Institute of Scientific Information and the Science citation
+databases of which is the basis of many a scientometric study and allows for backward and
+forward tracing of referring documents. The scientometric method set contains mostly
+computational and quantitative approaches() which were pioneered by Robert k. Merton in
+the earlier half of the 20th century (). Many of these methods involve heavy usage of citation
+data, which reveals how scientist's refer to each others published work, what is the core of
+science that much of the peripheral research is built upon, and how scientific communities
+form around given subjects, and not least what is the impact of a researcher's work on the
+community or the cumulative impact of a group of scientist in the form of works published in
+a journal.
+
+
+Today bibliometric methods and measures have become an everyday part of any
+researchers work, as a researcher's prestige is to a large extent evaluated using these
+measures. Prestige of a scholar directly affects his academic career for example in form of
+promotions and the ability to qualify for tenured positions. The main source of prestige is in
+conducting what is seen as high quality research. The difficulties in measuring quality lead
+to the usage of specialized metrics, perhaps the best known metric being the (ISI) journal
+impact factor which is based on an aggregated journal level article citation analysis.
+
+
+Bibliometrical methods are most usually applied in library and information science. Use
+cases of bibliometrics and data from citation indices is in determining the impact of articles,
+authors, and publications ­ for making decisions about which journals to subscribe for
+library collections, for authors to make decisions about their publication behaviour and for
+research funders to make decisions about which kind of research to support. Citation data
+has it's limitations which have to be taken into account when conducting analysis. The
+indices are never complete, their coverage may be limited, biased, or contain erroneously
+cited references put some examples here.
+
+
+The academic rewarding mechanism (???) is concentrated around the author publication
+record, but the publication records and the related metrics extends way beyond that, it also
+affects the decisions of other parties in the scholarly ecosystem. With this background, it is
+evident that the field of bibliometrics and its measures always raise interest in the scientific
+community.
+
+Citations are the main metric which are used to to assess the quality of research. Citations
+analysis builds on the idea that research is evaluated by it's users. Citations are a natural
+indicator that the paper holds value in the eyes of other researchers, as these other
+researchers have chosen to build their work partly on basis of the cited document. The
+citation networks often have their "in the flesh" counterpart, webs of citation networks can
+be used to trace real-world co-operation between scientists or groups of researchers.
+
+
+Other mechanisms than citations to evaluate the quality and impact of research have been
+discussed (), but citation analysis has become a norm partly because of it's relative ease to
+quantify and measure by counting citations, and it is largely objective as it relies on the
+mass of the research/science community to valuate the article rather than a small group of
+peers or the indexing agent itself.
+
+
+Citation analysis and the citation data derived journal ranking has been developed into a
+formalized set of activities with well defined procedures and organizations taking part in the
+process. Citation analysis in it's most popular form is known as the impact factor, which
+originates in the work of the founder of the institute of scientific information (ISI), Eugene
+Garfield(1900). Thomson Reuters, which at present hosts the former ISI functions, is highly
+involved in the field of information research and scientific quality evaluation.
+
+
+4.2.2          JCR Thomson Reuters's journal citation reports
+Perhaps the largest(??) citation index, the journal citation reports, was originally created by
+the Institute of Scientific Information (ISI) in the early 1960's and has later on become a part
+of Thomson Reuters's commercial business spectrum.
+
+
+
+
+                        Illustration 1: A groundbreaking new theory.
+
+
+
+
+The impact factor as used for journal importance evaluation is computed by calculating the
+number of citations referring to articles published in a specific scientific journal during a
+specific period of time. The most commonly used impact factor is the two year impact factor,
+which means that in a specific year, the impact factor is calculated on the amount of current
+year references to articles published during the past two years. an impact factor of 2 would
+mean that a journal's articles published in the previous two years received on average 2
+citations each during the year for which the factor was calculated. It is possible to calculate
+the impact factor for any length of period, the journal citation reports of Thomson Reuters's
+journal citation reports also contain a 5-year impact factor.
+
+
+4.2.3            Sciverse Scopus
+Scopus is one of the largest science citation databases which contains mostly peer-
+reviewed scholarly research literature metadata. Scopus was created in 2004 by Elsevier,
+and originally indexed mostly citations from journals published by elsevier. Scopus's
+coverage has grown to extend thousands of publishers and now lists xxxxxx jorunals.
+Scopus can be used as a tool to collect article level metadata from journals with a high
+number of both qualitative(???) and quantitative attributes that can be used in bibliometric
+analysis.
+
+
+Statistics from scopus homepage july 2011:
+
+
+               18,500 peer-reviewed journals (including 1,800 Open Access journals).
+             46 million records:
+             25 million records with references back to 1996 (of which 78% include
+               references).
+            21 million records pre-1996 which go back as far as 1823.
+            Data export feature supporting a number og bibliographic manager formats, such
+            as RefWorks, EndNote and BibTeX
+
+
+
+4.2.4            Ulrich's Periodicals
+
+4.2.5            DOAJ
+DOAJ is a database aiming to replicate a comprehensive list of all scholarly and peer
+reviewed or editorial quality controlled scientific open access journals to promote their
+visibility and usage(). The initiative to create such a database was taken at the nordic
+conference on scholarly communication in Lund university in 2002 with support from the
+Open Society Institute (OSI). DOAJ is in no way selective conserning subjects, but instead aims to
+include journals from all fields of science.
+
+
+The inclusion criteria for DOAJ explicitly dictates that the journals have to deploy a revenue
+model which does not place any kind of financial fee on the reader or affiliated institution,nor
+does it restrict access in any manner that places a financial strain on the reader. DOAJ
+strictly enforces the right of users to "read, download, copy, distribute, print, search, or link to the
+full texts of ... articles" as expressed in the BOAI definition of open access().
+
+
+DOAJ metadata mainly consists of journal level attributes. DOAJ attempts to make some
+article level metadata available, but the coverage of article level metadata is not complete
+as not all journals' metadata are available due to limitations in the OAI metadata harvesting
+and journal owner inactivity in the matter (?).
+
+
+The open access journal population is assumed to consist of the journals indexed by the
+directory of open access journals (DOAJ), which is widely considered to have the most wide
+coverage of open access scientific journals and has been actively maintained until the
+resent years. It can be assumed that most of the Scopus / ISI indexed open access journals
+can be found in DOAJ. The inclusion criteria of DOAJ will help to define the populatoin of
+open access journals, which as an absolute entity is unknown. List of DOAJ inclusion
+criteria here xxxxxx.
+The actual composition of the list of open access journals is in the context of this paper non-
+citical, as the journals coverage have not to be comprehensive but the purpose is fulfilled f
+the database contains those that are also indexed by ISI and Elsevier's Scopus database.
+
+
+Possible sources of error deriverd from use of DOAJ data;
+-DOAJ lists a jorunal even if it is in fact TA
+-A listed journal has ceased publishing in the last years, which affects it's citation metrics
+-Including such articles in the analysis that were not OA at the time of publication
+-Using citation metrics for converted to OA journals when the metric is computed on earlier,
+TA articles
+
+
+
+
+Doaj inclusion criteria
+DOAJ shortcomings
+        does not cover all article metadata for the journals listed
+ISI and Scopus idex well-estabished, larger journals that match their inclusion criteria
+
+
+
+
+4.3 article classification logic and simple AI support through
+       metadata analysis
+
+4.3.0.1            Use ISSN to search through already gathered data and DOAJ
+              Can check if journal is listed in DOAJ, case yes: open access journal->article
+               is OA
+
+             See if ISSN has been encountered before in the sample. In case already
+               found can give information about previsously classified articles from this
+               journal
+
+
+4.3.0.2            URL based AI
+      When article found and it's url entered into software, analyze url and draw
+conclusions based on previous data with similar url or search for keyword to give
+recommendation ex. Sciencedirect, springerlink etc.
+
+
+4.3.0.3            Volume and Issue (OA Issues)
+
+4.3.0.4            Funder based analysis
+        Funder has oa mandate?
+
+
+4.3.0.5            Publisher based analysis
+        Publisher OA policy? / OA publisher?
+
+
+4.3.0.6            Google / Google Scholar PDF search hits parsing
+
+
+4.4 Software development
+
+4.4.1          Computer aided collaboration and crowdsourcing??
+
+4.4.2          Software delvelopment methodologies
+
+4.4.2.1            Waterfall model
+
+               ·    Planning phase
+
+                     Requirements analysis
+
+                     Scope definition
+
+
+                  Implementation
+
+                   Testing
+                      Documenting
+
+                      Deployment and maintenance
+
+         references:
+
+
+         waterfall model:Royce, Winston (1970), "Managing the Development of Large Software
+          Systems", Proceedings of IEEE WESCON 26 (August): 1­9.
+
+
+4.4.3            Software User Interface Design
+
+4.4.4            System architecture and components
+
+4.4.4.1               Fat client or Cloud based system?
+
+4.4.4.2               Metadata collection tools
+
+4.4.4.2.1 Article batch search string generation
+Several batches of articles need to be downloaded from Scopus. As the searches have
+several criteria, it is convenient to develop a small program that creates the search strings
+automatically and in addition triggers an automated search on scopus web interface.
+
+
+         Create search string with criteria, either affiliations or disciplines, pubyear and
+          pagefirst
+
+
+         trigger scopus search automatically
+
+
+         download data and save to disk
+
+
+4.4.4.2.2 Article batch converter
+At the time of original tool development, Scopus did support a number of bibliographic
+citation data file formats for data exporting, for example BibTex, EndNote and RIS. These
+file file formats are specialized formats which are not supported by standard spreadsheet or
+statistical software like excel or SPSS, thus the need to develop a file format converter to
+convert to a columnar layout. The RIS file format was selected for conversion input. The
+RIS file format Is a kind of tagged file format, where each row of data is preceded by a 3-
+character code indicating the type of data. There is no upper limit to the amount of
+repetitions in the data which have to be taken into account when switching to a columnar
+layout.
+4.4.4.2.3 Article batch cleaner
+The downloaded data has to be inspected for errors or irregularities. Possible errors are:
+
+
+        Redundant articles
+
+
+        not random articles (randomizer)
+
+
+        articles not fulfilling criteria?
+
+
+4.4.4.2.4 Data injector
+The data logging tool is a monolithic piece of software which contains both program source
+code and the logged data. For this reason, the prepared batch of article metadata has to be
+injected into the file, either manually or by software tools. Another possibility would be to
+keep source code and data separate from each other, but that might cause confusion to
+users.
+
+
+4.4.5            Data logger
+
+4.4.5.1            User interface design
+
+4.4.5.2            UI Widgets
+Data logger uses standard Windows UI widgets, combo boxes, listboxes and so on
+
+
+4.4.5.3            General UI design principles
+The user interface was designed to facilitate for the simultaneous usage of both the data
+logger and the browser window to avoid the need of switching between windows. For
+sustained high quality of the gathered data, it is important to see both the original document
+and web site while entering the URL:s and classification data into the logger. The logger
+was designed to waste as little screen real-estate as possible and to be as much out of the
+way as possible. The logger was designed to be a toolbar either in the top or the bottom of
+the screen to leave the rest of the screen available for the actual browser.
+
+
+4.4.5.4            User experience
+
+4.4.5.5            Metadata and user generated attributes, intermediate data
+          storage
+The data logger uses the injected metadata which has appropriate column headings for
+each attribute. The logger then reads the attributes and locks the user interface widgets to
+the proper attributes in the data file. In case the user generated data attributes are not found
+in the injected data format, it is assumed that the file is new and thus those columns are
+created on startup.
+
+
+At each advancement in the series of articles, the metadata is read from the file and
+displayed in the user interface widgets. The user next enters the data and at advancing to
+the next article the data is written on disk.
+
+
+4.4.5.6          AI features
+
+
+4.4.6           Main database
+
+4.4.6.1          Main Database design and analysis queries
+
+4.4.6.2          Logging Data extraction tools
+
+
+4.4.7           Data analysis tools?
+
+
+4.5 Quantitative method - population and sampling
+
+4.5.0.1          creation of article batches and sampling
+The articles to be analyzed were extracted out of Scopus using random sampling.
+
+
+
+ 5 Results
+
+
+ 6 Discussion
+
+

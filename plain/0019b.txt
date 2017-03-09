@@ -1,0 +1,111 @@
+Corporate Social Responsibility in Icelandic banks
+
+
+
+
+Introduction
+
+The level of Social Responsibility (CSR) in Icelandic banks is the field of this study. CSR has become a popular way for corporations to portray their interest in their stakeholders and the society they coexist in. It is interesting to examine the Icelandic financial sector mainly due to two factors. Firstly, there are only four banks in Iceland, all of similar size; therefore it is easy to compare them. Secondly, the Icelandic financial system came to a complete halt in the autumn of 2009, and the banks have tried to establish trust with society ever since. 
+Research on CSR in Iceland has been quite scarce; the few researches that have been made do point to the fact that Iceland is a part of the European Economic Area (EEA) and complies with many EU directives, therefore environmental and social standards are in line with EU countries. Research has revealed a lack of CSR plans in Icelandic companies (Thorsteinsdottir, CSR in Iceland, 2010). However, according to a study made by the European Commission in 2002, philanthropy is a common practice by Icelandic companies (European Commission, 2002, p. 20). Previous researches have focused on the Icelandic market as a whole, but not the financial sector. Since the financial sector is very dependent on good international relations and foreign investment; a logical assumption might be that they should be innovative in developing their CSR policies, but are they? How far have the Icelandic banks come in developing their CSR plans? Where do they stand compared with other European banks? 
+The main purpose of this research is to Compare the 4 Icelandic banks of Arion banki,Íslandsbanki, Landsbankinn and MP banki, to evaluate the level of their CSR plans. Once the Icelandic banks have been evaluated they can be compared with the benchmark, Deutsche bank which is a leading organization in CSR. 
+This paper hopes to show that Icelandic banks are well ahead in their social responsibilities, but lack a formal policy. The importance of this policy will also be explained. 
+The remainder of this paper is structured as follows; the first section is a theoretical introduction as to which theories this research is built on. The second section is the main body, where I discuss the background of the Icelandic banks up to date, the methodology of the research and current state of the research field. The third part consists of the results and the fourth section holds the conclusions of the study.  
+Theoretical part
+CSR and the Pyramid of CSR
+
+Globalization has given cause for a unified international standard of ethics and socially sustainable companies. Consumers want to know how their products are made on the other side of the planet. Governments and international institutions are involved by regulating and establishing guidelines and standards for companies to follow. The European Union has become very concerned with the social aspect of companies in the Union.  
+Defining Corporate Social Responsibility has been a constant battle between academics in the last 50 years. 
+The Pyramid of CSR by Archie Carroll (1979) gives a good overview of the matter. In fact it is the basis for the most recognized definition up to date. 
+“CSR encompasses the economic, legal ethical, and discretionary or philanthropic expectations that society has of organizations at a given point in time.” (Carroll, 1979)
+Economical Responsibilities:  The most important thing in corporate existence is to be profitable, otherwise it will cease to exist or cause damage to society. Legal Responsibilities: whilst making a profit, corporations must obey the law, so society may function.  Ethical Responsibilities: as being a profitable and law abiding corporation, a corporation must be ethical, fundamentally that means doing right by stakeholders and society. Finally, Philanthropic Responsibilities:  to be a good corporate citizen improving the life of others by distributing company resources. 
+
+
+[Figure]
+ 
+ISO 26000
+
+The International Organization for Standardization or ISO which is the largest standards publisher in the world has formed an International guidance mechanism of CSR, called ISO 26000. It does not provide regulation or a certification of standard. The ISO 26000 is a guideline for companies that wish to develop and establish a sustainable CSR policy. All companies regardless their scope, size or type can use the guidelines. First they must get familiar with the terms and definitions of CSR and understand the history and characteristics as well as the relationship between CSR and sustainable development. There are seven principles of social responsibility to follow at the early stages of the development, they are: 
+1. Accountability 
+2. Transparency
+3. Ethical behaviour
+4. Respect for stakeholder interest
+5. Respect for the rule of law
+6. Respect for international norms of behaviour
+7. Respect for human rights
+The ISO 26000 guideline builds on fundamentals and 7 core subjects that are recommended for companies to focus on when building their programme. According to ISO 26000 there are two fundamental practices of social responsibilities each company must identify. First, recognizing social responsibility, and second, to identify and engage stakeholders. Then the company can focus on the core subjects.
+The core subjects are:
+1. Organizational Governance
+2. Human rights
+3. Labour practices
+4. The environment
+5. Fair operating practices
+6. Consumer Issues
+7. Community involvement and development
+Finally the integration of the social responsibility policy can begin, in order to do so the company must take care of the communication, relationships and characteristics within the company. Ensuring understanding about social responsibility for all stakeholders, making voluntary initiatives and enhancing credibility is important. Reviewing and improving the company’s actions and practices is then an ongoing process (http://www.iso.org, 2012). 
+
+UN Global Compact
+
+“The United Nations Global Compact is a strategic policy initiative for businesses that are committed to aligning their operations and strategies with ten universally accepted principles in the areas of human rights, labour, environment and anti-corruption.” 
+The compact is an attempt to build a universal code of CSR that aims to manage the risks and opportunities in environmental, social end governance structures.
+With close to 9000 participants the compact is voluntary, but to prove their commitment a yearly Communication on Progress (COP) must be posted by the company to ensure transparency and accountability amongst the participants.
+The ten universal principles the UN Compact is built on are divided into four sections: human rights, labour, environment and anti-corruption.
+(UN Global Compact)
+Methods
+In order to investigate the level of CSR in the Icelandic banks I compared the information on their websites with the Deutsche bank website. The banks in question, Arion banki,Íslandsbanki, Landsbankinn and MP banki were therefore the sample and Deutsche bank the benchmark. First I determined the main issues of CSR in the Deutsche bank CSR policy and made a questionnaire. The questionnaire was also in close relations with the emphasis of Archie Carroll’s Pyramid of CSR. Each question could give either 1 or 3 points, bringing the total to 29 points. If the answers were not positive, 0 points were given.
+Next the comparison of total points was given and what it possibly means for these banks. Finally, a more detailed review was given on each bank and what fields they should focus on when building up their CSR policy.
+
+Questionnaire
+
+When comparing the banks and the level they are at in CSR development I decided to compare them with a bank that has been internationally accredited for its CSR policy worldwide, Deutsche bank.
+ Deutsche bank has a sophisticated and honoured CSR policy. The bank receives multiple awards every year for its socially responsible projects. After studying their website, http://www.db.com/csr, I established a questionnaire that would cover the main issues the CSR policy of  Deutsche bank has.
+ Each question can give 1 point. However, the most important questions in this study are nr. 1,2, and, 3, therefore they will give 3 points each, if answered positively.
+1. Is there an official CSR policy? 
+2. Do they comply with the International Organization for Standardization's guidelines for social responsibility (ISO 26000) 
+3. Do they comply with the principles of the UN's Global Compact? 
+4. Is there a sustainability plan? 
+a-Environmental issues	
+b-Social issues 
+c-Governance issues 
+5. Do they have an education program? 
+	a-Domestic 
+	b-International 
+6. Do they participate in social investments? 
+	a-Environmental investments 
+	b-Poverty
+	c-Health
+	d-Disaster zones
+7. Do they support Art and Music in the community? 
+8. Do they support athletes?
+9. Do they support employee engagement? 
+	a-society
+	b-environment
+	c-education
+	d-healthy living
+10. Do they participate in Innovation grants/support?
+
+Results and Interpretation
+Landsbankinn-results and improvement
+
+Landsbankinn recieved 22/29 points and scored the best out of the Icelandic banks. 
+An interpretation of the 7 points missing is necessary to understand the level of CSR in Landsbankinn. 
+The lack of a sustainability policy on the website might be work in progress. The fact that nothing is available on governance issues is something that should be improved.
+Landsbankinn does not support education on an international level and is quite understandable, due to the fact that the country is still in the midst of an international crisis, and is receiving financial aid from IMF, focusing on domestic ground is understandable and justifiable. The same can be said regarding disaster zones which are not mentioned in the policy. 
+Support to athletes, art and music is not a part of their CSR policy but may be a preference or an attempt to differentiate the bank from Islandsbanki. 
+Landsbanki does support the involvement of their employees but they are missing direct societal projects. This involves employees doing philanthropic aid in their own free time or finding sustainable ways for the bank to assist or support individuals and projects. This could be an opportunity for improvement, but perhaps this is deliberate. It may not be considered appropriate whilst economical problems are still the main issue to focus on these matters. All in all Landsbankinn has an official and genuine policy but it is yet work in progress. To have a complete policy I believe Landsbankinn should focus on their sustainability policy which according to the ISO 26000 is the ultimate goal for having a CSR policy. Once their sustainability policy has been published they need to emphasize their compliance with governance codes. Without governance codes international investors might be confused and uneasy. There is of course room for improvement in supporting areas but mostly in supporting and developing employee involvement in their society (Landsbankinn).
+Islandsbanki and improvement
+Islandsbanki scored 19/29 points. Islandsbanki has not followed the ISO 26000 guidelines and that is the main difference between Landsbanki and Islandsbanki. Islandsbanki has no education support in their policy; this is an area where the bank can extend their policy especially domestic support in the form of scholarships. No support to disaster zones is quite understandable as in Landsbankinn. The lack of governance codes is also a concern but could easily be improved.
+Islandsbanki emphasizes employee involvement in all areas and is obviously the leading bank in employee involvement (Islandsbanki).
+
+MP banki and Arion banki and improvement
+Both banks scored 0/29 points. Social responsibility is not mentioned in their website. 
+
+
+
+
+
+Conclusion and Discussions
+
+Deutsche bank is an international company with over 100,000 employees working in 70 countries. That is almost one third of the Icelandic population. This fact must be taken into account when comparing the CSR policies of these banks with Deutsche bank. That is why I tried to have the questionnaire broad and kept to key issues. My opinion is that a comprehensive CSR plan is necessary and doable for all companies regardless of their size. 
+MP bank and Arion have no official policy, no ethical standards and do not participate in any philanthropic projects. This was surprising since CSR is a very popular topic today and Icelandic banks are in dire need of strengthening their reputation. Does this have an influence on employees, customers and other stakeholders? It would be very interesting to examine whether this affects ROE. Does a CSR policy have a positive effect on the financial side?
+Does this have an influence on stakeholders? Is there pressure from stakeholders to invest in a CSR policy?
+It is fair to say that there is a great difference in the level of CSR amongst the Icelandic banks. Landsbankinn and Islandsbanki have developed internationally approved CSR policies and are compatible with their fellow banks in Europe. However Arion banki and MP banki have a long way to go. 

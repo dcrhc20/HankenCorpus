@@ -1,0 +1,391 @@
+CEO payments in Finland - too much or enough?
+
+   1. Introduction
+
+Executive compensation is a topic that receives a lot of attention and raises debate.
+Critics argue that CEOs are greatly overpaid and not paid according to performance.
+Furthermore, critics claim that boards are doing a lousy job compensating and
+supervising the CEOs (Jensen et al 2004). There is a large literature on CEO payments,
+primarily based on US data. Some studies argue that CEOs are overpaid, other studies
+e.g. Kaplan (2008) claim the opposite. It is obvious that corporate governance and CEO
+compensation are not perfect, but large amounts of data indicate that CEO payments are
+determined by market forces (Kaplan and Rauh 2004).
+
+Most of the previous studies are geographically concentrated to the U.S. This research
+describes the situation in Finland including the most recent data available. This paper
+attempts to analyze the Finnish market and to identify factors which drive CEO
+compensation. The topic can be found as a current matter since CEO payments have
+lately been a hot topic in the press. E.g. Nordea's Chairman of the Board, Björn
+Wahlroos' comments on Nordea's CEO, Christian Clausen's payments have given rise
+to an aggressive debate on executive payments, perks and pension plans. Among other
+things, Wahlroos stated that he would be more than glad to raise Clausen's
+compensations so that Clausen can buy more apartments in Stockholm if he wishes.
+This was said simultaneously as Nordea was firing thousands of employees due to its
+cost savings plans.
+
+New recommendations on corporate governance for listed companies, is also being
+considered in this study. Companies are nowadays increasingly forced to report
+management compensation. Some earlier studies on the topic have been limited due to
+the fact that companies have restrained in reporting compensations.
+
+
+
+
+                                                                                     
+    1.1.   Purpose of the study
+
+The purpose of this paper is to compare CEO payments of Finnish companies with a
+minimum current market cap of EUR 100m. Moreover, the paper try to identify what
+affects CEO payments in Finland. Own conclusion to the matter whether CEOs in
+Finland are overpaid or not will also be given.
+
+
+    1.2.   Limitations
+
+The research is limited to CEO payments of the Finnish companies with a current
+market cap of at least EUR 100m. Financial companies have been excluded because of
+differing income statement and balance sheet structure. Voluntary pension
+compensations are included in this study.
+
+
+   2. Separation of ownership and control: Agency problem
+
+The separation of ownership and control is the background of corporate governance and
+is closely connected with the agency theory or the agency problem occurring between
+management and shareholders. Berle and Means (1932) were the first introducing the
+agency theory and many other studies have thereafter confirmed it and explored it
+further.
+
+Managers may use their position and power to benefit themselves personally in a variety
+of ways. This is referred to the agency problem, a conflict of interest arising between
+shareholders and management because of differing goals (Shleifer & Vishny 1997).
+Managers may e.g. engage in unprofitable empire building, or may fail in distributing
+excess cash in a poor business opportunity environment or may perhaps strengthen their
+position so that it can be hard to displace them although the company performs poorly
+(Schleifer & Vishny 1989). How can shareholders then be sure that the management is
+not expropriating them or simultaneously spending too much money on unnecessary
+things instead of maximizing the shareholder value? It's important to address that any
+discussion of executive compensation must proceed the bottom-line agency problem
+distressing the decision making of management (Bebchuk & Fried 2003).
+
+
+
+                                                                                     
+  3. Prior research
+
+In this chapter the prior research considering CEO compensation from the Finnish and
+the US market will be presented.
+
+
+   3.1.    Steven N. Kaplan (2008)
+
+Kaplan investigates in his article "Are U.S. Ceo`s really overpaid" the CEO pay for U.S.
+listed firms on the S&P 500 during the time-period 1993-2006. The main issue that he
+wanted to address with his survey was whether the pay of CEO`s is a largely market
+phenomena or if it is driven by the power of the CEO`s and the weakness of companies'
+boards.
+
+Kaplan measured CEO pay in two different ways. The first way was measured by that
+he looked at ex. ante value of CEO pay. This measure includes the CEO´s; salary, bonus
+the value of restricted stocks and the estimated value of the options that was issued that
+year. This measure is not what the CEO actually gets paid during a year, it is only a
+estimation from the boards sight of view. The second measure of pay is a true fact of
+what the CEO earns during a year. It is called realized pay and it is based on the same
+variables as the ex. ante way. The only thing that differs is the pay of the options is
+calculated through looking at the exercised pay of the options. Kaplan also looked at the
+pay development for other highly ­paid talents such as lawyers, hedge-fund managers
+and athletes (top- level). Further on, as has been done in previous research he looks at
+the relationship between CEO pay and performance.
+
+The survey showed that the CEO pay has declined since year 2000 or been kept
+unchanged. In comparison to other sectors with similarly talented individuals has gone
+up at least as much since 1994. The survey concludes that high CEO pay is largely a
+market phenomenon since Kaplan argues that many other groups have seen their
+compensation increase substantially and at the same level as CEOs. The survey also
+shows that the realized pay for a CEO is strongly related to the stock performance.
+
+
+
+
+                                                                                        
+   3.2.    Mäkinen (2007)
+
+In the discussion paper CEO compensation, firm size and firm performance: evidence
+from Finnish panel data the author examined how CEO pay is related to firm size and
+to firm performance. The time-period is from 1996-2002 and the data set is Finnish
+listed companies. CEO annual compensations were collected from the Finnish tax
+authorities. Firm level financial statement was accessed through Balance consulting,
+which is a Finnish consulting firm. When measuring firm performance two different
+measures were used; one is an accounting based (ROA) and the other one is a stock-
+based (returns) measure. The method used to check for the relationship between CEO
+pay and firm size is estimated by OLS separate cross-section model and a pooled model.
+
+The study shows that CEO average compensation has increased substantially during the
+period of investigation. An interesting finding is the fact that shares with foreign
+ownership is positively and statistically significant associated with the level of
+compensation. Further concentrated ownership is showed to have a negative impact to
+the level of compensation, but only in the pooled model.
+
+When comparing CEOs and industrial workers ratio, the mean total compensation was 7
+in 1996, peaked at 24 in 2000 and thereafter dropped down to 13 in 2002. According to
+the author this development of CEO pay is strongly related to the market boom on the
+Helsinki Stock exchange. In 1999 the ratio was 16 and compared to other studies this
+ratio exceeds the results reported from Germany (13), Sweden (13) and France (15). But
+when comparing to U.S, they show a ratio of (475) which shows that the European
+compensations are quite small.
+
+
+   3.3.    Vittaniemi (1997)
+
+In the survey "Top executive Compensation and Company performance in Finland" the
+author examines CEO compensation both for listed and unlisted companies' Finnish
+companies, as a theoretical framework the principal agent problem. The data set consists
+of a sample of 500 largest companies ranked based on sales. The final sample included
+48 listed companies and 70 private companies. The method that was used was a pooled
+regression model.
+
+
+                                                                                      
+The aim of the survey was to examine the relationship between compensation and firm
+performance. CEO salary is defined in two different ways. The first does only include
+base ­salary while the other is taking performance pay into consideration. To
+investigate the financial performance measures the author used key-figures as ROI and
+ROA.
+
+The econometric results for the listed companies showed that performance- sensitive
+compensation as stock-options, deferred stock ownership and dividends are important to
+find a statistically pay for performance relationship. When looking at the financial key ­
+figures the study showed that last periods change in ROI1 has a statically significant
+effect on total CEO compensation concerning the second measure ROE the author did
+not find a significant relationship. Further on the author states that a firms share
+performance and size together are the most important determinants of executive
+compensation. Concerning private companies the study found that the pay for
+performance relationship is much weaker compared to listed companies.
+
+
+     4. Alternative compensation systems for CEOs
+
+This chapter focuses on what alternatives there are for compensating the CEO. However,
+this paper only analyzes the CEO taxable income in the empirical part. As stated earlier
+there have been several attempts in the corporate governance literature to construct the
+perfect compensation scheme, which would dilute the agency problem occurring
+between management and shareholders. The differences in compensation systems
+around the world are big and most of the previous studies are done on US data.
+
+The main point is that the total compensation should be competitive and make the CEO
+to make decisions that would maximize the wealth of the shareholders. As mentioned,
+the compensation system should be structured in the way that the agency problem
+between managers and shareholders is diluted. CEO compensation can be constructed of
+base salary, bonuses, company shares and options and various fringe benefits.
+
+
+
+
+1
+    An increase in ROI with 1% increased CEO compensation with 0,017
+
+
+                                                                                        
+   4.1.    Base salary
+
+Essentially, every CEO has a base salary. The base salary is usually paid every month
+and is correlated with the size of the company (Ciscel & Carroll 1980) (Jensen &
+Murphy 1990). It is important that the base salary is competitive on the market so that
+the company succeeds in attracting highly professional and skilled managers. The
+monthly salary functions in a manner that the CEO is committed and focused on his task,
+but has also incentive problems. When the CEO's salary is correlated to the firm size,
+the manager can try to increase his salary in engaging in unprofitable empire building.
+On the other hand one can think that a too big salary can make the manager risk-averse
+and thus tries to minimize the company risks to ensure his positions and enjoy his salary.
+
+
+   4.2.    Performance based salary
+
+To dilute the agency problem between managers and shareholders, many firms have tied
+the total compensation to the performance of the firm. Performance based salaries can
+include bonuses, options and company shares.
+
+It's quite common that executives receive a part of their compensation in forms of
+company shares and options. Share based compensation have increased lately due to
+corporate governance recommendations and from the demand of shareholders. In this
+way the managers are seen to engage in more long-term planning and consequently
+creating sustainable profitability (Geretey, Hoi & Robin 2001). But other studies claim
+that e.g. stock options are all too often just extra compensation and not effective
+incentives (Stewart III 2000). Likewise, according to Bebchuk and Fried (2003) stock
+option plans also fail to filter out stock price rises due to successful managerial job and
+company performance and rises that are due to industry and general market trends. The
+same argument could be used for bonuses, if the market is blooming; even executives
+whose companies perform poorly relative to the industry may earn large profits, because
+bonuses are to a large extent tied to accounting numbers.
+
+There are two ways for share based compensation. The manager can either obtain
+company shares directly or commit to the company's option scheme. If the manager
+obtains directly company shares, there are usually restrictions in when the shares can be
+
+
+                                                                                         
+sold. One can estimate that performance based salary results in managers taking more
+risk (but not too much) and become more efficient and concerned about the company
+performance, but they also have their pitfalls.
+
+
+   4.3.    Other compensation
+
+In addition to base salary, and performance based salary, executives also obtain various
+fringe benefits from the company. Some examples are a company car, company boat or
+even vantage to hunt (Pietarinen, Taloussanoma 2012) These fringe benefits do usually
+not have any significant effects regarding corporate governance.
+
+It's important to mention pension benefits and other stealth compensations under this
+subtitle. These compensation methods make the total executive pay less transparent and
+may not necessarily be connected with the executive's performance. Moreover,
+compensations given to executives after they retire do not have to be included in firm's
+public compensation tables or calculations. Pension plans or other postponed
+compensation is not taken into account in the empirical part of this paper.
+
+
+   5. Arguments for and against "CEOs are overpaid in Finland"
+
+This chapter will give some arguments for and against why CEOs in Finland would be
+overpaid. As a starting point of view it's good to mention that the question itself doesn't
+have a correct answer, since it's all about opinions. There is no such thing as a "fair"
+payment for CEOs as Edwin Lock among others have stated (Society for
+industrial&organizational psychology). Another thing worth mentioning is as well that
+many of the statements presented here are general statements about CEOs
+compensations. These statements are valid both in Finland as well as in other countries.
+
+
+   5.1.    Arguments claiming overpayment
+
+   5.1.1. CEO payments increased faster compared to other employees
+Many people have claimed that the CEO payments have increased much faster than the
+compensation for other employees. In fact, when looking at a sample of three Finnish
+
+
+
+                                                                                         
+large cap companies (YIT, Metso and Fortum) the average increase in the CEO
+payments had been 7,92 % between the years 2003-2010. A comparable figure for the
+average pay taker in Finland was 3,92 % (Tilastokeskus). See graph 1. However, as
+earlier stated Kaplan (2008) showed that the payment for also other talented and
+fortunate groups have increased strongly, in fact even faster than the CEO payments.
+
+   5.1.2. Compensations not related to performance
+The most important task for the management of a firm is to maximize the shareholder
+value. In contrast to this Cooper et al. (2009) found that industry and size adjusted CEO
+pay is negatively related to future shareholder wealth. According to their study, CEOs in
+the top ten percent of pay earn negative abnormal share price returns over the next five
+years of approximately -13%. The effect was found to be even stronger for CEOs who
+received higher incentives compared to their peers. If the CEO compensation would be
+truly related to performance, studies like Coopers et al. should show correlation
+between better abnormal return for companies with CEOs who receive higher salary.
+Even if the most important factor regarding the CEO payments should be that the
+compensation is connected to the firms' performance, as Edwin Locke among others
+have stated, this does not however seem to be the case (Society for
+industrial & organizational psychology). A regression study regarding which variables
+affects the CEO compensation in Finland will be presented later.
+
+   5.1.3. CEOs influence their own salary
+There are several ways how CEOs can try to influence their salary. First of all it is
+claimed that CEOs typically try to protect their payments from falling stock prices in
+different ways. One way of doing this is by trying to tie stock options to favorable low
+market value circumstances. Previous studies like Brookman & Craig (2006) showed
+that CEOs compensations were approximately similar to those of a bull market through
+a bear market. However, their study consisted of small market capitalization firms
+which partly can explain the smaller stock price performance sensitivity to CEO
+payments.
+
+Another way how CEOs can influence their own salary is by having good relationships
+to the board of directors who are deciding about CEOs compensations. Main et al.
+(1995) found that so called "social influence" may be responsible for significant
+increments in the CEO compensation beyond what economic theories would predict.
+
+
+   5.2.    Arguments denying overpayment
+
+   5.2.1. Increasing CEO turnover
+Many prior studies have shown that the CEO turnover has increased. In other words
+CEOs are fired more frequently today than historically. Kaplan & Minton (2007)
+showed in their study that the average annual CEO turnover was 15,6 % from 1992-
+2005 for a sample of large U.S companies. In 1998 the CEO turnover was 17.4 %. This
+implies that the turnover had an increasing trend. According to a study by
+Taloussanomat the situation is similar in Finland. A CEO kept his or her position in
+average 4.5 years in 2007. The comparable figure for 2004 was six years (Pennanen,
+2008). The increasing CEO turnover explains that the CEO position is more unstable
+now days and therefore it's possible to argue that CEOs should be compensated more
+today than historical levels imply.
+
+   5.2.2. The CEO payment is just the "normal market price"
+The CEO payment is just more or less the market price where demand and supply
+meets. This is something what professor Edwin Lock at the University of Maryland has
+argued (Society for industrial&organizational psychology). On the other hand; Albert
+Cannella professor at A.B. Freeman School of Business at Tulane University argues that
+the market for CEOs doesn't work as a normal marketplace since there is not enough
+buying and selling going on (Society for industrial&organizational psychology). He
+continues by stating that it's extremely rare that CEO's would frequently leave their
+positions for higher salaries as it's more likely that the CEO acts in a way to secure his
+or her position.
+
+
+   6. Method 1: What affects the CEO payments in Finland?
+
+In the first method a regression is built up which simply explains which are the most
+significant variables affecting the amount of CEO payment.
+
+
+
+
+                                                                                       
+     6.1.           Data
+
+The data consists of all the listed OMXH companies with a current market cap greater
+than EUR 100m. Financial companies have been excluded since their differing income
+statement and balance sheet structure. For a complete list of companies included, please
+see appendix 1. The data has been collected from the Bloomberg database. The CEO
+salary data have been collected from the companies' webpages.
+
+     6.1.1. Descriptive statistics
+
+ [Table]
+[Table]
+[Table]
+
+As the dependent variable the total CEO compensation have been chosen. As the
+explaining variables: net income growth, share price performance, ROE, ebit margin
+and market cap have been used. All explaining variable are averages of 2006-2010. It's
+expected that the market cap is the only variable which will show any significant results.
+
+
+     6.3.       Method 1 results
+
+[Table]
+
+
+As can see from the result table above, the most significant variable is the size of the
+firm, as expected. Bigger firms pay their CEOs more. All the other variables were more
+or less not significant even if some of them statistically showed some significance. The
+conclusion from the first model is the most important factor determining the CEO
+payment is the firm size. This might lead to empire building which was described earlier
+in the agency problem section.
+
+
+
+
+                                                                                                 
+   7. Method 2: What changes the CEO payment? (work in
+       progress)
+
+The second method is going to look at factors which affect the change of the CEO
+compensation. As the dependent variable the method is now looking at the change in the
+CEO payment instead of the total Lg of CEO compensation, as method 1 did.
+
+
+    7.1.   Planned variables (work in progress)
+
+[Table]
+
+
+                                                                                 
+8. Conclusions (work in progress)
+
+

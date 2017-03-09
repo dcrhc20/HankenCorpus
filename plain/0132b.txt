@@ -1,0 +1,316 @@
+Demographics and Buying Behaviour of E-commerce Customers: A Case Study
+
+
+1      INTRODUCTION
+
+1.1.   Motivation for the Term Paper
+
+The e-commerce business to consumer market has been growing significantly during
+the last years in Finland. Across the board the percentage of people regularly doing
+online shopping has been steadily growing during the last years. The available general
+statistics over the Internet usage of the population also shows that the trend is for both
+older and other community groups to take part in the online experience. (OSF 2011)
+
+
+To understand your customers is a key success factor when running an online retail
+business. By having an understanding of who you customers are and what influences
+their buying behaviour everything from marketing to stock choices can be optimized in
+order to achieve larger profit margins. Therefore also the research community is
+increasing its interest as the e-commerce activity is increasing.
+
+
+This term paper will focus on explaining what predicts the behaviour of the e-
+commerce customers of the case company. When combining this knowledge with
+general theories this study aims to be able to provide empirical evidence for their
+applicability in practice. Furthermore, this information is of interest for the case
+company and thus warrants a discussion on how to utilize the information.
+
+
+The paper will use a unique data set containing detailed information on the visitors to
+an e-commerce website. The data set contains both information on visitors that
+finished their transaction, and visitors that aborted their checkout process. This term
+paper may therefore also shed some light on which kind of people abort their buying
+decision.
+
+
+1.2.   Research Question
+
+Several of the previous research papers done on demographics and e-commerce
+customer behaviour have either used the same background material, or used interviews
+of e-commerce users as their source of information. As this study will use a unique data
+set gathered from a running e-commerce business the study will be able to answer more
+statistically how the visitors are behaving and whom they are. This study also needs to
+develop a novel model for determining the demographics from an incomplete data set.
+Thus this study aims to answer the following main research question:
+
+       How can the available characteristics explain the buying behaviour of the e-
+       commerce website visitors?
+
+
+1.3.   Limitations
+
+The data is already gathered, and due to time constraints the researcher will not be able
+to use qualitative methods in order to profile the demographics. Only the data already
+recorded by the e-commerce system of the case company will be used.
+
+
+1.4.   Structure of the Term Paper
+
+The remainder of this paper is structured as follows. The following chapter presents the
+research methodology used. Next, the chapter reviewing previous literature with
+relevance to the research question follows. Following the literature review, there is an
+analysis of the material collected and how the research questions could be answered.
+Finally, there is a chapter with concluding remarks on the research questions.
+ 
+
+2      RESEARCH METHODOLOGY
+
+This chapter presents the research methods in this study. It walks through the
+literature review process, describes the case study methodology chosen, and thereby
+provides a basis for the further analysis.
+
+The unit of analysis in this study is the visitors to the e-commerce website of the case
+company. Therefore, a mainly quantitative research method is used, but as the study is
+done as a specific case the aspects of a single case study must be taken into account.
+The empirical data is collected using the e-commerce solution provided by the case
+company.
+
+
+
+2.1.   Literature Review Process
+
+According to Yin (2002) in his book on case studies the aim of a literature review is to
+"help develop sharper and more detailed questions". Thus the literature review has
+been focusing on developing the subject matters in such a way that it will support the
+empirical stage in this study.
+
+When an interesting article has been found the references of that article has been used
+in order to find out how the original researcher supported his arguments. Thereby
+finding out more relevant and in-depth information on the subject matter.
+Furthermore, articles citing the identified interesting piece of research were
+investigated. As Webster and Watson (2002) argue that you need to go both forwards
+and backwards from your literature sources in order to get at complete consensus of the
+concepts reviewed.
+
+
+2.2. Single Case Study Method
+
+This study uses the single case study method since it fulfils the criteria posed by Yin
+(2002) for motivating a case study. Yin (2002) argues that case studies are primarily
+aimed at solving problems that can be formulated as how and why questions when the
+researcher cannot influence the outcome to a large extent and the focus is on a real-life
+contemporary phenomena (Yin 2002). Moreover when the research question is
+formulated as a how question it automatically leads to a more explanatory study where
+case study would be preferred.
+ 
+According to Eisenhardt (1989) and Yin (2002) a case study can contain any mix of
+qualitative and quantitative data. Yin (2002) presents and discusses six sources of
+evidence; documentation, archival records, interviews, direct observations, participant-
+observation and physical artefacts. In this study the documentation provided the
+primary source of case data and is therefore discussed in a separate section. Other
+sources of evidence used are archival records and direct observations. Using multiple
+data collection methods will help in making the points clearer and more robust.
+
+Finally, it is important that a reader is able to follow the chain of the research. In
+practice it means that you are able to go back from the conclusions to the original data.
+The chain of evidence needs to be communicated clearly in order to raise the validity of
+the arguments and results from the study. The researcher should also show that he has
+made his best to collect all relevant information.
+
+
+2.2.1. Data Collection and Statistical Analysis
+
+As the researcher has direct access to the e-commerce solution of the case company, the
+data will be directly extracted from their database. The extracted data will then be
+processed and refined in order to help the final analysis.
+
+Descriptive statistics will be presented of the collected data. Furthermore, some sort of
+multiple regression analysis will be performed on the data set in order to be able to
+present a solution to the research question.
+
+For analysing the collected data the statistical program Stata is used. The program has
+good reputation in academic research and provides many of the tools needed for
+generating proper and clear presentation of the results. (Stata 2012)
+ 
+3      LITERATURE REVIEW
+
+This chapter presents literature with relevance to the research question in order to be
+able to perform a more developed argumentation in the empirical part. The chapter
+concludes in a synthesis, which will be used as a starting point for the empirical
+analysis.
+
+
+3.1.   Overview of E-commerce Business
+
+What characterizes the e-commerce business in Finland is currently the immense
+growth that it is showing on all fronts. There is first of all an overall growth of online
+spending among all age groups.
+
+The growth is also explained by the increasing number of online shops in itself, and
+thereby the increase in product categories available online.
+
+A research performed by TNS Gallup puts the size of online business in Finland to over
+10 billion euro for 2011 (Kaupan liitto 2012), while showing a 10 % average growth
+across all sectors. The five largest sectors in Finland, according to their research are:
+travelling, motor, electronics, living and energy, and gambling. The product retailing
+stood for 47 % of the total e-commerce revenue.
+
+
+3.2. Online Buying Behaviour
+
+The most significant difference when comparing to a traditional shopping experience is
+that in an online environment the customer is more in control of which choices he
+makes in order to find a potential buy. The intent might even be very unclear from the
+beginning, as when browsing or searching the Internet the website visitor might be
+influenced to make a buy.
+
+Low conversion rate compared to traditional shops. One reason might be the very low
+cost for the website visitor to only browse, without feeling pressure from the assistants
+in the shop or using energy in his activities.
+
+You need to convert the mindset of the website visitor into buying. What their objective
+is from the start is very hard to deduce.
+
+Another important attribute is that your website needs to communicate trust.
+    
+An e-commerce site might also adopt a value-added strategy instead of price
+competition. (Chen & Dubinsky 2003)
+
+
+3.3. Predicting E-commerce Behaviour
+
+Direct access to the website would be more likely to purchase than the visitors who
+access the site through transferring websites (indirect visit) (Park 2009).
+
+The website visitor might only be browsing, searching for information or ready to make
+a purchase. Therefore, especially in the case of the first two actions, the website owner
+need to be able to; firstly, identify the action pattern of the visitor; and secondly, take
+responsive action in order to convert the intent of the visitor into a purchase action.
+
+The fact that different kind of design and colours impact the choices of customers
+browsing a web site is proved by for example Mandel and Johnson (1999).
+Furthermore, they go on to prove that which information that the customers are
+exposed to impacts their decisions. Häubl and Trifts (2000) also show this and that the
+customers purchase quality, i.e. their conversion rate, increases.
+
+Therefore the design and usability considerations are of utmost importance to a serious
+e-commerce vendor. As by prediction of the behaviour you are able to choose such
+design and in-site marketing choices that will result in the highest sales conversion
+rate, which will in the end influence your bottom-line in a positive way. Research also
+confirms the advantage that online retailers can get when predicting their customer's
+behaviour (Andersen et al. 2000; Bucklin et al. 2002).
+
+Häubl and Trifts (2000) conclude that aids should be available for helping the
+customer choose the right products. These aids should in theory be able to perfectly
+suggest which product the visitor wants to buy.
+
+
+3.4. Literature Synthesis
+
+It is essential to be able to predict behaviour in order to optimize marketing material.
+Additionally, in-site product advertisements or even discounts presented to some type
+of users in order to encourage a buy.
+ 
+In this study the case material only consists of registered users. That means that the
+visitors have already trusted the e-commerce site to some degree. To further measure
+the trust the non-obligatory variables age and gender could be used.
+
+The visitors stemming from direct traffic should be more goal-oriented. (Park 2009)
+ 
+4      EMPIRICAL FINDINGS
+
+This chapter focuses on presentation and analysis of the collected case data within the
+context of the research question. The chapter concludes in a discussion of the findings.
+
+
+4.1.   Presentation of the Data Set
+
+The main data set and focus of this empirical analysis contains details of visitors who
+completed the registration process of the e-commerce site. Both those who registered
+as a guest and as a permanent user are included. The main difference and focus of
+attention is whether the payment process was successfully completed. See Table 2 for
+the complete descriptive statistical overview of the data set.
+
+The most novel characteristic in the main data set is the independent variable
+nearestdist. This variable measures the distance from the visitor to the nearest
+shopping centre. The location of a shopping centre has been approximated in this study
+to the location of a Hennes & Mauritz store (2012), since the fact is that they are very
+well represented in all larger locations in Finland.
+
+The other characteristics can be observed in Table 1.
+
+[Table]
+
+
+The plan is to use isorder as the dependent variable for the statistical analysis. As the
+variable is a dummy, the model chosen for estimating it is logistic regression (also
+called logit model).
+
+
+4.2. Preliminary Results
+                                                        [Table]
+
+
+The preliminary analysis with the logit model shows that the AUC criterion holds, as it
+is larger than the null-model benchmark of 0.5. The area under ROC curve is 0.6986
+for 554 observations.
+
+
+[Figure]
+
+[Table]
+
+The current preliminary results seem good for further investigation and validation of
+the statistical methods and results.
+                                 
+
+
+
+4.3. Demographics of Buyers and Non-payers
+
+
+4.4. Prediction of Behaviour
+
+
+4.5. Discussion
+                                          
+
+5      CONCLUSIONS
+
+This chapter is still under consideration in this version of the paper draft.
+
+
+5.1.   Results
+
+The most novel theoretical and empirical contribution of this paper is the usage of the
+distance to the nearest shopping centre for profiling the demographics and behaviour
+of the e-commerce visitor.
+
+
+5.2. Value for the Case Company
+
+This research paper confirms the feelings for the customer demographics that the case
+company had.
+
+The paper will act as a starting point for site optimization with regards to buying
+behaviour analysis. The case company should include the implementations of the
+findings in this research paper for the marketing and e-commerce platform design.
+
+This paper also shows that there is a need for the case company to also start logging the
+clickstream of the website visitors in such a way that the data can be analyzed on-the-
+flow by the e-commerce application in order to take more dynamic stance for what to
+show to the visitor (Andersen et al. 2000).
+
+
+
+5.3. Further Research
+
+There might be more variables that could be considered for inclusion in the empirical
+analysis that would bring more light into the case. For example the past buying
+behaviour of the visitors should be taken into account.
+
+When the clickstream data has been gathered, it should be combined with all
+characteristics identified in this report and then analyzed on the basis of how well
+different buying aids are able to influence the decisions of the visitors. This would
+further increase the value of the work done for this report.
+                                          

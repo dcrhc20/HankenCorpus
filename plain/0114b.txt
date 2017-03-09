@@ -1,0 +1,88 @@
+DILUTION OF TRADEMARKS IN THE US AND EU
+
+1 Introduction
+Companies, big or small, are fiercely protecting their intellectual property, such as patents, trademarks, copyrights as well as designs. In the case of trademarks, the traditional purpose is to prevent others from using a certain trademark in order to ensure that no likelihood of confusion will occur in the eyes of the consumers about the origin of the product.  The Nice Agreement concerning the international classification of goods and services for the purpose of the registration of marks eases the process of identifying whether an infringement has taken place as trademarks must be appointed under a class or classes in order to define the scope of protection.
+However, regardless of the registration classes, a well-known trademark can be affected in a negative manner if a similar or identical mark is used in relation to a different type of product or service. A US trade mark lawyer, Frank Schechter identified the concept of trademark dilution in 1927 and stated that at the time the US trademark law protection reached only to the concept of consumer confusion. As the limitation in the protection posed problems especially for well-known, “famous” marks, Schechter continued stating: “ ’If ‘Kodak’ may be used for bath tubs and cakes, ‘Mazda’ for cameras and shoes, or ‘Ritz-Carlton’ for coffee, these marks must inevitably be lost in the commonplace words of the language, despite the originality and ingenuity in their contrivance’ “. 
+The US law defines trademark dilution as use of a trademark that is “widely recognized by the general consuming public” and the use of that trademark “impairs the distinctiveness” or “harms the reputation of the famous mark”.
+Landes and Posner state that even though the association between a product protected by a trademark and a product produced by another producer would be neutral, “there is a cost to the owner of the trademark” as the distinctiveness of the trademark would be reduced.
+Until 1995 when the US congress passed the Federal Trademark Dilution Act (FTDA), there were no federal laws addressing this problem. Since then, several courts have reached various interpretations regarding issues such as what constitutes a well-known or a famous mark, does the FTDA apply to marks that have acquired trademark protection through use, and how to prove the dilution of a mark. In 2006, the Trademark Dilution Revision Act (TDRA) was passed. The aim was to address the issues that arouse from the FTDA. Furthermore, the revision was highly needed as the Supreme Court gave a decision in the case Moseley v. V Secret Catalogue, Inc, where the court held that the FTDA “unambiguously requires proof of actual dilution, rather than a likelihood of dilution”.
+The First Council Directive 89/104/EEC of 21 December 1988 to approximate the laws of the Member States relating to trade marks gives no actual guidance in terms of trademark dilution. The European Court of Justice (ECJ) has given interpretations in relation to dilution of trademarks; however, the interpretation of dilution still is under scrutiny. 
+This paper focuses on examination of the US and EU laws regarding trademarks as well as case law, aiming to establish reasonable requirements and proof in regards to trademark dilution. Furthermore, this paper aims to examine and discuss the interpretation of the aforementioned laws as well as answer whether there are major differences in the US and EU interpretation of trademark dilution. 
+
+2 Research questions
+1. How is dilution of trademarks interpreted under the US trademark law?
+2. How is dilution of trademarks interpreted under the EU trademark law?
+3. What are the main differences between the US and EU regarding the interpretation?
+4. Main problems regarding the question of dilution of trademarks?
+
+3 Methodology
+Description of the method used I n this research.
+
+4 US legislation
+Introduction of the US Trademark Dilution Act 1995 and US Trademark Dilution Revision Act 2006, few sentences about both of them, why was the revision act needed and the main amendments to the 1995 act.
+
+4.1 Title 15, Chapter 22 of the United States Code
+The United States code is a compilation of the federal laws enforced. Title 15 of the code refers to commerce and trade. Chapter 22, subchapter 3 provides general provisions for trademark law in the US. Section 1125 (c) of that subchapter forbids trademark dilution by blurring and dilution by tarnishment.  The law provides the proprietor of a famous mark an injunction against anyone who exploits a famous mark in course of trade, regardless of the possible likelihood of confusion or economic damage cause by the use.
+
+A trademark is considered to be famous “…if it is widely recognized by the general consuming public of the United States as a designation of source of the goods or services of the mark’s owner”. In order to determine, whether a trademark meets the required factors in order to be considered famous in the meaning of section 1125 (c) (1), “…court may consider all relevant factors, including the following:
+
+(i) The duration, extent, and geographic reach of advertising and publicity of the mark, whether advertised or publicized by the owner or third parties. 
+(ii) The amount, volume, and geographic extent of sales of goods or services offered under the mark. 
+(iii) The extent of actual recognition of the mark. 
+(iv) Whether the mark was registered under the Act of March 3, 1881, or the Act of February 20, 1905, or on the principal register. 
+
+A dilution by blurring refers to the “…association arising from the similarity between a mark and a famous mark that impairs the distinctiveness of the famous mark”, whereas a dilution by tarnishment refers to the “…association arising from the similarity between a mark and a famous mark that harms the reputation of the famous mark”. In order to determine whether a mark “…is likely to cause dilution by blurring, the court may consider all relevant factors, including the following:
+
+(i) The degree of similarity between the mark or trade name and the famous mark. 
+(ii) The degree of inherent or acquired distinctiveness of the famous mark. 
+(iii) The extent to which the owner of the famous mark is engaging in substantially exclusive use of the mark. 
+(iv) The degree of recognition of the famous mark. 
+(v) Whether the user of the mark or trade name intended to create an association with the famous mark. 
+(vi) Any actual association between the mark or trade name and the famous mark. 
+
+In regard to dilution by tarnishment, the law does not define factors that the court may take into account in determining whether a mark is likely to cause harm to the reputation of a famous mark.
+
+The law provides certain “safe harbor” exemptions to these rights. Any fair use, such as advertising or promotion in relation to consumer goods or service comparison and identifying, parodying, criticizing or commenting neither, the owner of a famous mark nor the goods or services in connection with the famous mark is not actionable as dilution by blurring or dilution by tarnishment under the US law. Further, news reporting and commenting as well as noncommercial use are not in the scope of protection for famous marks. 
+
+
+4.2 US case law
+Overview of US case law, how courts have interpreted the law
+
+
+Cases to be examined:
+Moseley v. V Secret Catalogue, Inc
+Star Markets, Ltd. v. Texaco, Inc.
+Groupo Gigante S.A. v. Dallo & Co., Inc.
+Times Mirror Magazines, Inc. v. Las Vegas Sports News, L.L.C.
+And more…
+5 EU legislation
+5.1 First Council Directive of 21 December 1988 to approximate the laws of the Member States relating to trade marks (89/104/EEC)
+As the member states of the European Union have the obligation to harmonize the EU trademark directive 89/104/EEC into their national legislation, this research does not look into the national laws of the Member States for additions regarding trademark law.
+As stated before, the EU Directive does not define trademark dilution in the same manner as the US law does, nor does it discuss the protection of trademarks acquired through use.
+Article 5 (2) of the Directive states the following:
+“Any Member State may also provide that the proprietor shall be entitled to prevent all third parties not having his consent from using in the course of trade any sign which is identical with, or similar to, the trade mark in relation to goods or services which are not similar to those for which the trade mark is registered, where the latter has a reputation in the Member State and where use of that sign without due cause takes unfair advantage of, or is detrimental to, the distinctive character or the repute of the trade mark.”
+
+Article 5 (5) provides the Member States the right to regulate provisions relating to the use of a sign, other than for the purpose of distinguishing the origin, which takes unfair advantage of, or is detrimental to, the distinctiveness or the reputation of a trademark. 
+
+5.2 EU case law
+Overview of EU case law, how courts have interpreted the law in a dilution case
+Cases to be examined:
+Case C-408/01, Adidas-Salomon AG, Adidas Benelux BV vs. Fitnessworld Trading Ltd
+General Motors Corp. v. Yplon S.A.
+Sabel BV v. Puma AG
+Canon Kabushiki Kaisha v. Metro-Goldwyn-Mayer, Inc
+Davidoff & Cie SA v. Gofkid
+And more…
+6 Main differences between US and EU
+Comparative analysis based on the examination of the laws and cases
+
+
+7 Problems concerning trademark dilution
+Issues that make dilution such a difficult area
+
+
+8 Discussion
+
+
+9 Conclusion
+

@@ -1,0 +1,688 @@
+Goals 
+
+
+1. Introduction
+1.1 Research topic
+      Having started in humble beginnings, project management has become a
+management discipline, which in today's professional world is in many ways of central
+significance. According to a statistic published by the Project Management Institute in
+2001, roughly one fourth of the world GNP is produced in project-like ventures
+(Schwalbe 2006:2). According to another statistic projects in SME's alone make up
+approximately one fifth of the European Union's GDP (Turner, Ledwith & Kelly
+2009:744).
+
+      Owing to its origin as a practitioner-driven management discipline (Citation:
+multiple), the foundations of project management are not built of theories, but are in
+stead largely based on the codification of experienced best practices (Citation: Lenfle &
+Koch). Nevertheless, during the last three decades, project management has received a
+lot of attention from academia as well as from management gurus. This development
+has to be seen as positive as well as deserved. Simultaneously, the practical discipline
+has seen some consolidation in the sense that many major practical actors have gone on
+to create frameworks, which can be described as standards, to homogenize the
+practicing of project management.
+
+      However, the academic research into project management seems to largely
+disregard investigating the one element in projects, which is no less than the very reason
+for the projects' existence: the setting of project goals.
+
+      A project's goal is of an immense significance to any project - not only does the
+goal rationalize the very existence of the project ­ there are numerous studies, which
+largely attribute a project's success or failure to the project goals. To name a few,
+Nelson, in his study of 10 infamous project failures in IT-projects names "bad goals"
+and related reasons as the culprit to project failure in the majority of cases (Nelson
+2007:67-76). Similarly there are claims that project goals constitute the foundation of
+any project, and that it is of immense importance that these goals are set well (Williams
+& Samset 2010:39-43; Frame 1995:21-22). Paradoxically, most comprehensive works
+on project management disregard the process of project goal setting almost entirely.
+                                                       
+
+          Thus the question remains: how are project goals set?
+
+          The purpose of this paper is thus to attempt to offer project management
+researchers and practitioners alike a usable framework for evaluating and understanding
+project management goal setting.
+
+          We will thus begin with exploring in detail, what the discipline of project
+management and has to offer us on the process of project goal setting. This description
+offered by the project management discipline will thereafter be contrasted with some
+well-established relevant theories from within the generic management literature
+(especially regarding decision making and behavior in organizations). Thereafter the
+author aims at creating a synthesis.
+
+1.2 Methodology and limitations
+          This paper views project goals as a result of human decision making ­ not as
+something which fell from the sky. Thus it also implies, that there is a considerable
+freedom in selecting, which goals a project shall meet.
+
+          As such we turn to Simon, who in his widely cited text states, that a decision
+process in its simplest form contains three steps, which usually happen in the order of:
+1) searching for situations necessitating decision-making; 2) identifying or creating
+alternative solutions and 3) choice of the best alternative solution. Simon further notes
+that, although decision-making usually encompasses these three steps, every single step
+can also contain an entire decision-making process of its own (the formulation of an
+alternative solution can be seen as a decision-making process), and that later steps can
+create the necessity to "take a step back" and search for new information. (Simon
+1977:40­44)
+
+          Using Simon's model as starting point, we divide the goal-setting process in
+projects into two stages: collation of alternative goals and choice of which goals to
+pursue. Thus we need to study the goal setting process in projects from two different
+dimensions:
+
+          The first dimension is the contextual dimension, which largely corresponds to
+steps one and two of Simon's model (intelligence and design). The contextual
+dimension encompasses the subjective need for a project (objectives for the project) and
+the different parties' expectations for the project.
+
+          The second dimension is the decision-making dimension, which corresponds to
+Simon's third step (choice). Thus the decision-making dimension concerns itself with
+the selection of the project goals among those alternative solutions mapped out in the
+contextual dimension.
+
+          Both these dimensions will be summarized based on project management
+literature (although project management literature says very little about the decision-
+making dimension). Further, theories about decision-making in general will be
+summarized based on literature on decision-making and organizational behavior in
+general.
+
+          Thus the paper's main content could be described as an attempt at
+interdisciplinary synthesis between the fields and literatures of project management and
+those of organizational behavior. Due to the interdisciplinary nature of the paper some
+strategic decisions have to be made.
+
+          Firstly, the paper aims to cover the topic on a level, which is as abstract and non-
+specific as possible. Secondly, to be able to cover 'the state of project management
+thought', the project management literature will be used as widely as possible. Thus this
+paper will not limit itself to scientific papers, but will also use practitioners' guides as
+reference.
+
+          Owing to a it's significance as basis of project management certification "The
+Project Management Body of Knowledge (PMBOK) Guide" is the discipline's de-facto
+­standard and can thus not be disregarded.
+
+1.3 Definitions
+          As the project management discipline is not fully consistent in its use of
+terminology and as this paper takes an interdisciplinary approach, some terms used will
+be defined and explained.
+
+          Further, as this paper aims to be as non-specific as possible, the author intends to
+make no difference between different types of organizations. All organizations, whether
+private companies, public institutions or of some other type, will be referred to as
+organizations existing in an environment.
+
+          Likewise, this paper does not differentiate between internal projects (in which the
+project owner and the project team belong to the same legal unit), external projects (in
+which the owner belongs to one unit and the team to another) or network projects (in
+which the owner(s) and team(s) may belong to several units).
+
+          There is no consensus on the exact definition of a project. Within this paper, a
+project is defined as "A unique venture having specific goals, which by nature is
+temporary and utilizes different types of resources with the aim to produce a result. A
+project creates an own organization within its parent organization(s)."
+
+          The term project management is seen as encompassing both elements project
+leadership and project administration. The project organization is used to describe the
+form of organization within projects and in contrast to the process organization. The
+project organization shall not be mixed up with the term projectile organization, which
+in turn refers to a parent organization organized around projects.
+
+          In contrast with the project, the venture striving for unique results, and the project
+organization, the sub organization created to suit the project, the organization's process
+is defined as the organization's repeating tasks and the process organization (without
+regard to what specialization criteria is used as orientation) as the organization created
+to support those.
+
+          The project owner is that part of the process organization, which functions as
+client to the project. The project owner is interpreted as a group of individuals and thus
+as an organization.
+
+          Project goals and goals for projects will be categorized as follows. There is a clear
+differentiation between a project's goals ­ the metrics the project shall fulfill and a
+project's objectives ­ what is expected of the project. Further it shall be noted that
+individuals and groups can have their own expectations for a project.
+
+          Within the realm of this paper, the term party or parties are used to denote groups
+of individuals who have a specific interest regarding an issue. Depending on the
+situation, a party can either be the entire organization, a subunit of an organization (e.g.
+the accounting department) or a group of people holding a common view on the issue.
+In some situations an organization may also be a party. Within this paper, the use of
+party is used to emphasize the perceived significance of the relevant party's specific
+interests. A single-person party is defined as a player.
+
+        As the term 'professional' could be seen as referring to persons having project
+management certificates, the paper will coin people who work as project manager's
+practitioners.
+
+1.4 Description of contents
+        This chapter will describe the structure of the paper.
+
+
+2. Project goal setting
+        Introduction and description of chapter 2.
+
+        In this paper's description of project goal setting we will utilize Simon's
+definition of goals (in organizations): "By goals we shall mean value premises that can
+serve as inputs to decisions." (Simon 1964:3). In the context of this paper, the
+definition implies that any definition or specification, which is intended to steer
+individual decision making and an individual's subsequent action towards a wished-for
+end-result constitutes a goal.
+
+2.1 The importance of the contextual dimension
+        The importance of the early stages in projects has been well known for some time
+(Miller & Hobbs 2005:43). Nevertheless, the discipline's advance in these early stages
+has been significantly slower than it has been concerning the implementation phase
+(Williams & Samset 2010:39).
+
+        In the following paragraphs this paper aims to present the project management
+literature's view on project goals and their origins. To be able to describe this complex
+topic, this paper divides the topic into four subtopics. Firstly we will explore basic
+questions such as the amount of goals as well as inter-goal relations. Secondly we will
+delve into the effect the properties of goals have for a project. Thirdly we will describe
+where goals come from, and how they come into existence. Finally, as neither projects
+nor their goals exist in isolation, we will study the project selection process in view of
+how it might affect project goals.
+
+2.1.1 One goal? Several goals?
+       That projects are oriented towards goals is beyond doubt (Frame 1995:2;
+Choudhury 1988:3; Harrison 1981:1). Therefore we would like to be able to assume,
+that the literature would be in agreement over such elementary questions as how many
+goals projects have or how these goals relate to each other. Sadly this assumption would
+be quite erroneous.
+
+       The simplest way to describe a projects goals is to define the project as a venture
+aimed to fulfilling specific qualitative goals, in a way that the projects costs do not
+exceed a given limit while also finishing the project before a given deadline. This
+simple model is called the triple constraint (Berggren 2001:16­17) and can in this paper
+be described as a relation between use of time, the use of money and the fulfillment of
+the qualitative goals.
+
+
+
+
+       [Figure]
+
+       The triple constraint, similarly as a significant part of the literature, builds on the
+hypothesis that projects are started to fulfill specific qualitative goals, and that the
+quantitative goals ­ cost and time use ­ are calculated based on what reaching the
+qualitative goals can be assumed to necessitate. This model practically implies, that the
+qualitative goals are decisive, and that the kvantitative goals are derived from the
+qualitative goals. Therefore, the literature often describes the qualitative goals as actual
+or proper goals, and calls the kvantitative goals "limitations". Although this view has
+it's critics it nevertheless represents the mainstream of the literature and vill thus be
+used as basis in this paper. Therefore the focus of this paper will also be on studying the
+goal setting process of the qualitative goals (henceforth "goals" will point to qualitative
+goals and "limitations" to quantitative goals) and will disregard the limitations.
+
+       Some authors state that a project may only have one goal (Wysocki & McGary
+2003:5), whereas others state that projects can have several goals, but must have at least
+one goal (Futrell, Shafer & Shafer 2002:226), or further, that projects usually have
+several (two to five) main goals and a multitude of detail-level goals (Andersen et al.
+2004:42). As the view that project may have more than one goal is espoused by most
+writers, this paper will continue based on that assumption.
+
+       That projects may have several goals brings up an important question: how do the
+different goals relate to each other? To exemplify the problem we can utilize the
+example given by Futrell et al.: that the organization aims to (besides reaching the
+project's functional goals) use the project as a vehicle for developing its personnel and
+as a reference (Futrell et al. 2002:227). This example is suitable in that it point out that
+attainment of one goal can be dependent upon the attainment of another goal (if the
+functional goals are not attained, the project won't be usable as reference) and that they
+likewise be independent of each other (the personnel can be developed even although
+the project would not reach its functional goals).
+
+       Andersen et al. state that project goals should be structured in complete
+hierarchies, meaning that higher-level, abstract goals should be divided up into the more
+tangible goals, which are necessary to attain to be able to fulfill the higher-level goals
+(Andersen et al. 2004:38­48).
+
+       The hierarchical goal structures presented by Andersen et al. can be described as:
+     The project's purpose, which necessitates the fulfillment of
+       Project's 1st (main) goal is attained, which necessitates the fulfillment of
+             Goal a#
+             Goal b#
+       Project's 2nd (main)goal is attained, which necessitates the fulfillment of
+            Goal c#
+            and so on 
+       
+
+[Figure]
+
+
+       Furthermore, it needs to be stated, that all projects always concern more than one
+party, even when the project is internal ­ the project owner (client) and the project
+performers (project team). The relation between parties can be seen as being in
+ceaseless conflict: The project owner wants to maximize his goal-attainment, as quickly
+and cheaply as possible. The project team's wishes would be practically the opposite.
+(Turner 1993:52­54)
+
+       As Simon states, in situations like these one party's limitation may be the other
+party's goal (Simon 1964:8). The delimitation between goals and limitations is thus first
+and foremost a question of perspective (Simon 1964:20), because the whole can also be
+seen as a set of limitations, and if no solution can be found that satisfies all limitations
+(or conversely, all goals) then the project will not be begun (Simon 1964:8­9).
+
+       In any case, we are forced to concede that the different parties partaking in a
+project will have differing wishes and expectations for the projects. Further we can
+extrapolate that as the number of parties partaking in a project increase, the amount of
+expectations for the project will probably increase as well.
+
+2.1.2 The significance of project goals
+       A project's lifecycle is usually described through partitioning the project in
+different phases or stages, based on the idealized chronological procession. The de-facto
+­standard, the PBMOK-guide defines these phases as 1) starting the project, 2) planning
+and organizing, 3) carrying out the project work and 4) closing the project (PMI
+2008:15­22).
+
+       In contrast, Schultz, Slevin and Pinto describe projects as a whole composed of a
+strategic phase ­ decision making on project goals and planning on how these shall be
+reached ­ and a tactical phase - beskriver projekt som en helhet som har en strategisk
+del ­ beslutsfattandet om målsättningar och planeringen om hur de ska uppnås ­ och en
+taktisk del ­ implementing the strategy (Schultz et al. 1987:34­35).
+
+       This partitioning proposed by the PMBOK-guide is unsuitable for a study of
+project goal setting, as it is obscure regarding how the goal-setting process is divided
+between the first two phases. On the other hand, the more coarse division proposed by
+Schultz et al. does not suffer this handicap, and will thus constitute the basis for the next
+chapters.
+
+          Besides the decisions made regarding the project goals necessarily constituting
+the basis of the entire project, they are of critical importance also as they are made at a
+very early stage and thus have a long time to influence the project (Williams & Samset
+2010:39).
+
+          The discussion of the properties of project goals can be divided into two
+categories. On one hand there is a discussion on what kind of goals have a string
+influence. On the other hand there is a discussion on what kind of goals led to the
+desired results. The discussion could thus be described as a division into separate
+discussions on good goals (effective goals) on one hand and right goals (efficient goals)
+on the other. (Williams & Samset 2010:43)
+
+          For linguistic convenience, I will describe the dichotomy as being between
+"effective goals" and "right goals".
+
+          As the question of which goals are "right" is strongly situation dependent (i.e. the
+right goals depend on the purpose of the project), it is impossible to generalize specific
+right goals. Thus the question of right goals will be saved for the next chapter. In
+contrast, the discussion on effective goals will be attacked right away.
+
+          Goals shall be clear (clarity). This conclusion is cited in a large number of
+sources and take different forms. According to some sources, goals must be specific,
+measureable and not too complex (Kerzner 2009:296), measureable and monitor able
+(Krishna 2006:60­61), well communicated, understood and generally accepted (Hong,
+Nahm & Doll 2004:1274­1275) and that teams shall be provided with simple,
+unequivocal directions (McComb & Green 1999:11). Furthermore Turner and Cochrane
+use the clarity of goals (whether they are clear or not) as one of two criteria to classify
+project risk categories (Turner & Cochrane 1993:93­95).
+
+        In an empirical study on what competencies project managers need in different
+project stages Skulmoski and Hartman note that the project's strategic phase
+necessitate above all communication competencies and the ability to articulate complex
+situations in an understandable manner (Skulmoski & Hartman 2010:64­66).
+
+        Again, these definitions point to a dichotomy, in which some authors emphasize
+the importance of communication (which I will call the communication-school) to reach
+clarity, whereas others see clarity as something, which is primarily reached through
+goals being quantifiable and measureable (which I will call the quantification-school).
+
+        The quantification-school is further supported by the S.M.A.R.T ­method,
+which states that goals must be specific, measureable, attainable, relevant and tangible
+(Kerzner 2009: 296).
+
+        In contrast to the quantification-school, some authors even point to the existence
+of hidden goals (Frame 1995:49; Turner 1993:55­56; Nash, Plugge & Eurelings 2000:1;
+Kotsalo-Mustonen 1996:49­50). Turner further notes about hidden goals, that they can
+either support or counteract the overt goals, and also gives some examples of hidden
+goals, e.g. that a project should lead to enabling layoffs (Turner 1993:55). Although
+Frame and Nash neither state how or why goals should become or be kept hidden,
+Saravirta offers one possible explanation (using Nonaka's and Takeuchi's terminology),
+that goals which can be articulated are either explicit (if they have been articulated) or
+implicit (if they have not yet been articulated), whereas goals which can not be
+articulated stay tacit (hidden)(Saravirta 2001:54­55). Kotsalo-Mustonen further states
+that organizations as well as players can have tacit goals, and that in organizations these
+tacit goals usually relate to organizational tradition and culture, whereas players' tacit
+goal usually exist to serve the individual's personal valuations and ambitions (Kotsalo-
+Mustonen 1996:49­50).
+
+        In summary, there seems to be two different ways to look at how to make goals
+effective. The difference can be described as the striving for creating and publicizing
+quantifiable goals, which need not be actively communicated on one hand, while on the
+other hand emphasis is placed on more qualitative goals and the project manager's
+capacity and willingness to communicate these to the team. As hidden goals can neither
+be quantified, nor communicated, neither school can explain the existence of these.
+
+2.2 The setting of right goals
+       Introduction
+
+       Goals are important. Different goals lead to different projects (Abdel-Hamid,
+Sengupta & Swett 1999:546­547). Choosing the right goals is of immense importance
+(Williams & Samset 2010:38­39).
+
+       Right goals are not something general. The "rightness" of goals depend how well
+the project goals match the expectations of central actors.
+
+2.2.1 Who have expectations of a project
+       Starting with central parties (owner and team), going on to project manager
+(Krishna 2006:60, PMI 2008:73; Andersen et al. 2004:48­51; Turner 1993:427; PMI
+2008:73­77)
+
+       Continuing to stakeholders ... (Turner 1993:54­55; PMI 2008:23­26; Turner
+1993:54; Englund 2006:353­355; Sahlin-Andersson 1986:156­158; Cleland 1994:140­
+142)
+
+       Going to players (Frame 1995:48­49; Kirby 1996:211).
+
+       Strategy as "player" in goals (Artto et al 2006:17; PMI 2008:10­11; Turner
+1993:18, 37­43; Cleland 1994:81­82; Schwalbe 2006:32­33; Wysocki & McGary
+2003:357­358; Artto & Wikström 2005:349­350; Artto et al. 2006:373).
+
+       PSO-view (Andersen et al. 2004:1­7, 37­48; Turner 1993:52­56, 63­66)
+
+       Top management (PMI 2008:24,73) and sponsors (Artto et. al 2006:42; Kerzner
+2009:19; Kerzner 2009:393; Miller & Hobbs 2005:45; Meredith & Mantel 2010:117).
+
+       Link to next.
+
+2.2.2 Project selection
+       Introductory paragraph (relevancy).
+
+       Economic feasibility (Schwalbe 2006:37­43) and strategic fit (Artto et al.
+2006:371­372) are some simple metrics. Further complex models of analysis can be
+utilized (Cleland 1994:86­88; Schwalbe 2006:43­45), even a balanced scorecard can be
+used (Schwalbe 2006:45). There are weaknesses: interrelations can not be estimated and
+estimates are made based on highly tenuous information.
+
+     Sum of projects: strategic fit (Cleland 1994:81­85). Methods for increasing inter-
+organization and synergies (PMI 2008:9­10).
+
+     Summary of project selection's effect on project goals: Hurdle-clearing behavior
+(Williams & Samset 2010:43), effects of other projects on new project and competition
+for limited resources (Graham & Englund 1997:38­39).
+
+2.3 Summary of project goal setting
+     Introduction to recap of (2.1 ­ 2.2)
+
+     Recap of 2.1. Quite detailed.
+
+     Recap of 2.2. Quite detailed.
+
+     Summary of recaps.
+
+     Shining the light on the weak areas in project management literature.
+
+     Link to next.
+
+
+3. Information-processing and decision-making
+     Introduction, explanation of structure
+
+3.1 Models and perspectives on decision-making
+3.1.1 Simon's model of decision making
+     Detailed re-examination of Simon's model. (Simon 1977:40­44)
+
+3.1.2 Different perspectives on decision-making
+     What are decision-making perspectives, what is their relevance?
+
+     Quote some comparative studies (=> Björkman, => Allison
+     The rational choice -perspective
+     Description of rational choice ­perspective. (Björkman, others...).
+     The justification-perspective
+     Description of justification ­perspective. (Björkman, others...).
+                                                                          
+                        The political perspective
+                        Description of political perspective (Cyert & March 1963; March 1981; Pfeffer
+1981).
+                        The rule-based perspective
+                        Description of rule-based perspective (March 1981; Björkman 1987:10­12).
+                        Summary of perspectives
+                        Summary of perspectives with emphasis on information-processing.
+
+[Table]
+
+3.2 The decision-making dimension
+                        Recap and summary, who influence project goals
+
+                        Recap and summary, how are decisions on project goals made? We don't know.
+                                           
+
+
+
+
+     [Figure]
+
+
+
+
+      [Figure]
+
+      Expert judgment??? (PMI 2008:73­77).
+
+      The project literature does not take stance on decision-making perspectives.
+
+      Two different interpretations: either projects are always decided on objectively
+(rational choice) or this is a major lapse.
+
+      Next step: to be able to prove a lapse, I need to disprove the first interpretation.
+Link to next.
+
+3.3 The project goal setting process. Summary and hypothesis.
+      Rationalization of situation. Definition of hypothesis 1:
+   If political decision-making exists, this implies that there is more than one party to
+   the process, and that the parties are undecided on either what decision should be
+   made or how it should be made.
+      Rationalization and hypothesis 2:
+   If other perspectives exist in projects, there is no reason to believe they would not
+   impart on goal setting.
+
+4. Indices of decision-making ­perspectives in project
+   management literature
+      Introduction
+
+      Weight on political perspective (or focus solely on political perspective)
+     
+
+4.1 Rule-based decision-making
+     Introduction
+
+     Circumstantial evidence of rules in information-processing (Schwalbe 2006:73­
+77; Meredith & Mantel 2010:42­58, 70; Frame 2002:205­206).
+
+     Normative nature of practitioners' books, existence of a de-facto ­standard and
+certification system (Hodgson 2002:807; Lenfle & Koch 2010:43).
+
+     Academic interest in heuristic research (success/failure factors), tendency to use
+case studies and anecdotal evidence.
+
+4.2 Justification-based decision-making
+     Introduction
+
+     Hurdle-clearing behavior (Williams & Samoset 2010; Gilbreath 1986:35­36) and
+deliberate misestimating (Gilbreath 1986:156).
+
+4.3 Political decision-making
+     Introduction: Political behavior (Link to OB). Structure:
+
+     Is political behavior related to political-based decision-making?
+
+     Explanation of the concept of power.
+
+     Description of purpose.
+
+4.3.1 What is political behavior
+     Building a definition (Pfeffer 1981; Rollinson 2008:405).
+
+     Implications: Power and politics are related (Rollinson 2008:405). Instability
+breeds politics (Rollinson 2008:405; Pinto 1996; Englund 2006:356). Politics creates
+conflict but also helps solve disputes (Rollinson 2008:405).
+
+     Political decision-making and political behavior are related.
+
+     Cartwright says political behavior is human (Cartwright 2002:142) and politics
+can neither be deemed intrinsically negative or positive (Cavanagh, Moberg &
+Velasquez 1981:369­371).
+
+     Power constitutes a central part in understanding organizations (Cavanagh et al.
+1981:363). Politics can not be understood without power: Link to next.
+                                         
+4.3.2 Power in organizations
+      Power is influence (French & Raven 1959:61­71).
+
+      Two views: All use of power is political (Martin & Sims 1956:25­28), only
+unsanctioned use of power is political (Mayes & Allen 1977:674­677).
+
+4.3.3 Politik i projekt
+      Different views:
+
+      Project management in inextricably linked to politics, due to several factors (Pinto
+2000:85­86)
+
+      Politics is central to project management, and the fact that managers are ignorant
+of this, only makes it worse (Pinto & Kharbanda 1995:41).
+
+      Project managers need political competence to hold their own against all other
+parties, who are politically competent, and do not shy away from using their power
+(Pinto 1997:1­2)
+
+      Pinto's reasoning is believable, as it links to many of projects' special features
+(instability etc.)
+
+      Projects are rife with rampant politics. Because teams are temporary
+organizations, the risk of politic dispute within teams is accentuated. A Project manager
+must interest himself of every player and try to ascertain every player's expectations for
+the project, whether they are explicit or hidden. (Frame 2002:149­160)
+
+      Project managers and politicians are very alike, they don't have the power, but
+they influence (Frame 1995:47).
+
+      Empirical studies show, that politics in projects happen (Ewusi-Mensah &
+Przasnyski 1991:82).
+
+      Even sponsors need to be politically adept (Kloppenborg, Tesch, Manolis &
+Heitkamp 2006:17).
+
+      Politics in projects is unavoidable, and not wanting to take part bodes trouble.
+(PMI 2008:420).
+
+4.3.4 Politics in projects ­ good or bad
+      Introduction
+
+      Politics is perceived as negative (Pinto 2000:85; Englund 2006:451) but possibly
+it can not be avoided. But what stance should project managers take?
+
+      You can see it as unavoidable (Pinto 2000:85,86), and Project managers should
+thus learn to play the game (Pinto 2000:86; Pinto & Kharbanda 1995:42).
+
+      Or you can see politics as an integral (and neutral) aspect of project management,
+and project managers should see political ability just as any other relative skill (Frame
+2002:156­157; Englund 2006:349).
+
+      My opinion is irrelevant
+
+4.4 Summary of decision-making perspectives in project management
+      Summary of findings.
+
+      Summary: Politics exist.
+
+      And given the nature of projects it should surprise no-one.
+
+      To reflect on the hypotheses:
+
+      Hypothesis 1:
+   If political decision-making exists, this implies that there is more than one party to
+   the process, and that the parties are undecided on either what decision should be
+   made or how it should be made.
+      Hypothesis 2:
+   If other perspectives exist in projects, there is no reason to believe they would not
+   impart on goal setting.
+      On H1: Political decision-making exists, we can assume the crowd is divided
+
+      On H2: Different perspectives exist. We must thus assume even goal-setting
+decisions may be politicized.
+
+
+5. Summary and conclusions
+5.1 Summary
+      Introduction: Purpose
+
+5.1.1 The contextual dimension in project literature
+      Reflection on Chapter 2
+                                        
+5.1.2 The decision-making dimension in project literature
+     Reflection on the things lacking in PM literature: Decisions are not made, they
+come automatically. There is never a human choice to be made ­ appraisal, calculation
+and expert judgment know no alternatives.
+
+     On the other hand, the field of organizational behavior gives a totally different,
+and very nuanced picture.
+
+5.1.3 Synthesis of dimensions
+     Contextual dimension from project literature: exists
+
+     Decision-making dimension from project literature: does not exists
+
+     No synthesis possible!
+
+     Synthesizing contextual dimension from project literature with decision-making
+views from organizational behavior leads to "Buttler's model" (linguistic convenience):
+
+
+
+
+     [Figure]
+
+     Explication of Buttler's model.
+
+     Implication of Buttler's model
+
+     Advantages of Buttler's model over view espoused by PM literature:
+
+     1 Understanding how goals are set
+
+     2 Usable for analysis
+
+     3 Gives framework for analyzing hidden goals.
+                                      
+5.2 Conclusions and implications
+      Introduction: practical  research
+
+5.2.1 Implications for practitioners
+      PM role in goal-setting (Lenfle & Koch 2010:48).
+
+      PM merely a implementer? (Cicmil & Hodgson 2006:111)
+
+      Relevant information for bosses in process organization as well as for project
+managers.
+
+      Too few competent and experienced PM's available as business grows (Pinto &
+Kharbanda 1995:41). The accidental profession (Frame 1995:xii). New PM is typically
+a former specialist (Meredith & Mantel 2010:109). Summary.
+
+      Projects are characterized by change (Choudhury 1988:3; Meredith & Mantel
+2010:501; m.fl.), thus PM's should be able to handle change.
+
+      Consternation. Disbelief.
+
+      Summary of implications.
+
+5.2.2 Implications for research
+      The project management discipline has had to face a tough set of challenges:
+especially getting it done on the first attempt.
+
+      The discipline has focused on building the project manager's toolbox. (Lenfle &
+Koch 2010:42­43). This is no minor deed.
+
+      But the discipline has lost it's roots ­ the goals.
+
+      It's dangerous to know the tools, without knowing why to use them (Meredith &
+Mantel 2010:35). Still, this seems to be exactly what the mainstream aims at.(Lenfle &
+Koch 2010:32)
+
+      Further the mechanistic worldview of ventral actors in the mainstream has done
+nothing to help. Unwillingness to see human individuals as central actors has led into a
+quagmire.
+
+      Conclusion: Disregarding non-objective decision-making models, while
+attempting to distance the project professional from fundamental decision-making has
+led to a view, which could have been defensible in ancient Egypt ­ while using slave
+labor to build the pyramids ­ but in today's world, where PM is spreading to ever new
+fields, it is not compatible with reality.
+                                       

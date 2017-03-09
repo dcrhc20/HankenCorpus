@@ -1,0 +1,48 @@
+Stock Valuation: Outokumpu Oyj
+1 Introduction
+The theme of this paper is company valuation.  As the term states, the aim of a company valuation is to estimate the value of a company or business. A valuation can support financially sound decision-making. Valuation is involved in nearly every business decision either explicitly or implicitly (Palepu, Healy, Bernard, & Peek, 2007:293). Valuation is of significance in acquisitions, investments decisions, restructurings, taxation, and in managing the value of companies and in estimating collaterals (Koller, Goedhart, & Wessels, 2005:4; Leppiniemi & Leppiniemi, 2006:310). 
+This paper will adopt the equity investor’s point of view. In an equity security analysis a firm and its prospects are evaluated from the perspective of a current or potential stockholder (Palepu et al., 2007:373). Security analysis is only one step in an investment process (Palepu et al., 2007:373). The investment process involves combining securities into portfolios in accordance with investment objectives. 
+A typical goal for equity security analysis is to find mispriced securities that would more than compensate the investor for risk (Palepu et al., 2007:373). Thus, the goal is to find shares whose value is greater than the price, or, whose net present value (NPV) is greater than zero. “Finance theory holds that the value of any financial claim is simply the present value of the cash payoffs that its claimholders receive” (Palepu et al., 2007:294). Congruent with that, the value of a stock is the expected cash flow that an investor will receive from owing the stock discounted with the appropriate cost of capital (Berk & DeMarzo, 2007:245). The price of a stock is the market price at which investors buy or sell a share at a given time. 
+The efficient market hypothesis suggests that shares are fairly priced (Berk & DeMarzo, 2007:268). If the hypothesis held, it would be impossible to find mispriced securities given public information only. In practice, mispricing does occur which generates exploiting opportunities (Koller et al., 2005:99) and is an incentive to equity security analysis. But mostly, stock markets reflect economic fundamentals (Koller et al., 2005:98), and, the market price of a publicly traded share provides accurate information regarding the true value of the share (Berk & DeMarzo, 2007:267). 
+Different valuation techniques have been presented (Berk & DeMarzo, 2007:245; Koller et al., 2005; Palepu et al., 2007). However, no single valuation technique provides the true share value (Berk & DeMarzo, 2007:265). That is due to the impossibility of forecasting the future and the uncertain assumptions made in the valuation techniques (Berk & DeMarzo, 2007:265). The favourite method of many practitioners and academics is the enterprise discounted cash flow method (Koller et al., 2005:103). In practice, the majority use a combination of approaches (Berk & DeMarzo, 2007:265). 
+The approach of this paper is to describe how a stock valuation with enterprise discounted cash flow method is conducted and to evaluate whether Outokumpu Oyj’s stock is mispriced. The valuation was originally conducted to a course of company valuation. Accordingly, a majority of the choices arise from the company valuation assignment or from the course literature in the company valuation course (Koller et al., 2005). The valuation is based on public information. 
+The structure of this paper is as follows: After introducing the company and the valuation process, financial statement accounts are reorganized. Historical free cash flow and key ratios are calculated. Thereafter, Outukumpu’s future performance is forecasted and the weighted average cost of capital is estimated. Finally, the value of the share is calculated, sensitivity analysis is performed and the results are discussed.
+2 Introduction of Outokumpu Oyj
+Outokumpu is one of the largest stainless steel producers in the world. Over 90 per cent of its turnover comes from stainless steel products. Outokumpu’s turnover was 2 611 million euro in 2009, market capitalization is about 2 673 million euro and Outokumpu employs approximately 7 600 persons in more than 30 countries. Return on equity was -13 per cent in 2009. Outokumpu is listed on the NASDAQ OMX Helsinki. (Outokumpu, 2010)
+Outokumpu is a cyclical company due to its industry (Koller et al., 2005:671). It signifies that Outokumpu’s “earnings demonstrate a recurrent pattern of significant increases and decreases” (Koller et al., 2005:671). As stock markets have difficulties in valuing cyclical companies (Koller et al., 2005:678), Outokumpu is an interesting object of valuation. 
+1 The Process of Stock Valuation With the Enterprise Discounted Cash Flow Method
+Valuation process descriptions provide information what steps are taken in a business valuation with the enterprise discounted cash flow method. The process of financial statement based valuation is as follows (Palepu et al., 2007:v,11): 
+1. Business strategy analysis. This involves the analysis of a firm’s industry and its strategies in creating a sustainable competitive advantage, the identification of key profit drivers and business risks and the assessment of a company’s profit potential. 
+2. Accounting analysis. The purpose is to enhance the reliability of the financial statements and the conclusions drawn. The amount of distortion in the financial statements is evaluated and unbiased financial statements reflecting the underlying business are created.  
+3. Financial analysis. The purpose is to analyse a firm’s current and past performance and its sustainability. The tools are ratio analysis and cash flow analysis. 
+4. Prospective analysis. The purpose is to forecast a firm’s future cash flow performance, estimate a terminal value, compute a discount rate and perform the calculations. The previous steps provide a foundation for forecasting a firm’s future performance. 
+The calculation process using enterprise discounted cash flow method is as follows (Koller et al., 2005:106): 
+1. Valuation of company’s operations. Free cash flow from operations is discounted at the cost of capital, or weighted average cost of capital (WACC). 
+2. Determination of enterprise value. Non-operating asset are valued. Enterprise value is equal to the value of operations and non-operating assets. 
+3. Identification and valuation of all non-equity financial claims.
+4. Determination of equity value and the value of the share. Non-equity financial claims are subtracted from enterprise value. Equity value is divided by the number of shares outstanding.
+Not every step in the valuation process is reported in detail even though all the steps have received attention. A very detailed and thorough execution is beyond the scope of this paper. Accordingly, the emphasis is on the most relevant matters. 
+2 Reorganization of Financial Statement Accounts 
+Income statement and balance sheet accounts and items are reorganized (Koller et al., 2005:162). The classification is exploited in calculating free cash flow and WACC, and in valuing operating assets, non-operating assets and non-equity financial claims…
+3 Historical Free Cash Flow and Key Ratios
+Historical free cash flow and key ratios are calculated to get an idea of Outokumpu’s historical performance. The key ratios are used in forecasting Outokumpu’s future performance… 
+4 Forecasting Performance
+Expected future cash flow is prognosticated with forecasted key ratios. The forecast is founded on business strategy analysis, Outokumpu’s historical performance and future prospects… 
+5 Estimating the Weighted Average Cost of Capital
+With the enterprise discounted cash flow method, free cash flow is discounted by the WACC. WACC “represents the opportunity cost that investors face for investing their funds in one particular business instead of others with similar risk”(Koller et al., 2005:297). It includes the required return of all sources of capital weighted by their target market based weights. WACC is calculated after corporate taxes. Required return or the cost of capital “is the expected return of an investment that is necessary to compensate for the risk of undertaking the investment” (Berk & DeMarzo, 2007:G-14). When a company’s capital structure is composed of common stock and debt, the following formula for WACC is applicable: 
+[Formula]
+Capital Asset Pricing Model (CAPM) is used for estimating the required return for equity. In practise, CAPM is the most important method for estimating the cost of capital (Berk & DeMarzo, 2007:312). According to the CAPM the required rate of return for an investment is (Berk & DeMarzo, 2007:353): 
+[Formula]
+
+The cost of capital take into account the time value of money and the systematic risk of a security as is seen in the CAPM (Berk & DeMarzo, 2007:310). The systematic risk is the risk that determines the cost of capital; the firm specific risk is diversifiable. 
+The systematic risk is measured by beta (Berk & DeMarzo, 2007:380). The beta measures the sensitivity of a security’s return to return of the overall market. Beta of investment i with market portfolio is: 
+[Formula]
+More
+Required rate for debt
+6 Results
+6.1 The Value of the Share
+Finally, the value of the share is calculated… 
+6.2 Sensitivity Analysis
+Sensitivity analysis is performed in order to consider the uncertainty in the valuation… 
+7 Discussion
+The process and the results are discussed

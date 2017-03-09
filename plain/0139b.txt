@@ -1,0 +1,279 @@
+The use of video in online marketing
+
+
+1    INTRODUCTION
+
+The use of video in online marketing has experienced a rapid growth over the last
+decade or so mainly due to technological advances. Klejna (2011:36) states that in 2011
+the spending in online video advertisement is expected to grow to $2.1 billion. The
+dynamic growth of the industry, as well as its cost-efficiency, makes it an increasingly
+important medium for marketers to explore (New Media Age 2004; Miller 2007).
+
+There has been extensive research into what kind of a platform the Internet provides
+for viewing animated material (e.g. Kuisma, Simola, Uusitalo, and Öörni 2010), as well
+as about the use of video specifically in online marketing. The approach is often a
+managerial one, where the issue is approached from the "how-to" angle. The questions
+being asked are, for instance: "how to get consumer to pay attention to online video
+advertising," or: "how to increase the click-through rates of online video ads."
+
+In addition to often having a managerial approach, the articles in this field are often
+single-issue articles. In other words, online marketing articles in general focus on
+analysing a particular issue within this field, such as animation, attitudes, recall,
+interactivity, experiences, attention, and such (see e.g. Hoffmann and Novak 1996;
+Coyle and Thorson 2001; Kuisma et al 2010).
+
+There is, however, very little research that brings together knowledge from the different
+angles related to online video marketing. The overall goal of this study is to accumulate
+some of the collective knowledge about the use of video in online marketing, and
+analyze its current status through a content analysis.
+
+Firstly, the aim is to provide a comprehensive look into what is meant by online video
+advertising; this is done through a literature review. Secondly, there will be an
+examination of what online video advertising, also known as viral video marketing,
+looks like today by conducting a content analysis. In the analysis, the content of the 10
+of most popular online viral advertisement will be carefully analyzed. The ultimate goal
+is to give the reader a thorough view into the world online video marketing. There
+exists very little, if any, prior research where this kind of compilation has been
+administered within one study.
+
+The study is arranged as follows: after the introduction, the second chapter includes the
+literature review. The third chapter includes the content analysis of the chosen viral
+advertisements. In the fourth and final chapter, a discussion about the results and their
+limitations is enclosed.
+
+
+
+2      LITERATURE REVIEW
+
+In this chapter, the literature review in regards to interactive online marketing and the
+use of online video are included. This chapter aims to acquaint the reader with the
+origins and evolution of online video with a focus on marketing.
+
+
+2.1.   Video in online marketing
+
+When the Internet first started to become popular amongst mass audiences, the
+possibilities it offered to marketers seemed endless, even revolutionary, according to
+some early research (e.g. Hoffman and Novak 1996). What was revolutionary about the
+World Wide Web was, that is was changing the way in which companies could
+communicate with their customers. Up to this stage, the way companies carried out
+their communications was with an orientation to masses (Hoffman and Novak 1996).
+In other words, a firm would design a standardized marketing message, or content, and
+choose a mass media outlet (e.g. TV) through which the content would be distributed to
+a mass audience (see Figure 1).
+
+[Figure]
+
+With the introduction of the Internet, the mass-approach started to change radically.
+Developing online technology allowed communication to evolve from the "one-to-many
+model" to a more interpersonal, interactive, and two-way model, or as Hoffman and
+Novak (1996) describe it: "many-to-many model" (see Figure 2).
+
+
+[Figure]
+
+Even though the Internet seemed to offer endless marketing possibilities, there was
+also some scepticism about the effectiveness of the new, interactive medium. Some
+academics questioned whether the new medium was, in fact, superior to standard
+marketing formats, or just an overly hyped phenomenon (e.g. Bezjian-Avery, Calder,
+and Iacobucci 1998). Technology played a quite important part in this discussion; still
+in the 1990's ­ compared to today ­ the Internet was still in its infancy in the ability to
+show, for example, online videos. Most Internet users were still using dial-up
+connections, which were quite slow and not able to handle large amounts of
+information at once. Hence, the use of, for instance, animated content in marketing was
+often seen detrimental to the success of the marketed content simply because the
+medium was not able the support such rich information design.
+
+The shift forward both in academic discussion and consumer opinions came with the
+introduction of new technologies, such as broadband connections and improved
+computer capabilities (e.g. faster and increasingly efficient laptops and desktops). From
+early 2000's onwards, it is noticeable that marketing-related scholarly discussion
+moved from discussing the nature of the Internet, and if it should be used in marketing,
+to how it should be used (e.g. Papacharissi and Rubin 2000; Dijkstra, Buijtels, and van
+Raaij 2005; Jensen 2008; Klejna 2011).
+
+The technological developments also facilitated the growth of the internet video
+market. Although online videos existed already in the 1990's (Bezjian-Avery et al.
+1998), the explosive growth of the Internet video did not take place until the
+technological developments enabled its extensive and effective use.
+
+Today, the market continues to grow: based on a survey conducted in 2007 (Reynolds
+2010, p. 242), where 235 interactive marketers were asked "in the next three years, do
+you think marketing's effectiveness will increase, stay the same, or decrease in... the
+following media?" approximately 85% of the respondents thought that the effectiveness
+of online video would increase, ranking it the 4th effectiveness increasing media after
+social media, search engine marketing, and mobile. Furthemore, Klejna (2011:36)
+estimated that in 2011, the online video advertising spending would amount to over 2.1
+billion US dollars. Thus, it is quite evident that within the marketing discipline, online
+video advertising has become a key issue.
+
+There are many different uses of online video advertising in existence today, such as
+pre/post-roll video, animated banners, and viral videos. Some employ techniques from
+more traditional media. For example, the video commercials often seen in the
+beginning, in the middle, or at the end of another video that a consumer is watching,
+also known as linear in-stream advertisements (Klejna 2011), are types of videos that
+use similar advertising tactics than traditional TV advertising. Especially in the infancy
+of the online video market, these types of videos were typically used as their content
+and style was easily adoptable from the traditional marketing paradigm.
+
+However, there has been some criticism against using the so-called "one-way"
+traditional advertising approaches in the virtual world, because of their suggested
+unsuitability for the Internet, which is seen as an interactive "two-way" medium; also,
+such advertisement are seen to disrupt the experienced freedom of the Internet (i.e. the
+freedom to choose to view, or not to view, particular content) that is one of its defining
+characteristics (e.g. Liu and Shrum 2002; Wu 2006).
+
+Due to the criticism of using traditional advertising techniques on the Internet, and the
+increased realizations of its opportunities as a creative medium (Hampp 2011),
+marketers have approached the issue in other ways. Perhaps one of the most popular
+approaches to online video in the recent years has been the utilization of the viral video.
+                                           
+
+
+
+Viral videos are videos that companies create for marketing purposes, often with funny
+or clever content, that become popular by people sharing them with each other through
+email, blogs, YouTube, and other social media websites (Broxton, Interian, Vaver, and
+Wattenhofer 2011). Armstrong and Kotler (as cited in Kulp 2007), define viral
+marketing as "the internet version of word-of-mouth marketing--e-mail messages or
+other marketing events that are so infectious that customers will want to pass them
+along to friends."
+
+Viral videos have become to represent one of the most, if not the most, popular
+advertising techniques used in viral marketing campaigns currently (Cruz and Fill
+2008). Thus, because of their increasing importance within the marketing, and
+particularly e-marketing paradigm, popular viral videos have been chosen as the
+subject of the content analysis, which is included in next chapter.
+
+
+
+
+3      CONTENT ANALYSIS
+
+This chapter includes the content analysis of the 10 most viewed online viral
+advertisements as listed by Advertising Age. The chapter begins with an explanation of
+the chosen videos and continues with the analysis of the content.
+
+
+3.1.   Choice of content
+
+The content chosen for this analysis originated from an article in the magazine
+Advertising Age (September 2010). The article lists the 10 most viewed viral ad
+campaign of all time (up to 2010). The list has been compiled based on unique views,
+which refers to the times a viral video has been watched in total; unique views are
+irrespective to how many times a single user has watched it (businessdictionary.com).
+
+The videos chosen for the analysis are (brand ­ name of the commercial ­ how many
+total views):
+
+1. Blendtec ­ Will It Blend ­ 134.2 million views
+2. Evian ­ Live Young ­ 103.9 million views
+3. Old Spice ­ Responses ­ 57.1 million views
+4. Pepsi ­ Gladiator ­ 46.7 million views
+5. Microsoft ­ Xbox Project Natal ­ 42.7 million views
+6. Dove ­ Evolution ­ 41.1 million views
+7. T-Mobile ­ T-Mobile Dance - 35.5 million views
+8. Doritos ­ Crash the Super Bowl 2010 ­ 34.2 million views
+9. Old Spice ­ Odor Blocker ­ 34 million views
+10. DC Shoes ­ Gymkhana Two ­ 32.9 million views
+
+
+3.2. Analysis of content
+
+Like mentioned above, there were all together 10 viral videos whose content will be
+analyzed in this chapter. Table 1 includes the description of each commercial, their
+duration, and their style.
+
+
+[Table]
+
+
+As we can see from the table, this group of videos is quite heterogeneous in content, in
+length, and in style. Humor, however, seems to be a connecting factor. Humor was a
+central style theme in 4 out of 10 videos. Perhaps due to the fact that most of these
+commercials are by American companies, the humor is very forward, even deliberately
+underlining, as opposed to being the more British-type, subtle humor.
+
+Cleverness is another unifying characteristic in regards to some of the videos. There
+seems to be something clever and attention capturing about many of the videos, which
+usually comes from a good story line, great editing, and the skillful use of music. For
+example, in the Evian "Live Young" video, the content might not be as funny if the song
+"Rapper's Delight" by the Sugar Hill Gang was not playing in the background.
+
+A quite perplexing feature that most of the videos (6/10) seems to have in common, is
+that they are TV commercial-like in their content, and how the content is presented to
+the viewer. This is an unexpected result, because research would suggest, that those
+viral videos where the brand is not the focal point of the commercial are the most
+successful. Hampp (2011) states that: "Lightly branded videos that function as
+standalone content were found to be four times more effective than heavily branded
+videos and 10 times more effective than clips with a call to action." This content
+analysis disagrees with this finding, because in most of the videos the brand is at the
+center of the commercial and quite heavily promoted.
+
+Regarding the length of the viral videos, most of the videos are approximately 2
+minutes in length; all together 6 out of 10 videos are under 2 minutes. However, the
+length of the videos varies from 30 seconds to over 7 minutes. Thus, there seems to be
+no standard to the length of online advertising videos. This says something about the
+unrestricted nature of the medium; most TV commercials tend to be quite short as
+commercial breaks need to include multiple commercials in a span of about 5 minutes
+or so ­ online videos are not bound by this limitation.
+
+Overall, the Internet as a medium offers an advertiser quite much freedom, not only
+regards to the length of online videos, but also their creative content; it is also cost-
+effective. Any company, either small or multinational, can produce clever content on
+YouTube, for example, and get millions of views within weeks. This is not possible with
+traditional mass marketing where a two-week TV campaign might cost hundreds of
+thousands. As we can see from the top 10 viral video list, any kind of online content can
+reach a gigantic number of views within a relatively limited time span; according to the
+Advertising Age article, most of the videos were published after 2009, with the
+exception of two videos published in 2006 and one in 2004.
+
+In regards to the creative content, the videos on the list highlight the fact that the
+content of an online video can be highly varying. For example, the T-Mobile video can
+be considered as quite "viral-esque" meaning that it shows real people in a real
+environment with something extraordinary taking place in this everyday setting. The
+DC Shoes video, on the other hand, has a "reality" approach as well but the ad is
+structured similarly to a mini-documentary with people in the video making comments
+about the surrounding events. Furthermore, the Blendtech video takes a subtle jab at
+infomercials; the Pepsi video relies strongly on the celebrity power of the singers
+Britney Spears, Pink, Beyonce and Enrique Inglesias; the Old Spice commercials
+feature ex-NFL football players in the shower ­ it seems that in a viral video, almost
+anything goes.
+
+
+
+
+4     DISCUSSION
+
+Based on this content analysis, it can be stated that viral videos are highly varying in
+regards to their length, content, and style. This underlines something about the
+medium where they are presented; for a marketer, the Internet offers creative
+opportunities that are not available in traditional media. Humour and cleverness,
+however, seem to be two universal features found in many viral videos. According to
+Advertising Age, humour is a theme that seems to cross cultures and the reason it is
+often applied to viral videos.
+                                          
+
+The key issue when it comes to viral videos seems to be the creation of highly clever and
+universally appealing content. Hampp (2011) notes that when designing a viral video, a
+company should pick a creative concept with the ultimate intention of grab attention,
+and grabbing attention quickly; "Stories and videos that gain traction in social media do
+so quickly, often within hours of initial reports, and they fade quickly as well." (Broxton
+et al. 2011) However, some videos ­ perhaps the ones that become the so-called classics
+­ have staying power like the videos on the top 10 list indicate. The Pepsi video was
+made in 2004 and it is still one of the most watched viral videos of all time.
+
+It must be stated that even though viral videos can be immensely popular, as the top 10
+videos indicate, not all viral videos, in fact, go viral. This is one of the disadvantages of
+using viral videos in marketing; the marketer has little control over whether the content
+is going to become popular or not. Watts, Peretti, and Frumin note that "For every high
+profile example of a viral product, there are many unsuccessful attempts that one never
+hears about... After the fact, it is usually possible to understand what was entertaining,
+titillating, or otherwise intriguing about a given viral entity; but it is rarely obvious in
+advance."
+
+
+4.1.   Limitations
+
+The Doritos commercial "Crash the Super Bowl" was not available for viewing at the
+time of the content analysis.

@@ -1,0 +1,44 @@
+Green Supply Chain Management
+
+1 INTRODUCTION
+
+As there have been more and more evidence of climate-changes, the humankind has opened their eyes for the reasons behind the phenomenon. The current, general view is that there are several contributing issues and not all are caused or controllable by humans. Meanwhile companies’ sales and production strategies have changed dramatically over last 10 – 20 years, going from local vendors to huge global companies, with centralized productions in low-cost-countries and worldwide distribution networks. This has lead to an exploded transport and logistics scene, with more goods being produced in and shipped from low-cost countries to the rest of the world [source?]. Add to these the gentle local pollution regulations for industries and the warning signs can be seen.  Together these relate to two major environmental issues caused by humans, pollution and energy-consumption. Obviously the logistics branch is not the sole reason for global warming, but the entire field of business and industry could do a lot to improve their environmental contribution. There have been claims that transport only account for a small portion of the world’s pollution, however my view is that scanning through entire complex supply chains – with all it’s different steps – the share will be bigger. This is what this paper aims to study: how can the environmental impact of supply chains be changed and with what consequences?
+
+The subject of this paper will be green supply chain management. It will discuss the environmental aspects within the different fields of logistics and transports. The first aim is to conclude the present situation: What is the situation of supply chains now, how has the industry arrived to this situation, what is being done well, what can still be improved? The second aim is to look into the future: What is the next step towards greener supply chains, are there any new technologies, strategies, or inventions that will change the scene? Is there a genuine will to 'go green', or is company profit the only thing that matters? How is the political and legal situation developing? There are many points of view to consider and many questions to answer.
+
+1.1 What is Green Supply Chain Management
+
+The natural function of the world is often described as a Ecosystem, a symbiosis of air, water and other natural resources. Pekka Stenholm (2004) defines the system further, explaining there are several sub-systems within the Ecosystem, one of which is created by human beings. The humans system consists of a physical, psychological and social system, that again has own subcategories. One of these is entrepreneurship, which belongs to the category of business environment and society. Considering through this chain of categories, one can see that entrepreneurship is dependent on its business environment, which depends on the society, which depends human beings ecosystem, which again relies on the entire Ecosystem of planet Earth. Although long-winded, the hierarchy is clear; one can claim that entrepreneurship is dependent on nature. But turning tables, can one claim that the Ecosystem is dependent on human’s entrepreneurship or even human beings? Not really, as there are evidence of life on this planet before human beings. (Stenholm, 2004.)
+
+However, due to action by humans, we have seen recent changes in the nature. While there have been several theories about reasons behind, pollution and energy-consumptions are often mentioned as reasons behind the phenomenon. Much of this relates to the industries set up by human, the factories we use to produce our things and the vehicles we use to transport them. Because of the environmental changes as become a hot topic, we have seen more and more attempts from companies to me more ecologic. One of the biggest trends for now is Green Supply Chain Management (GSCM), which can be described as industrial ecology. It strives to look into the entire activity-chains of companies and see what parts could be done greener, more environmental friendly. (Sarkis, 2002:398) 
+
+1.2 Theoretical framework
+
+This paper will be based on the course “Green Supply Chain Management” by Joseph Sarkis at Hanken (3891, period 2) and a review of the related literature. It will not summarize the course, but rather elaborate on some of the key points and simultaneously work as a learning tool for the author and the audience as well. More literature within the field will be used, as well as the author's own working experience in the branch and material from earlier studies and courses. 
+
+
+2 THE ENVIRONMENTAL IMPACT OF SUPPLY CHAINS
+
+As Supply Chains consist of so many different phases, it is challenging to label which part is the most harmful for the environment. A Finnish study by Pekka Stenholm (2004) has made an attempt to clarify the proportions within the logistical part for road-transports. He divided the logistics to purchasing, transports, warehousing, recycling and packing. The one with biggest environmental impact was transports, counting for a share beyond 50% and consisting of pollutions, noise, jitter, accidents and other traffic related problems. Warehousing was claimed to cause 15% of the environmental effect, mainly because of ineffectiveness within processes and waste of resources. The later was also mentioned as the impacts of purchasing, recycling and packaging. Stenholm could not give an exact percentage regarding these, as they mainly have an indirect impact through other logistical functions. (Stenholm. 2004:19)
+
+While the study mentioned is interesting and relevant, it has to be noticed that it only covers road-transportation and the logistical part of supply chains. Whilst supply-chains are always unique phenomenon, they should include the industrial part; mainly raw-material acquisition and production. In the other end of supply chains there is the selling part, one could even argue that the end-consumers usage and disposal of the product could be included. These two parts adds to the overall environmental impact and reduces the proportional impact of transports and other logistical functions.
+
+The past
+what has been done, what has changed, 
+The present
+products lifetime?, marketing, technological revolution
+Laws and regulations, 
+EU & Global, Governments
+Taxes
+Vehicles, machinery and fuels
+Companies’ social responsibility – an option or a necessity?
+The effect
+
+3 THE FUTURE
+
+What can be done?
+Theories, strategies, visions
+Companies’ willingness / through sanctions?
+
+
+4 CONCLUSIONS AND SUMMARY 

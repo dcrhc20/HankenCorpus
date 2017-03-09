@@ -1,0 +1,45 @@
+Research questions: 
+Is precaution needed?
+Is precaution justified? 
+
+Research problem: 
+Could there be too much precaution? 
+
+Field of study:
+Precaution in human’s behavior explained form the economic point of view.
+
+Methods of research:
+Quantative analysis, case study, historical logical method.
+
+Relevance of the study:
+The subject of the paper is level of taking precaution. The research focuses on the importance of precaution and on the issue whether precaution could be over invested. To be able to answer these questions, the probability of an accident and approximated loss should be outlined. Actual marginal costs of precaution could be counted by multiplying these two indicators, then comparing the result with precaution costs taken. It is crucial not to overestimate precaution, but, at the same time, to investigate the proper degree of it. With the help of cost and benefit analysis, it is possible to explain human behavior, both victim’s and injurer’s, and rise an issues of further reducing the law cases in courts. If the precaution is overestimated, victim pays for the accident, if precaution is underestimated; it is time for the injurer to pay back. Basically, injurer underestimates precaution usually, however the more the injurer spends on precaution, the less remains for compensation in case of accident and the less the probability of an accident is. 
+The research touches upon spheres in which certain level of precaution is necessary: industrial, medical, environmental and others. 
+
+ 
+Introduction
+People face risk every day. While crossing the road, using electronic devices, undergoing medical procedures they become potential victims. At the same time, drivers, electronic engineers and doctors are unintentionally potential injurers. However, such term as “precaution” exists, which is a preliminary measure, sort of guarantee of victim’s safety. Basically, taking precaution means spending money on it.  Here the question arises whether to take precaution or not. Here the probability of accident is something that makes a real difference. How much money potential injurer needs to spend on precaution if there probability of the accident is miserable? Whether there is such thing as too much precaution? How to balance costs on precaution and compensation?
+G. D. Mattiacci and G. D. Geest suggest that the more the injurer spends on precaution, the less remains available for compensation. But if the accident means victim’s death, then the price of precaution is closely connected to the value of person’s life. The value of life should be measured in concrete sums, in money. S. E. Landsburg and other economists (2003) claim that human life costs $8 million. Other researches (K. Viscusi, 1970) estimates life value at $5 million. So it is generally accepted that the price of life escalates, human life is becoming more precious and thus taking precaution makes a real difference.
+Consequently, from the injurer’s point of view, it is always better to take precaution than face the necessity of compensation. However, here this view is challenged by the concept of moral hazard. In other words, when the precaution is taken, the potential victim can afford him/herself more risk. For instance, if the one wears seat belt, he/she is less attentive on the road then when driving without such precaution. There seems to be conflict between the legislators’ intention and the perception of drivers. The paper focuses on investigating the consequences of seat belts legislation in terms of changes in death rate and injury rate of drivers. The question is, whether the seat belt causes more injuries?
+Here, we report the link between the cost of precaution and the consequences of it. The paper hopes to show that there is such thing as too much precaution which in fact causes the issue of moral hazard. 
+The paper is structures as follows: we’ll start with theoretical overview of the terms; move to the practical examples and calculation; and finally, analyze the results and make conclusions.
+Literature review
+In the last decade several researches concerning the issue of precaution principle were conducted in different spheres of life. The most common spheres where the issue of precaution is implemented are medicine, agricultural sector, court cases, road accidents and others. 
+In his article “The Price of Precaution and the Ethics of Risk”, medical engineer M. Berstein claims that precaution and risk are inseparable. And states that the precaution and its price not only correspond, but in some cases the price becomes a risk.  
+The “gold scammers” are the ones who should use the precaution principle in order to manage their risks and profit. 
+However, there are very few findings concentrated on precaution in economics. The paper aims to represent one.
+
+ 
+Framework
+In the paper the following methods are represented: analysis, comparison, graphic data representation.
+The economic analysis will be done. 
+ 
+Cost of precaution: economic perspective
+Nowadays one of the most debatable issue discussed by economists is Nokia case.
+The precaution principle will be investigated from economic perspective. Nokia’s CEO cancellation of Symbian platform could be looked at under the precaution point of view. 
+The data used for analysis: the probability of Windows Phone 7 success, the cost of market research, the alternative costs, the potential loss.
+In this case CEO Stephen Elop is considered to be injurer, because it was his personal initiative to scrap Symbian platform. And Nokia Corporation will represent the victim side. The injurer did not have intention to cause losses for the company, so the precaution principle could be implemented.
+ 
+Discussion and conclusions
+ 
+ 
+

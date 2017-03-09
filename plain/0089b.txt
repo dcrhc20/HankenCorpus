@@ -1,0 +1,399 @@
+Importance of industry cluster German Automotive Locations ­ Innovation and Production
+
+
+1   Introduction
+Germany is the largest country of automobile production in Europe, and ranks third in
+the world after the United States and Japan (Pfaffman & Stephan, 2001). One of the
+leading German automotive clusters is in the region around Stuttgart. Besides Daimler
+and Porsche, approximately four hundred suppliers are located in this region. The
+Stuttgart region is a leader in technological innovation (Reiner R. , 2006).
+
+Increased global trade has forced many auto-giants such as General Motors,
+Volkswagen and Daimler Chrysler to shift their production bases to developing
+countries in order to gain operational efficiency, in an increasingly competitive global
+marketplace (Biswajit, Banerjee, & Chatterjee, 2007). The BRIC-countries (Brazil,
+Russia, India and China) have played an important role as areas for relocation. With
+growing domestic car markets these countries are also vital for strategic repositioning
+(BBC).
+
+Previous research conducted by e.g. Biswajit et al has concentrated on the benefits of
+relocating business functions to low-cost countries, such as cost-savings and strategic
+positioning, to name but a few. The implications of partially relocating business
+activities results in less synergies between different departments. Consequently, there is
+a need for careful analysis of the potential benefits of relocation compared with the
+gains attained from smaller, concentrated and interconnected business units, namely
+clusters.
+                                                              
+
+
+1.1 Problem Definition
+Growth management theory suggests that extensive benefits are received from
+concentrated business units. My objective is therefore to analyze the benefits received
+from clusters, where manufacturing and research facilities are located physically close.
+Specifically concentrating on gains for production and innovation. The theoretical
+foundations will be applied to the German automotive cluster in the surrounding region
+of Stuttgart.
+
+Dyer (1996) explored the effect of clustering on quality and innovation by comparing
+the US automobile industry with its Japanese competitors. He measured the quality of
+clustering by the degree of inter-firm specialization (i.e., automaker-supplier
+relationship) and assessed the correlation of inter-firm specialization and performance.
+His findings indicate that a high human asset specialization can be associated with a
+high level of quality and faster product development cycles (Dyer, 1996, pp. 279-289),
+whereby human asset specialization refers to the number of face-to-face contacts
+between supplier and automaker, the number of guest engineers, and the degree of
+information sharing (pp. 277-278).
+
+In contrast to Dyers study this paper focuses on the benefits for production in addition
+to innovation. It seems as if production fosters innovation, and vice-versa, so analyzing
+the benefits with respect to both aspects displays the effects more truthfully.
+Furthermore the investigation will be applied to just one cluster.
+
+1.2 Course of the Investigation
+The analysis will be divided into a theoretical and a case study part. To begin, the
+conceptual framework of the analysis is presented. Porter's diamond model is referred
+to as a theory to describe the competitiveness of national economies. Subsequently,
+models and research on the competitiveness of smaller economic units, namely industry
+clusters, are presented. Furthermore, the nature and the benefits of clustering will be
+assessed. In particular, the benefits for production and innovation are examined.
+
+The case study will apply the theoretical concepts to the German automotive industry. It
+is hypothesized that the theoretical effects of industry clusters should also apply to the
+firms within the Stuttgart region if evidence of clustering can be found. Subsequently,
+the benefits of clustering for production and innovation are presented in more detail.
+Finally, conclusions of the findings are summarized with respect to the objective.
+                                                                 
+
+
+
+2   Theoretical and Conceptual Background
+
+2.1 The Competitive Advantage of Nations
+
+A common aspect among the prosperity of the world's most advanced nations is that
+they are all in possession of a competitive advantage. This advantage is created through,
+and rests upon improving the usefulness and productivity of inputs. A nation can gain
+competitive advantages by creating strategic assets (Amit & Schoemaker, 1993).
+
+Companies, and therewith nations, create and sustain competitive advantages by
+exposing themselves to pressure and challenge. The most valuable factors require heavy
+investments and specialization, in order to best serve the particular needs of a country's
+industry (Porter, 1990).
+
+The national environment helps companies gain competitive advantages by: supporting
+and allowing fast accumulation of specialized assets and skills; affording better and
+ongoing information and insights into product and process needs; and finally by
+creating an environment that pressures companies to innovate and invest. This leaves
+companies no other choice than to gain and upgrade competitive advantages (Porter,
+1990).
+
+[Figure]
+
+Porter describes the primary nature in which
+competitive advantages emerge with his theory of the
+diamond, which consists of four attributes: factor                          
+conditions; demand conditions; related and supporting                         
+industries; firm strategy, structure and rivalry (Porter,
+1990, p. 77)(Porter M. E., 1990, p. 77). High quality           
+factors contribute to it with supporting elements such
+as skilled workers, infrastructure and capital resources.
+The context for a firm's strategy and rivalry consist of                    
+the local structure and rules, which encourages                              
+investment and sustained upgrading. The proximity
+of sophisticated and demanding customers enhances dynamic competition and can help
+to anticipate global trends. Related and supporting industries, offer firms access to
+capable, locally based suppliers as well as firms in related fields. The relationship to the
+supporting industries is a reinforcing process and most advantageous when the
+surrounding industries themselves are globally competitive (Porter, 1990).
+
+2.2    The Nature of Industry Clusters
+
+Industry clusters can be seen as regional agglomerations of interconnected institutions
+that have unusual success in particular fields (Porter, 1998, p. 78). The geographic
+scope of clusters can range from a single city to crossing natural borders. Furthermore, a
+cluster can comprehend several types of economic agents, that is, it is not limited to the
+profit-making firm. It is further noted that a cluster can extend downstream to channels
+and customers, and laterally to manufacturers of complementary products and to
+companies in industries related to skills, technologies, or common inputs (Porter, 1998,
+p. 78). It should be noted that externalities are part of the definition of clusters and that
+the character of those is usually assumed to be positive (c.f., Porter, 2003, p. 562).
+
+The development of clusters is a long and progressive learning process. Studies
+regarding clusters do not have a clear consensus about what the origins are. The roots of
+a cluster can often be traced back to historical circumstances, but they also arise from
+unusual, sophisticated or stringent local demands. Some authors address the importance
+of materials, climate, university research and typical location factors (Scott, 2000).
+Other theoretical approaches explain clusters by the initial presence of two important
+firms, which lead to the emergence of an industry (e.g. Silicon Valley) or by public
+sector investment activities (e.g. Massachusetts Institute of Technology and Harvard
+University for biotechnology sector in the Boston area) (Porter M. , 1998).
+
+Innovation and location are the main drivers in the creation process. A massive wave of
+outsourcing production and service has taken place and tends to happen in big networks
+of suppliers and distributors. Clusters affect the competitiveness of nations within and
+across countries in three distinguished ways: they lead to increased productivity of
+companies based in the cluster; they drive the direction and pace of innovation; and
+stimulate the formation of new businesses which expands and strengthens the cluster in
+itself (Porter, 1998, p. 80). They both promote competition and cooperation. In his
+famous book "The Competitive Advantages of Nations" (1990), Porter promotes
+industry clusters rather than just one competitive industry.
+
+Looking at single products from the "cluster lens" suggests that they need their own
+home base, that should be located in the respectively most vibrant area, and it is most
+beneficial to move linked activities to concentrated geographic areas. Companies should
+foster personal relationships within the cluster, and make investments to engage
+themselves locally. By getting involved in upgrading the cluster and working
+collectively, growth can be promoted and can offer at the same time a way to link the
+public and private sectors (Porter, 1998).
+
+2.3 Benefit of Clusters for Production
+
+Due to the evolvement of clusters in a reinforcing and supporting environment, they are
+associated with increased productivity. They give rise to external economies of scale
+(Marshall, 1920) by facilitating the access to various types of inputs; accessing
+information, technology and needed institutions; coordination with related companies;
+and measuring motivation and improvement (Porter, 1998, p. 81). A cluster allows a
+member company to benefit as if it had greater scale or as if it had joined with others
+without having to give up its flexibility (Porter, 1998, p. 81).
+
+General access to capital assets is facilitated (Cuervo-García et al., 2009) and the
+bargaining power of firms is enhanced, which leads to lower purchasing costs (Porter,
+2003; Prevenzer, 1997). In the case of a densely geographically concentrated supplier
+network, business customers may enjoy cost benefits through local sourcing (Porter,
+2003). This lowers the transaction costs, and the creation of close and informal
+relationships are a superior arrangement for all parties (Porter, 1998). Clusters allow
+access to a specialized and skilled workforce, which is described by various researchers
+(Almazan et al. 2006; Costa & Kahn, 2001; Diamond & Simon, 1990). Companies get a
+chance to tap into already existing pools of experienced employees.
+
+Within a cluster companies get the chance to tie relationships and get access to
+specialized   information.    More    intense    cooperation       and   competition   appear
+simultaneously, and are perceived to benefit productivity (Cuervo-García et al., 2009;
+Porter, 2003). Both phenomena can coexist because they occur on different dimensions
+and among different players (Porter, 1998). Khan and Ghani (2004) emphasize the
+emergence of trust in clusters as a concept related to social capital. Adler and Kwon
+(2002) summarize various studies indicating that social capital facilitates resource
+exchange, supplier relationships, and regional production networks. Rousseau et al.
+(1998) show the relation between trust and decreased transaction costs as well as
+increased effectiveness in responding to crises.
+
+The provision of public and quasi-public goods is enhanced by government but also by
+the aggregation of firms and other institutions, so that mutual benefits arise while costs
+are shared between members of the cluster (Porter, 2003). Public goods in clusters often
+comprise infrastructure and administration, training programs and laboratories (Cuervo-
+García et al., 2009).
+
+The linkages within clusters result in synergies, and the joint forces as a whole become
+bigger than the sum of its parts. Companies are mutually dependent, good performance
+by one individual boosts the success of others. Since the products complement each
+other, members of a cluster manage to better meet of customer needs. Members profit
+from the other entities' reputation and the joint marketing mechanisms. Lastly,
+complementarities result in making buying more attractive for customers (Porter, 1998).
+
+Since cluster members are exposed to higher competition, the local rivalry puts more
+pressure on the various members and is highly motivating. Pride and the desire to look
+good in a community spur executives to attempt to outdo one another (Porter, 1998).
+
+2.4 Benefit of Clusters for Innovation
+
+Clusters play a vital role in a company's ongoing ability to innovate. Many of the above
+stated factors that improve productivity have an even more dramatic effect on
+innovation. The opportunities for innovation are more visible, and the environment
+provides the capacity and flexibility to act rapidly. Companies manage to implement
+innovations more quickly, and since local suppliers and partners are involved in the
+innovation process, the outcome is ensured to better match customers' requirements
+(Porter, 1998).
+
+It has been found and investigated by various researchers that investment in research
+and development (R&D) of private firms and universities spills over for third-party
+economic agents (Jaffe, 1989; Acs et al., 1992, 1994; Feldmann, 1994a, b). At the same
+time, it has been argued that knowledge spillovers are limited to certain geographic
+boundaries (Marshall, 1920; Krugman, 1991b). The fact that the extent of knowledge
+spillovers depends on distance is referred to as "specially-mediated knowledge
+spillovers" (Audretsch & Feldmann, 1996, p. 630).
+
+Porter (2003) argues that customers near clusters are more informed and demanding,
+thus challenging firms more heavily. Due to the more sophisticated buyers, firms within
+a cluster have a better view of the market compared to isolated competitors.
+
+The ongoing relationships between entities help companies to learn early about new
+technology, service and marketing concepts, to give a few examples. Companies get the
+chance to experiment at a lower cost and can delay large commitments until they are
+assured that a given innovation will pan out. Reinforcing all other advantages for
+innovation is the sheer pressure that occurs within a cluster. Accordingly, clusters can
+remain centers of innovation for decades (Porter, 1998, pp. 83-84).
+
+
+3     Case Study - Analysis of the Stuttgart Cluster
+
+3.1     Description of the Cluster
+
+Some of the most well known German automotive clusters are located in Ingolstadt,
+Munich, and Stuttgart. The GDP of Stuttgart is approximately to 95 billion euro,
+corresponding to that of Hungary or the Czech Republic. Furthermore, the region is the
+second largest contributor to German exports, following Munich (Verband Region
+Stuttgart, 2010).
+
+Other car manufacturing clusters such as Nagoya in Japan consists of only one main car
+manufacturer and its suppliers. Stuttgart differs with two premium car manufacturers,
+and hosts the headquarters of suppliers for more than four hundred small- and medium-
+sized suppliers. The small- and medium-sized businesses encompass car manufacturing
+per se but also other manufacturing industries, equipment suppliers, service companies,
+auto-shops and trade.
+
+The Robert Bosch GmbH, which is headquartered in Stuttgart, has the highest number
+of patent applications in Germany; in 2007 the patent applications by the company
+amounted to 2,509. Partially indicating the importance of Stuttgart for innovation (Welt
+Online, 2008).
+
+
+3.1.1   Daimler AG and Porsche AG
+Daimler was founded in 1926 and is located in 23 places in Germany; six of these are
+within the Stuttgart region. In Sindelfingen, the world's largest Daimler manufacturing
+site employs (2,901,520 km²) 28,809 workers. The Daimler group's headquarters' and
+the engine manufacturing are also located here (Daimler AG).
+
+Porsche is a part of the Porsche Automobil Holding SE, which also manages the
+Volkswagen affiliation. Porsche was founded in 1931, and currently employs around
+800 workers. The company's four production locations are all in Germany, of which
+three around Stuttgart (Dr. Ing. h.c. F. Porsche AG, 2010).
+
+
+3.1.2   Suppliers
+
+Suppliers can be classified into three tiers. Tier one suppliers are the main suppliers for
+the original equipment manufacturers (OEMs) and directly provide whole systems and
+modules. Tier two suppliers are responsible for the delivery of components, while tier
+three suppliers only deliver individual parts. Each sub supplier, tier two and three,
+provide the next higher level with their parts where they get assembled into bigger parts
+of the cars. This paper concentrates in its descriptions on tier one and two suppliers.
+
+Supplier parks have emerged around the main manufacturing sites of Daimler and
+Porsche. These parks facilitate potential cooperation and coordination, promote
+innovation and growth, and attract new firms building smaller clusters within a bigger
+cluster. Table 1, in the appendix, lists a few main suppliers. Figure 3 illustrates the
+regional proximity of suppliers and OEMs.
+
+[Figure]
+
+3.2 Impact on the region
+
+The automobile industry is the main employer for citizens in the region of Stuttgart.
+Thus many in the region are dependent on the health and economic condition of this
+industry. Clear indicators for clusters are: close relations between OEMs and suppliers,
+and their dependence on each other. In the Stuttgart cluster, close coordination and
+regional proximity imply not only a greater dependency of suppliers, but also of the
+OEMs, leading to a high dependency of the population, on the working opportunities
+created by the industry. Organizations, such as the Cluster Initiative Region Stuttgart
+(CARS), have been established to promote the automotive business, enhance the cluster
+and innovation.
+
+Education and qualified workers are widely available, reaching from line workers to
+academic researchers, both provided by special schools and university co-operations.
+The cluster surrounding Stuttgart has had the opportunity to grow slowly and expand at
+a reasonable rate, starting in the year of 1926 when Daimler was founded (Daimler AG).
+Material resources have not as much contributed to the growth of the cluster as
+innovation and research.
+
+The description of the Stuttgart region displays that many of the features of clusters are
+in fact found in this region. In particular it holds that the Stuttgart region is
+characterized by a geographical agglomeration of interconnected institutions that have
+unusual success in a particular field, namely the automobile industry. This is just the
+definition of Porter (1998), which is used for this paper's analysis (p. 78). It is therefore
+assumed that the benefits that apply for clusters in general also apply for the cluster
+around Stuttgart. In the following, the benefits for the sectors of production and
+innovation are examined in more detail.
+
+3.3 Analysis of Benefits for Innovation
+
+As stated above, material resources have not contributed to the growth of the cluster as
+much as innovation and research. Research and innovation by the main players show a
+clear profession towards the Stuttgart region. Daimler for example is currently changing
+its R&D structure away from free studies toward a centered approach in close relation
+with products and production. This new center is located in Sindelfingen, which is now
+the main research location for Daimler (Haake, 2009).
+
+Cooperation with universities allows companies to harvest knowledge spillovers and
+facilitates the recruiting of highly qualified employees. One example for this
+development in Stuttgart is the "exhaust researching" center in Weissach, founded by
+Audi, BMW, Daimler, Porsche, and Volkswagen. Highly complex research projects are
+more likely to get outsourced to specialized service contractors or classical suppliers.
+
+In the region of Stuttgart 15 main research contractors can be identified; ten with more
+than 200 employees and internationalized operations. Examples include Bertrandt AG
+in Ehningen with around 8000 employees worldwide and the MBtech Group in
+Sindelfingen with approximately 2600 employees.
+
+
+3.4 Analysis of Benefits for Production
+As described in the theoretical part, employees are crucial agents for the presence of a
+successful cluster. Obtaining skilled and experienced workers is made relatively easy by
+the local government of Stuttgart. Workers can be recruited from different sources, such
+as specialized schools and universities
+
+Local outsourcing is deemed as more efficient and effective compared to distant
+outsourcing. In the region numerous specialized suppliers make this possible. The
+proximity of locations is time and cost-saving; in addition shorter and more developed
+routes reduce transportation costs. Some roads have been specifically adapted to suit the
+needs of frequent heavy haulage. Railroad systems leading into the manufacturing sites
+and direct connection to the German railways facilitate the transportation as well. To
+illustrate the closeness of locations, one can take the distance from the Bosch
+Headquarters in Gerlingen to the Porsche headquarters in Zuffenhausen, which is 10
+km. This makes just-in-time delivery possible and the highly developed railways
+enhance it.
+
+Many locally headquartered firms, e.g. Eisenmann who provides varnishing and other
+facilities, as well as resources and suppliers are readily available. Companies are
+mutually dependent, due to interconnectedness, supply and demand of labor.
+Complementing products in clusters benefit production since they do increase the
+possibilities available to the customers. For instance, Mercedes manufacturing in
+Stuttgart is complemented by AMG, which enhances the standard cars (Daimler AG).
+
+Local rivalry between Daimler and Porsche benefits the development of more efficient
+luxury vehicles such as the new electronic engines for Porsche or hybrid Mercedes S
+400. It drives both companies to innovate more rapidly and produce products that better
+meet customer needs. The local infrastructure corresponds to the needs of the
+companies and employees. For example the city of Sindelfingen re-planned roads so
+Daimler can build a new R&D center, bus timetables and traffic lights are adjusted to
+when manufacturing shifts begin and end.
+
+
+4   Conclusion
+
+This Seminar Paper has shown that clustering benefits cities, regions, and the overall
+economy and ultimately fosters growth. Clusters benefit production by saving costs and
+time, by making available resources in proximity and by providing an adequate
+infrastructure. It fosters innovation by creating knowledge-spillovers, enabling access to
+financial capital for investments, and enhancing the creation of start-ups. Furthermore,
+demanding customers of the cluster can help to enhance certain trends.
+
+In order to answer the question about the role of the German automotive cluster with
+respect to innovation and production, the most likely scenario is that production fosters
+innovation and vice-versa. When evidence of clusters can be found, it indicates higher
+productivity, but the exact impact of production is difficult to measure. However, the
+location advantage of production is not solely determined by productivity. The highly
+specialized parts, in which extensive knowledge is required, are likely to be sustained
+and kept in Germany.
+
+It can be said that in the future, innovation will continue to play a major role in the
+German automotive industry cluster and that this trend is more evident than the future
+of the production location. It is very likely that especially the production of the more
+expensive models will be kept in Germany in order sustain a high-profile image of
+certain OEMs. It can be concluded that scientific research strongly indicates several
+benefits of clustering for productivity.
+
+The only main disadvantages of the Stuttgart cluster and the German automotive
+location as a whole are high costs for labor, manufacturing and taxes. The main
+advantages are the availability of high quality specialized workers and the presence of
+research competence, innovation and technological advance. Furthermore, the
+availability of specialized production inputs and equipment, high-skilled suppliers with
+close cooperation represents a main advantage. Another advantage is the presence of
+infrastructure, political and social stability, institutional certainty and property rights.
+
+Whether production will remain in Germany primarily depends on the ability to
+compensate high wages with high productivity. Recent developments have been
+beneficial in that respect: From 2000 to 2008, productivity gains in the German
+automobile industry have outpaced real wage rises (Economist, 2010, p. 6). If (BBC,
+2010) this development continues in the future, Germany as a location for production
+and innovation will be able to compete against advantages of low-cost countries.
+                                                           

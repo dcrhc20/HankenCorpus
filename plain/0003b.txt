@@ -1,0 +1,46 @@
+Logistics strategies for global businesses: Postponement under demand uncertainty
+
+Introduction
+
+World trade has steadily increased since the 1960’s, as chart 1 shows. This is due to the expansion of new markets and World Trade Organization’s (WTO) liberalization of international trade (Christopher 2005:209). These together with globalization and developments in information technology have affected business operations in many ways. Companies source their materials and components from several countries, assembly and manufacturing are located in multiple locations, and in the end products are marketed all over the world. Companies having these kinds of business operations are called global businesses (Christopher 2005:208).  These types of complex networks of different actors require efficient coordination of various flows. Competition among these businesses is fierce and margins are realized through low cost structure; that is economies of scale. But at the same time customer expectations increase and different market have their own specific needs. Companies need to find the optimal proportions of each, to best serve these demanding markets. The centralization vs. localization of production has a significant effect on companies’ profit margins. A strategy that companies may use is the strategy of postponement; that is to delay the final product customization as close to the end customer as possible (Mangan et al. 2008: 352). The aim of this paper is to examine how global businesses are using postponement decisions, so that they minimize costs but maximize customer service.
+
+[Graph]
+In recent years, the export of goods has decreased due to the global economic crisis (indicated in chart 1). The decrease was according to WTO 12 % in 2009 (WTO 2009). WTO state that the falling demand was caused mainly by the declined consumption and investments of households but also firms. As the demand went down, companies needed to respond quickly to this change in the market, so that inventories would not be piled up and profit margins lost. Postponing final decisions about customization of products is an attracting opportunity for companies struggling with unknown demand. The more specific aim of this study is to examine if companies are now, after 2008, and overall during economic recessions more willing to use the postponement strategy than during seasons with stable demand. 
+DeRoulet (1992:40) pointed out that going global in business increases the lead times of products and decisions cannot be changed quickly. Effective communication among supply chains members across time zones and language barriers is critical to achieve the wished financial benefits (deRoulet 1992:40). The strategy of postponement enables companies to cope with these long lead-times and unpredictable demands (Christopher 2005:120).  The final value-adding activities are ideally delayed until the final customer order is received – this customization is done at the decoupling point (Mangan et al. 2008:43). If different products are designed based on similar components, less intermediate products are required, which means less stock. This gives the manufacturer more flexibility to meet demand and also simplicity to manufacturing operations (Mangan et al. 2008:100). Hewlett Packard’s DeskJet printers are an example of this type of delayed product differentiation (Christopher 2005:135). By delaying the decision to the decoupling point companies shift the risk of owning goods from one supply chain actor to another (Grant et al. 2006:14). Another example is when customers postpone ownership, by buying products from a retailers stock rather than ordering them directly from the manufacturer. Postponement is therefore an attractive opportunity for companies especially under uncertain market conditions. Previous research has not examined how companies react during seasons with unpredictable demand, as after 2008 crisis. It is therefore timely to review how the use of postponement in international production processes has reacted to the demand uncertainty on the market. 
+The first section of the paper discusses the principle of postponement and its opposite, speculation presented by Bucklin. The generic supply chain strategy model by Christopher et al. (2005) will as well be discussed. The second section presents shortly my data and methodology. That is followed by the results section, were the main findings concerning the research question will be offered. Are companies more willing to use the postponement strategy during demand uncertainty? The concluding section discusses if the crisis affected production strategies in the long-term and what will the future of postponement look like. 
+
+Background
+The principle of postponement
+Traditionally manufacturers sent infrequent bulk orders to retailers, forcing them to take the risk to hold inventory. To minimize the risk, retailers started to require smaller and more frequent replenishments from manufacturers. These orders were based on real-time information gathered in information systems, this concept known as “lean retailing” was pioneered by Wal-Mart (Abernathy 1999). As agility became a critical success factor for retailers, meanwhile manufacturers struggled with the problems of offshore production. The benefits gained in cost effectiveness (lower production costs) were hard to be retained as retailers demand needed to be met on time. This cost/agility trade-off has forced companies to use both domestic and global sourcing (Jin 2004:1292). 
+	- Present here Bucklin’s postponement and speculation.  Be agile and cost-effective. Jin’s ideal balance between local vs. global sourcing
+
+Companies have traditionally chosen between two generic supply chain strategies depending on the market they act on. An agile supply chain is able to respond in short timeframes to volume and variety changes (Christopher 2005:117). Output is managed effectively to match market demand, whatever it is. On the other end of the spectrum is the lean supply chain. Originating from the Japanese automobile industry, lean supply chains seek to eliminate all waste and move towards a ‘just-in-time’ environment (Christopher 2005:117). This maximization of the use of resources suits well for markets with predictable demand and standard products. In reality, the demand pattern is not as simple. Different products have varying demand patterns and a “one size fits all” approach cannot be applied when selecting supply chain strategies (Christopher 2005: 119). Christopher et al. (2006) present the framework of generic supply chain strategies. 
+Continue to present a taxonomy for selecting global supply chain strategies 
+- Generic Supply chain model  (When to choose?)
+-four types of postponement (Purchasing, manufacturing, logistics and time)(price, time, production, form) Kristianto
+
+[Graph]
+United Colours of Benetton and apparel industry
+Case company presentation: Benetton and the apparel industry characteristics
+- How they operate, idea behind “graygarment”
+- Characteristics of the market
+
+Method
+- Literature review (how done?)
+- Studied what literature said about uncertain market conditions and postponement
+- Studied whether Benetton production process has changed due to the unstable demand, especially after 2008
+http://investors.benettongroup.com/phoenix.zhtml?c=114079&p=irol-irhome
+
+Results
+- According to the literature how does economic crisis/changes in demand affect choice of postponement (and global vs local sourcing)?
+- What did I find out on the company webpage and articles (Benetton)
+- Have there been any changes since 2008
+- Only concrete results
+
+Discussion
+- How does unstable demand affect the company’s willingness to choose postponement?
+- More discussion about whether there is a difference or not, too short-sighted view?
+
+Conclusion
+- Can this be a pattern? Future?
+- Limitations of study?

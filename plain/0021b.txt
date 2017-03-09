@@ -1,0 +1,73 @@
+Firm performance and quality of corporate governance reporting 
+1 Introduction
+
+Research of corporate governance has risen after fraud scandals like Enron and during the financial crisis. One of the main questions behind of the research has been: “Does corporate governance increase protection of the owners of the company?” (reference to research done lately). There has been many different aspects which researches have been concentrated: the impact of the shareholders to firm’s performance (Keinonen, H. 2009, and some other examples), difference of shareholder protection between different countries (reference to research), and overall quality of corporate governance reporting (PwC 2009, 2010, and 2011).
+
+Corporate governance is the tool to protect the shareholders. The agency theory, the main theory of corporate governance, suggests that owners of the company hires management to take care of their owning, i.e. to increase the value of the company. (Shleifer, A. & Vishny, R. 1997; La Porta, R., Lopez-de-Silanes, F., Shleifer, A. and Vishny, R. 1999) One way the owners of the company can evaluate the work managers do, is the different reports which tells about the performance, but also how the company is governed, how management has been compensated, and how risks have been managed. 
+
+The theory claims that managers have an intensive to misuse their position in the firm, so they might waste money trusted on them. (Shleifer, A. & Vishny, R. 1997; La Porta, R., Lopez-de-Silanes, F., Shleifer, A. and Vishny, R. 1999). If so, it would affect to the firm’s performance and in that case managers might not be willing publish the best possible corporate governance reports in order to save their own position and hide the misuse of equity they have done. 
+
+If the performance of the company does affect to the quality of the corporate governance reporting in real life, or not, has not been researched widely. The purpose of this term paper is to research if firm performance has an impact to the quality of corporate governance report quality in listed companies in Finland. 
+
+To give a theoretical background to the reader, this paper begins with a short review of corporate governance theory and the central research done on the field. The research part includes analyzing PriceWaterhouseCoopers’ research about corporate governance reporting quality in Finnish listed firms in years 2008, 2009, and 2010, and comparing these results to annual reports of these firms collected by FactSet. This paper will broaden the understanding of corporate governance reporting quality by showing if firm performance has an impact to the quality or not. If it does, the result strengthens the corporate governance reporting’s position as an important tool for the shareholders to monitor the work of the managers. 
+
+This term paper is divided to five parts. After this introduction a brief review of relevant theories and previous research will be made. In third part ther research method, data and main results are presented. The last chapter, conclusions, will end this paper. 
+
+2  Theoretical framework
+
+In this chapter the first part concentrates to the main problems in separation of ownership and control. The second part will present reasons why corporate governance reporting can be seen as a important tool for shareholders to monitor management. The last part is a brief review of previous research on the field in question. 
+2.1 Corporate governance
+Corporate governance has many different definitions. Adam Smith (1776) can be seen the first who stated it to deal with the separation of ownership and control, also cited to agency theory. From sepration of ownership and control point of view corporate governance can be seen dealing with “the ways which suppliers of finance to corporations assure themselves of getting a return on their investment” (Shleifer, A. & Vishny, R. 1997) or “mechanisms through which outside investors protect themselves agains expropriation by the insiders” (La Porta, R. & all, 1999). 
+
+Two broad principles are accepted widely to deal with these issues, duty of care and duty of loyalty. Duty of care refers to responsibilities of corporate managers, whom need to act as a reasonable, prudent or rational person would act in that same position. This principle is known also as the business judgment rule. The duty of loyalty requires that insiders of corporation do not profit at the expense of shareholders or of the corporation itself, as the case may be, depending on whom they legally owe loyalty to.
+
+If there is a great risk to managerial expropriation of invested funds, why to have a managers in first place? The financiers need the manager's specialized human capital to generate returns on their funds. So why to give any control rights to manager then? In case of decision making, it would be extremely time consuming if every time, the financers should decide together what to do and on the other hand the financers might not be qualified or informed enough to do the decision and that’s the reason they needed the manager in first place. With significant control rights how to allocate investors' funds makes possible manager to expropriate this money in numerous ways: pyramid schemes, transfer pricing, perquisites, expanding the firm beyond that is rational, reinvesting the free cash flows, pursuing pet projects, resisting take-over actions, entrenching themselves and staying on the job even if they are no longer competent of qualified to run the firm.
+
+Corporate governance deals with how to reduce this kind of ex post misallocation. One way is the contract signed between financiers and management. A contract specifies what manager does with the invested funds, and how the returns of this investment are divided between him and the financiers. Complete contracts are technologically infeasible, as all possible situations are impossible to write down. When contracts are incomplete and mangers possess more expertise than shareholders, managers typically end up with the residual rights of control, giving them enormous latitude for self-interested behavior. This might result in managers taking highly inefficient actions, like mentioned in last paragraph, which cost investors far more than the personal benefits to managers. One solution to this kind of situation is to grant a manager an incentive contract ex ante to align his interests with those of investors, like share ownership, stock options or threat of dismissal if returns are too low (Jensen & Meckling 1976).
+2.2 Protection of minority shareholders 
+The individual shareholders have less protection from expropriation than other stakeholders like employees, who get paid almost immediately for their efforts. The shareholders have no claim to specific assets of the firm and have no right to pull the collateral either like creditors has. The shareholders may never get anything back at all. The principal reason that investors provide external financing to firms is that they receive control rights in exchange. The most important legal right shareholders have is the right to vote on important corporate matters. 
+
+Like stated in the beginning of this chapter, one way to see corporate governance is that corporate governance is a set of mechanisms through which outside investors protect themselves against expropriation by the insiders. According to La Porta et all (1999) the legal protection of investors is a useful way of thinking about corporate governance. Strong investor protection is associated with effective corporate governance, valuable and broad financial markets, dispersed ownership of shares and efficient allocation of capital across firms.
+
+La Porta et all (1999) concludes that legal protection makes the expropriation technology less efficient. When investor protection is very good and investor rights such as the voting rights of the shareholders, disclosure and accounting rules, right to sue directors or the majority for suspected expropriation, and the reorganization and liquidation rights of the creditors are extensive and well enforced by regulators or courts, investors are willing to finance firms. Then the most the insiders can do is overpay themselves, put relatives in management and undertake some wasteful projects. And after a point, it may be better just to pay dividends. 
+
+WORK WITH TEXT BELOW, FACTS ARE FROM ARTICLE La Porta, R., Lopez-de-Silanes, F., Shleifer, A., Vishny, R. W., 2000. Investor protection and corporate governance. Journal of Financial Economics 58, 3-27.:
+
+Law may seek to regulate the approval process and require a review by independent third parties. These practices might work because, when problematic deals are publicly disclosed, they are criticized in the press or stimulate the activism of large outside shareholders. Cash flow ownership by an entrepreneur reduces incentives for expropriation and raises incentives to pay out dividends. Need for higher cash flow ownership as a commitment to limit expropriation is higher in countries with inferior shareholder protection.
+
+The ease with which shareholders can prove wrongdoing depends on disclosure requirements in annual reports and periodic filings may facilitate the scrunity of related-party transactions by outside shareholders. Plaintiffs are more likely to prevail if access to evidence is extensive. 
+
+Disclosure requirements are more stringent and it is easier for plaintiffs to prove wrongdoing in court in common law countries than in civil ones. Legal families also differ in the burden of proof for rescinding the transaction as well as for holding liable controlling shareholders and directors.
+
+The law may deter wrongdoing by sanctioning the controlling shareholder and those who approved the transaction with fines and prison terms. Prison terms for those who approve the transaction are more severe in civil law countries than in common law. Public enforcement shows no variation across legal origins. 
+
+Enforcement of laws is as crucial as their contents. Enforcing is done by in part by market regulators, in part by courts and in part by market participants themselves. When the enforcement of private contracts through the court system is costly enough, other forms of protecting property rights, such as judicially-enforced laws or even government-enforced regulations, may be more efficient. The quality of enforcement is higher in richer countries. Scandinavian and German legal origin countries receive the best scores on the efficiency of the judiciary. The French have the worst. 
+
+How well legal rules protect outside investors varies systematically across legal origins. Common law countries have the strongest protection both shareholders and creditors. French civil law countries have the weakest protection. German civil law and Scandinavian countries fall in between, although comparatively speaking they have stronger protection of creditors. 
+
+The judicial explanation of why common law protects investors better than civil law can be found from the principles of duty and fairness. Judges in common law countries are expected to rule on new situations by applying these general principles. Expansion of legal precedents to additional violations of fiduciary duty, and the fear of such expansion, limit the expropriation by the insiders in common law countries. Laws in civil law systems are made by legislatures, a corporate insider who finds a way not explicitly forbidden by the statutes to expropriate outside investors can proceed without fear of an adverse judicial ruling.  
+
+There is little evidence that investor protection varies by income level, but ex-post private control of self-dealing is highest in rich countries and the strength of public enforcement is the lowest in poor countries. 
+
+The regulation of self-dealing varies across legal origins and is associated with more developed securities markets. Effective tax enforcement can prevent some self-dealing transactions. Tax evasion is significant for stock market capitalization and domestic firms per capita. Countries with successful stock markets mandate that shareholders receive the information they need and the power to act – including both voting and litigation – on this information. There is no evidence that these countries rely heavily on fines and criminal sanctions. 
+
+Investor protection influences the real economy. Firms in countries with better shareholder protection have higher Tobin's Q and higher insider cash flow ownership is associated with higher corporate valuation. (Djankov & all 2008)
+
+
+2.3 Previous research briefly
+
+
+
+3 Empirical research and results
+What is it about in this chapter?
+
+3.1 Methodology and the data
+Tell briefly about research methodology and describe the data.
+  
+3.2 Main results
+The main results of the results.
+
+4 Conclusion
+Conclusions of main findings and recommendations for future research.
+ 
+
