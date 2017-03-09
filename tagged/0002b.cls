@@ -2,7 +2,10 @@
 1_MC1 ._. 
 </s>
 <s>
-Introduction_NN1 For_IF many_DA2 enterprises_NN2 internationalization_NN1 can_VM be_VBI an_AT1 attractive_JJ way_NN1 to_TO seek_VVI new_JJ markets_NN2 ,_, expand_VV0 operations_NN2 ,_, and_CC eventually_RR maintain_VV0 greater_JJR incomes_NN2 ._. 
+Introduction_NN1 
+</s>
+<s>
+For_IF many_DA2 enterprises_NN2 internationalization_NN1 can_VM be_VBI an_AT1 attractive_JJ way_NN1 to_TO seek_VVI new_JJ markets_NN2 ,_, expand_VV0 operations_NN2 ,_, and_CC eventually_RR maintain_VV0 greater_JJR incomes_NN2 ._. 
 </s>
 <s>
 Mergers_NN2 and_CC acquisitions_NN2 are_VBR a_AT1 fast_JJ way_NN1 for_IF companies_NN2 to_TO grow_VVI and_CC expand_VVI their_APPGE functions_NN2 abroad_RL ._. 
