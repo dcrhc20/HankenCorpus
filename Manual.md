@@ -1,5 +1,7 @@
 # Manual to the Hanken Corpus of Academic Written English for Economics
 
+The folders *Plain* and *Tagged* contain the two flavours of the corpus: the plain text version and the CLAWS5-tagged version.
+
 ## Citing the Hanken Corpus
 
 	@Misc{HankenCorpus,
