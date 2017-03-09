@@ -2,12 +2,12 @@
 
 ## Citing the Hanken Corpus
 
-	@Misc{hankenCorpusCorpus,
-  	title  = "Hanken Corpus of Academic Written English for 	Economics 0.9",
-	  author = "Martti Mäkinen and Turo Hiltunen",
-  	year   = "2017",
-	  url    = "https://github.com/dcrhc20/HankenCorpus" 
-  	}
+	@Misc{HankenCorpus,
+	title  = "Hanken Corpus of Academic Written English for Economics 0.9",
+	author = "Martti Mäkinen and Turo Hiltunen",
+	year   = "2017",
+	url    = "https://github.com/dcrhc20/HankenCorpus" 
+	}
 
 ## References
 
